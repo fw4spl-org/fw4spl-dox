@@ -1,0 +1,4 @@
+[submodule "fw4spl_0.10.1"]
+	path = fw4spl_0.10.1
+	url = https://github.com/fw4spl-org/fw4spl-dox.git
+	branch = fw4spl_0.10.1-dox
