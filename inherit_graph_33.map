@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$structEvent.html" title="Event" alt="" coords="5,5,64,35"/>
+<area shape="rect" id="node3" href="$structKeyEvent.html" title="KeyEvent" alt="" coords="112,5,192,35"/>
+</map>

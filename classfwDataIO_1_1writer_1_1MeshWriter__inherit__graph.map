@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::GenericObjectWriter\&lt; ::fwData::Mesh \&gt;" alt="" coords="879,5,1257,35"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers." alt="" coords="579,5,789,35"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,5,531,35"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node10" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enableSingleFile\&lt; ::fwDataIO::writer::IObjectWriter \&gt;" alt="" coords="839,59,1297,88"/>
+</map>

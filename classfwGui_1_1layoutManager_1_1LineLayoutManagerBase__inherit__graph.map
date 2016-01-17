@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$classfwGui_1_1LineLayoutManager.html" title="Defines the line layout manager." alt="" coords="76,392,265,421"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM." alt="" coords="21,237,320,267"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes." alt="" coords="92,160,249,189"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="97,83,244,112"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+</map>

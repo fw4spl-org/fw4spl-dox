@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classfwAtoms_1_1Blob.html" title="Representation of a buffer." alt="" coords="763,5,875,35"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1Boolean.html" title="Represented a Boolean value." alt="" coords="751,59,887,88"/>
+<area shape="rect" id="node11" href="$classfwAtoms_1_1Map.html" title="Map is a container for mapping representation." alt="" coords="763,112,875,141"/>
+<area shape="rect" id="node13" href="$classfwAtoms_1_1Numeric.html" title="Storing a numeric value." alt="" coords="749,165,888,195"/>
+<area shape="rect" id="node15" href="$classfwAtoms_1_1Object.html" title="Class represented a fwData::Object." alt="" coords="756,219,881,248"/>
+<area shape="rect" id="node17" href="$classfwAtoms_1_1Sequence.html" title="Sequence represented a list of meta object." alt="" coords="744,272,893,301"/>
+<area shape="rect" id="node19" href="$classfwAtoms_1_1String.html" title="Class represented a String." alt="" coords="757,325,880,355"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,165,531,195"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,165,336,195"/>
+</map>

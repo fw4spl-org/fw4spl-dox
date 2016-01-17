@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$IMenuBarBuilder_8hpp_source.html" title="fwGui/builder/IMenuBarBuilder.hpp" alt="" coords="2893,83,3131,112"/>
+<area shape="rect" id="node7" href="$ConfigurationElement_8hpp_source.html" title="fwRuntime/ConfigurationElement.hpp" alt="" coords="599,237,855,267"/>
+<area shape="rect" id="node95" href="$GuiBaseObject_8hpp_source.html" title="fwGui/GuiBaseObject.hpp" alt="" coords="2847,237,3028,267"/>
+<area shape="rect" id="node127" href="$fwMenuBar_8hpp_source.html" title="fwGui/container/fwMenuBar.hpp" alt="" coords="3149,160,3371,189"/>
+<area shape="rect" id="node131" href="$fwContainer_8hpp_source.html" title="fwGui/container/fwContainer.hpp" alt="" coords="2899,160,3125,189"/>
+<area shape="rect" id="node19" href="$fwCore_2include_2fwCore_2base_8hpp.html" title="This file includes the minimal tools to work with FW4SPL." alt="" coords="1199,315,1327,344"/>
+<area shape="rect" id="node80" href="$ConfigurationElementContainer_8hpp_source.html" title="fwRuntime/ConfigurationElementContainer.hpp" alt="" coords="33,392,351,421"/>
+<area shape="rect" id="node88" href="$RuntimeException_8hpp_source.html" title="fwRuntime/RuntimeException.hpp" alt="" coords="425,392,657,421"/>
+<area shape="rect" id="node21" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="1401,392,1572,421"/>
+<area shape="rect" id="node24" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros." alt="" coords="2860,469,3004,499"/>
+<area shape="rect" id="node69" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="1073,469,1215,499"/>
+<area shape="rect" id="node71" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="919,392,1124,421"/>
+<area shape="rect" id="node73" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="841,469,999,499"/>
+<area shape="rect" id="node99" href="$core_2fwGui_2include_2fwGui_2factory_2new_8hpp_source.html" title="fwGui/factory/new.hpp" alt="" coords="2860,315,3020,344"/>
+<area shape="rect" id="node114" href="$core_2fwGui_2include_2fwGui_2registry_2detail_8hpp_source.html" title="fwGui/registry/detail.hpp" alt="" coords="2612,392,2785,421"/>
+<area shape="rect" id="node104" href="$core_2fwTools_2include_2fwTools_2macros_8hpp.html" title="TODO." alt="" coords="3175,469,3321,499"/>
+<area shape="rect" id="node118" href="$FactoryRegistry_8hpp_source.html" title="fwCore/util/FactoryRegistry.hpp" alt="" coords="604,469,817,499"/>
+</map>

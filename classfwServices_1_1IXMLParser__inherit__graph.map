@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node17" href="$classfwComEd_1_1parser_1_1Composite.html" title="Specific service for the construction of a Composite and its associated services from an XML&#45;based de..." alt="" coords="1224,32,1429,61"/>
+<area shape="rect" id="node19" href="$classfwComEd_1_1parser_1_1GenericField.html" title="Specific service for the construction of a GenericField and its associated services from an XML&#45;based..." alt="" coords="1220,85,1433,115"/>
+<area shape="rect" id="node29" href="$classfwComEd_1_1parser_1_1List.html" title="Specific service for the construction of a List and its associated services from an XML&#45;based descrip..." alt="" coords="1247,139,1407,168"/>
+<area shape="rect" id="node31" href="$classfwComEd_1_1parser_1_1Object.html" title="Specific fwTools::Object parser. Does nothing as no IService method is specialized: IXMLParser base c..." alt="" coords="1237,192,1416,221"/>
+<area shape="rect" id="node33" href="$classfwComEd_1_1parser_1_1TransferFunction.html" title="Specific service for the construction of a TransferFunction and its associated services from an XML&#45;b..." alt="" coords="1207,245,1447,275"/>
+<area shape="rect" id="node35" href="$classfwComEd_1_1parser_1_1TransformationMatrix3D.html" title="Specific service for the construction of a TransformationMatrix3D and its associated services from an..." alt="" coords="1181,299,1472,328"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services." alt="" coords="771,165,917,195"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="593,112,708,141"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,85,531,115"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,85,336,115"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="408,139,507,168"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="585,165,716,195"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="579,219,723,248"/>
+<area shape="rect" id="node21" href="$classfwComEd_1_1parser_1_1BooleanParser.html" title="Specialisation of GenericField parser for boolean." alt="" coords="1521,5,1751,35"/>
+<area shape="rect" id="node23" href="$classfwComEd_1_1parser_1_1FloatParser.html" title="Specialisation of GenericField parser for float." alt="" coords="1532,59,1740,88"/>
+<area shape="rect" id="node25" href="$classfwComEd_1_1parser_1_1IntegerParser.html" title="Specialisation of GenericField parser for integer." alt="" coords="1525,112,1747,141"/>
+<area shape="rect" id="node27" href="$classfwComEd_1_1parser_1_1StringParser.html" title="Specialisation of GenericField parser for string." alt="" coords="1528,165,1744,195"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1dl_1_1NameDecorator.html" title="Implements a default name decorator. This class is intended to be overriden to do plateform specific ..." alt="" coords="24,83,240,112"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1dl_1_1INameDecorator.html" title="Defines the interface of library name decorators." alt="" coords="23,5,241,35"/>
+</map>

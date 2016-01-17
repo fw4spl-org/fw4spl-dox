@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html" title="Base class for each data object." alt="" coords="2515,271,2629,300"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="2016,89,2131,119"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="405,41,552,71"/>
+<area shape="rect" id="node35" href="$structfwCom_1_1SignalBase.html" title="Signal base class." alt="" coords="621,165,765,195"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,41,336,71"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="1408,52,1507,81"/>
+<area shape="rect" id="node15" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\&lt; ::fwData::Object \&gt;" alt="" coords="1912,489,2235,519"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="1345,480,1569,509"/>
+<area shape="rect" id="node21" href="$classAttrNameType.html" title="AttrNameType" alt="" coords="984,507,1096,536"/>
+<area shape="rect" id="node23" href="$classAttrRefType.html" title="AttrRefType" alt="" coords="993,560,1087,589"/>
+<area shape="rect" id="node25" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="2001,279,2145,308"/>
+<area shape="rect" id="node27" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="1399,279,1516,308"/>
+<area shape="rect" id="node31" title="STL class." alt="" coords="651,827,736,856"/>
+<area shape="rect" id="node52" href="$classfwTools_1_1Type.html" title="Class describing an elementary C++ type aka unsigned char, signed char, .... int, float..." alt="" coords="2521,959,2623,988"/>
+<area shape="rect" id="node33" title="STL class." alt="" coords="387,827,571,856"/>
+<area shape="rect" id="node54" title="STL class." alt="" coords="2008,816,2139,845"/>
+<area shape="rect" id="node71" title="STL class." alt="" coords="2309,683,2435,712"/>
+<area shape="rect" id="node63" href="$classbool.html" title="bool" alt="" coords="2049,959,2097,988"/>
+</map>

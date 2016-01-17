@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classfwActivities_1_1builder_1_1ActivitySeries.html" title="Defines the default builder for the data ActivitySeries." alt="" coords="52,237,289,267"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="97,83,244,112"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node9" href="$classfwActivities_1_1builder_1_1ActivitySeriesInitData.html" title="Defines an activity builder which instanciates a new requirement if minOccurs and maxOccurs are set t..." alt="" coords="28,315,313,344"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classscene2D_1_1adaptor_1_1IAdaptor.html" title="Root class for all scene2D adaptors." alt="" coords="3244,544,3441,573"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services." alt="" coords="2915,471,3061,500"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="2604,316,2719,345"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,511,533,540"/>
+<area shape="rect" id="node23" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations." alt="" coords="1543,673,1673,703"/>
+<area shape="rect" id="node36" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose." alt="" coords="584,621,787,651"/>
+<area shape="rect" id="node47" href="$structfwCom_1_1SignalBase.html" title="Signal base class." alt="" coords="811,448,955,477"/>
+<area shape="rect" id="node10" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,511,336,540"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="2297,155,2396,184"/>
+<area shape="rect" id="node17" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="2596,747,2727,776"/>
+<area shape="rect" id="node19" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="2295,720,2399,749"/>
+<area shape="rect" id="node26" href="$classint.html" title="int" alt="" coords="1100,784,1137,813"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="1076,523,1161,552"/>
+<area shape="rect" id="node30" title="STL class." alt="" coords="593,523,777,552"/>
+<area shape="rect" id="node40" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="2424,677,2568,707"/>
+<area shape="rect" id="node42" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="1972,525,2089,555"/>
+<area shape="rect" id="node61" href="$classfloat.html" title="float" alt="" coords="2963,417,3013,447"/>
+<area shape="rect" id="node68" href="$classscene2D_1_1data_1_1Coord.html" title="scene2D::data::Coord" alt="" coords="3263,904,3423,933"/>
+<area shape="rect" id="node73" href="$classbool.html" title="bool" alt="" coords="3319,1037,3367,1067"/>
+</map>

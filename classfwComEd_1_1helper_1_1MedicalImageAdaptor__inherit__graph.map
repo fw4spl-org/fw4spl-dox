@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptorTpl.html" title="fwComEd::helper::MedicalImageAdaptorTpl\&lt; IMAGEID \&gt;" alt="" coords="331,5,709,35"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1Negato.html" title="scene2D::adaptor::Negato" alt="" coords="425,59,615,88"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1TransferFunction.html" title="scene2D::adaptor::TransferFunction" alt="" coords="397,112,643,141"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1SliceIndexPositionEditor.html" title="SliceIndexPositionEditor service allows to change the slice index of an image." alt="" coords="404,165,636,195"/>
+<area shape="rect" id="node11" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing." alt="" coords="440,219,600,248"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1Image.html" title="Render an image on the generic scene." alt="" coords="435,272,605,301"/>
+<area shape="rect" id="node15" href="$classvisuVTKAdaptor_1_1Image3DCursor.html" title="Add a 3D spatial marker represented by a sphere." alt="" coords="405,325,635,355"/>
+<area shape="rect" id="node17" href="$classvisuVTKAdaptor_1_1ImagePickerInteractor.html" title="Adaptor to manage image picking." alt="" coords="385,379,655,408"/>
+<area shape="rect" id="node19" href="$classvisuVTKAdaptor_1_1ImageSeries.html" title="This adaptor shows ImageSeries. Creates an adaptor for the image in the series." alt="" coords="415,432,625,461"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1ImageSlice.html" title="Adaptor to display only one slice of an image." alt="" coords="420,485,620,515"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1ImageSliceOrientationText.html" title="Shows image orientation information (right, left, ...) This adaptor show locations labels in the four..." alt="" coords="372,539,668,568"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1ImagesProbeCursor.html" title="Draw pixel information from images given by id in composite." alt="" coords="392,592,648,621"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1ImageText.html" title="Adaptor to display window image information (width, heigth, picked position)" alt="" coords="423,645,617,675"/>
+<area shape="rect" id="node29" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html" title="Update camera scene according to defined axes (axial, sagittal, frontal)." alt="" coords="397,699,643,728"/>
+<area shape="rect" id="node31" href="$classvisuVTKAdaptor_1_1NegatoMPR.html" title="visuVTKAdaptor::NegatoMPR" alt="" coords="419,752,621,781"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1NegatoOneSlice.html" title="visuVTKAdaptor::NegatoOneSlice" alt="" coords="404,805,636,835"/>
+<area shape="rect" id="node35" href="$classvisuVTKAdaptor_1_1NegatoSlicingInteractor.html" title="visuVTKAdaptor::NegatoSlicingInteractor" alt="" coords="380,859,660,888"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1NegatoWindowingInteractor.html" title="visuVTKAdaptor::NegatoWindowingInteractor" alt="" coords="368,912,672,941"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1PlaneInteractor.html" title="visuVTKAdaptor::PlaneInteractor" alt="" coords="407,965,633,995"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ProbeCursor.html" title="Cursor management." alt="" coords="416,1019,624,1048"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1SliceFollowerCamera.html" title="Update the camera according to slice move." alt="" coords="389,1072,651,1101"/>
+<area shape="rect" id="node45" href="$classvisuVTKAdaptor_1_1SlicesCursor.html" title="visuVTKAdaptor::SlicesCursor" alt="" coords="416,1125,624,1155"/>
+<area shape="rect" id="node47" href="$classvisuVTKVRAdaptor_1_1Volume.html" title="visuVTKVRAdaptor::Volume" alt="" coords="423,1179,617,1208"/>
+</map>

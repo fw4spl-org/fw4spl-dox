@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$IGuiContainerSrv_8hpp_source.html" title="IGuiContainerSrv.hpp" alt="" coords="4365,83,4520,112"/>
+<area shape="rect" id="node75" href="$CardinalLayoutManagerBase_8hpp.html" title="This file defines the interface class for managing a cardinal layout geometry." alt="" coords="5101,83,5333,112"/>
+<area shape="rect" id="node81" href="$LineLayoutManagerBase_8hpp.html" title="This file defines the interface of the class for managing a line layout geometry." alt="" coords="5545,83,5751,112"/>
+<area shape="rect" id="node87" href="$TabLayoutManagerBase_8hpp.html" title="This file defines the interface of the class for managing a tab layout geometry." alt="" coords="5775,83,5977,112"/>
+<area shape="rect" id="node93" href="$ToolboxLayoutManagerBase_8hpp.html" title="This file defines the interface of the class for managing a line layout geometry." alt="" coords="6096,83,6323,112"/>
+<area shape="rect" id="node99" href="$IViewLayoutManager_8cpp.html" title="This file defines the implementation of the base class for managing a layout geometry." alt="" coords="6347,83,6525,112"/>
+<area shape="rect" id="node5" href="$IDialogEditor_8hpp_source.html" title="IDialogEditor.hpp" alt="" coords="175,160,303,189"/>
+<area shape="rect" id="node11" href="$IEditor_8hpp_source.html" title="IEditor.hpp" alt="" coords="2177,160,2265,189"/>
+<area shape="rect" id="node59" href="$IView_8hpp_source.html" title="IView.hpp" alt="" coords="4243,160,4323,189"/>
+<area shape="rect" id="node67" href="$ModifyLayoutActionSrv_8cpp_source.html" title="ModifyLayoutActionSrv.cpp" alt="" coords="4347,160,4539,189"/>
+<area shape="rect" id="node69" href="$IGuiContainerSrv_8cpp_source.html" title="IGuiContainerSrv.cpp" alt="" coords="4563,160,4717,189"/>
+<area shape="rect" id="node71" href="$IRender_8hpp_source.html" title="IRender.hpp" alt="" coords="4741,160,4837,189"/>
+<area shape="rect" id="node7" href="$IDialogEditor_8cpp_source.html" title="IDialogEditor.cpp" alt="" coords="5,237,133,267"/>
+<area shape="rect" id="node9" href="$IOSelectorService_8hpp_source.html" title="IOSelectorService.hpp" alt="" coords="157,237,320,267"/>
+<area shape="rect" id="node13" href="$IEditor_8cpp_source.html" title="IEditor.cpp" alt="" coords="344,237,432,267"/>
+<area shape="rect" id="node15" href="$Code_8hpp_source.html" title="Code.hpp" alt="" coords="456,237,539,267"/>
+<area shape="rect" id="node17" href="$DummyEditor_8hpp_source.html" title="DummyEditor.hpp" alt="" coords="563,237,699,267"/>
+<area shape="rect" id="node19" href="$DumpEditor_8hpp_source.html" title="DumpEditor.hpp" alt="" coords="723,237,848,267"/>
+<area shape="rect" id="node21" href="$ImageInfo_8hpp_source.html" title="ImageInfo.hpp" alt="" coords="872,237,984,267"/>
+<area shape="rect" id="node23" href="$ImageTransparency_8hpp_source.html" title="ImageTransparency.hpp" alt="" coords="1008,237,1179,267"/>
+<area shape="rect" id="node25" href="$ShowScanEditor_8hpp_source.html" title="ShowScanEditor.hpp" alt="" coords="1203,237,1355,267"/>
+<area shape="rect" id="node27" href="$SliceIndexPositionEditor_8hpp_source.html" title="SliceIndexPositionEditor.hpp" alt="" coords="1379,237,1579,267"/>
+<area shape="rect" id="node29" href="$SliceListEditor_8hpp_source.html" title="SliceListEditor.hpp" alt="" coords="1603,237,1741,267"/>
+<area shape="rect" id="node31" href="$SliceListEditor2_8hpp_source.html" title="SliceListEditor2.hpp" alt="" coords="1765,237,1912,267"/>
+<area shape="rect" id="node33" href="$WindowLevel_8hpp_source.html" title="WindowLevel.hpp" alt="" coords="1936,237,2067,267"/>
+<area shape="rect" id="node35" href="$LeafUI_2uiMeasurementQt_2include_2uiMeasurementQt_2editor_2Distance_8hpp_source.html" title="Distance.hpp" alt="" coords="2091,237,2197,267"/>
+<area shape="rect" id="node37" href="$SModelSeriesList_8hpp_source.html" title="SModelSeriesList.hpp" alt="" coords="2221,237,2379,267"/>
+<area shape="rect" id="node39" href="$SOrganTransformation_8hpp_source.html" title="SOrganTransformation.hpp" alt="" coords="2403,237,2595,267"/>
+<area shape="rect" id="node41" href="$SSelector_8hpp_source.html" title="SSelector.hpp" alt="" coords="2619,237,2728,267"/>
+<area shape="rect" id="node43" href="$SSeries_8hpp_source.html" title="SSeries.hpp" alt="" coords="2752,237,2851,267"/>
+<area shape="rect" id="node45" href="$OrganMaterialEditor_8hpp_source.html" title="OrganMaterialEditor.hpp" alt="" coords="2875,237,3051,267"/>
+<area shape="rect" id="node47" href="$RepresentationEditor_8hpp_source.html" title="RepresentationEditor.hpp" alt="" coords="3075,237,3256,267"/>
+<area shape="rect" id="node49" href="$TransferFunctionEditor_8hpp_source.html" title="TransferFunctionEditor.hpp" alt="" coords="3280,237,3469,267"/>
+<area shape="rect" id="node51" href="$BasicFloatEditor_8hpp_source.html" title="BasicFloatEditor.hpp" alt="" coords="3493,237,3643,267"/>
+<area shape="rect" id="node53" href="$PointEditor_8hpp_source.html" title="PointEditor.hpp" alt="" coords="3667,237,3784,267"/>
+<area shape="rect" id="node55" href="$SnapshotEditor_8hpp_source.html" title="SnapshotEditor.hpp" alt="" coords="3808,237,3955,267"/>
+<area shape="rect" id="node57" href="$TransformationMatrixEditor_8hpp_source.html" title="TransformationMatrixEditor.hpp" alt="" coords="3979,237,4197,267"/>
+<area shape="rect" id="node61" href="$DefaultView_8hpp_source.html" title="DefaultView.hpp" alt="" coords="4221,237,4344,267"/>
+<area shape="rect" id="node63" href="$IView_8cpp_source.html" title="IView.cpp" alt="" coords="4368,237,4448,267"/>
+<area shape="rect" id="node65" href="$DynamicView_8hpp_source.html" title="DynamicView.hpp" alt="" coords="4472,237,4605,267"/>
+<area shape="rect" id="node73" href="$Render_8hpp_source.html" title="Render.hpp" alt="" coords="4743,237,4836,267"/>
+<area shape="rect" id="node77" href="$CardinalLayoutManagerBase_8cpp.html" title="This file defines the implementation of the class for managing a cardinal layout geometry." alt="" coords="4861,160,5093,189"/>
+<area shape="rect" id="node79" href="$CardinalLayoutManager_8hpp_source.html" title="CardinalLayoutManager.hpp" alt="" coords="5117,160,5317,189"/>
+<area shape="rect" id="node83" href="$LineLayoutManagerBase_8cpp.html" title="This file defines the implementation of the class for managing a line layout geometry." alt="" coords="5341,160,5547,189"/>
+<area shape="rect" id="node85" href="$LineLayoutManager_8hpp_source.html" title="LineLayoutManager.hpp" alt="" coords="5571,160,5744,189"/>
+<area shape="rect" id="node89" href="$TabLayoutManagerBase_8cpp.html" title="This file defines the interface of the class for managing a tab layout geometry." alt="" coords="5768,160,5968,189"/>
+<area shape="rect" id="node91" href="$TabLayoutManager_8hpp_source.html" title="TabLayoutManager.hpp" alt="" coords="5992,160,6160,189"/>
+<area shape="rect" id="node95" href="$ToolboxLayoutManagerBase_8cpp.html" title="This file defines the implementation of the class for managing a line layout geometry." alt="" coords="6184,160,6411,189"/>
+<area shape="rect" id="node97" href="$ToolboxLayoutManager_8hpp_source.html" title="ToolboxLayoutManager.hpp" alt="" coords="6435,160,6629,189"/>
+</map>

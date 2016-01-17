@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structslot__args.html" title="slot_args\&lt; A \&gt;" alt="" coords="5,83,123,112"/>
+<area shape="rect" id="node6" href="$structslot__args.html" title="slot_args\&lt; A...\&gt;" alt="" coords="147,83,272,112"/>
+<area shape="rect" id="node8" href="$structslot__result.html" title="slot_result\&lt; R, A \&gt;" alt="" coords="52,160,193,189"/>
+<area shape="rect" id="node11" href="$structslot__result.html" title="slot_result\&lt; R, A... \&gt;" alt="" coords="217,160,372,189"/>
+<area shape="rect" id="node13" href="$structSlotFunction_3_01R_07A_8_8_8_08_01_4.html" title="SlotFunction\&lt; R(A...) \&gt;" alt="" coords="211,237,379,267"/>
+<area shape="rect" id="node15" href="$structSlotFunction_3_01boost_1_1function_3_01R_07A_8_8_8_08_01_4_01_4.html" title="SlotFunction\&lt; boost::function\&lt; R(A...) \&gt; \&gt;" alt="" coords="148,315,441,344"/>
+</map>

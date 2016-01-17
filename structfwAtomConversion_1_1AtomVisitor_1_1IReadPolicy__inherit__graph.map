@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structfwAtomConversion_1_1AtomVisitor_1_1ChangePolicy.html" title="This policy changes data&#39;s uuid if it already exists." alt="" coords="357,5,675,35"/>
+<area shape="rect" id="node5" href="$structfwAtomConversion_1_1AtomVisitor_1_1ReusePolicy.html" title="This policy reuses the data associated with an existing uuid." alt="" coords="363,59,669,88"/>
+<area shape="rect" id="node7" href="$structfwAtomConversion_1_1AtomVisitor_1_1StrictPolicy.html" title="This policy throws an exception if the loaded uuid is not available." alt="" coords="365,112,667,141"/>
+</map>

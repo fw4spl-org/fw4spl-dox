@@ -1,0 +1,41 @@
+<map id="G" name="G">
+<area shape="rect" id="node17" href="$classfwRender_1_1IRender.html" title="Defines the service interface managing the rendering service for object." alt="" coords="1185,139,1319,168"/>
+<area shape="rect" id="node29" href="$classgui_1_1editor_1_1IEditor.html" title="Defines the service interface managing the editor service for object." alt="" coords="1185,832,1319,861"/>
+<area shape="rect" id="node75" href="$classgui_1_1view_1_1IView.html" title="Defines the service interface managing a view placed in main frame." alt="" coords="1195,1445,1309,1475"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services." alt="" coords="771,832,917,861"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="593,779,708,808"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,752,531,781"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,752,336,781"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="408,805,507,835"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="585,832,716,861"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="579,885,723,915"/>
+<area shape="rect" id="node19" href="$classfwRenderVTK_1_1VtkRenderService.html" title="The generic scene service shows adaptors in a 3D VTK scene." alt="" coords="1401,5,1623,35"/>
+<area shape="rect" id="node21" href="$classscene2D_1_1Render.html" title="Scene2D rendering class." alt="" coords="1447,59,1577,88"/>
+<area shape="rect" id="node23" href="$classvtkCompositeMesh_1_1RendererService.html" title="Renderer service." alt="" coords="1384,112,1640,141"/>
+<area shape="rect" id="node25" href="$classvtkSimpleMesh_1_1RendererService.html" title="Renderer service." alt="" coords="1397,165,1627,195"/>
+<area shape="rect" id="node27" href="$classvtkSimpleNegato_1_1RendererService.html" title="Renderer service." alt="" coords="1391,219,1633,248"/>
+<area shape="rect" id="node31" href="$classgui_1_1editor_1_1DummyEditor.html" title="Defines the service interface managing the basic editor service for object. Do nothing." alt="" coords="1421,272,1603,301"/>
+<area shape="rect" id="node33" href="$classguiQt_1_1editor_1_1Code.html" title="Code Editor working on a fwData::String." alt="" coords="1441,325,1583,355"/>
+<area shape="rect" id="node35" href="$classmonitor_1_1DumpEditor.html" title="Editor to dump or restore selected buffer." alt="" coords="1435,379,1589,408"/>
+<area shape="rect" id="node37" href="$classuiImage_1_1ImageInfo.html" title="ImageInfo service allows to display image pixel information." alt="" coords="1440,432,1584,461"/>
+<area shape="rect" id="node39" href="$classuiImage_1_1ImageTransparency.html" title="ImageTransparency service allows to change image transparency." alt="" coords="1409,485,1615,515"/>
+<area shape="rect" id="node41" href="$classuiImage_1_1ShowScanEditor.html" title="This editor service represent a button to show/hide scan in a generic scene." alt="" coords="1420,539,1604,568"/>
+<area shape="rect" id="node43" href="$classuiImage_1_1SliceIndexPositionEditor.html" title="SliceIndexPositionEditor service allows to change the slice index of an image." alt="" coords="1396,592,1628,621"/>
+<area shape="rect" id="node45" href="$classuiImage_1_1SliceListEditor.html" title="SliceListEditor service allows to change the number of slice to show." alt="" coords="1427,645,1597,675"/>
+<area shape="rect" id="node47" href="$classuiImage_1_1SliceListEditor2.html" title="SliceListEditor2 service allows to change the number of slice to show." alt="" coords="1423,699,1601,728"/>
+<area shape="rect" id="node49" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing." alt="" coords="1432,752,1592,781"/>
+<area shape="rect" id="node51" href="$classuiMeasurement_1_1editor_1_1Distance.html" title="Distance service is represented by a button. It allows to show distances in a generic scene..." alt="" coords="1397,805,1627,835"/>
+<area shape="rect" id="node53" href="$classuiMedData_1_1editor_1_1SModelSeriesList.html" title="SModelSeriesList service." alt="" coords="1385,859,1639,888"/>
+<area shape="rect" id="node55" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html" title="Display the organs list and allow an interactive selection to set the corresponding meshes in a compo..." alt="" coords="1369,912,1655,941"/>
+<area shape="rect" id="node57" href="$classuiMedData_1_1editor_1_1SSelector.html" title="This editor shows information about the medical data. It allows to manipulate (select, erase, ...) studies and series." alt="" coords="1409,965,1615,995"/>
+<area shape="rect" id="node59" href="$classuiMedData_1_1editor_1_1SSeries.html" title="Shows and edit fwMedData::Series information." alt="" coords="1416,1019,1608,1048"/>
+<area shape="rect" id="node61" href="$classuiReconstruction_1_1OrganMaterialEditor.html" title="OrganMaterialEditor service." alt="" coords="1381,1072,1643,1101"/>
+<area shape="rect" id="node63" href="$classuiReconstruction_1_1RepresentationEditor.html" title="RepresentationEditor service." alt="" coords="1379,1125,1645,1155"/>
+<area shape="rect" id="node65" href="$classuiTF_1_1TransferFunctionEditor.html" title="TransferFunctionEditor service." alt="" coords="1415,1179,1609,1208"/>
+<area shape="rect" id="node67" href="$classuiVisu_1_1BasicFloatEditor.html" title="BasicFloatEditor service permits to edit a float value." alt="" coords="1427,1232,1597,1261"/>
+<area shape="rect" id="node69" href="$classuiVisu_1_1PointEditor.html" title="PointEditor service allows to display point information." alt="" coords="1444,1285,1580,1315"/>
+<area shape="rect" id="node71" href="$classuiVisu_1_1SnapshotEditor.html" title="SnapshotEditor service is represented by a button. It allows to snap shot a generic scene..." alt="" coords="1429,1339,1595,1368"/>
+<area shape="rect" id="node73" href="$classuiVisu_1_1TransformationMatrixEditor.html" title="TransformationMatrixEditor service is represented by a slider. It update the rotation matrix from the..." alt="" coords="1393,1392,1631,1421"/>
+<area shape="rect" id="node77" href="$classgui_1_1view_1_1DefaultView.html" title="Defines the generic layout for application." alt="" coords="1433,1445,1591,1475"/>
+<area shape="rect" id="node79" href="$classguiQt_1_1editor_1_1DynamicView.html" title="This editor manages tabs. It receive message with NEW_CONFIGURATION_HELPER event containing the view ..." alt="" coords="1415,1499,1609,1528"/>
+</map>

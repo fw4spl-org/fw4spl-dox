@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ExecutableFactory.html" title="Defines the abstract executable factory class." alt="" coords="65,83,276,112"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Extension.html" title="Defines the extension class." alt="" coords="300,83,457,112"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1ExtensionPoint.html" title="Defines the extension point class." alt="" coords="481,83,671,112"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1utils_1_1GenericExecutableFactory.html" title="Defines a generic template executable factory class." alt="" coords="5,160,336,189"/>
+</map>

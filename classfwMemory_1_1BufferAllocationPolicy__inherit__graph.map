@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferMallocPolicy.html" title="fwMemory::BufferMallocPolicy" alt="" coords="289,5,497,35"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1BufferNewPolicy.html" title="fwMemory::BufferNewPolicy" alt="" coords="296,59,491,88"/>
+<area shape="rect" id="node7" href="$classfwMemory_1_1BufferNoAllocPolicy.html" title="fwMemory::BufferNoAllocPolicy" alt="" coords="285,112,501,141"/>
+</map>

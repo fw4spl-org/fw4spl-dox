@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classfwMemory_1_1policy_1_1AlwaysDump.html" title="Always dump policy." alt="" coords="760,5,979,35"/>
+<area shape="rect" id="node9" href="$classfwMemory_1_1policy_1_1BarrierDump.html" title="Barrier dump policy." alt="" coords="760,59,979,88"/>
+<area shape="rect" id="node11" href="$classfwMemory_1_1policy_1_1NeverDump.html" title="Never dump policy." alt="" coords="763,112,976,141"/>
+<area shape="rect" id="node13" href="$classfwMemory_1_1policy_1_1ValveDump.html" title="Valve dump policy." alt="" coords="764,165,975,195"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,85,531,115"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,85,336,115"/>
+</map>

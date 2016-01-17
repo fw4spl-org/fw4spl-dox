@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node15" href="$classctrlSelection_1_1IManagerSrv.html" title="Base class for manager. A manager starts, stops or swaps services on object contained in a composite ..." alt="" coords="1008,112,1197,141"/>
+<area shape="rect" id="node25" href="$classctrlSelection_1_1IUpdaterSrv.html" title="An updater is attached on a composite. It is use to add, swap and remove object in the composite when..." alt="" coords="1011,379,1195,408"/>
+<area shape="rect" id="node39" href="$classctrlSelection_1_1IWrapperSrv.html" title="The purpose of this service is to wrap messages incoming to the object to new messages." alt="" coords="1011,672,1195,701"/>
+<area shape="rect" id="node51" href="$classfwComEd_1_1ut_1_1TestService.html" title="Service type for test." alt="" coords="1012,779,1193,808"/>
+<area shape="rect" id="node59" href="$classfwGui_1_1IActionSrv.html" title="Defines the service interface managing the menu items." alt="" coords="1039,832,1167,861"/>
+<area shape="rect" id="node61" href="$classfwGui_1_1IFrameSrv.html" title="Defines the service interface managing a frame." alt="" coords="1039,885,1167,915"/>
+<area shape="rect" id="node63" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout." alt="" coords="1017,939,1188,968"/>
+<area shape="rect" id="node65" href="$classfwGui_1_1IMenuBarSrv.html" title="Defines the service interface managing the menu bar." alt="" coords="1031,992,1175,1021"/>
+<area shape="rect" id="node67" href="$classfwGui_1_1IMenuSrv.html" title="Defines the service interface managing the menu." alt="" coords="1041,1045,1164,1075"/>
+<area shape="rect" id="node69" href="$classfwGui_1_1IToolBarSrv.html" title="Defines the service interface managing the toolBar." alt="" coords="1036,1099,1169,1128"/>
+<area shape="rect" id="node71" href="$classfwRenderVTK_1_1IVtkAdaptorService.html" title="fwRenderVTK::IVtkAdaptorService" alt="" coords="987,1152,1219,1181"/>
+<area shape="rect" id="node73" href="$classfwServices_1_1IController.html" title="This interface defines control service API. Does nothing particularly, can be considered as a default..." alt="" coords="1021,1205,1184,1235"/>
+<area shape="rect" id="node75" href="$classfwServices_1_1IEditionService.html" title="This interface defines edition service API. It mainly has the role of the subject in the observer des..." alt="" coords="1008,1259,1197,1288"/>
+<area shape="rect" id="node77" href="$classfwServices_1_1IXMLParser.html" title="Service type for the construction of an object and associated services from an XML&#45;based description..." alt="" coords="1020,1312,1185,1341"/>
+<area shape="rect" id="node79" href="$classfwServices_1_1ut_1_1IBasicTest.html" title="fwServices::ut::IBasicTest" alt="" coords="1013,1365,1192,1395"/>
+<area shape="rect" id="node81" href="$classfwServices_1_1ut_1_1TestService.html" title="Service interface for test." alt="" coords="1008,1419,1197,1448"/>
+<area shape="rect" id="node83" href="$classgui_1_1editor_1_1IDialogEditor.html" title="Defines the service interface managing the editor service which create their own container." alt="" coords="1016,1472,1189,1501"/>
+<area shape="rect" id="node85" href="$classio_1_1IReader.html" title="Reader service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="1059,1525,1147,1555"/>
+<area shape="rect" id="node87" href="$classio_1_1IWriter.html" title="Writer service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="1063,1579,1143,1608"/>
+<area shape="rect" id="node89" href="$classopVTKMesh_1_1IMesher.html" title="This interface defines mesher service API. Does nothing particularly, to be implemented by mesher ser..." alt="" coords="1025,1632,1180,1661"/>
+<area shape="rect" id="node91" href="$classscene2D_1_1adaptor_1_1IAdaptor.html" title="Root class for all scene2D adaptors." alt="" coords="1004,1685,1201,1715"/>
+<area shape="rect" id="node93" href="$classTuto15MultithreadCtrl_1_1SIncrementArray.html" title="Tuto15MultithreadCtrl::SIncrementArray" alt="" coords="965,1739,1240,1768"/>
+<area shape="rect" id="node95" href="$classTuto15MultithreadCtrl_1_1SReadArray.html" title="Tuto15MultithreadCtrl::SReadArray" alt="" coords="983,1792,1223,1821"/>
+<area shape="rect" id="node97" href="$classTuto15MultithreadCtrl_1_1SShowArray.html" title="Tuto15MultithreadCtrl::SShowArray" alt="" coords="981,1845,1224,1875"/>
+<area shape="rect" id="node2" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="593,1179,708,1208"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,1152,531,1181"/>
+<area shape="rect" id="node6" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,1152,336,1181"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="408,1205,507,1235"/>
+<area shape="rect" id="node10" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="585,1232,716,1261"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="579,1285,723,1315"/>
+<area shape="rect" id="node17" href="$classctrlMemory_1_1manager_1_1LockDumpManagerSrv.html" title="This service allows to lock an object for dump when it is contained in the composite." alt="" coords="1348,5,1660,35"/>
+<area shape="rect" id="node19" href="$classctrlSelection_1_1manager_1_1MedicalImageManagerSrv.html" title="This manager converts the images specified by key to medical image (with landmarks, transfer function fields)" alt="" coords="1335,59,1673,88"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1manager_1_1SField.html" title="This services is a manager which starts, stops or swaps services on field contained in a composite wh..." alt="" coords="1399,112,1609,141"/>
+<area shape="rect" id="node23" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html" title="This services is a manager which starts, stops or swaps services on object contained in a composite w..." alt="" coords="1379,165,1629,195"/>
+<area shape="rect" id="node27" href="$classctrlSelection_1_1updater_1_1DataInfoFromMsgUpdaterSrv.html" title="Updates the composite related to this service according to the data stored (dataInfo) in the event :..." alt="" coords="1328,219,1680,248"/>
+<area shape="rect" id="node29" href="$classctrlSelection_1_1updater_1_1ObjFromMsgUpdaterSrv.html" title="Update the composite with the object which send the message." alt="" coords="1345,272,1663,301"/>
+<area shape="rect" id="node31" href="$classctrlSelection_1_1updater_1_1ReconstructionFromResecUpdaterSrv.html" title="Specific updater to update PlaneList from a resection." alt="" coords="1303,325,1705,355"/>
+<area shape="rect" id="node33" href="$classctrlSelection_1_1updater_1_1SDrop.html" title="Drop received object to associated fwData::Composite." alt="" coords="1401,379,1607,408"/>
+<area shape="rect" id="node35" href="$classctrlSelection_1_1updater_1_1SReconstructionFromModelSeriesUpdater.html" title="Update reconstruction in model series according to supported messages." alt="" coords="1288,432,1720,461"/>
+<area shape="rect" id="node37" href="$classctrlSelection_1_1updater_1_1TranslateUpdater.html" title="Update the composite related to this service according to the receiving composite message and transla..." alt="" coords="1367,485,1641,515"/>
+<area shape="rect" id="node41" href="$classctrlSelection_1_1wrapper_1_1GraphWrapperSrv.html" title="Convert generic message by specific message from Graph." alt="" coords="1364,539,1644,568"/>
+<area shape="rect" id="node43" href="$classctrlSelection_1_1wrapper_1_1ImageWrapperSrv.html" title="Convert generic message by specific message from Image." alt="" coords="1364,592,1644,621"/>
+<area shape="rect" id="node45" href="$classctrlSelection_1_1wrapper_1_1MsgForwarderSrv.html" title="This service forwards an event from specific object to object specified with key in in composite..." alt="" coords="1365,645,1643,675"/>
+<area shape="rect" id="node47" href="$classctrlSelection_1_1wrapper_1_1MsgWrapperSrv.html" title="Convert generic message by specific message." alt="" coords="1371,699,1637,728"/>
+<area shape="rect" id="node49" href="$classctrlSelection_1_1wrapper_1_1ObjToCompositeMsgForwarderSrv.html" title="This service forwards an event from all objects of composite to the composite ." alt="" coords="1313,752,1695,781"/>
+<area shape="rect" id="node53" href="$classfwComEd_1_1ut_1_1SSeriesDBTest.html" title="Test service implementation for SeriesDBMsg." alt="" coords="1403,805,1605,835"/>
+<area shape="rect" id="node55" href="$classfwComEd_1_1ut_1_1SVectorTest.html" title="fwComEd::ut::SVectorTest" alt="" coords="1412,859,1596,888"/>
+<area shape="rect" id="node57" href="$classfwComEd_1_1ut_1_1TestServiceImplementationComposite.html" title="Test service implementation for composite." alt="" coords="1328,912,1680,941"/>
+</map>

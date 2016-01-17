@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDropFilter.html" title="DropFilter" alt="" coords="231,5,313,35"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1FrameLayoutManager.html" title="Defines the frame manager." alt="" coords="171,59,373,88"/>
+<area shape="rect" id="node7" href="$classfwGuiQt_1_1ActionCallback.html" title="Defines the menu item callback." alt="" coords="187,112,357,141"/>
+<area shape="rect" id="node9" href="$classfwGuiQt_1_1dialog_1_1ProgressDialog.html" title="This class allows us to select an acquisition in a patient data base." alt="" coords="161,165,383,195"/>
+<area shape="rect" id="node11" href="$classfwGuiQt_1_1util_1_1FuncSlot.html" title="fwGuiQt::util::FuncSlot" alt="" coords="192,219,352,248"/>
+<area shape="rect" id="node13" href="$classguiQt_1_1editor_1_1Code.html" title="Code Editor working on a fwData::String." alt="" coords="201,272,343,301"/>
+<area shape="rect" id="node15" href="$classguiQt_1_1editor_1_1DynamicView.html" title="This editor manages tabs. It receive message with NEW_CONFIGURATION_HELPER event containing the view ..." alt="" coords="175,325,369,355"/>
+<area shape="rect" id="node17" href="$classmonitor_1_1DumpEditor.html" title="Editor to dump or restore selected buffer." alt="" coords="195,379,349,408"/>
+<area shape="rect" id="node19" href="$classuiGeneric_1_1action_1_1ShowAcknowledgments.html" title="This action show the acknowlegments frame." alt="" coords="129,432,415,461"/>
+<area shape="rect" id="node21" href="$classuiGeneric_1_1action_1_1ShowRevInfo.html" title="This action show the revision info for bundle and lib." alt="" coords="164,485,380,515"/>
+<area shape="rect" id="node23" href="$classuiGeneric_1_1action_1_1SShowAbout.html" title="This action show the about frame." alt="" coords="163,539,381,568"/>
+<area shape="rect" id="node25" href="$classuiImage_1_1ImageInfo.html" title="ImageInfo service allows to display image pixel information." alt="" coords="200,592,344,621"/>
+<area shape="rect" id="node27" href="$classuiImage_1_1ImageTransparency.html" title="ImageTransparency service allows to change image transparency." alt="" coords="169,645,375,675"/>
+<area shape="rect" id="node29" href="$classuiImage_1_1ShowScanEditor.html" title="This editor service represent a button to show/hide scan in a generic scene." alt="" coords="180,699,364,728"/>
+<area shape="rect" id="node31" href="$classuiImage_1_1SliceListEditor.html" title="SliceListEditor service allows to change the number of slice to show." alt="" coords="187,752,357,781"/>
+<area shape="rect" id="node33" href="$classuiImage_1_1SliceListEditor2.html" title="SliceListEditor2 service allows to change the number of slice to show." alt="" coords="183,805,361,835"/>
+<area shape="rect" id="node35" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing." alt="" coords="192,859,352,888"/>
+<area shape="rect" id="node37" href="$classuiMeasurement_1_1editor_1_1Distance.html" title="Distance service is represented by a button. It allows to show distances in a generic scene..." alt="" coords="157,912,387,941"/>
+<area shape="rect" id="node39" href="$classuiMedData_1_1editor_1_1SModelSeriesList.html" title="SModelSeriesList service." alt="" coords="145,965,399,995"/>
+<area shape="rect" id="node41" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html" title="Display the organs list and allow an interactive selection to set the corresponding meshes in a compo..." alt="" coords="129,1019,415,1048"/>
+<area shape="rect" id="node43" href="$classuiMedData_1_1editor_1_1SSelector.html" title="This editor shows information about the medical data. It allows to manipulate (select, erase, ...) studies and series." alt="" coords="169,1072,375,1101"/>
+<area shape="rect" id="node45" href="$classuiMedData_1_1editor_1_1SSeries.html" title="Shows and edit fwMedData::Series information." alt="" coords="176,1125,368,1155"/>
+<area shape="rect" id="node47" href="$classuiReconstruction_1_1OrganMaterialEditor.html" title="OrganMaterialEditor service." alt="" coords="141,1179,403,1208"/>
+<area shape="rect" id="node49" href="$classuiReconstruction_1_1RepresentationEditor.html" title="RepresentationEditor service." alt="" coords="139,1232,405,1261"/>
+<area shape="rect" id="node51" href="$classuiTF_1_1TransferFunctionEditor.html" title="TransferFunctionEditor service." alt="" coords="175,1285,369,1315"/>
+<area shape="rect" id="node53" href="$classuiVisu_1_1BasicFloatEditor.html" title="BasicFloatEditor service permits to edit a float value." alt="" coords="187,1339,357,1368"/>
+<area shape="rect" id="node55" href="$classuiVisu_1_1PointEditor.html" title="PointEditor service allows to display point information." alt="" coords="204,1392,340,1421"/>
+<area shape="rect" id="node57" href="$classuiVisu_1_1SnapshotEditor.html" title="SnapshotEditor service is represented by a button. It allows to snap shot a generic scene..." alt="" coords="189,1445,355,1475"/>
+<area shape="rect" id="node59" href="$classuiVisu_1_1TransformationMatrixEditor.html" title="TransformationMatrixEditor service is represented by a slider. It update the rotation matrix from the..." alt="" coords="153,1499,391,1528"/>
+</map>

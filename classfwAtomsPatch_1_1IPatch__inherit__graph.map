@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1ISemanticPatch.html" title="Base class of contextual patches." alt="" coords="788,139,1007,168"/>
+<area shape="rect" id="node19" href="$classfwAtomsPatch_1_1IStructuralPatch.html" title="Base class of all structural patches." alt="" coords="787,485,1008,515"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,325,531,355"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,325,336,355"/>
+<area shape="rect" id="node9" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html" title="Patch an acquisition from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context." alt="" coords="1127,5,1457,35"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html" title="Patch the composite describing a &#39;Medical workspace&#39; from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; c..." alt="" coords="1127,59,1457,88"/>
+<area shape="rect" id="node13" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html" title="Patch a patient from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context." alt="" coords="1139,112,1445,141"/>
+<area shape="rect" id="node15" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html" title="Patch a study from version V&#39;1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context." alt="" coords="1143,165,1441,195"/>
+<area shape="rect" id="node17" href="$classfwMDSemanticPatch_1_1V2_1_1V03AGO_1_1fwData_1_1Image.html" title="Patch an image from version &#39;V2&#39; to &#39;V03AGO&#39; within &#39;MedicalData&#39; context." alt="" coords="1123,219,1461,248"/>
+<area shape="rect" id="node21" href="$classfwStructuralPatch_1_1fwData_1_1Acquisition_1_1V1ToFwMedDataImageSeriesV1.html" title="Transforms an acquisition in version &#39;1&#39; to an image series in version &#39;1&#39;." alt="" coords="1057,272,1527,301"/>
+<area shape="rect" id="node23" href="$classfwStructuralPatch_1_1fwData_1_1Image_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1148,325,1436,355"/>
+<area shape="rect" id="node25" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1143,379,1441,408"/>
+<area shape="rect" id="node27" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV2.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1151,432,1433,461"/>
+<area shape="rect" id="node29" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;3&#39;." alt="" coords="1151,485,1433,515"/>
+<area shape="rect" id="node31" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V2ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;2&#39; to version &#39;3&#39;." alt="" coords="1151,539,1433,568"/>
+<area shape="rect" id="node33" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html" title="Transforms a ::fwData::Patient to a fwMedData::Patient." alt="" coords="1087,592,1497,621"/>
+<area shape="rect" id="node35" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V1ToV2.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1121,645,1463,675"/>
+<area shape="rect" id="node37" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V2ToV3.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;2&#39; to version &#39;3&#39;." alt="" coords="1121,699,1463,728"/>
+<area shape="rect" id="node39" href="$classfwStructuralPatch_1_1fwData_1_1Study_1_1V1ToFwMedDataStudyV1.html" title="Transforms a ::fwData::Study to a fwMedData::Study." alt="" coords="1095,752,1489,781"/>
+</map>

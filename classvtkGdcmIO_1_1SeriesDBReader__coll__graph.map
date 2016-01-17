@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::GenericObjectReader\&lt; ::fwMedData::SeriesDB \&gt;" alt="" coords="1065,59,1511,88"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers." alt="" coords="657,59,881,88"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,5,533,35"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node14" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enableFolder\&lt; ::fwDataIO::reader::IObjectReader \&gt;" alt="" coords="1061,112,1515,141"/>
+<area shape="rect" id="node16" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enableMultiFiles\&lt; ::fwDataIO::reader::IObjectReader \&gt;" alt="" coords="1052,165,1524,195"/>
+<area shape="rect" id="node18" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="1200,219,1376,248"/>
+<area shape="rect" id="node20" href="$classboost_1_1signals2_1_1trackable.html" title="trackable" alt="" coords="729,192,809,221"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node19" href="$classfwData_1_1GenericField.html" title="Generic &quot;field&quot; object template." alt="" coords="1456,5,1643,35"/>
+<area shape="rect" id="node21" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\&lt; bool \&gt;" alt="" coords="1445,59,1653,88"/>
+<area shape="rect" id="node25" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\&lt; float \&gt;" alt="" coords="1445,112,1653,141"/>
+<area shape="rect" id="node29" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\&lt; int \&gt;" alt="" coords="1451,165,1648,195"/>
+<area shape="rect" id="node33" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\&lt; std::string \&gt;" alt="" coords="1427,219,1672,248"/>
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html" title="Base class for each data object." alt="" coords="1032,112,1147,141"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="764,59,879,88"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="424,5,571,35"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="448,59,547,88"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\&lt; ::fwData::Object \&gt;" alt="" coords="660,112,983,141"/>
+<area shape="rect" id="node14" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="385,112,609,141"/>
+<area shape="rect" id="node16" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="749,165,893,195"/>
+<area shape="rect" id="node23" href="$classfwData_1_1Boolean.html" title="This class contains a boolean value." alt="" coords="1721,59,1847,88"/>
+<area shape="rect" id="node27" href="$classfwData_1_1Float.html" title="This class contains an float value." alt="" coords="1732,112,1836,141"/>
+<area shape="rect" id="node31" href="$classfwData_1_1Integer.html" title="This class contains an integer value. Integer object is essentially used as a field in other objects..." alt="" coords="1725,165,1843,195"/>
+<area shape="rect" id="node35" href="$classfwData_1_1String.html" title="This class contains an std::string value." alt="" coords="1728,219,1840,248"/>
+</map>

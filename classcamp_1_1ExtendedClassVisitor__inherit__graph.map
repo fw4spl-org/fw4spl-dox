@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$classfwAtomConversion_1_1AtomToDataMappingVisitor.html" title="This visitor visits data object to fill it with associated atom object attributes. This class is used by AtomVisitor to convert an fwData::Object." alt="" coords="397,5,720,35"/>
+<area shape="rect" id="node7" href="$classfwAtomConversion_1_1DataVisitor.html" title="Visitor used to convert a fwData to a fwAtoms. fwData camp property names are used like key to store ..." alt="" coords="449,59,668,88"/>
+<area shape="rect" id="node9" href="$classfwDataCamp_1_1visitor_1_1CompareObjects.html" title="Visitor used to compare two objects." alt="" coords="427,112,691,141"/>
+<area shape="rect" id="node11" href="$classfwDataCamp_1_1visitor_1_1GetObject.html" title="This class is an helper to introspect a data and find an object (contained into this data) from a nor..." alt="" coords="448,165,669,195"/>
+<area shape="rect" id="node13" href="$classfwDataCamp_1_1visitor_1_1RecursiveLock.html" title="This class is an helper to lock an object and all its children recursively." alt="" coords="436,219,681,248"/>
+<area shape="rect" id="node2" href="$classClassVisitor.html" title="ClassVisitor" alt="" coords="5,112,101,141"/>
+</map>

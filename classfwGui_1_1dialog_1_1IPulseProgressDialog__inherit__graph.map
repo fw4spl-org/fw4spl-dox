@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1PulseProgressDialog.html" title="Defines the generic pulse progress dialog for IHM. Use the Delegate design pattern. The specific implementation selection is ensured by fwGuiRegisterMacro. The specific implementation are in fwGuiWX and fwGuiQT libraries." alt="" coords="5,315,245,344"/>
+<area shape="rect" id="node11" href="$classfwGuiQt_1_1dialog_1_1PulseProgressDialog.html" title="This class allows us to show a pulse progress bar." alt="" coords="269,315,523,344"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes." alt="" coords="181,160,339,189"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="187,83,333,112"/>
+<area shape="rect" id="node6" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="95,5,425,35"/>
+</map>

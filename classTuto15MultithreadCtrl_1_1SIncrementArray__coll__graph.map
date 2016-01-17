@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services." alt="" coords="2931,435,3077,464"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="2620,313,2735,343"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,524,533,553"/>
+<area shape="rect" id="node21" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations." alt="" coords="1543,687,1673,716"/>
+<area shape="rect" id="node34" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose." alt="" coords="584,635,787,664"/>
+<area shape="rect" id="node45" href="$structfwCom_1_1SignalBase.html" title="Signal base class." alt="" coords="811,461,955,491"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,524,336,553"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="2305,152,2404,181"/>
+<area shape="rect" id="node15" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="2612,744,2743,773"/>
+<area shape="rect" id="node17" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase." alt="" coords="2303,721,2407,751"/>
+<area shape="rect" id="node24" href="$classint.html" title="int" alt="" coords="1100,797,1137,827"/>
+<area shape="rect" id="node26" title="STL class." alt="" coords="1076,536,1161,565"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="593,536,777,565"/>
+<area shape="rect" id="node38" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="2440,675,2584,704"/>
+<area shape="rect" id="node40" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="1972,535,2089,564"/>
+</map>

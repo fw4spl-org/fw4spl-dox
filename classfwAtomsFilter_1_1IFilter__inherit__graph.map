@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classfilterVRRender_1_1MedicalDataV1.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V1&quot; in VR&#45;Render." alt="" coords="5,237,219,267"/>
+<area shape="rect" id="node9" href="$classfilterVRRender_1_1MedicalDataV2.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V2&quot; in VR&#45;Render." alt="" coords="243,237,456,267"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="157,83,304,112"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="65,5,396,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::GenericObjectReader\&lt; ::fwData::TransformationMatrix3D \&gt;" alt="" coords="935,59,1447,88"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers." alt="" coords="657,59,881,88"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,5,533,35"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node14" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enableSingleFile\&lt; IObjectReader \&gt;" alt="" coords="1015,112,1367,141"/>
+</map>

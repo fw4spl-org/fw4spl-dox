@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$classfwGui_1_1layoutManager_1_1CardinalLayoutManagerBase.html" title="Defines the base for cardinal layout manager." alt="" coords="1135,5,1484,35"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1layoutManager_1_1LineLayoutManagerBase.html" title="Defines the base for line layout manager." alt="" coords="1148,59,1471,88"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1layoutManager_1_1TabLayoutManagerBase.html" title="Defines the base for cardinal layout manager." alt="" coords="1151,112,1468,141"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1layoutManager_1_1ToolboxLayoutManagerBase.html" title="Defines the base for line layout manager." alt="" coords="1137,165,1481,195"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes." alt="" coords="580,85,737,115"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,85,531,115"/>
+<area shape="rect" id="node6" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,85,336,115"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1CardinalLayoutManager.html" title="Defines the cardinal layout manager." alt="" coords="1535,5,1748,35"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1LineLayoutManager.html" title="Defines the line layout manager." alt="" coords="1547,59,1736,88"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1TabLayoutManager.html" title="Defines the tab layout manager." alt="" coords="1549,112,1733,141"/>
+<area shape="rect" id="node23" href="$classfwGui_1_1ToolboxLayoutManager.html" title="Defines the toolbox layout manager." alt="" coords="1536,165,1747,195"/>
+</map>

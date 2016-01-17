@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,408,533,437"/>
+<area shape="rect" id="node10" href="$classfwCore_1_1LogicStamp.html" title="Provides a Logical timestamp system." alt="" coords="639,377,788,407"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,408,336,437"/>
+<area shape="rect" id="node8" href="$structfwMemory_1_1BufferInfo.html" title="fwMemory::BufferInfo" alt="" coords="968,207,1123,236"/>
+<area shape="rect" id="node13" href="$classfwMemory_1_1FileHolder.html" title="fwMemory::FileHolder" alt="" coords="636,19,791,48"/>
+<area shape="rect" id="node23" href="$classbool.html" title="bool" alt="" coords="689,236,737,265"/>
+</map>

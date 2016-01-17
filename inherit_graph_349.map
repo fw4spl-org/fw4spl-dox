@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="7,139,108,168"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1util_1_1LazyInstantiator.html" title="A base class for lazy instantiation, constructed on first demand." alt="" coords="159,5,524,35"/>
+<area shape="rect" id="node5" href="$classfwRuntime_1_1profile_1_1Activater.html" title="Activates a given bundle with optional parameters." alt="" coords="243,59,440,88"/>
+<area shape="rect" id="node7" href="$classfwRuntime_1_1profile_1_1Initializer.html" title="Starts a given bundle." alt="" coords="243,112,440,141"/>
+<area shape="rect" id="node9" href="$classfwRuntime_1_1profile_1_1Starter.html" title="Starts a given bundle." alt="" coords="248,165,435,195"/>
+<area shape="rect" id="node11" href="$classfwRuntime_1_1profile_1_1Stopper.html" title="Stops a given bundle." alt="" coords="245,219,437,248"/>
+<area shape="rect" id="node13" href="$classfwRuntime_1_1profile_1_1Uninitializer.html" title="Starts a given bundle." alt="" coords="233,272,449,301"/>
+</map>

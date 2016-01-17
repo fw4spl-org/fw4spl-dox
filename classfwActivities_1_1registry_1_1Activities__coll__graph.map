@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="2673,309,2820,339"/>
+<area shape="rect" id="node4" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="2176,309,2507,339"/>
+<area shape="rect" id="node8" href="$structfwActivities_1_1registry_1_1ActivityInfo.html" title="Holds Activities configuration." alt="" coords="2229,363,2453,392"/>
+<area shape="rect" id="node12" href="$structfwActivities_1_1registry_1_1ActivityRequirement.html" title="fwActivities::registry::ActivityRequirement" alt="" coords="1392,168,1675,197"/>
+<area shape="rect" id="node14" href="$classint.html" title="int" alt="" coords="1109,203,1147,232"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="247,353,332,383"/>
+<area shape="rect" id="node22" href="$structfwActivities_1_1registry_1_1ActivityRequirementKey.html" title="fwActivities::registry::ActivityRequirementKey" alt="" coords="455,151,759,180"/>
+<area shape="rect" id="node25" href="$structfwActivities_1_1registry_1_1ActivityAppConfig.html" title="fwActivities::registry::ActivityAppConfig" alt="" coords="1400,389,1667,419"/>
+<area shape="rect" id="node29" href="$structfwActivities_1_1registry_1_1ActivityAppConfigParam.html" title="fwActivities::registry::ActivityAppConfigParam" alt="" coords="453,431,760,460"/>
+<area shape="rect" id="node18" title="STL class." alt="" coords="5,353,189,383"/>
+</map>

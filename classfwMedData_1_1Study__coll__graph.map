@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html" title="Base class for each data object." alt="" coords="2477,453,2592,483"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="2016,299,2131,328"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="405,201,552,231"/>
+<area shape="rect" id="node35" href="$structfwCom_1_1SignalBase.html" title="Signal base class." alt="" coords="621,176,765,205"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,201,336,231"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="1408,280,1507,309"/>
+<area shape="rect" id="node15" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\&lt; ::fwData::Object \&gt;" alt="" coords="1912,453,2235,483"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="1345,439,1569,468"/>
+<area shape="rect" id="node21" href="$classAttrNameType.html" title="AttrNameType" alt="" coords="984,465,1096,495"/>
+<area shape="rect" id="node23" href="$classAttrRefType.html" title="AttrRefType" alt="" coords="993,519,1087,548"/>
+<area shape="rect" id="node25" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="2001,215,2145,244"/>
+<area shape="rect" id="node27" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="1399,176,1516,205"/>
+<area shape="rect" id="node31" title="STL class." alt="" coords="651,123,736,152"/>
+<area shape="rect" id="node33" title="STL class." alt="" coords="387,123,571,152"/>
+</map>

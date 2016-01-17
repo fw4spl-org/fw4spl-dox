@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classfwGuiQt_1_1SliceSelector.html" title="A qt panel used to control a VTK 2D Negatoscope view." alt="" coords="175,5,337,35"/>
+<area shape="rect" id="node5" href="$classfwGuiQt_1_1widget_1_1QRangeSlider.html" title="fwGuiQt::widget::QRangeSlider" alt="" coords="149,59,363,88"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1widget_1_1EquipmentEditor.html" title="Widget to edit fwMedData::Equipment information." alt="" coords="129,112,383,141"/>
+<area shape="rect" id="node9" href="$classuiMedData_1_1widget_1_1ListInput.html" title="Simple list widget where items can be added/removed from an input widget with add/remove buttons..." alt="" coords="155,165,357,195"/>
+<area shape="rect" id="node11" href="$classuiMedData_1_1widget_1_1PatientEditor.html" title="Widget to edit fwMedData::Patient information." alt="" coords="141,219,371,248"/>
+<area shape="rect" id="node13" href="$classuiMedData_1_1widget_1_1SeriesEditor.html" title="Widget to edit fwMedData::Series information." alt="" coords="144,272,368,301"/>
+<area shape="rect" id="node15" href="$classuiMedData_1_1widget_1_1StudyEditor.html" title="Widget to edit fwMedData::Study information." alt="" coords="145,325,367,355"/>
+</map>

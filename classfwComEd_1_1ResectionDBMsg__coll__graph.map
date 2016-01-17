@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwServices_1_1ObjectMsg.html" title="Object message : indicate modifications having occurred or being performed on a object." alt="" coords="1252,313,1415,343"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="783,96,897,125"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="387,5,533,35"/>
+<area shape="rect" id="node8" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,5,336,35"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="411,59,509,88"/>
+<area shape="rect" id="node17" title="STL class." alt="" coords="417,337,503,367"/>
+<area shape="rect" id="node19" title="STL class." alt="" coords="79,337,263,367"/>
+</map>

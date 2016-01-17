@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$classfwComEd_1_1BooleanMsg.html" title="Object event message specialized for Boolean : store modification information." alt="" coords="1005,5,1171,35"/>
+<area shape="rect" id="node13" href="$classfwComEd_1_1CameraMsg.html" title="Object message specialized for Camera : store modification information." alt="" coords="1005,59,1171,88"/>
+<area shape="rect" id="node15" href="$classfwComEd_1_1ColorMsg.html" title="Object event message specialized for Color : store modification information." alt="" coords="1015,112,1161,141"/>
+<area shape="rect" id="node17" href="$classfwComEd_1_1CompositeMsg.html" title="Object event message specialized for Composite : store modification information." alt="" coords="996,165,1180,195"/>
+<area shape="rect" id="node19" href="$classfwComEd_1_1DictionaryOrganMsg.html" title="Object event message specialized for DictionaryOrgan : store modification information." alt="" coords="979,219,1197,248"/>
+<area shape="rect" id="node21" href="$classfwComEd_1_1FloatMsg.html" title="Object event message specialized for float field : store modification information." alt="" coords="1015,272,1161,301"/>
+<area shape="rect" id="node23" href="$classfwComEd_1_1GraphMsg.html" title="Object message specialized for Graph : store modification information." alt="" coords="1011,325,1165,355"/>
+<area shape="rect" id="node25" href="$classfwComEd_1_1HistogramMsg.html" title="Object event message specialized for histogram field." alt="" coords="997,379,1179,408"/>
+<area shape="rect" id="node27" href="$classfwComEd_1_1ImageMsg.html" title="Object event message specialized for image : store modification information." alt="" coords="1011,432,1165,461"/>
+<area shape="rect" id="node29" href="$classfwComEd_1_1IntegerMsg.html" title="Object event message specialized for integer field : store modification information." alt="" coords="1008,485,1168,515"/>
+<area shape="rect" id="node31" href="$classfwComEd_1_1InteractionMsg.html" title="Object event message specialized for interaction : store modification information." alt="" coords="997,539,1179,568"/>
+<area shape="rect" id="node33" href="$classfwComEd_1_1LocationMsg.html" title="Object event message specialized for location object : store modification information." alt="" coords="1004,592,1172,621"/>
+<area shape="rect" id="node35" href="$classfwComEd_1_1MaterialMsg.html" title="Object event message specialized for material : store modification information." alt="" coords="1005,645,1171,675"/>
+<area shape="rect" id="node37" href="$classfwComEd_1_1MeshMsg.html" title="Object event message specialized for Mesh : store modification information." alt="" coords="1013,699,1163,728"/>
+<area shape="rect" id="node39" href="$classfwComEd_1_1ModelSeriesMsg.html" title="Object event message specialized for model series : store modification information." alt="" coords="992,752,1184,781"/>
+<area shape="rect" id="node41" href="$classfwComEd_1_1PlaneListMsg.html" title="Object message specialized for PlaneList : store modification information." alt="" coords="1003,805,1173,835"/>
+<area shape="rect" id="node43" href="$classfwComEd_1_1PlaneMsg.html" title="Object message specialized for PlaneList : store modification information." alt="" coords="1013,859,1163,888"/>
+<area shape="rect" id="node45" href="$classfwComEd_1_1PointListMsg.html" title="Object event message specialized for PointList : store modification information." alt="" coords="1004,912,1172,941"/>
+<area shape="rect" id="node47" href="$classfwComEd_1_1PointMsg.html" title="Object message specialized for Point : store modification information." alt="" coords="1015,965,1161,995"/>
+<area shape="rect" id="node49" href="$classfwComEd_1_1ReconstructionMsg.html" title="Object event message specialized for reconstruction : store modification information." alt="" coords="984,1019,1192,1048"/>
+<area shape="rect" id="node51" href="$classfwComEd_1_1ResectionDBMsg.html" title="Object event message specialized for resectionDB : store modification information." alt="" coords="991,1072,1185,1101"/>
+<area shape="rect" id="node53" href="$classfwComEd_1_1ResectionMsg.html" title="Object event message specialized for resection : store modification information." alt="" coords="1000,1125,1176,1155"/>
+<area shape="rect" id="node55" href="$classfwComEd_1_1SeriesDBMsg.html" title="Object event message specialized for SeriesDB : store modification information." alt="" coords="1001,1179,1175,1208"/>
+<area shape="rect" id="node57" href="$classfwComEd_1_1SplineMsg.html" title="Object message specialized for Spline : store modification information." alt="" coords="1011,1232,1165,1261"/>
+<area shape="rect" id="node59" href="$classfwComEd_1_1StringMsg.html" title="Object event message specialized for string field : store modification information." alt="" coords="1012,1285,1164,1315"/>
+<area shape="rect" id="node61" href="$classfwComEd_1_1TagMsg.html" title="Object event message specialized for Tag : store modification information." alt="" coords="1020,1339,1156,1368"/>
+<area shape="rect" id="node63" href="$classfwComEd_1_1TransferFunctionMsg.html" title="Object event message specialized for transfer function : store modification information." alt="" coords="979,1392,1197,1421"/>
+<area shape="rect" id="node65" href="$classfwComEd_1_1TransformationMatrix3DMsg.html" title="Object event message specialized for TransformationMatrix3D : store modification information." alt="" coords="955,1445,1221,1475"/>
+<area shape="rect" id="node67" href="$classfwComEd_1_1VectorMsg.html" title="Object event message specialized for Vector : store modification information." alt="" coords="1011,1499,1165,1528"/>
+<area shape="rect" id="node69" href="$classfwComEd_1_1VideoMsg.html" title="Object message specialized for Video : store modification information." alt="" coords="1013,1552,1163,1581"/>
+<area shape="rect" id="node71" href="$classscene2D_1_1data_1_1ViewportMsg.html" title="Object event message specialized for viewport." alt="" coords="987,1605,1189,1635"/>
+<area shape="rect" id="node2" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services." alt="" coords="579,805,693,835"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,779,531,808"/>
+<area shape="rect" id="node6" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,779,336,808"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object." alt="" coords="408,832,507,861"/>
+</map>

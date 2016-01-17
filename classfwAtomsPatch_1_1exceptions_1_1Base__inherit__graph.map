@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1exceptions_1_1BadExtension.html" title="Exception defining a wrong extension in a filename." alt="" coords="840,5,1123,35"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1exceptions_1_1ImpossibleConversion.html" title="Reports an impossible conversion between data objects." alt="" coords="813,59,1149,88"/>
+<area shape="rect" id="node13" href="$classfwAtomsPatch_1_1exceptions_1_1MissingInformation.html" title="Reports an missing information required for data object patching." alt="" coords="823,112,1140,141"/>
+<area shape="rect" id="node15" href="$classfwAtomsPatch_1_1exceptions_1_1UnknownVersion.html" title="Thrown when a given object version is unknown and can&#39;t be processed." alt="" coords="831,165,1132,195"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1Exception.html" title="fwCore::Exception" alt="" coords="353,85,487,115"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="165,85,304,115"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,85,117,115"/>
+</map>

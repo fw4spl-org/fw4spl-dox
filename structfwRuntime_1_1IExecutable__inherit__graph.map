@@ -1,0 +1,50 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Executable.html" title="Provides a default fwRuntime::IExecutable interface implementation.This class provides a default impl..." alt="" coords="221,1125,387,1155"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1IPlugin.html" title="Defines the plugin interface." alt="" coords="236,1179,372,1208"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Plugin.html" title="Provides a default plugin implementation.This class is intended to be sub&#45;classed. The IPlugin::start and IPlugin::stop function must be implemented." alt="" coords="435,1179,568,1208"/>
+<area shape="rect" id="node9" href="$structactivities_1_1Plugin.html" title="activities::Plugin" alt="" coords="677,5,800,35"/>
+<area shape="rect" id="node11" href="$classappXml_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="681,59,796,88"/>
+<area shape="rect" id="node13" href="$classbinding_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="681,112,796,141"/>
+<area shape="rect" id="node15" href="$classctrlMemory_1_1Plugin.html" title="ctrlMemory::Plugin" alt="" coords="669,165,808,195"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1Plugin.html" title="ctrlSelection::Plugin" alt="" coords="665,219,812,248"/>
+<area shape="rect" id="node19" href="$structdataReg_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="679,272,799,301"/>
+<area shape="rect" id="node21" href="$classfilterVRRender_1_1Plugin.html" title="filterVRRender::Plugin" alt="" coords="660,325,817,355"/>
+<area shape="rect" id="node23" href="$structfwRuntime_1_1EmptyPlugin.html" title="Implements a default plugin for bundles that don&#39;t provide a fwRuntime::IPlugin interface implementat..." alt="" coords="652,379,825,408"/>
+<area shape="rect" id="node25" href="$classgui_1_1Plugin.html" title="This class is called when the gui bundle is loaded." alt="" coords="696,432,781,461"/>
+<area shape="rect" id="node27" href="$classguiQt_1_1Plugin.html" title="guiQt::Plugin" alt="" coords="688,485,789,515"/>
+<area shape="rect" id="node29" href="$structio_1_1Plugin.html" title="Implements a plugin for the io bundle." alt="" coords="700,539,777,568"/>
+<area shape="rect" id="node31" href="$classioAtoms_1_1Plugin.html" title="ioAtoms::Plugin" alt="" coords="679,592,799,621"/>
+<area shape="rect" id="node33" href="$structioData_1_1Plugin.html" title="ioData::Plugin" alt="" coords="684,645,793,675"/>
+<area shape="rect" id="node35" href="$structioITK_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="691,699,787,728"/>
+<area shape="rect" id="node37" href="$structioTuto_1_1Plugin.html" title="ioTuto::Plugin" alt="" coords="687,752,791,781"/>
+<area shape="rect" id="node39" href="$classioVTK_1_1Plugin.html" title="ioVTK::Plugin" alt="" coords="688,805,789,835"/>
+<area shape="rect" id="node41" href="$structioVtkGdcm_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="669,859,808,888"/>
+<area shape="rect" id="node43" href="$structmemory_1_1Plugin.html" title="Implements a plugin for the memory bundle." alt="" coords="679,912,799,941"/>
+<area shape="rect" id="node45" href="$structmonitor_1_1Plugin.html" title="Class called when the bundle is loaded and stopped." alt="" coords="680,965,797,995"/>
+<area shape="rect" id="node48" href="$structopImageFilter_1_1Plugin.html" title="Implements a plugin for the opImageFilter bundle." alt="" coords="661,1019,816,1048"/>
+<area shape="rect" id="node50" href="$structopVTKMesh_1_1Plugin.html" title="Implements a plugin for the opVTKMesh bundle." alt="" coords="668,1072,809,1101"/>
+<area shape="rect" id="node52" href="$structpatchMedicalData_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="648,1125,829,1155"/>
+<area shape="rect" id="node54" href="$structscene2D_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="677,1179,800,1208"/>
+<area shape="rect" id="node56" href="$structservicesReg_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="668,1232,809,1261"/>
+<area shape="rect" id="node58" href="$classTuto02DataServiceBasicCtrl_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="617,1285,860,1315"/>
+<area shape="rect" id="node60" href="$classTuto15MultithreadCtrl_1_1Plugin.html" title="Class call when bundle is started/stopped." alt="" coords="637,1339,840,1368"/>
+<area shape="rect" id="node62" href="$classTutoTrianConverterCtrl_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="635,1392,843,1421"/>
+<area shape="rect" id="node64" href="$structuiGeneric_1_1Plugin.html" title="uiGeneric::Plugin" alt="" coords="675,1445,803,1475"/>
+<area shape="rect" id="node66" href="$structuiImage_1_1Plugin.html" title="uiImage::Plugin" alt="" coords="680,1499,797,1528"/>
+<area shape="rect" id="node68" href="$classuiIO_1_1Plugin.html" title="uiIO::Plugin" alt="" coords="693,1552,784,1581"/>
+<area shape="rect" id="node70" href="$structuiMeasurement_1_1Plugin.html" title="uiMeasurement::Plugin" alt="" coords="655,1605,823,1635"/>
+<area shape="rect" id="node72" href="$structuiMeasurementQt_1_1Plugin.html" title="uiMeasurementQt::Plugin" alt="" coords="648,1659,829,1688"/>
+<area shape="rect" id="node74" href="$structuiMedDataQt_1_1Plugin.html" title="uiMedDataQt::Plugin" alt="" coords="663,1712,815,1741"/>
+<area shape="rect" id="node76" href="$classuiPython_1_1Plugin.html" title="This class is called when the uiPython bundle is loaded." alt="" coords="677,1765,800,1795"/>
+<area shape="rect" id="node78" href="$structuiReconstruction_1_1Plugin.html" title="uiReconstruction::Plugin" alt="" coords="652,1819,825,1848"/>
+<area shape="rect" id="node80" href="$classuiTF_1_1Plugin.html" title="uiTF::Plugin" alt="" coords="693,1872,784,1901"/>
+<area shape="rect" id="node82" href="$structuiVisu_1_1Plugin.html" title="uiVisu::Plugin" alt="" coords="685,1925,792,1955"/>
+<area shape="rect" id="node85" href="$structvisu_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="692,1979,785,2008"/>
+<area shape="rect" id="node87" href="$structvisuVTK_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="680,2032,797,2061"/>
+<area shape="rect" id="node89" href="$structvisuVTKAdaptor_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="655,2085,823,2115"/>
+<area shape="rect" id="node91" href="$structvisuVTKQt_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="673,2139,804,2168"/>
+<area shape="rect" id="node93" href="$structvisuVTKVRAdaptor_1_1Plugin.html" title="This class is started when the bundles is loaded." alt="" coords="647,2192,831,2221"/>
+<area shape="rect" id="node95" href="$classvtkCompositeMesh_1_1Plugin.html" title="vtkCompositeMesh::Plugin" alt="" coords="644,2245,833,2275"/>
+<area shape="rect" id="node97" href="$classvtkSimpleMesh_1_1Plugin.html" title="vtkSimpleMesh::Plugin" alt="" coords="656,2299,821,2328"/>
+<area shape="rect" id="node99" href="$classvtkSimpleNegato_1_1Plugin.html" title="vtkSimpleNegato::Plugin" alt="" coords="649,2352,828,2381"/>
+</map>

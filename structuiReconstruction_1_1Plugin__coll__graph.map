@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Plugin.html" title="Provides a default plugin implementation.This class is intended to be sub&#45;classed. The IPlugin::start and IPlugin::stop function must be implemented." alt="" coords="25,160,159,189"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1IPlugin.html" title="Defines the plugin interface." alt="" coords="24,83,160,112"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1IExecutable.html" title="Defines the base executable interface.An executable object is an instance created by an extension poi..." alt="" coords="8,5,176,35"/>
+</map>

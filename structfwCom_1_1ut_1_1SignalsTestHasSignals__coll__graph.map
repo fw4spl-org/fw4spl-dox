@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="119,453,263,483"/>
+<area shape="rect" id="node4" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase." alt="" coords="132,357,249,387"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="67,165,152,195"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="5,85,189,115"/>
+<area shape="rect" id="node12" href="$structfwCom_1_1SignalBase.html" title="Signal base class." alt="" coords="183,165,327,195"/>
+<area shape="rect" id="node14" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="213,85,360,115"/>
+<area shape="rect" id="node16" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="121,5,452,35"/>
+</map>

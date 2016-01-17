@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$classfwStructuralPatch_1_1fwData_1_1Acquisition_1_1V1ToFwMedDataImageSeriesV1.html" title="Transforms an acquisition in version &#39;1&#39; to an image series in version &#39;1&#39;." alt="" coords="1057,5,1527,35"/>
+<area shape="rect" id="node11" href="$classfwStructuralPatch_1_1fwData_1_1Image_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1148,59,1436,88"/>
+<area shape="rect" id="node13" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1143,112,1441,141"/>
+<area shape="rect" id="node15" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV2.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1151,165,1433,195"/>
+<area shape="rect" id="node17" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;3&#39;." alt="" coords="1151,219,1433,248"/>
+<area shape="rect" id="node19" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V2ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;2&#39; to version &#39;3&#39;." alt="" coords="1151,272,1433,301"/>
+<area shape="rect" id="node21" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html" title="Transforms a ::fwData::Patient to a fwMedData::Patient." alt="" coords="1087,325,1497,355"/>
+<area shape="rect" id="node23" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V1ToV2.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;1&#39; to version &#39;2&#39;." alt="" coords="1121,379,1463,408"/>
+<area shape="rect" id="node25" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V2ToV3.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;2&#39; to version &#39;3&#39;." alt="" coords="1121,432,1463,461"/>
+<area shape="rect" id="node27" href="$classfwStructuralPatch_1_1fwData_1_1Study_1_1V1ToFwMedDataStudyV1.html" title="Transforms a ::fwData::Study to a fwMedData::Study." alt="" coords="1095,485,1489,515"/>
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches." alt="" coords="580,245,737,275"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes." alt="" coords="384,245,531,275"/>
+<area shape="rect" id="node6" href="$classboost_1_1enable__shared__from__this.html" title="boost::enable_shared_from_this\&lt; BaseObject \&gt;" alt="" coords="5,245,336,275"/>
+</map>
