@@ -1,6 +1,6 @@
 
 $.getJSON("https://api.github.com/repos/fw4spl-org/fw4spl-dox/branches", function (branches) {
-    var cdn = "https://cdn.rawgit.com/fw4spl-org/fw4spl-dox/$BRANCH/index.html";
+    var cdn = "https://rawgit.com/fw4spl-org/fw4spl-dox/$BRANCH/index.html";
     $('#content').empty();
     for (var i = 0; i < branches.length; i++) {
         var name = branches[i].name;
