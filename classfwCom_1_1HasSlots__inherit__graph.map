@@ -1,0 +1,50 @@
+<map id="fwCom::HasSlots" name="fwCom::HasSlots">
+<area shape="rect" id="node3" href="$structfwCom_1_1ut_1_1SlotsTestHasSlots.html" title="fwCom::ut::SlotsTestHasSlots" alt="" coords="185,1172,385,1201"/>
+<area shape="rect" id="node5" href="$structfwCom_1_1ut_1_1SlotsTestHasSlots2.html" title="fwCom::ut::SlotsTestHasSlots2" alt="" coords="181,1225,389,1255"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="215,1279,356,1308"/>
+<area shape="rect" id="node9" href="$classctrlSelection_1_1IManagerSrv.html" title="Base class for manager. A manager starts, stops or swaps services on object contained in a composite ..." alt="" coords="441,117,617,147"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1IUpdaterSrv.html" title="An updater is attached on a composite. It is use to add, swap and remove object in the composite when..." alt="" coords="444,360,615,389"/>
+<area shape="rect" id="node27" href="$classctrlSelection_1_1IWrapperSrv.html" title="The purpose of this service is to wrap messages incoming to the object to new messages. " alt="" coords="443,541,616,571"/>
+<area shape="rect" id="node31" href="$classfwComEd_1_1ut_1_1TestService.html" title="Service type for test. " alt="" coords="441,637,617,667"/>
+<area shape="rect" id="node37" href="$classfwGui_1_1IActionSrv.html" title="Defines the service interface managing the menu items. " alt="" coords="467,981,592,1011"/>
+<area shape="rect" id="node69" href="$classfwGui_1_1IFrameSrv.html" title="Defines the service interface managing a frame. " alt="" coords="467,1035,592,1064"/>
+<area shape="rect" id="node71" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout. " alt="" coords="448,1088,611,1117"/>
+<area shape="rect" id="node73" href="$classfwGui_1_1IMenuBarSrv.html" title="Defines the service interface managing the menu bar. " alt="" coords="460,1141,599,1171"/>
+<area shape="rect" id="node75" href="$classfwGui_1_1IMenuSrv.html" title="Defines the service interface managing the menu. " alt="" coords="469,1195,589,1224"/>
+<area shape="rect" id="node77" href="$classfwGui_1_1IToolBarSrv.html" title="Defines the service interface managing the toolBar. " alt="" coords="463,1248,596,1277"/>
+<area shape="rect" id="node79" href="$classfwRenderVTK_1_1IVtkAdaptorService.html" title="fwRenderVTK::IVtkAdaptor\lService" alt="" coords="439,1301,620,1347"/>
+<area shape="rect" id="node81" href="$classfwServices_1_1IController.html" title="This interface defines control service API. Does nothing particularly, can be considered as a default..." alt="" coords="452,1371,607,1400"/>
+<area shape="rect" id="node83" href="$classfwServices_1_1IXMLParser.html" title="Service type for the construction of an object and associated services from an XML&#45;based description..." alt="" coords="448,1424,611,1453"/>
+<area shape="rect" id="node85" href="$classfwServices_1_1ut_1_1IBasicTest.html" title="fwServices::ut::IBasicTest" alt="" coords="441,1477,617,1507"/>
+<area shape="rect" id="node87" href="$classfwServices_1_1ut_1_1TestService.html" title="Service interface for test. " alt="" coords="437,1531,621,1560"/>
+<area shape="rect" id="node89" href="$classgui_1_1editor_1_1IDialogEditor.html" title="Defines the service interface managing the editor service which create their own container. " alt="" coords="448,1584,611,1613"/>
+<area shape="rect" id="node91" href="$classio_1_1IReader.html" title="Reader service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="487,1637,572,1667"/>
+<area shape="rect" id="node93" href="$classio_1_1IWriter.html" title="Writer service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="491,1691,568,1720"/>
+<area shape="rect" id="node95" href="$classopVTKMesh_1_1IMesher.html" title="This interface defines mesher service API. " alt="" coords="455,1744,604,1773"/>
+<area shape="rect" id="node97" href="$classscene2D_1_1adaptor_1_1IAdaptor.html" title="Root class for all scene2D adaptors. " alt="" coords="439,1797,620,1827"/>
+<area shape="rect" id="node11" href="$classctrlMemory_1_1manager_1_1LockDumpManagerSrv.html" title="This service allows to lock an object for dump when it is contained in the composite. " alt="" coords="708,5,871,51"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1manager_1_1SField.html" title="This services is a manager which starts, stops or swaps services on field contained in a composite wh..." alt="" coords="713,74,865,121"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html" title="This services is a manager which starts, stops or swaps services on object contained in a composite w..." alt="" coords="713,143,865,190"/>
+<area shape="rect" id="node19" href="$classctrlSelection_1_1updater_1_1SDrop.html" title="Drop received object to associated fwData::Composite. " alt="" coords="717,213,861,259"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html" title="Updates the composite from object given from slots. " alt="" coords="717,282,861,329"/>
+<area shape="rect" id="node23" href="$classctrlSelection_1_1updater_1_1SObjFromUid.html" title="Updates the composite from object given by uid. The objects is added/swapped/removed from composite w..." alt="" coords="717,351,861,398"/>
+<area shape="rect" id="node25" href="$classctrlSelection_1_1updater_1_1STranslate.html" title="Update the composite related to this service according to the receiving composite signals and transla..." alt="" coords="717,421,861,467"/>
+<area shape="rect" id="node29" href="$classctrlSelection_1_1wrapper_1_1SImageSignalForwarder.html" title="This service forwards signals from an image ti another. " alt="" coords="705,490,873,537"/>
+<area shape="rect" id="node33" href="$classfwComEd_1_1ut_1_1TestServiceImplementationComposite.html" title="Test service implementation for composite. " alt="" coords="701,559,877,606"/>
+<area shape="rect" id="node35" href="$classfwComEd_1_1ut_1_1TestServiceImplementationImage.html" title="Test service implementation for image. " alt="" coords="701,629,877,675"/>
+<area shape="rect" id="node39" href="$classactivities_1_1action_1_1SActivityLauncher.html" title="This action launchs an activity according to the selected data. " alt="" coords="721,698,857,745"/>
+<area shape="rect" id="node41" href="$classgui_1_1action_1_1SConfigLauncher.html" title="To manage configuration file defines in xml extension. " alt="" coords="695,768,884,797"/>
+<area shape="rect" id="node43" href="$classgui_1_1action_1_1SDoNothing.html" title="This action does nothing. " alt="" coords="709,821,869,851"/>
+<area shape="rect" id="node45" href="$classgui_1_1action_1_1SModifyLayout.html" title="This action is used to modify the layout configuration. " alt="" coords="701,875,877,904"/>
+<area shape="rect" id="node47" href="$classgui_1_1action_1_1SPushObject.html" title="To add or remove object in composite with specific key. " alt="" coords="707,928,872,957"/>
+<area shape="rect" id="node49" href="$classgui_1_1action_1_1SQuit.html" title="This action tries to close the window and reset root object. " alt="" coords="728,981,851,1011"/>
+<area shape="rect" id="node51" href="$classgui_1_1action_1_1SSignal.html" title="Simple Signal service. " alt="" coords="723,1035,856,1064"/>
+<area shape="rect" id="node53" href="$classgui_1_1action_1_1SSlotCaller.html" title="Run a slot given by HasSlot id and slot key. " alt="" coords="712,1088,867,1117"/>
+<area shape="rect" id="node55" href="$classgui_1_1action_1_1SStarter.html" title="Apply an action (start, stop, ...) on a service specify by uid.This action works on a fwData::Object..." alt="" coords="720,1141,859,1171"/>
+<area shape="rect" id="node57" href="$classioData_1_1action_1_1SMeshModifier.html" title="This action modifies a mesh using specified functor in configuration. The purpose is to test all poss..." alt="" coords="691,1195,888,1224"/>
+<area shape="rect" id="node59" href="$classmonitor_1_1action_1_1ClassFactoryRegistryInfo.html" title="Implements an action to show services registered in factory. " alt="" coords="692,1247,887,1294"/>
+<area shape="rect" id="node61" href="$classmonitor_1_1action_1_1ComponentsTree.html" title="Implements an action that show bundle information. " alt="" coords="681,1317,897,1347"/>
+<area shape="rect" id="node63" href="$classmonitor_1_1action_1_1fwMetrics.html" title="Implements an action for show metrics about f4s factories (number of data, message and service in fac..." alt="" coords="703,1371,876,1400"/>
+<area shape="rect" id="node65" href="$classmonitor_1_1action_1_1MemoryConsumption.html" title="Increase or decrease the memory consumption by storing a new image, use to experiment dump process..." alt="" coords="669,1424,909,1453"/>
+<area shape="rect" id="node67" href="$classmonitor_1_1action_1_1MemoryInfo.html" title="Implements an action to show in a message box few memory information. " alt="" coords="697,1477,881,1507"/>
+</map>

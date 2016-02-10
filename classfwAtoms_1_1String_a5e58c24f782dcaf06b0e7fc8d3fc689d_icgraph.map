@@ -1,0 +1,26 @@
+<map id="fwAtoms::String::New" name="fwAtoms::String::New">
+<area shape="rect" id="node3" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html#a49ab872a3e016c05b02f8f914f53db1b" title="Applies patch. " alt="" coords="236,5,396,69"/>
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html#aad5ff8244b1512f33079e4a98726239e" title="Applies patch. " alt="" coords="239,93,393,157"/>
+<area shape="rect" id="node7" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V1ToV2.html#a0988ae0c76c4a444e6e9070097f7f1d7" title="Applies patch. " alt="" coords="229,181,403,245"/>
+<area shape="rect" id="node9" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V3ToV4.html#af3b04576e40c85572eb7b6fdbd6d566c" title="Applies patch. " alt="" coords="229,269,403,333"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html#a422877ba4357eebad6350bcde8db1203" title="Applies patch. " alt="" coords="224,357,408,421"/>
+<area shape="rect" id="node13" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#acdf6ac2779b5f829ae1eb9ecb8e47950" title="Applies patch. " alt="" coords="225,445,407,509"/>
+<area shape="rect" id="node15" href="$classfwStructuralPatch_1_1fwData_1_1Acquisition_1_1V1ToFwMedDataImageSeriesV1.html#a78e66d127e595985b108aec2deeb3e51" title="Applies patch. " alt="" coords="205,533,427,614"/>
+<area shape="rect" id="node17" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html#acb5c1cb0514b44b85d016d5375f9bef3" title="Applies patch. " alt="" coords="219,637,413,701"/>
+<area shape="rect" id="node19" href="$classfwStructuralPatch_1_1fwData_1_1Study_1_1V1ToFwMedDataStudyV1.html#af4b6e130565237c05278e2dd5f3169ab" title="Applies patch. " alt="" coords="208,725,424,789"/>
+<area shape="rect" id="node21" href="$classfwAtoms_1_1String.html#ab1a0f37d558f25d9914f67bd8c4ca03f" title="Returns a clone object. " alt="" coords="239,813,393,843"/>
+<area shape="rect" id="node23" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#a64367de970f3ff45b82dd2019d6e4b79" title="Copy constructor. " alt="" coords="225,867,407,931"/>
+<area shape="rect" id="node25" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Equipment1.html#aaaf21ace801ee7ac551739112407e63c" title="Create the specified object (sets &#39;institution_name&#39; attribute). " alt="" coords="244,955,388,1019"/>
+<area shape="rect" id="node27" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Patient1.html#a2fa084bf634bd354f0102037be25ccbd" title="Creates the specified object (sets &#39;name&#39;, &#39;patient_id&#39;, &#39;birth_date&#39; and &#39;sex&#39; attributes). " alt="" coords="244,1043,388,1107"/>
+<area shape="rect" id="node29" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Series1.html#ab66f65f9a824ed47c775c10dfcf26e0d" title="Creates the specified object. " alt="" coords="244,1181,388,1245"/>
+<area shape="rect" id="node31" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ActivitySeries1.html#a035bdc4ea772cbb3a3022f1e71e6caee" title="Creates the specified object. " alt="" coords="515,1093,669,1157"/>
+<area shape="rect" id="node37" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Study1.html#a2039938e3b6c961f38c07e19337b971f" title="Creates the specified object. " alt="" coords="244,1269,388,1333"/>
+<area shape="rect" id="node40" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a6c0626726a1a7ea6d86e93509886bb8d" title="Process atom base. " alt="" coords="216,1454,416,1501"/>
+<area shape="rect" id="node33" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html#acaed202322f5efcb82db362d86371425" title="Creates the specified object (sets &#39;image&#39; attribute) and calls creator &#39;Series1&#39;. " alt="" coords="519,1181,665,1245"/>
+<area shape="rect" id="node35" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ModelSeries1.html#a5a21df45c47b79d0ba1d5bedfa754b33" title="Creates the specified object (sets &#39;reconstruction_db&#39; attribute) and calls creator &#39;Series1&#39;..." alt="" coords="520,1269,664,1333"/>
+<area shape="rect" id="node42" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a513ee60f7c2943947f77d71214a3577b" title="Process structural atom object. " alt="" coords="479,1357,705,1421"/>
+<area shape="rect" id="node47" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a33dbe235559ece16106c531558646257" title="Process contextual atom object. " alt="" coords="475,1445,709,1509"/>
+<area shape="rect" id="node51" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad8ced6b1e5871b12510de5d93de38e7c" title="Process atom mapping. " alt="" coords="483,1533,701,1579"/>
+<area shape="rect" id="node54" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a81996b6b891e6815401d5eebeb0121be" title="Process atom sequence. " alt="" coords="477,1602,707,1649"/>
+<area shape="rect" id="node44" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#aafb56ac01f01452173281d95c85d7ff7" title="Apply the patch to the specified object. " alt="" coords="759,1401,937,1465"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fwStructuralPatch::fwData::Material::V1ToV2::apply" name="fwStructuralPatch::fwData::Material::V1ToV2::apply">
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="240,39,389,86"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="240,109,389,139"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="227,162,403,209"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="452,5,601,51"/>
+<area shape="rect" id="node7" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="452,74,601,121"/>
+</map>

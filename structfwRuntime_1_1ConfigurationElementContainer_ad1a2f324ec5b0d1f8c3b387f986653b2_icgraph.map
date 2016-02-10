@@ -1,0 +1,5 @@
+<map id="fwRuntime::ConfigurationElementContainer::end" name="fwRuntime::ConfigurationElementContainer::end">
+<area shape="rect" id="node3" href="$classctrlSelection_1_1IUpdaterSrv.html#a8501c66e554c77298358f17b644fed44" title="Configure the event to manage and its corresponding action. " alt="" coords="232,5,408,51"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1ConfigurationElement.html#ac0c44f491a3abe2c242b21a860feeaac" title="Find recursively all the corresponding configuration elements. " alt="" coords="235,74,405,121"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#a09ab28038084fda4571324c6982e2ed2" title="Retrieves all executable objects for the point having the specified identifier. " alt="" coords="225,143,415,190"/>
+</map>

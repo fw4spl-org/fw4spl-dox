@@ -1,0 +1,8 @@
+<map id="fwServices::IService::configure" name="fwServices::IService::configure">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a1a78b141da26374c5febca8ba7b75ef2" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="199,5,340,51"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#ae9f866aee8f9f87d4759a775edcc5fd4" title="Reconfigure the service activity when is started. " alt="" coords="199,74,340,121"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#a84affebc8258fcec7a32770854b56f9b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="391,43,532,90"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="389,113,533,143"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="583,74,753,121"/>
+<area shape="rect" id="node13" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="599,144,737,173"/>
+</map>

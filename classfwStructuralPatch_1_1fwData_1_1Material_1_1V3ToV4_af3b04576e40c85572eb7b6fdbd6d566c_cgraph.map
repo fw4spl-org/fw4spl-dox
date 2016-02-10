@@ -1,0 +1,11 @@
+<map id="fwStructuralPatch::fwData::Material::V3ToV4::apply" name="fwStructuralPatch::fwData::Material::V3ToV4::apply">
+<area shape="rect" id="node3" href="$classfwAtoms_1_1Object.html#ab87ab583d9bda222097ce42045b37a6a" title="Returns requested attribute if exists, empty sptr else. " alt="" coords="227,5,421,35"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="249,59,399,88"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a73ade512c5c20f6dc200b88d417568d7" title="Removes an attribute. " alt="" coords="240,111,408,158"/>
+<area shape="rect" id="node13" href="$classfwAtomsPatch_1_1helper_1_1Object.html#aa5596a46cf7f0d2f5170f86a8fa6a27a" title="Replaces an attribute. " alt="" coords="241,181,407,227"/>
+<area shape="rect" id="node17" href="$classfwAtoms_1_1Numeric.html#a42fd547d403eee1bfd124e8ac3e7ef84" title="Sets Numeric&#39;s value from given string, using Numeric::valueFromString. " alt="" coords="231,250,417,297"/>
+<area shape="rect" id="node21" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="236,319,412,366"/>
+<area shape="rect" id="node9" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="495,181,644,227"/>
+<area shape="rect" id="node11" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="495,111,644,158"/>
+<area shape="rect" id="node19" href="$classfwAtoms_1_1Numeric.html#af21fe38057ccbe166bd17b7ac0036ab8" title="Retuns a ValueType from a std::string. " alt="" coords="469,250,669,297"/>
+</map>

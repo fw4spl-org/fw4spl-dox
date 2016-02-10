@@ -1,0 +1,16 @@
+<map id="fwMedData::ModelSeries" name="fwMedData::ModelSeries">
+<area shape="rect" id="node2" href="$classfwMedData_1_1Series.html" title="Holds series information. " alt="" coords="2225,440,2359,469"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="1833,369,1943,399"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1488,364,1603,393"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="1119,368,1257,397"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1136,315,1240,344"/>
+<area shape="rect" id="node14" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwData::Object \&gt;" alt="" coords="1453,247,1637,294"/>
+<area shape="rect" id="node16" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="607,256,820,285"/>
+<area shape="rect" id="node26" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; CLASS \&gt;" alt="" coords="1096,194,1280,241"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="240,53,363,83"/>
+<area shape="rect" id="node46" title="STL class. " alt="" coords="244,135,359,164"/>
+<area shape="rect" id="node30" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1476,417,1615,447"/>
+<area shape="rect" id="node32" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1131,421,1245,451"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="261,511,341,540"/>
+<area shape="rect" id="node38" title="STL class. " alt="" coords="7,502,132,549"/>
+</map>

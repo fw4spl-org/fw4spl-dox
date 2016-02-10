@@ -1,0 +1,7 @@
+<map id="fwTools::UUID::get" name="fwTools::UUID::get">
+<area shape="rect" id="node3" href="$classfwAtomConversion_1_1DataVisitor.html#a24edc65b5dd21a5a0fff67b25f90ab19" title="Constructor. Initializes atom object and store it in the cache. " alt="" coords="221,5,427,51"/>
+<area shape="rect" id="node5" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ae016dd93a50886a10a48be132e726b0c" title="Test the conversion fwData::Material &#45;&gt; fwAtoms::Object &#45;&gt; fwData::Material. " alt="" coords="191,74,457,121"/>
+<area shape="rect" id="node7" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ab74a55e064e1f49425930dfb113b7eb6" title="Test recursive data conversion. " alt="" coords="233,144,415,208"/>
+<area shape="rect" id="node9" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#aff4ff00db8f9278c9776165f8fe7d831" title="Test exception throwing if uuid already exist. " alt="" coords="212,231,436,278"/>
+<area shape="rect" id="node11" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a54acf9e0c5f5534e93e4e836e8e60037" title="Writing operator. " alt="" coords="221,301,427,347"/>
+</map>

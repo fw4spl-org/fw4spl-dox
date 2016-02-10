@@ -1,0 +1,6 @@
+<map id="fwRuntime::Runtime::getWorkingPath" name="fwRuntime::Runtime::getWorkingPath">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#adf8040cb8edd99814fd17924a27fe749" title="Look for a descriptor at the specified location, reads it and creates a bundle with it..." alt="" coords="211,5,421,51"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#ad2cab3d46376c1a64ee2303db659252c" title="Look for a descriptor at the specified location, reads it and creates a bundle with it..." alt="" coords="197,74,435,121"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1System.html#ade9767528f70ebf350fce5474f85b6f5" title="Returns the system&#39;s temporary folder. Returns the value returned by boost::filesystem::temp_director..." alt="" coords="213,144,419,173"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#a3abd5837149167e4e5e1ea6fa9057912" title="Creates all bundles that are found at the given location. " alt="" coords="483,5,693,51"/>
+</map>

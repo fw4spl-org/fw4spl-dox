@@ -1,0 +1,5 @@
+<map id="fwGui::dialog::LocationDialog" name="fwGui::dialog::LocationDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1ILocationDialog.html" title="fwGui::dialog::ILocation\lDialog" alt="" coords="23,257,180,303"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="25,179,177,208"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="32,101,171,131"/>
+</map>

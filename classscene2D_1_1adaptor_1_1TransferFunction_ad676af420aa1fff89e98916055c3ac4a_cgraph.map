@@ -1,0 +1,5 @@
+<map id="scene2D::adaptor::TransferFunction::doStop" name="scene2D::adaptor::TransferFunction::doStop">
+<area shape="rect" id="node3" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="283,5,429,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#abfd77d495d848dfd3c5b15c04d4a1aa7" title="Get the render that manage the IAdaptor. " alt="" coords="265,74,447,121"/>
+<area shape="rect" id="node7" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#aa84a2bd51463a191c673bcd0b07a7cb9" title="Remove the TF connections. " alt="" coords="235,143,477,190"/>
+</map>

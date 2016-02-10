@@ -1,0 +1,13 @@
+<map id="fwAtomConversion::convert" name="fwAtomConversion::convert">
+<area shape="rect" id="node3" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a6276492d1c7bae112c37f017d8ff2418" title="Test exception throwing if during data to atom conversion a classname is not found in camp factory..." alt="" coords="273,5,479,69"/>
+<area shape="rect" id="node5" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a81d5c96ecd25a20301773fb045350c79" title="Test exception throwing if during data/atom conversion a conversion is not managed. " alt="" coords="280,93,472,157"/>
+<area shape="rect" id="node7" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a86c6381cc6dcdaf0b123c223de674418" title="Test exception throwing if during atom to data conversion a classname is not found in data factory..." alt="" coords="277,181,475,245"/>
+<area shape="rect" id="node9" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ae016dd93a50886a10a48be132e726b0c" title="Test the conversion fwData::Material &#45;&gt; fwAtoms::Object &#45;&gt; fwData::Material. " alt="" coords="243,269,509,315"/>
+<area shape="rect" id="node11" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a18cab42e22876395e8ec4b9b6af866f3" title="Test null ptr management (null ptr attribut, null ptr in vector, null ptr in map) ..." alt="" coords="245,338,507,385"/>
+<area shape="rect" id="node13" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a1b77cb5e9a04b03092fd00bcd6c06c4b" title="Test using an object multi referenced in different structures, test also fwData::Composite conversion..." alt="" coords="280,408,472,472"/>
+<area shape="rect" id="node15" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ab74a55e064e1f49425930dfb113b7eb6" title="Test recursive data conversion. " alt="" coords="285,496,467,560"/>
+<area shape="rect" id="node17" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a71eb28bd4e806df9f6d84c0aed66549b" title="Test fwMedData::SeriesDB conversion. " alt="" coords="239,583,513,630"/>
+<area shape="rect" id="node19" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#aff4ff00db8f9278c9776165f8fe7d831" title="Test exception throwing if uuid already exist. " alt="" coords="264,653,488,699"/>
+<area shape="rect" id="node21" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a880a6be68918a02f9f4e76426ba5c575" title="Test exception throwing if uuid already exist. " alt="" coords="257,722,495,769"/>
+<area shape="rect" id="node23" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#affc789a7dfb161160d11d66ec0537d73" title="Test exception throwing if uuid already exist. " alt="" coords="267,791,485,838"/>
+</map>

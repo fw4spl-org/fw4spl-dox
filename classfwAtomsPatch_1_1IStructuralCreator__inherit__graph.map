@@ -1,0 +1,10 @@
+<map id="fwAtomsPatch::IStructuralCreator" name="fwAtomsPatch::IStructuralCreator">
+<area shape="rect" id="node7" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Equipment1.html" title="Structural creator for fwMedData::Equipment version &#39;1&#39;. " alt="" coords="644,5,788,69"/>
+<area shape="rect" id="node9" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Patient1.html" title="Structural creator for fwMedData::Patient version &#39;1&#39;. " alt="" coords="644,93,788,157"/>
+<area shape="rect" id="node11" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Series1.html" title="Structural creator for fwMedData::Series version 1. " alt="" coords="644,181,788,245"/>
+<area shape="rect" id="node19" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Study1.html" title="Structural creator for fwMedData::Study version &#39;1&#39;. " alt="" coords="644,269,788,333"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,155,369,184"/>
+<area shape="rect" id="node13" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ActivitySeries1.html" title="Structural creator for fwMedData::ActivitySeries version 1. " alt="" coords="839,93,983,157"/>
+<area shape="rect" id="node15" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html" title="Structural creator for fwMedData::ImageSeries version &#39;1&#39;. " alt="" coords="839,181,983,245"/>
+<area shape="rect" id="node17" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ModelSeries1.html" title="Structural creator for fwMedData::ModelSeries version &#39;1&#39;. " alt="" coords="839,269,983,333"/>
+</map>

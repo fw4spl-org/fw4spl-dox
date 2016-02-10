@@ -1,0 +1,11 @@
+<map id="ctrlSelection::IManagerSrv::manageProxies" name="ctrlSelection::IManagerSrv::manageProxies">
+<area shape="rect" id="node3" href="$classfwServices_1_1helper_1_1Config.html#ae1204da5d6190275694b6eff3cd3a033" title="Parses &quot;&lt;proxy&gt;&quot; tags from given configuration to connect signals and slots using proxies..." alt="" coords="229,178,376,225"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="468,5,607,51"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1ConfigurationElement.html#a5ee64ff02f9b5a8d0f9f3e52145372b8" title="Tells if the specified attributes exists. " alt="" coords="452,74,623,121"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1ConfigurationElement.html#a6fb9bbd034350ef9fddd427a06d2b3fc" title="Retrieves the value of an attribute for the specified name. " alt="" coords="425,143,649,190"/>
+<area shape="rect" id="node11" href="$structfwRuntime_1_1ConfigurationElementContainer.html#ada9c86a62b6a940936827606c264c371" title="Returns the configuration element container. " alt="" coords="435,213,640,259"/>
+<area shape="rect" id="node13" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="453,283,621,312"/>
+<area shape="rect" id="node15" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="465,336,609,365"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="700,297,871,343"/>
+<area shape="rect" id="node19" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="716,367,855,396"/>
+</map>

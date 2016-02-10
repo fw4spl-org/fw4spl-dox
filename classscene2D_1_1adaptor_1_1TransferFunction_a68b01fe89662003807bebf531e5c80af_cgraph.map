@@ -1,0 +1,17 @@
+<map id="scene2D::adaptor::TransferFunction::doSwap" name="scene2D::adaptor::TransferFunction::doSwap">
+<area shape="rect" id="node3" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a30a485999be455171cd8318f306d7fc0" title="scene2D::adaptor::Transfer\lFunction::doUpdate" alt="" coords="265,185,447,231"/>
+<area shape="rect" id="node29" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a845eaea142fe0fffe8cac740f83f4c4f" title="Install connections to listen TF modifications. " alt="" coords="239,273,473,319"/>
+<area shape="rect" id="node35" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#aa84a2bd51463a191c673bcd0b07a7cb9" title="Remove the TF connections. " alt="" coords="235,342,477,389"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a3d27d250eb47bec918554189318ed543" title="Update the image information (slice index, min/max,...) " alt="" coords="532,106,745,153"/>
+<area shape="rect" id="node7" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a82c1509bc6a0113a631c234702c67a54" title="Update the transfer function information. " alt="" coords="540,176,737,240"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="812,61,980,91"/>
+<area shape="rect" id="node11" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#a5a9e6da3b6d58f66360a937620f547b1" title="Check if the image is valid. " alt="" coords="1075,5,1229,69"/>
+<area shape="rect" id="node13" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#ae4e6699751faeb6ca802855220b384a2" title="Return minimum and maximum values contained in image. If image min or max value is out of MINMAXTYPE ..." alt="" coords="1075,93,1229,157"/>
+<area shape="rect" id="node15" href="$classfwComEd_1_1helper_1_1Composite.html#a9a13f6097cbb512bb6cdfab6987b4b5b" title="Add an object in the composite. " alt="" coords="1041,320,1263,349"/>
+<area shape="rect" id="node17" href="$classfwComEd_1_1helper_1_1Composite.html#a7ee86890a448cf9e0680f6d97a91eb4b" title="Send the message of modification. " alt="" coords="1055,373,1249,419"/>
+<area shape="rect" id="node19" href="$classfwComEd_1_1helper_1_1Image.html#a433706f74a7d6de3853c8489dcab54ec" title="Create transfer function pool if the pool is not present, NOT GENERATE MESSAGE. " alt="" coords="801,215,991,262"/>
+<area shape="rect" id="node24" href="$classfwComEd_1_1helper_1_1Field.html#a3d4bfe6d337875d690d45ac96676a781" title="Send the built message. " alt="" coords="1073,181,1231,227"/>
+<area shape="rect" id="node27" href="$classfwComEd_1_1helper_1_1Field.html#ac9e8f0e7afff01116aa299d64ec47280" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="1073,250,1231,297"/>
+<area shape="rect" id="node31" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a1567ce5e6975bc02c55bd4b3035996f4" title="Get the current transfer function selection. " alt="" coords="525,264,752,328"/>
+<area shape="rect" id="node33" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a80f33a841d4848c99f4becebed7c4641" title="Get the current transfer function. " alt="" coords="525,351,752,398"/>
+</map>

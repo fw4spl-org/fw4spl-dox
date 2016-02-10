@@ -1,0 +1,9 @@
+<map id="fwStructuralPatch::fwData::Study::V1ToFwMedDataStudyV1::apply" name="fwStructuralPatch::fwData::Study::V1ToFwMedDataStudyV1::apply">
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="283,5,432,51"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="283,213,432,243"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a73ade512c5c20f6dc200b88d417568d7" title="Removes an attribute. " alt="" coords="273,74,441,121"/>
+<area shape="rect" id="node15" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a665f67b00ad445fdb12943c96d965025" title="Renames an attribute. " alt="" coords="273,143,441,190"/>
+<area shape="rect" id="node19" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="269,266,445,313"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="495,39,644,86"/>
+<area shape="rect" id="node7" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="495,109,644,155"/>
+</map>

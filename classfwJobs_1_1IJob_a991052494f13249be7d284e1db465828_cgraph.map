@@ -1,0 +1,3 @@
+<map id="fwJobs::IJob::addTotalWorkUnitsHook" name="fwJobs::IJob::addTotalWorkUnitsHook">
+<area shape="rect" id="node3" href="$classfwJobs_1_1IJob.html#af597fd11074aaa0b0bfa93e49b21c200" title="Add job work unit callback to sequence without mutex lock for total work unit hook. " alt="" coords="240,5,427,51"/>
+</map>

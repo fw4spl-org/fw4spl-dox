@@ -1,0 +1,36 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title="STL class. " alt="" coords="5,831,109,860"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="159,831,281,860"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1Exception.html" title="fwCore::Exception" alt="" coords="331,804,461,833"/>
+<area shape="rect" id="node67" href="$classfwTest_1_1Exception.html" title="fwTest::Exception" alt="" coords="332,857,460,887"/>
+<area shape="rect" id="node7" href="$structfwAtomConversion_1_1exception_1_1ClassnameMismatch.html" title="Throw this exception when a new data is created with a specific uuid, but this data already exists in..." alt="" coords="511,5,708,51"/>
+<area shape="rect" id="node9" href="$structfwAtomConversion_1_1exception_1_1ConversionNotManaged.html" title="Throw this exception when a conversion between data and atom is not managed (error message explains t..." alt="" coords="511,74,708,121"/>
+<area shape="rect" id="node11" href="$structfwAtomConversion_1_1exception_1_1DataFactoryNotFound.html" title="Throw this exception when an object classname is not found exception in fwData::factory. " alt="" coords="511,143,708,190"/>
+<area shape="rect" id="node13" href="$structfwAtomConversion_1_1exception_1_1DuplicatedDataUUID.html" title="Throw this exception when a new data is created with a specific uuid, but this data already exists in..." alt="" coords="511,213,708,259"/>
+<area shape="rect" id="node15" href="$structfwAtomConversion_1_1exception_1_1NullPointer.html" title="Null pointer exception. " alt="" coords="511,282,708,329"/>
+<area shape="rect" id="node17" href="$structfwAtomConversion_1_1exception_1_1ObjectNotFound.html" title="Object not found exception. " alt="" coords="511,351,708,398"/>
+<area shape="rect" id="node19" href="$structfwAtoms_1_1Exception.html" title="Implements atoms exception. " alt="" coords="540,421,679,451"/>
+<area shape="rect" id="node21" href="$classfwAtomsPatch_1_1exceptions_1_1Base.html" title="Base class of fwAtomsPatch exceptions. " alt="" coords="520,474,699,521"/>
+<area shape="rect" id="node31" href="$structfwCom_1_1exception_1_1AlreadyConnected.html" title="Bad call exception. " alt="" coords="520,543,699,590"/>
+<area shape="rect" id="node33" href="$structfwCom_1_1exception_1_1BadCall.html" title="Bad call exception. " alt="" coords="519,613,700,643"/>
+<area shape="rect" id="node35" href="$structfwCom_1_1exception_1_1BadRun.html" title="Bad run exception. " alt="" coords="519,667,700,696"/>
+<area shape="rect" id="node37" href="$structfwCom_1_1exception_1_1BadSlot.html" title="Bad slot exception. " alt="" coords="519,720,700,749"/>
+<area shape="rect" id="node39" href="$structfwCom_1_1exception_1_1NoWorker.html" title="No worker exception. " alt="" coords="512,773,707,803"/>
+<area shape="rect" id="node41" href="$structfwCom_1_1exception_1_1WorkerChanged.html" title="No worker exception. " alt="" coords="520,826,699,873"/>
+<area shape="rect" id="node43" href="$classfwData_1_1Exception.html" title="Implements data exception class. " alt="" coords="544,896,675,925"/>
+<area shape="rect" id="node45" href="$structfwDataCamp_1_1exception_1_1NullPointer.html" title="Null pointer exception. " alt="" coords="528,949,691,995"/>
+<area shape="rect" id="node47" href="$structfwDataCamp_1_1exception_1_1ObjectNotFound.html" title="Object not found exception. " alt="" coords="528,1018,691,1065"/>
+<area shape="rect" id="node49" href="$structfwJobs_1_1exception_1_1Waiting.html" title="No worker exception. " alt="" coords="541,1087,677,1134"/>
+<area shape="rect" id="node51" href="$structfwMemory_1_1exception_1_1BadCast.html" title="Implements an exception class for bad cast. " alt="" coords="536,1157,683,1203"/>
+<area shape="rect" id="node53" href="$structfwMemory_1_1exception_1_1Memory.html" title="Implements an exception class for fwMemory. " alt="" coords="536,1226,683,1273"/>
+<area shape="rect" id="node55" href="$structfwRuntime_1_1ConfigurationElement_1_1NoSuchAttribute.html" title="Defines the a class for attributes exceptions. " alt="" coords="523,1295,696,1342"/>
+<area shape="rect" id="node57" href="$structfwRuntime_1_1RuntimeException.html" title="Defines the runtime exception class. " alt="" coords="509,1365,709,1395"/>
+<area shape="rect" id="node59" href="$structfwTools_1_1Exception.html" title="Implements fwTools exception class. " alt="" coords="543,1419,676,1448"/>
+<area shape="rect" id="node61" href="$structfwTools_1_1Failed.html" title="Implements a failed exception class. " alt="" coords="555,1472,664,1501"/>
+<area shape="rect" id="node63" href="$structfwZip_1_1exception_1_1Read.html" title="Read exception. " alt="" coords="531,1525,688,1555"/>
+<area shape="rect" id="node65" href="$structfwZip_1_1exception_1_1Write.html" title="Write exception. " alt="" coords="531,1579,688,1608"/>
+<area shape="rect" id="node23" href="$classfwAtomsPatch_1_1exceptions_1_1BadExtension.html" title="Exception defining a wrong extension in a filename. " alt="" coords="757,370,936,417"/>
+<area shape="rect" id="node25" href="$classfwAtomsPatch_1_1exceptions_1_1ImpossibleConversion.html" title="Reports an impossible conversion between data objects. " alt="" coords="757,439,936,486"/>
+<area shape="rect" id="node27" href="$classfwAtomsPatch_1_1exceptions_1_1MissingInformation.html" title="Reports an missing information required for data object patching. " alt="" coords="757,509,936,555"/>
+<area shape="rect" id="node29" href="$classfwAtomsPatch_1_1exceptions_1_1UnknownVersion.html" title="Thrown when a given object version is unknown and can&#39;t be processed. " alt="" coords="757,578,936,625"/>
+</map>

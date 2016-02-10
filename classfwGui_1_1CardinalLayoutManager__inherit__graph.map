@@ -1,0 +1,6 @@
+<map id="fwGui::CardinalLayoutManager" name="fwGui::CardinalLayoutManager">
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1CardinalLayoutManagerBase.html" title="Defines the base for cardinal layout manager. " alt="" coords="7,353,204,399"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM. " alt="" coords="29,257,181,303"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="29,179,181,208"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="36,101,175,131"/>
+</map>

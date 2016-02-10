@@ -1,0 +1,23 @@
+<map id="fwDataIO::writer::IObjectWriter" name="fwDataIO::writer::IObjectWriter">
+<area shape="rect" id="node7" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="644,263,833,310"/>
+<area shape="rect" id="node9" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ModelSeries \&gt;" alt="" coords="1071,189,1252,253"/>
+<area shape="rect" id="node13" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Mesh \&gt;" alt="" coords="1076,96,1247,160"/>
+<area shape="rect" id="node19" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ImageSeries \&gt;" alt="" coords="1071,5,1252,69"/>
+<area shape="rect" id="node23" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="1071,285,1252,349"/>
+<area shape="rect" id="node27" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Array \&gt;" alt="" coords="1076,373,1247,437"/>
+<area shape="rect" id="node33" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="1076,547,1247,611"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,272,372,301"/>
+<area shape="rect" id="node11" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html" title="Write a fwData::Reconstruction.Write a fwData::Reconstruction as .obj file using the VTK lib and the ..." alt="" coords="1308,207,1513,236"/>
+<area shape="rect" id="node15" href="$classfwDataIO_1_1writer_1_1MeshWriter.html" title="Mesh writer. Write file format .trian. " alt="" coords="1315,141,1507,171"/>
+<area shape="rect" id="node17" href="$classfwVtkIO_1_1MeshWriter.html" title="Write a mesh.Write a VTK Mesh using the VTK lib. " alt="" coords="1339,88,1483,117"/>
+<area shape="rect" id="node21" href="$classvtkGdcmIO_1_1ImageSeriesWriter.html" title="Write an ImageSeries in DICOM format. " alt="" coords="1308,23,1513,52"/>
+<area shape="rect" id="node25" href="$classfwDataIO_1_1writer_1_1TransformationMatrix3DWriter.html" title="Writer for transformation of 3D Matrix. Write file format .trf. " alt="" coords="1304,259,1517,306"/>
+<area shape="rect" id="node29" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html" title="Array Writer. Write file format .raw. " alt="" coords="1315,329,1507,359"/>
+<area shape="rect" id="node31" href="$classfwDataIO_1_1writer_1_1GzArrayWriter.html" title="Array Writer. Write file format .raw.gz. " alt="" coords="1324,382,1497,429"/>
+<area shape="rect" id="node35" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html" title="Image Writer. Write file format .raw.gz. " alt="" coords="1321,451,1500,498"/>
+<area shape="rect" id="node37" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="1339,521,1483,551"/>
+<area shape="rect" id="node39" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="1328,575,1493,604"/>
+<area shape="rect" id="node41" href="$classfwVtkIO_1_1ImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="1336,628,1485,657"/>
+<area shape="rect" id="node43" href="$classfwVtkIO_1_1MetaImageWriter.html" title="Write a MetaImage.Write a MetaImage using the VTK lib. " alt="" coords="1321,681,1500,711"/>
+<area shape="rect" id="node45" href="$classfwVtkIO_1_1VtiImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="1328,735,1493,764"/>
+</map>

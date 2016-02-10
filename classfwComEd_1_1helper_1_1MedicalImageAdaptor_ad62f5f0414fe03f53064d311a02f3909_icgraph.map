@@ -1,0 +1,6 @@
+<map id="fwComEd::helper::MedicalImageAdaptor::updatingTFPoints" name="fwComEd::helper::MedicalImageAdaptor::updatingTFPoints">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a965ca83a64ccdac1adab92698ccebdda" title="Slot: called when transfer function points are modified. " alt="" coords="267,65,469,111"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#ac3137e3dbb3a61149601dfbcddb7b031" title="Slot: add objects. " alt="" coords="529,5,705,51"/>
+<area shape="rect" id="node7" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a935c28781745202e9d163e6efe2bb9f4" title="Install the slots to managed TF modifications. " alt="" coords="767,65,956,111"/>
+<area shape="rect" id="node9" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a6cf16cbea7622dad2cf0145da2e2ebb0" title="Slot: change objects. " alt="" coords="519,125,716,171"/>
+</map>

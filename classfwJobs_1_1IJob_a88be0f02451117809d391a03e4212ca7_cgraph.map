@@ -1,0 +1,4 @@
+<map id="fwJobs::IJob::addSimpleCancelHook" name="fwJobs::IJob::addSimpleCancelHook">
+<area shape="rect" id="node3" href="$classfwJobs_1_1IJob.html#a2905dca6f77148bfe88086784ab81eb2" title="Add cancel callback to sequence for cancel hook. " alt="" coords="295,13,492,43"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#ac82043e5df5dce195b5e62aabcf1e383" title="Add job cancel callback to sequence without mutex lock for cancel hook. " alt="" coords="543,5,740,51"/>
+</map>

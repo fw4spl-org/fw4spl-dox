@@ -1,0 +1,15 @@
+<map id="fwComEd::helper::Image::createTransferFunctionPool" name="fwComEd::helper::Image::createTransferFunctionPool">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a82c1509bc6a0113a631c234702c67a54" title="Update the transfer function information. " alt="" coords="247,308,444,372"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1Negato.html#ab581aa5d2b01f9e078c6f6e86cf7a059" title="Pure virtual &#45;&gt; implemented in the subclasses. " alt="" coords="497,74,671,121"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a30a485999be455171cd8318f306d7fc0" title="scene2D::adaptor::Transfer\lFunction::doUpdate" alt="" coords="493,247,675,294"/>
+<area shape="rect" id="node21" href="$classuiImage_1_1WindowLevel.html#a1b6f272c5e0c02df115981d240d304d8" title="Update editor information from the image. " alt="" coords="507,386,661,433"/>
+<area shape="rect" id="node27" href="$classuiImage_1_1WindowLevel.html#a11dece0c998a2fad0a9cb2d63ef1083a" title="Called when transfer function windowing is modified. " alt="" coords="505,455,663,502"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1Negato.html#a24e98bab91a1c85dc77c215ebdca71aa" title="Pure virtual &#45;&gt; implemented in the subclasses. " alt="" coords="741,5,915,51"/>
+<area shape="rect" id="node11" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#af58b0c35880641014f0b87e345fb4e60" title="scene2D::adaptor::Transfer\lFunction::doStart" alt="" coords="737,74,919,121"/>
+<area shape="rect" id="node13" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#add849cc6e389ee0f3deed02c928a12ad" title="Called when transfer function points are modified. " alt="" coords="737,143,919,190"/>
+<area shape="rect" id="node15" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a1c3a798a1f7627474219cbe841871589" title="Called when transfer function windowing is modified. " alt="" coords="724,213,932,259"/>
+<area shape="rect" id="node17" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a68b01fe89662003807bebf531e5c80af" title="scene2D::adaptor::Transfer\lFunction::doSwap" alt="" coords="737,282,919,329"/>
+<area shape="rect" id="node19" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a00aec38d472c0714930eaf411d0e0a68" title="scene2D::adaptor::Transfer\lFunction::processInteraction" alt="" coords="735,351,921,398"/>
+<area shape="rect" id="node23" href="$classuiImage_1_1WindowLevel.html#a30238b79b9c852e349d7f08fc06765a6" title="Swap of image. " alt="" coords="751,421,905,467"/>
+<area shape="rect" id="node25" href="$classuiImage_1_1WindowLevel.html#ad39c747b18b452868f8c5cd6bd74e956" title="Called when transfer function points are modified. " alt="" coords="751,490,905,537"/>
+</map>

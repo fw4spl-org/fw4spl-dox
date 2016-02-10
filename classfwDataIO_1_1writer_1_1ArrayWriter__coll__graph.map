@@ -1,0 +1,10 @@
+<map id="fwDataIO::writer::ArrayWriter" name="fwDataIO::writer::ArrayWriter">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Array \&gt;" alt="" coords="1083,61,1253,125"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="501,43,669,90"/>
+<area shape="rect" id="node14" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="721,79,911,126"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,15,372,44"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="263,79,343,108"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="31,74,156,121"/>
+<area shape="rect" id="node17" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="1087,149,1249,213"/>
+<area shape="rect" id="node19" href="$structfwData_1_1location_1_1enableSingleFile.html" title="This class is derived by reader/writer. " alt="" coords="735,158,897,205"/>
+</map>

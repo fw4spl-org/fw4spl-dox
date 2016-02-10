@@ -1,0 +1,14 @@
+<map id="fwComEd::helper::Mesh::setCellColor" name="fwComEd::helper::Mesh::setCellColor">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1Mesh.html#affbbfe1e16e0d1748064f53e23a951b5" title="Colorize mesh (cell color). " alt="" coords="221,39,365,86"/>
+<area shape="rect" id="node19" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a8a29efe0aeb5bce720275754c641839b" title="Convert a vtkUnstructuredGrid to a ::fwData::Mesh::sptr. " alt="" coords="217,109,369,155"/>
+<area shape="rect" id="node23" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a802a45b11d1140aca0e8001a1fe0115c" title="Convert a vtkPolyData to a ::fwData::Mesh::sptr. " alt="" coords="217,178,369,225"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="435,39,579,86"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="643,39,867,86"/>
+<area shape="rect" id="node9" href="$classfwTest_1_1generator_1_1Object.html#a3bd0ae3313d9d8c4de1dbc9239327d2c" title="Creates a Resection with 2 planes, 1 input Reconstruction and 1 output Reconstruction. " alt="" coords="924,5,1100,51"/>
+<area shape="rect" id="node13" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0ee07722d0f1c74347d0966dc85049ac" title="Returns a ModelSeries containing random Reconstructions. " alt="" coords="915,74,1109,121"/>
+<area shape="rect" id="node11" href="$classfwTest_1_1generator_1_1Object.html#aec8448030a011689b1c3832dd325d401" title="Creates a ResectionDB containing one Resection. " alt="" coords="1159,5,1353,51"/>
+<area shape="rect" id="node15" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0de89a71e6ef0a53ebdfa94e71a1f4a0" title="Creates a SeriesDB. " alt="" coords="1167,74,1345,121"/>
+<area shape="rect" id="node17" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a71eb28bd4e806df9f6d84c0aed66549b" title="Test fwMedData::SeriesDB conversion. " alt="" coords="1404,74,1679,121"/>
+<area shape="rect" id="node21" href="$classfwVtkIO_1_1SeriesDBReader.html#aae0981697623203c49633157bb690549" title="Destructor. " alt="" coords="419,109,595,155"/>
+<area shape="rect" id="node25" href="$classfwVtkIO_1_1MeshReader.html#a3ce860f834cbf651c5f16169b6d9add6" title="Reading operator. " alt="" coords="431,178,583,225"/>
+</map>

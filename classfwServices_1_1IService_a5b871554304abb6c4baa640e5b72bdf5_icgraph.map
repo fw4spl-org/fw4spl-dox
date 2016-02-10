@@ -1,0 +1,5 @@
+<map id="fwServices::IService::stopping" name="fwServices::IService::stopping">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a3235af512c359d38e9740533f641a1dc" title="Invoke stopping() if m_globalState == STARTED. Does nothing otherwise. Stops all observations. " alt="" coords="215,5,356,51"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1IManagerSrv.html#afead5b1dd1aae50a6b562f3349c6ec5a" title="Swaps the service from associated object to another object. Stops and starts this service..." alt="" coords="197,74,373,121"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#ad540e61677f83ee6d057317da73f3ad9" title="IService constructor. " alt="" coords="423,5,564,51"/>
+</map>

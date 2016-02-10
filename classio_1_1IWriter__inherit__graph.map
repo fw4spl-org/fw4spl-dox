@@ -1,0 +1,21 @@
+<map id="io::IWriter" name="io::IWriter">
+<area shape="rect" id="node17" href="$classioAtoms_1_1SWriter.html" title="Atoms writer. Service to write an fwData medical data converted in fwAtoms. " alt="" coords="971,5,1093,35"/>
+<area shape="rect" id="node19" href="$classioData_1_1MeshWriterService.html" title="Mesh writer service. " alt="" coords="943,59,1121,88"/>
+<area shape="rect" id="node21" href="$classioData_1_1TransformationMatrix3DWriterService.html" title="Transformation matrix 3D writer service. " alt="" coords="933,111,1131,158"/>
+<area shape="rect" id="node23" href="$classioITK_1_1InrImageWriterService.html" title="ioITK::InrImageWriterService" alt="" coords="937,181,1127,211"/>
+<area shape="rect" id="node25" href="$classioITK_1_1JpgImageWriterService.html" title="ioITK::JpgImageWriterService" alt="" coords="933,235,1131,264"/>
+<area shape="rect" id="node27" href="$classioITK_1_1SImageSeriesWriter.html" title="Write an image to inr format. " alt="" coords="943,288,1121,317"/>
+<area shape="rect" id="node29" href="$classioITK_1_1SJpgImageSeriesWriter.html" title="Write an image to jpg format. " alt="" coords="933,341,1131,371"/>
+<area shape="rect" id="node31" href="$classioVTK_1_1SImageSeriesWriter.html" title="VTK Image Writer. " alt="" coords="941,395,1123,424"/>
+<area shape="rect" id="node33" href="$classioVTK_1_1SImageWriter.html" title="VTK Image Writer. " alt="" coords="959,448,1105,477"/>
+<area shape="rect" id="node35" href="$classioVTK_1_1SMeshWriter.html" title="VTK Mesh Writer. " alt="" coords="961,501,1103,531"/>
+<area shape="rect" id="node37" href="$classioVTK_1_1SModelSeriesObjWriter.html" title="Wavefront OBJ files. " alt="" coords="931,555,1133,584"/>
+<area shape="rect" id="node39" href="$classioVTK_1_1SModelSeriesWriter.html" title="VTK Model series writer.Service writing a model series as .vtk files using the fwVtkIO lib..." alt="" coords="941,608,1123,637"/>
+<area shape="rect" id="node41" href="$classioVtkGdcm_1_1SImageSeriesWriter.html" title="Services to write an ImageSeries in DICOM format. " alt="" coords="927,661,1137,691"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="607,341,748,371"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,288,545,317"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,261,369,291"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,315,352,344"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,341,551,371"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,395,557,424"/>
+</map>

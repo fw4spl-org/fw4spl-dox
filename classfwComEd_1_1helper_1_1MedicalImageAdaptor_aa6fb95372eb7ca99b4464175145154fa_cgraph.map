@@ -1,0 +1,5 @@
+<map id="fwComEd::helper::MedicalImageAdaptor::sliceIndexToWorld" name="fwComEd::helper::MedicalImageAdaptor::sliceIndexToWorld">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a2f39daba24f02c3fe63ad8f2e66ce8c5" title="Get the image origin. " alt="" coords="280,5,477,51"/>
+<area shape="rect" id="node7" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#ab151a5e40a286ae6fe40c065b4962026" title="Get the image spacing. " alt="" coords="273,74,484,121"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#aaa7cfeca2a01e237aae473f9edd7634f" title="Return the image. " alt="" coords="533,39,709,86"/>
+</map>

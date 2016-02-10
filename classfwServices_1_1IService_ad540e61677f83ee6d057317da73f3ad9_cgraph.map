@@ -1,0 +1,16 @@
+<map id="fwServices::IService::IService" name="fwServices::IService::IService">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a933416067bb8ddbd0430ddaa04f448b6" title="Invoke starting() if m_globalState == STOPPED. Does nothing otherwise. " alt="" coords="199,158,340,205"/>
+<area shape="rect" id="node15" href="$classfwServices_1_1IService.html#a3235af512c359d38e9740533f641a1dc" title="Invoke stopping() if m_globalState == STARTED. Does nothing otherwise. Stops all observations. " alt="" coords="199,227,340,274"/>
+<area shape="rect" id="node21" href="$classfwServices_1_1IService.html#a7cf9749932ef5e17fc08b1459de4dead" title="Associate the service to another object. " alt="" coords="199,89,340,135"/>
+<area shape="rect" id="node27" href="$classfwServices_1_1IService.html#a1eb9b44c43e795e7abee1076b8498620" title="Invoke updating() if m_globalState == STARTED. Does nothing otherwise. " alt="" coords="199,309,340,355"/>
+<area shape="rect" id="node5" href="$namespacefwThread.html#aaf7b51e7215e6034e76893de2ace31e2" title="Returns the current thread id. " alt="" coords="391,197,585,227"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="416,144,560,173"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1IService.html#a891035700cff52c766fa8b0b558f60b3" title="Initialize the service activity. " alt="" coords="417,74,559,121"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="651,166,821,213"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="667,113,805,143"/>
+<area shape="rect" id="node19" href="$classfwServices_1_1IService.html#a5b871554304abb6c4baa640e5b72bdf5" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="417,250,559,297"/>
+<area shape="rect" id="node25" href="$classfwServices_1_1IService.html#a583479b54b98d4a551a0c7e29176d8e1" title="Swap the service from associated object to another object. " alt="" coords="417,5,559,51"/>
+<area shape="rect" id="node30" href="$classfwTools_1_1Object.html#a2e22c161eea133b22c6c7d7a6a3d0288" title="return the sub class classname : an alias of this&#45;&gt;getClassname " alt="" coords="395,389,581,419"/>
+<area shape="rect" id="node34" href="$classfwServices_1_1IService.html#a19f7e6b221251ddc8ff50fd6895a5aca" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="417,319,559,366"/>
+<area shape="rect" id="node32" href="$classfwData_1_1Object.html#af0357de4a1e118c53ee9f5f82413030b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="635,389,837,419"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="fwTools::UUID::generateUUID" name="fwTools::UUID::generateUUID">
+<area shape="rect" id="node3" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html#a49ab872a3e016c05b02f8f914f53db1b" title="Applies patch. " alt="" coords="273,5,433,69"/>
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html#aad5ff8244b1512f33079e4a98726239e" title="Applies patch. " alt="" coords="276,93,431,157"/>
+<area shape="rect" id="node7" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html#a422877ba4357eebad6350bcde8db1203" title="Applies patch. " alt="" coords="261,181,445,245"/>
+<area shape="rect" id="node9" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#acdf6ac2779b5f829ae1eb9ecb8e47950" title="Applies patch. " alt="" coords="263,269,444,333"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#a64367de970f3ff45b82dd2019d6e4b79" title="Copy constructor. " alt="" coords="263,357,444,421"/>
+<area shape="rect" id="node13" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a81d5c96ecd25a20301773fb045350c79" title="Test exception throwing if during data/atom conversion a conversion is not managed. " alt="" coords="257,445,449,509"/>
+<area shape="rect" id="node15" href="$namespacefwAtomsPatch_1_1helper.html#add721d8f72ff81d766effa9dca8bba46" title="Generates new id for the object (also creates it if it is missing ) " alt="" coords="279,533,428,579"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1UUID.html#a472c81a8610b2e6427c0f2079a71d56a" title="Return an uuid to the given object : if no one previously set then generate a new one..." alt="" coords="285,603,421,632"/>
+<area shape="rect" id="node29" href="$classfwVtkIO_1_1SeriesDBReader.html#a40d19253ad8723564916471bd7c5e829" title="Reading operator. " alt="" coords="265,655,441,702"/>
+<area shape="rect" id="node19" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ae016dd93a50886a10a48be132e726b0c" title="Test the conversion fwData::Material &#45;&gt; fwAtoms::Object &#45;&gt; fwData::Material. " alt="" coords="500,437,767,483"/>
+<area shape="rect" id="node21" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#ab74a55e064e1f49425930dfb113b7eb6" title="Test recursive data conversion. " alt="" coords="543,507,724,571"/>
+<area shape="rect" id="node23" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#aff4ff00db8f9278c9776165f8fe7d831" title="Test exception throwing if uuid already exist. " alt="" coords="521,594,745,641"/>
+<area shape="rect" id="node25" href="$classfwAtomConversion_1_1DataVisitor.html#a24edc65b5dd21a5a0fff67b25f90ab19" title="Constructor. Initializes atom object and store it in the cache. " alt="" coords="531,663,736,710"/>
+<area shape="rect" id="node27" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a54acf9e0c5f5534e93e4e836e8e60037" title="Writing operator. " alt="" coords="531,733,736,779"/>
+</map>

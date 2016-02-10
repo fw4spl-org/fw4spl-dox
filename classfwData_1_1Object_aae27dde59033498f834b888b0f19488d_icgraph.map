@@ -1,0 +1,5 @@
+<map id="fwData::Object::getField" name="fwData::Object::getField">
+<area shape="rect" id="node3" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#ae7656d634ec1de6b2b28a8cc34ad6b3f" title="Check if the image has slice index fields. " alt="" coords="223,5,385,69"/>
+<area shape="rect" id="node7" href="$classfwData_1_1Object.html#af8967041e03434f85c5d0ba8bf64ef59" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="219,93,389,139"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#ab3670d6085096e85da382c9e4ab048d9" title="Get the X,Y,Z slice position. " alt="" coords="439,5,593,69"/>
+</map>

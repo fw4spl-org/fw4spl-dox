@@ -1,0 +1,5 @@
+<map id="fwGui::container::fwMenuBar" name="fwGui::container::fwMenuBar">
+<area shape="rect" id="node9" href="$classfwGuiQt_1_1container_1_1QtMenuBarContainer.html" title="Defines the Qt menu bar container for GUI. " alt="" coords="24,334,176,381"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="24,179,176,208"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="31,101,169,131"/>
+</map>

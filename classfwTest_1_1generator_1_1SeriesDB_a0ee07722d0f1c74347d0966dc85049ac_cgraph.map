@@ -1,0 +1,22 @@
+<map id="fwTest::generator::SeriesDB::createModelSeries" name="fwTest::generator::SeriesDB::createModelSeries">
+<area shape="rect" id="node3" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="256,247,480,294"/>
+<area shape="rect" id="node35" href="$classfwTest_1_1generator_1_1SeriesDB.html#a5143a60b65dd9e4a85031f1ac50574c8" title="Generates dummy informations for the series. " alt="" coords="249,351,487,398"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Image.html#a299c96b97daf1195878ce8ed4610c8f5" title="Generate an image with random information (size, spacing, ...). Buffer is filled with random values..." alt="" coords="537,74,737,121"/>
+<area shape="rect" id="node11" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="565,247,709,294"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1generator_1_1Image.html#a8989dc83dfe86a0195c0ee01ed09a17f" title="Fill array with random value. " alt="" coords="804,5,961,51"/>
+<area shape="rect" id="node9" href="$classfwComEd_1_1helper_1_1Array.html#a454626c01dea62da18bac37e36b568be" title="Returns the begining/end of the buffer interpreted as a char buffer. " alt="" coords="1027,5,1189,51"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1Mesh.html#affbbfe1e16e0d1748064f53e23a951b5" title="Colorize mesh (cell color). " alt="" coords="811,74,955,121"/>
+<area shape="rect" id="node17" href="$classfwDataTools_1_1Mesh.html#a043d764f0548195d21f89fb9b1a79135" title="Colorize mesh (vertex point color). " alt="" coords="811,143,955,190"/>
+<area shape="rect" id="node21" href="$classfwDataTools_1_1Mesh.html#a62e0c984ef8cc21c253568bebf94f7de" title="Generate cell normals for the mesh. " alt="" coords="811,213,955,259"/>
+<area shape="rect" id="node23" href="$classfwDataTools_1_1Mesh.html#a5535fde4ecf575940e72910fce37d426" title="Generate point normals for the mesh. " alt="" coords="808,282,957,329"/>
+<area shape="rect" id="node25" href="$classfwTest_1_1generator_1_1Mesh.html#a4570ba8da6f37f890ae8d069e0cae433" title="Generate a triangle mesh. " alt="" coords="788,351,977,398"/>
+<area shape="rect" id="node29" href="$classfwTest_1_1generator_1_1Mesh.html#a730a3412fc1520d95614bbb13543997d" title="Initialize &#39;rand&#39; seed. " alt="" coords="817,421,948,467"/>
+<area shape="rect" id="node31" href="$classfwDataTools_1_1Mesh.html#a2db3fd91a3506c3e1c33df68bed250b9" title="Shake points of the mesh. " alt="" coords="811,490,955,537"/>
+<area shape="rect" id="node15" href="$classfwComEd_1_1helper_1_1Mesh.html#a2b41d386cc4272dcb38cd631db510a1e" title="Set a cell color. " alt="" coords="1027,74,1189,121"/>
+<area shape="rect" id="node19" href="$classfwComEd_1_1helper_1_1Mesh.html#ac90d8946c550a4e80812bd6b65283921" title="Set a point color. " alt="" coords="1027,143,1189,190"/>
+<area shape="rect" id="node27" href="$classfwTest_1_1generator_1_1Mesh.html#a67e01fe2e032dd3a6b64a837eafb8e7e" title="Add triangle cells in mesh, this method generates synthetic data (two face of a cube). " alt="" coords="1028,351,1188,398"/>
+<area shape="rect" id="node33" href="$classfwComEd_1_1helper_1_1Mesh.html#ad001219292e78e4de2cc26673f942c7c" title="Returns the internal corresponding array as a boost::multi_array_ref. " alt="" coords="1027,490,1189,537"/>
+<area shape="rect" id="node37" href="$classfwTest_1_1generator_1_1SeriesDB.html#a12cda0621b2bfbf48e5b51cf8969bb39" title="Returns a Patient with dummy informations. " alt="" coords="556,317,719,363"/>
+<area shape="rect" id="node39" href="$classfwTest_1_1generator_1_1SeriesDB.html#aebe9414cc9f826c46b570b4cd39fbf0e" title="Returns a Study with dummy informations. " alt="" coords="560,386,715,433"/>
+<area shape="rect" id="node41" href="$classfwTest_1_1generator_1_1SeriesDB.html#a2b5f1555ca3db0b1f0c16b48b7b1b042" title="Returns an Equipment with dummy informations. " alt="" coords="543,455,732,502"/>
+</map>

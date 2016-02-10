@@ -1,0 +1,7 @@
+<map id="ctrlSelection::IManagerSrv::manageConnection" name="ctrlSelection::IManagerSrv::manageConnection">
+<area shape="rect" id="node3" href="$classfwServices_1_1helper_1_1Config.html#acc74b29a783b80d57eded917025660c3" title="Parses &quot;&lt;connect&gt;&quot; tags from given configuration to connect signals and slots using given helper..." alt="" coords="231,62,415,109"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="476,44,620,73"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="464,97,632,127"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="681,5,852,51"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="697,75,836,104"/>
+</map>

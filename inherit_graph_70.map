@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfwAtomConversion_1_1mapper_1_1Base.html" title="Base class of custom mapper between fwData and fwAtoms. " alt="" coords="5,5,189,51"/>
+<area shape="rect" id="node3" href="$classfwAtomConversion_1_1mapper_1_1Graph.html" title="Specific mapper used to convert a fwData::Graph. " alt="" coords="237,5,421,51"/>
+</map>

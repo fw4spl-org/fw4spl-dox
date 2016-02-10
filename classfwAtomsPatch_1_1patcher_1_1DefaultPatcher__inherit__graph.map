@@ -1,0 +1,7 @@
+<map id="fwAtomsPatch::patcher::DefaultPatcher" name="fwAtomsPatch::patcher::DefaultPatcher">
+<area shape="rect" id="node13" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1MedicalWorkspacePatcher.html" title="This patcher adds required meta infos on composites describing a &#39;Medical workspace&#39;. " alt="" coords="51,449,277,495"/>
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1patcher_1_1IPatcher.html" title="Base class of all patchers. " alt="" coords="85,257,243,303"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="107,179,221,208"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="23,101,161,131"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="185,101,289,131"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="io::IWriter::configuring" name="io::IWriter::configuring">
+<area shape="rect" id="node3" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="396,53,569,83"/>
+<area shape="rect" id="node5" href="$classio_1_1IWriter.html#ab72fabf86c951e3bcdf42273f27cd576" title="Sets file path. " alt="" coords="213,27,339,56"/>
+<area shape="rect" id="node8" href="$classio_1_1IWriter.html#a87be6dd4f95c43b32384d175de30a9fa" title="Sets file paths. " alt="" coords="209,80,343,109"/>
+<area shape="rect" id="node11" href="$classio_1_1IWriter.html#ab705f4f0deeacacc3cd7c48a077be284" title="Sets folder path. " alt="" coords="205,133,347,163"/>
+</map>

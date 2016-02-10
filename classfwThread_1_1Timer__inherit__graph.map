@@ -1,0 +1,5 @@
+<map id="fwThread::Timer" name="fwThread::Timer">
+<area shape="rect" id="node7" href="$classfwGuiQt_1_1TimerQt.html" title="Private Timer implementation using Qt. " alt="" coords="5,256,131,285"/>
+<area shape="rect" id="node9" href="$classfwThread_1_1TimerAsio.html" title="Private Timer implementation using boost::asio. " alt="" coords="155,256,296,285"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="77,101,216,131"/>
+</map>

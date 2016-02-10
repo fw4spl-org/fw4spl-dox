@@ -1,0 +1,9 @@
+<map id="fwData::location::enableFolder&lt; RW &gt;" name="fwData::location::enableFolder&lt; RW &gt;">
+<area shape="rect" id="node3" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::reader\l::IObjectReader \&gt;" alt="" coords="341,41,520,105"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="344,143,517,207"/>
+<area shape="rect" id="node5" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="572,5,793,35"/>
+<area shape="rect" id="node7" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="585,59,780,88"/>
+<area shape="rect" id="node11" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="600,112,765,141"/>
+<area shape="rect" id="node13" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html" title="Write a fwData::Reconstruction.Write a fwData::Reconstruction as .obj file using the VTK lib and the ..." alt="" coords="580,165,785,195"/>
+<area shape="rect" id="node15" href="$classvtkGdcmIO_1_1ImageSeriesWriter.html" title="Write an ImageSeries in DICOM format. " alt="" coords="580,219,785,248"/>
+</map>

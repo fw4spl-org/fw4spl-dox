@@ -1,0 +1,5 @@
+<map id="fwTest::helper::Thread::timedJoin" name="fwTest::helper::Thread::timedJoin">
+<area shape="rect" id="node3" href="$classfwTest_1_1helper_1_1Thread.html#a9ae43b19f356fd9ccc351317117cdcdd" title="If any, throws the exception raised by the thread function. " alt="" coords="209,39,361,86"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1helper_1_1Thread.html#a372565b96411dfe09bfc98f29ca7d67c" title="Return true if function launched by thread raised exception. " alt="" coords="412,5,564,51"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1helper_1_1Thread.html#aaa7bb36921d1714a238c7ed24260d94f" title="Return the exception raised in function launched by thread. " alt="" coords="412,74,564,121"/>
+</map>

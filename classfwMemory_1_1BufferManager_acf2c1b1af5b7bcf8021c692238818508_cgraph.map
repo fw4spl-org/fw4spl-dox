@@ -1,0 +1,6 @@
+<map id="fwMemory::BufferManager::reallocateBuffer" name="fwMemory::BufferManager::reallocateBuffer">
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferManager.html#a6c8e5c13c69803b3d473586b895c0c7b" title="BufferManager&#39;a Implementation. " alt="" coords="229,39,405,86"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1BufferManager.html#afe30934929cdee92b6b0a97ad33217be" title="Dump/restore a buffer. " alt="" coords="453,5,629,51"/>
+<area shape="rect" id="node10" href="$classfwCore_1_1LogicStamp.html#a22b5150e4db1081fe0ab3b4a31be3ca9" title="Increment global Logical counter and copy it to this LogicStamp. " alt="" coords="471,74,612,121"/>
+<area shape="rect" id="node7" href="$classfwMemory_1_1BufferManager.html#a46c25f5027aa80c2dcb38d6b765a7082" title="BufferManager&#39;a Implementation. " alt="" coords="677,5,853,51"/>
+</map>

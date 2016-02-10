@@ -1,0 +1,4 @@
+<map id="fwServices::IService::isStarted" name="fwServices::IService::isStarted">
+<area shape="rect" id="node3" href="$classscene2D_1_1Render.html#a009e99835b8b98876bb366daa46976b6" title="Returns what happens to scene&#39;s aspect ratio on view resize events. " alt="" coords="199,5,388,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1Render.html#a3f5d84c262d5f11d3a63aa699dae892a" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="207,75,380,104"/>
+</map>

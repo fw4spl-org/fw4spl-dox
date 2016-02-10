@@ -1,0 +1,16 @@
+<map id="fwComEd::helper::Mesh::setPointColor" name="fwComEd::helper::Mesh::setPointColor">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1Mesh.html#a043d764f0548195d21f89fb9b1a79135" title="Colorize mesh (vertex point color). " alt="" coords="221,74,365,121"/>
+<area shape="rect" id="node23" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a8a29efe0aeb5bce720275754c641839b" title="Convert a vtkUnstructuredGrid to a ::fwData::Mesh::sptr. " alt="" coords="217,143,369,190"/>
+<area shape="rect" id="node27" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a802a45b11d1140aca0e8001a1fe0115c" title="Convert a vtkPolyData to a ::fwData::Mesh::sptr. " alt="" coords="217,213,369,259"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1AlgoMeshDeformation.html#ac13d26f2c84e12929ff1878328847183" title="Initialize the simulated acquisition. " alt="" coords="420,5,652,51"/>
+<area shape="rect" id="node9" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="464,74,608,121"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1AlgoMeshDeformation.html#a601f78f26ce880a3ea0444c4d7b8d5d8" title="Compute deformation or init algo if necessary. " alt="" coords="703,5,935,51"/>
+<area shape="rect" id="node11" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="707,74,931,121"/>
+<area shape="rect" id="node13" href="$classfwTest_1_1generator_1_1Object.html#a3bd0ae3313d9d8c4de1dbc9239327d2c" title="Creates a Resection with 2 planes, 1 input Reconstruction and 1 output Reconstruction. " alt="" coords="993,39,1169,86"/>
+<area shape="rect" id="node17" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0ee07722d0f1c74347d0966dc85049ac" title="Returns a ModelSeries containing random Reconstructions. " alt="" coords="984,109,1179,155"/>
+<area shape="rect" id="node15" href="$classfwTest_1_1generator_1_1Object.html#aec8448030a011689b1c3832dd325d401" title="Creates a ResectionDB containing one Resection. " alt="" coords="1228,39,1423,86"/>
+<area shape="rect" id="node19" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0de89a71e6ef0a53ebdfa94e71a1f4a0" title="Creates a SeriesDB. " alt="" coords="1236,109,1415,155"/>
+<area shape="rect" id="node21" href="$classfwAtomConversion_1_1ut_1_1ConversionTest.html#a71eb28bd4e806df9f6d84c0aed66549b" title="Test fwMedData::SeriesDB conversion. " alt="" coords="1473,109,1748,155"/>
+<area shape="rect" id="node25" href="$classfwVtkIO_1_1SeriesDBReader.html#aae0981697623203c49633157bb690549" title="Destructor. " alt="" coords="448,143,624,190"/>
+<area shape="rect" id="node29" href="$classfwVtkIO_1_1MeshReader.html#a3ce860f834cbf651c5f16169b6d9add6" title="Reading operator. " alt="" coords="460,213,612,259"/>
+</map>

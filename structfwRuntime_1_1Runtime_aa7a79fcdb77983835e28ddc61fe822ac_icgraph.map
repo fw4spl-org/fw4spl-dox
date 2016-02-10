@@ -1,0 +1,23 @@
+<map id="fwRuntime::Runtime::findBundle" name="fwRuntime::Runtime::findBundle">
+<area shape="rect" id="node3" href="$classfwRuntime_1_1profile_1_1Initializer.html#ae0a710bc3f6d7fba84a92bea186a8b39" title="Applies the initializer on the bundle. " alt="" coords="255,5,383,51"/>
+<area shape="rect" id="node5" href="$classfwRuntime_1_1profile_1_1Starter.html#aeb3914bd4ccb5884e8fc82e42f16cc1d" title="Applies the starter on the system. " alt="" coords="255,74,383,121"/>
+<area shape="rect" id="node7" href="$classfwRuntime_1_1profile_1_1Uninitializer.html#a07ccdea4ea8bc09a1afda3480e60879b" title="Applies the uninitializer on the bundle. " alt="" coords="251,143,387,190"/>
+<area shape="rect" id="node9" href="$classfwRuntime_1_1profile_1_1Stopper.html#ae41b7509924bcd42c0deb798087015a1" title="Applies the Stopper on the system. " alt="" coords="255,213,383,259"/>
+<area shape="rect" id="node11" href="$classfwRuntime_1_1profile_1_1Activater.html#a78604e14c4bad4e91c60fbbdb83352c5" title="Applies the activater on the system. " alt="" coords="255,282,383,329"/>
+<area shape="rect" id="node13" href="$namespacefwRuntime.html#ac022de955feb48232a328a5adb881261" title="Retrieves the bundle with the given identifier and version. " alt="" coords="241,352,396,381"/>
+<area shape="rect" id="node17" href="$namespacefwRuntime.html#a4e8c51fcedecc056867d28ffc974f088" title="Retrieves the extension point having the specified identifier. " alt="" coords="233,458,404,505"/>
+<area shape="rect" id="node31" href="$structfwRuntime_1_1Bundle.html#ad57fa5204eeb10d54ee87335b4722497" title="Retrieves the version of the bundle. " alt="" coords="248,558,389,605"/>
+<area shape="rect" id="node39" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#ab0e8d16517c00f79949986d80d390ebb" title="Processes a configuration element XML node. " alt="" coords="197,689,440,735"/>
+<area shape="rect" id="node43" href="$namespacefwRuntime.html#a79b4705481ad5db3caa908f16a03edbc" title="Starts the bundle specified by the given identifier. " alt="" coords="240,405,397,435"/>
+<area shape="rect" id="node15" href="$namespacefwRuntime.html#a09ab28038084fda4571324c6982e2ed2" title="Retrieves all executable objects for the point having the specified identifier. " alt="" coords="495,250,684,297"/>
+<area shape="rect" id="node19" href="$structfwRuntime_1_1Runtime.html#aa5a5a08171483605b6957c25938522b4" title="Registers a new extension point. " alt="" coords="519,319,660,366"/>
+<area shape="rect" id="node21" href="$namespacefwRuntime.html#ac4fd0055e73698aab71fb859aac1d01d" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="488,389,691,435"/>
+<area shape="rect" id="node25" href="$namespacefwRuntime.html#aae3562a1767fcae09be2942404cd3f68" title="Retrieves all extensions for the point having the specified identifier. " alt="" coords="495,458,684,505"/>
+<area shape="rect" id="node27" href="$namespacefwRuntime.html#a5e781482e84f1c0a382d3491d5be7cc6" title="Get information for the point. " alt="" coords="499,528,680,557"/>
+<area shape="rect" id="node29" href="$structfwRuntime_1_1Runtime.html#a846630c053b019b485d642b94f41ba63" title="Unregister a new extension point. " alt="" coords="503,581,676,627"/>
+<area shape="rect" id="node23" href="$namespacefwRuntime.html#a414afe8d935fb9850db10e3f185b664f" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="739,389,941,435"/>
+<area shape="rect" id="node33" href="$structfwRuntime_1_1dl_1_1Native.html#aab2a36f818026169194a966ad1714092" title="Retrieves the pattern of the dynamic library file name given the host OS. " alt="" coords="515,650,664,697"/>
+<area shape="rect" id="node35" href="$structfwRuntime_1_1dl_1_1Native.html#a5cc924b3b33febd9ae65a3c801d93a9c" title="Retrieves the file path of the native library. " alt="" coords="765,650,915,697"/>
+<area shape="rect" id="node37" href="$structfwRuntime_1_1dl_1_1Native.html#a323024f5a26c8526c284f0c81caa7d05" title="Retrieves the file path of the library including the owning bundle&#39;s path. " alt="" coords="989,650,1139,697"/>
+<area shape="rect" id="node41" href="$classfwRuntime_1_1Convert.html#a7e6251b21bb6dc7ceaf7d1e5445c0edb" title="Build an std::string from a ConfigurationElement. " alt="" coords="520,719,659,766"/>
+</map>

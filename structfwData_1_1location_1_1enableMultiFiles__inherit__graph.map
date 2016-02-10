@@ -1,0 +1,6 @@
+<map id="fwData::location::enableMultiFiles&lt; RW &gt;" name="fwData::location::enableMultiFiles&lt; RW &gt;">
+<area shape="rect" id="node3" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enable\lMultiFiles\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="231,136,401,200"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1SeriesDBReader.html" title="Read a SeriesDB.Read VTK Mesh or Image files using the VTK lib, convert to ModelSeries or ImageSeries..." alt="" coords="5,251,181,280"/>
+<area shape="rect" id="node7" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="205,251,427,280"/>
+<area shape="rect" id="node9" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="451,251,645,280"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fwStructuralPatch::creator::fwMedData::Study1::create" name="fwStructuralPatch::creator::fwMedData::Study1::create">
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="213,74,363,121"/>
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1IStructuralCreator.html#a386a71326b1090717349054db11c4652" title="Create the object base : create meta infos : classname, version and id. " alt="" coords="200,143,376,190"/>
+<area shape="rect" id="node13" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="213,213,363,243"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="425,5,575,51"/>
+<area shape="rect" id="node7" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="425,74,575,121"/>
+<area shape="rect" id="node11" href="$namespacefwAtomsPatch_1_1helper.html#a4124fcafe2cf52d7027df3a630cb3f5e" title="Cleans object fields (also creates them if they are missing) " alt="" coords="425,143,575,190"/>
+</map>

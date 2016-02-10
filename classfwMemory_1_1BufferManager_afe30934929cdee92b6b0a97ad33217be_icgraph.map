@@ -1,0 +1,7 @@
+<map id="fwMemory::BufferManager::restoreBuffer" name="fwMemory::BufferManager::restoreBuffer">
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferManager.html#a6c8e5c13c69803b3d473586b895c0c7b" title="BufferManager&#39;a Implementation. " alt="" coords="229,5,405,51"/>
+<area shape="rect" id="node7" href="$classfwMemory_1_1BufferManager.html#a46c25f5027aa80c2dcb38d6b765a7082" title="BufferManager&#39;a Implementation. " alt="" coords="229,74,405,121"/>
+<area shape="rect" id="node10" href="$classfwMemory_1_1BufferManager.html#a234f25ec7ac0534bbbb16980d105b053" title="BufferManager&#39;a Implementation. " alt="" coords="229,143,405,190"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1BufferManager.html#acf2c1b1af5b7bcf8021c692238818508" title="Hook called when a reallocation is requested from a BufferObject. " alt="" coords="453,5,629,51"/>
+<area shape="rect" id="node12" href="$classfwMemory_1_1BufferManager.html#a56b152ac6ab851af2d49df278a135c8d" title="Returns managed buffers statistics. " alt="" coords="453,143,629,190"/>
+</map>

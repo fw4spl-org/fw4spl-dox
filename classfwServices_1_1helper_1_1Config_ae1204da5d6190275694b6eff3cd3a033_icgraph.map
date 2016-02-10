@@ -1,0 +1,10 @@
+<map id="fwServices::helper::Config::createProxy" name="fwServices::helper::Config::createProxy">
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1SRender.html#ac6f0349557c0f53b1a44435792c9cb03" title="Get a vtkTransform in the SRender, referenced by a key. Create it if it does not exist. " alt="" coords="207,39,369,86"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1IManagerSrv.html#a2781e12bad21503672958e3e4c59f0c6" title="Manages all proxies connections define in config associated to object Call manageProxy() ..." alt="" coords="200,109,376,155"/>
+<area shape="rect" id="node15" href="$classfwRenderVTK_1_1SRender.html#a111f3df3a62b070af6ea09055530408b" title="Install observations : should be implemented in IService. " alt="" coords="207,178,369,225"/>
+<area shape="rect" id="node17" href="$classscene2D_1_1Render.html#a3f5d84c262d5f11d3a63aa699dae892a" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="201,248,375,277"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1manager_1_1SField.html#ac65f406cf05b6e79d31d235701be3886" title="Slot: change objects. " alt="" coords="447,5,599,51"/>
+<area shape="rect" id="node9" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a7e74075f3212f7f47f8369011edd5ec9" title="Slot: change objects. " alt="" coords="425,74,620,121"/>
+<area shape="rect" id="node11" href="$classctrlSelection_1_1manager_1_1SField.html#ab57d869461bb04dbb5a68be5faa517bf" title="Slot: remove objects. " alt="" coords="447,143,599,190"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a4e44acc0494380e068976ae71d5db070" title="Slot: remove objects. " alt="" coords="424,213,621,259"/>
+</map>

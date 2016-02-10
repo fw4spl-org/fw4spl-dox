@@ -1,0 +1,49 @@
+<map id="fwCore::BaseObject" name="fwCore::BaseObject">
+<area shape="rect" id="node5" href="$classfwActivities_1_1IBuilder.html" title="Base class for all fwActivities builder&#39;s classes. " alt="" coords="461,52,603,81"/>
+<area shape="rect" id="node9" href="$classfwActivities_1_1IValidator.html" title="Base class for all fwActivities validator&#39;s classes. " alt="" coords="456,148,608,177"/>
+<area shape="rect" id="node15" href="$classfwActivities_1_1registry_1_1Activities.html" title="This class allows to register all the configuration parameters which has the point extension &quot;::activ..." alt="" coords="461,201,603,247"/>
+<area shape="rect" id="node17" href="$classfwAtoms_1_1Base.html" title="Base class for all Atom classes. " alt="" coords="476,271,588,300"/>
+<area shape="rect" id="node29" href="$classfwAtomsFilter_1_1IFilter.html" title="Removes atom attributes which are not managed by a context. " alt="" coords="460,324,604,353"/>
+<area shape="rect" id="node31" href="$classfwAtomsPatch_1_1conditions_1_1Abstract.html" title="Defines a condition in the patch. " alt="" coords="445,377,619,423"/>
+<area shape="rect" id="node33" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="455,447,609,476"/>
+<area shape="rect" id="node35" href="$classfwAtomsPatch_1_1IStructuralCreator.html" title="Base class of all structural creators. Creates a new atom object with the default values correspondin..." alt="" coords="444,499,620,546"/>
+<area shape="rect" id="node37" href="$classfwAtomsPatch_1_1VersionsGraph.html" title="Versions graph description. " alt="" coords="431,569,633,599"/>
+<area shape="rect" id="node39" href="$structfwCom_1_1SignalBase.html" title="Signal base class. " alt="" coords="463,623,601,652"/>
+<area shape="rect" id="node41" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations. " alt="" coords="469,676,595,705"/>
+<area shape="rect" id="node43" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="437,729,627,759"/>
+<area shape="rect" id="node45" href="$classfwCore_1_1HiResTimer.html" title="This class provide a timer (stopwatch). HiResTimer is able to measure the elapsed time with a few mic..." alt="" coords="461,783,603,812"/>
+<area shape="rect" id="node47" href="$classfwCore_1_1log_1_1ScopedMessage.html" title="Scoped messages. " alt="" coords="435,836,629,865"/>
+<area shape="rect" id="node49" href="$classfwCore_1_1log_1_1SpyLogger.html" title="Implements the SpyLogger. " alt="" coords="453,889,611,919"/>
+<area shape="rect" id="node51" href="$classfwCore_1_1LogicStamp.html" title="Provides a Logical timestamp system. " alt="" coords="461,943,603,972"/>
+<area shape="rect" id="node53" href="$classfwCore_1_1TimeStamp.html" title="Provides a timestamp and a expiracy system. " alt="" coords="463,996,601,1025"/>
+<area shape="rect" id="node55" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers. " alt="" coords="447,1049,617,1095"/>
+<area shape="rect" id="node57" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="448,1118,616,1165"/>
+<area shape="rect" id="node59" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="456,1188,608,1217"/>
+<area shape="rect" id="node61" href="$classfwMemory_1_1BufferManager.html" title="BufferManager implementation. " alt="" coords="444,1241,620,1271"/>
+<area shape="rect" id="node63" href="$classfwMemory_1_1BufferObject.html" title="Define Base class for FW4SPL buffers. " alt="" coords="451,1295,613,1324"/>
+<area shape="rect" id="node65" href="$classfwMemory_1_1IPolicy.html" title="Defines the memory dump policy interface. " alt="" coords="467,1348,597,1377"/>
+<area shape="rect" id="node67" href="$classfwRenderVTK_1_1IVtkRenderWindowInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a window. " alt="" coords="420,1401,644,1447"/>
+<area shape="rect" id="node69" href="$classfwRuntime_1_1profile_1_1Profile.html" title="Implements a bundle set profile. " alt="" coords="468,1470,596,1517"/>
+<area shape="rect" id="node71" href="$classfwServices_1_1helper_1_1ConfigLauncher.html" title="This class provides few methods to manage AppConfig (parsing, starting, stopping...). " alt="" coords="467,1539,597,1586"/>
+<area shape="rect" id="node73" href="$classfwServices_1_1helper_1_1SigSlotConnection.html" title="This class provides few tools to connect/disconnect signals/slots between obj/srv. " alt="" coords="463,1609,601,1655"/>
+<area shape="rect" id="node75" href="$classfwServices_1_1registry_1_1ActiveWorkers.html" title="This class to register active worker in the system, creates a default worker. " alt="" coords="463,1678,601,1725"/>
+<area shape="rect" id="node77" href="$classfwServices_1_1registry_1_1AppConfig.html" title="This class allows to register all the configuration which has the point extension &quot;::fwServices::regi..." alt="" coords="463,1747,601,1794"/>
+<area shape="rect" id="node79" href="$classfwServices_1_1registry_1_1AppConfigParameters.html" title="This class allows to register all the configuration parameters which has the point extension &quot;::fwSer..." alt="" coords="453,1817,611,1863"/>
+<area shape="rect" id="node81" href="$classfwServices_1_1registry_1_1AppInfo.html" title="fwServices::registry\l::AppInfo" alt="" coords="463,1886,601,1933"/>
+<area shape="rect" id="node83" href="$classfwServices_1_1registry_1_1ObjectService.html" title="maintain the relation between objects and services " alt="" coords="463,1955,601,2002"/>
+<area shape="rect" id="node85" href="$classfwServices_1_1registry_1_1Proxy.html" title="This class defines a proxy for signal/slot connections. " alt="" coords="463,2025,601,2071"/>
+<area shape="rect" id="node87" href="$classfwServices_1_1registry_1_1ServiceConfig.html" title="This class allows to register all the service configuration which has the point extension &quot;::fwServic..." alt="" coords="463,2094,601,2141"/>
+<area shape="rect" id="node89" href="$classfwServices_1_1registry_1_1ServiceConfigInfo.html" title="fwServices::registry\l::ServiceConfigInfo" alt="" coords="463,2163,601,2210"/>
+<area shape="rect" id="node91" href="$classfwServices_1_1registry_1_1ServiceFactory.html" title="fwServices::registry\l::ServiceFactory" alt="" coords="463,2233,601,2279"/>
+<area shape="rect" id="node93" href="$classfwThread_1_1Timer.html" title="The Timer class provides single&#45;shot or repetitive timers. A Timer triggers a function once after a d..." alt="" coords="473,2303,591,2332"/>
+<area shape="rect" id="node95" href="$classfwThread_1_1Worker.html" title="This class creates and manages a task loop. The default implementation create a loop in a new thread..." alt="" coords="469,2356,595,2385"/>
+<area shape="rect" id="node97" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="475,2409,589,2439"/>
+<area shape="rect" id="node7" href="$classfwActivities_1_1builder_1_1ActivitySeries.html" title="Defines the default builder for the data ActivitySeries. " alt="" coords="699,5,835,51"/>
+<area shape="rect" id="node11" href="$classfwActivities_1_1validator_1_1ImageProperties.html" title="Defines a validator which checks that properties of given images are the same. " alt="" coords="693,74,840,121"/>
+<area shape="rect" id="node13" href="$classfwActivities_1_1validator_1_1RelatedStudy.html" title="Defines a validator which checks that given series refer to the same study. " alt="" coords="693,143,840,190"/>
+<area shape="rect" id="node19" href="$classfwAtoms_1_1Blob.html" title="Representation of a buffer. " alt="" coords="713,213,820,243"/>
+<area shape="rect" id="node21" href="$classfwAtoms_1_1Boolean.html" title="Represented a Boolean value. " alt="" coords="703,267,831,296"/>
+<area shape="rect" id="node23" href="$classfwAtoms_1_1Map.html" title="Map is a container for mapping representation. " alt="" coords="713,320,820,349"/>
+<area shape="rect" id="node25" href="$classfwAtoms_1_1Numeric.html" title="Storing a numeric value. " alt="" coords="701,373,832,403"/>
+<area shape="rect" id="node27" href="$classfwAtoms_1_1Object.html" title="Class represented a fwData::Object. " alt="" coords="707,427,827,456"/>
+</map>

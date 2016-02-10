@@ -1,0 +1,14 @@
+<map id="ctrlSelection::manager::SwapperSrv" name="ctrlSelection::manager::SwapperSrv">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1IManagerSrv.html" title="Base class for manager. A manager starts, stops or swaps services on object contained in a composite ..." alt="" coords="1699,312,1875,341"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1505,192,1647,221"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1215,192,1329,221"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="951,139,1089,168"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="968,192,1072,221"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1209,245,1335,275"/>
+<area shape="rect" id="node16" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="969,245,1071,275"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="261,339,341,368"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="7,330,132,377"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="240,211,363,240"/>
+<area shape="rect" id="node30" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1203,55,1341,84"/>
+<area shape="rect" id="node32" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="963,55,1077,84"/>
+</map>

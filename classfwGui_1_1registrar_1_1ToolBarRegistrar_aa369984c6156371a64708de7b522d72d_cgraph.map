@@ -1,0 +1,4 @@
+<map id="fwGui::registrar::ToolBarRegistrar::manage" name="fwGui::registrar::ToolBarRegistrar::manage">
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="225,5,364,35"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1GuiRegistry.html#a654f898b838fb238ee5ca545103306a6" title="Registers container associate with service ID. " alt="" coords="219,58,371,105"/>
+</map>

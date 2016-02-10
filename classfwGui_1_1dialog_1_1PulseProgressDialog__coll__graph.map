@@ -1,0 +1,5 @@
+<map id="fwGui::dialog::PulseProgressDialog" name="fwGui::dialog::PulseProgressDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1IPulseProgressDialog.html" title="Defines the generic Progress dialog for IHM. " alt="" coords="117,281,312,327"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="16,184,168,213"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="23,104,161,133"/>
+</map>

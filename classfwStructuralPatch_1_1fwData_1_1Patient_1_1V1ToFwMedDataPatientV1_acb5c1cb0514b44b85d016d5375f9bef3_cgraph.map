@@ -1,0 +1,10 @@
+<map id="fwStructuralPatch::fwData::Patient::V1ToFwMedDataPatientV1::apply" name="fwStructuralPatch::fwData::Patient::V1ToFwMedDataPatientV1::apply">
+<area shape="rect" id="node3" href="$namespacefwTools.html#a464648f2bcf775ded44af140d87d084f" title="Convert a boost time to a string date. " alt="" coords="275,5,397,35"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="261,59,411,88"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a73ade512c5c20f6dc200b88d417568d7" title="Removes an attribute. " alt="" coords="252,111,420,158"/>
+<area shape="rect" id="node13" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a665f67b00ad445fdb12943c96d965025" title="Renames an attribute. " alt="" coords="252,181,420,227"/>
+<area shape="rect" id="node17" href="$classfwAtomsPatch_1_1helper_1_1Object.html#aa5596a46cf7f0d2f5170f86a8fa6a27a" title="Replaces an attribute. " alt="" coords="253,250,419,297"/>
+<area shape="rect" id="node21" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="248,319,424,366"/>
+<area shape="rect" id="node9" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="473,146,623,193"/>
+<area shape="rect" id="node11" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="473,215,623,262"/>
+</map>

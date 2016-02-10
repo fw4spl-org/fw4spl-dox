@@ -1,0 +1,11 @@
+<map id="fwComEd::helper::MedicalImageAdaptor::installTFSlots" name="fwComEd::helper::MedicalImageAdaptor::installTFSlots">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#ac3137e3dbb3a61149601dfbcddb7b031" title="Slot: add objects. " alt="" coords="273,143,449,190"/>
+<area shape="rect" id="node9" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a965ca83a64ccdac1adab92698ccebdda" title="Slot: called when transfer function points are modified. " alt="" coords="544,169,747,215"/>
+<area shape="rect" id="node13" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a6cf16cbea7622dad2cf0145da2e2ebb0" title="Slot: change objects. " alt="" coords="263,74,460,121"/>
+<area shape="rect" id="node18" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a8dba302f43c5e98f3dd3e4b338e939a4" title="Slot: remove objects. " alt="" coords="263,5,460,51"/>
+<area shape="rect" id="node22" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a73f47dc09c8697fdf3014fa7d9ce75c6" title="Slot: called when transfer function windowing is modified. " alt="" coords="247,263,476,310"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#aac03225c9ba072bc673c08e15c8a4d8e" title="Get selected TF Key. " alt="" coords="536,30,755,77"/>
+<area shape="rect" id="node7" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a80f33a841d4848c99f4becebed7c4641" title="Get the current transfer function. " alt="" coords="532,99,759,146"/>
+<area shape="rect" id="node11" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#ad62f5f0414fe03f53064d311a02f3909" title="Called when transfer function points are modified. " alt="" coords="813,169,1027,215"/>
+<area shape="rect" id="node24" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#ad70e2d67a26fa041a34c17552bdd750d" title="Called when transfer function windowing is modified. " alt="" coords="525,263,765,310"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="io::IWriter::getIOPathType" name="io::IWriter::getIOPathType">
+<area shape="rect" id="node3" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="420,225,569,254"/>
+<area shape="rect" id="node5" href="$classio_1_1IWriter.html#a27c7be772bb681b127a81e0654a33ced" title="Returns the file path setted by user or setted during service configuration. " alt="" coords="237,38,363,68"/>
+<area shape="rect" id="node7" href="$classio_1_1IWriter.html#ae77ce599877fec6f5c84a2bd03f99633" title="Returns file paths setted by user or setted during service configuration. " alt="" coords="233,92,367,121"/>
+<area shape="rect" id="node9" href="$classio_1_1IWriter.html#a54a05bddc77382c5d545e94df501c2f7" title="Returns folder path setted by user or setted during service configuration. " alt="" coords="229,145,371,174"/>
+<area shape="rect" id="node11" href="$classio_1_1IWriter.html#ab72fabf86c951e3bcdf42273f27cd576" title="Sets file path. " alt="" coords="237,198,363,228"/>
+<area shape="rect" id="node14" href="$classio_1_1IWriter.html#a87be6dd4f95c43b32384d175de30a9fa" title="Sets file paths. " alt="" coords="233,252,367,281"/>
+<area shape="rect" id="node17" href="$classio_1_1IWriter.html#ab705f4f0deeacacc3cd7c48a077be284" title="Sets folder path. " alt="" coords="229,305,371,334"/>
+</map>

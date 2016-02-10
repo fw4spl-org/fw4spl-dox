@@ -1,0 +1,4 @@
+<map id="io::IReader::setFile" name="io::IReader::setFile">
+<area shape="rect" id="node3" href="$classio_1_1IReader.html#a9efc14590a7d21aa2ef2453a6b890650" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="191,5,348,35"/>
+<area shape="rect" id="node5" href="$classio_1_1IReader.html#af990cd794ac381ebc7cdf261b6eb74dd" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="188,58,351,105"/>
+</map>

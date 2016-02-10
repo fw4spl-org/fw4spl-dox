@@ -1,0 +1,5 @@
+<map id="patchMedicalData::Plugin::start" name="patchMedicalData::Plugin::start">
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1PatchLoader.html#a84be2d0961ccd66b693b0d49bf8fe160" title="Function used to force link. " alt="" coords="225,5,399,51"/>
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1PatchLoader.html#ab8e6a346e466c142f5382b9998716c27" title="Computes VersionsManager&#39;s link and version tables. " alt="" coords="225,74,399,121"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1VersionsManager.html#a72aa3c22782a01fb88568904c039fcbb" title="Returns the default instance of VersionsManager. " alt="" coords="449,74,665,121"/>
+</map>

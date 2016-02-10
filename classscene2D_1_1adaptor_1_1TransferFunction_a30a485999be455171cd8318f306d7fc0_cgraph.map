@@ -1,0 +1,12 @@
+<map id="scene2D::adaptor::TransferFunction::doUpdate" name="scene2D::adaptor::TransferFunction::doUpdate">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a3d27d250eb47bec918554189318ed543" title="Update the image information (slice index, min/max,...) " alt="" coords="236,107,449,154"/>
+<area shape="rect" id="node5" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a82c1509bc6a0113a631c234702c67a54" title="Update the transfer function information. " alt="" coords="244,177,441,241"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="511,61,679,91"/>
+<area shape="rect" id="node9" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#a5a9e6da3b6d58f66360a937620f547b1" title="Check if the image is valid. " alt="" coords="773,5,928,69"/>
+<area shape="rect" id="node11" href="$classfwComEd_1_1fieldHelper_1_1MedicalImageHelpers.html#ae4e6699751faeb6ca802855220b384a2" title="Return minimum and maximum values contained in image. If image min or max value is out of MINMAXTYPE ..." alt="" coords="773,93,928,157"/>
+<area shape="rect" id="node13" href="$classfwComEd_1_1helper_1_1Composite.html#a9a13f6097cbb512bb6cdfab6987b4b5b" title="Add an object in the composite. " alt="" coords="740,320,961,349"/>
+<area shape="rect" id="node15" href="$classfwComEd_1_1helper_1_1Composite.html#a7ee86890a448cf9e0680f6d97a91eb4b" title="Send the message of modification. " alt="" coords="753,373,948,419"/>
+<area shape="rect" id="node17" href="$classfwComEd_1_1helper_1_1Image.html#a433706f74a7d6de3853c8489dcab54ec" title="Create transfer function pool if the pool is not present, NOT GENERATE MESSAGE. " alt="" coords="500,215,689,262"/>
+<area shape="rect" id="node22" href="$classfwComEd_1_1helper_1_1Field.html#a3d4bfe6d337875d690d45ac96676a781" title="Send the built message. " alt="" coords="772,181,929,227"/>
+<area shape="rect" id="node25" href="$classfwComEd_1_1helper_1_1Field.html#ac9e8f0e7afff01116aa299d64ec47280" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="772,250,929,297"/>
+</map>

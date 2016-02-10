@@ -1,0 +1,10 @@
+<map id="fwStructuralPatch::fwData::Acquisition::V1ToFwMedDataImageSeriesV1::apply" name="fwStructuralPatch::fwData::Acquisition::V1ToFwMedDataImageSeriesV1::apply">
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="288,5,437,51"/>
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1StructuralCreatorDB.html#ad8eaf8036d6baca064f5b4d1163c381b" title="Returns the default instance of StructuralCreatorDB. " alt="" coords="277,213,448,259"/>
+<area shape="rect" id="node11" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="288,283,437,312"/>
+<area shape="rect" id="node13" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a73ade512c5c20f6dc200b88d417568d7" title="Removes an attribute. " alt="" coords="279,74,447,121"/>
+<area shape="rect" id="node17" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a665f67b00ad445fdb12943c96d965025" title="Renames an attribute. " alt="" coords="279,143,447,190"/>
+<area shape="rect" id="node21" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="275,335,451,382"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="500,39,649,86"/>
+<area shape="rect" id="node7" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="500,109,649,155"/>
+</map>

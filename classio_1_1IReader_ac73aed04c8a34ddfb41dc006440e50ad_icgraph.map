@@ -1,0 +1,10 @@
+<map id="io::IReader::getIOPathType" name="io::IReader::getIOPathType">
+<area shape="rect" id="node3" href="$classio_1_1IReader.html#a9efc14590a7d21aa2ef2453a6b890650" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="439,34,596,63"/>
+<area shape="rect" id="node5" href="$classio_1_1IReader.html#afdc90eda1bd1c537651a3d6bb6d0f8b7" title="Returns the file path setted by user or setted during service configuration. " alt="" coords="245,194,379,223"/>
+<area shape="rect" id="node7" href="$classio_1_1IReader.html#a79ed50080b0502565842ee2bca7b63c1" title="Returns file paths setted by user or setted during service configuration. " alt="" coords="243,247,381,276"/>
+<area shape="rect" id="node9" href="$classio_1_1IReader.html#a2c2c66eae5d3a2396c04a09a5416dee6" title="Returns folder path setted by user or setted during service configuration. " alt="" coords="239,300,385,330"/>
+<area shape="rect" id="node11" href="$classio_1_1IReader.html#a6e6d15caea2248f4d3aa88f7a78e4f54" title="Sets file path. " alt="" coords="245,34,379,63"/>
+<area shape="rect" id="node16" href="$classio_1_1IReader.html#ab88bb607b2ae550cb250628f0e1b26a2" title="Sets file paths. " alt="" coords="243,87,381,116"/>
+<area shape="rect" id="node20" href="$classio_1_1IReader.html#a33ba8b8b3448b78bebc5a558b170e9c5" title="Sets folder path. " alt="" coords="239,140,385,170"/>
+<area shape="rect" id="node14" href="$classio_1_1IReader.html#af990cd794ac381ebc7cdf261b6eb74dd" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="436,86,599,133"/>
+</map>

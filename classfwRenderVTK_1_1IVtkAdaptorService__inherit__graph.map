@@ -1,0 +1,49 @@
+<map id="fwRenderVTK::IVtkAdaptorService" name="fwRenderVTK::IVtkAdaptorService">
+<area shape="rect" id="node17" href="$classvisuVTKAdaptor_1_1Axes.html" title="Render axes in the generic scene. " alt="" coords="1065,5,1220,35"/>
+<area shape="rect" id="node19" href="$classvisuVTKAdaptor_1_1BoxWidget.html" title="visuVTKAdaptor::BoxWidget" alt="" coords="1048,59,1237,88"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1Camera2.html" title="visuVTKAdaptor::Camera2" alt="" coords="1053,112,1232,141"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1Cube.html" title="Render a cube on the generic scene. " alt="" coords="1065,165,1220,195"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1Distance.html" title="visuVTKAdaptor::Distance" alt="" coords="1055,219,1231,248"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1Image.html" title="Render an image on the generic scene. " alt="" coords="1063,272,1223,301"/>
+<area shape="rect" id="node29" href="$classvisuVTKAdaptor_1_1Image3DCursor.html" title="Add a 3D spatial marker represented by a sphere. " alt="" coords="1035,325,1251,355"/>
+<area shape="rect" id="node31" href="$classvisuVTKAdaptor_1_1ImageLandmarks.html" title="Adaptor to display image landmarks. " alt="" coords="1031,379,1255,408"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1ImageMultiDistances.html" title="Adaptor to display distance on an image. " alt="" coords="1048,431,1237,478"/>
+<area shape="rect" id="node35" href="$classvisuVTKAdaptor_1_1ImagePickerInteractor.html" title="Adaptor to manage image picking. " alt="" coords="1044,501,1241,547"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1ImagesBlend.html" title="Manage blend for image given in configuration. " alt="" coords="1043,571,1243,600"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1ImageSeries.html" title="This adaptor shows ImageSeries. Creates an adaptor for the image in the series. " alt="" coords="1044,624,1241,653"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ImageSlice.html" title="Adaptor to display only one slice of an image. " alt="" coords="1048,677,1237,707"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1ImageSliceOrientationText.html" title="Shows image orientation information (right, left, ...) This adaptor show locations labels in the four..." alt="" coords="1048,730,1237,777"/>
+<area shape="rect" id="node45" href="$classvisuVTKAdaptor_1_1ImagesProbeCursor.html" title="Draw pixel information from images given by id in composite. " alt="" coords="1041,799,1244,846"/>
+<area shape="rect" id="node47" href="$classvisuVTKAdaptor_1_1InteractorStyle.html" title="Managing vtk interactor style. " alt="" coords="1053,869,1232,915"/>
+<area shape="rect" id="node49" href="$classvisuVTKAdaptor_1_1LabeledPointList.html" title="Adaptor to display a point list. " alt="" coords="1032,939,1253,968"/>
+<area shape="rect" id="node51" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html" title="Update camera scene according to defined axes (axial, sagittal, frontal). " alt="" coords="1055,991,1231,1038"/>
+<area shape="rect" id="node53" href="$classvisuVTKAdaptor_1_1Mesh.html" title="Display a mesh on the generic scene. " alt="" coords="1064,1061,1221,1091"/>
+<area shape="rect" id="node55" href="$classvisuVTKAdaptor_1_1MeshesBoxWidget.html" title="Create a Box widget around the meshes contained in the composite. " alt="" coords="1045,1114,1240,1161"/>
+<area shape="rect" id="node57" href="$classvisuVTKAdaptor_1_1MeshNormals.html" title="visuVTKAdaptor::MeshNormals" alt="" coords="1040,1184,1245,1213"/>
+<area shape="rect" id="node59" href="$classvisuVTKAdaptor_1_1ModelSeries.html" title="This adaptor shows ModelSeries. Creates adaptors for each reconstruction in model. " alt="" coords="1044,1237,1241,1267"/>
+<area shape="rect" id="node61" href="$classvisuVTKAdaptor_1_1NegatoMPR.html" title="visuVTKAdaptor::NegatoMPR" alt="" coords="1044,1291,1241,1320"/>
+<area shape="rect" id="node63" href="$classvisuVTKAdaptor_1_1NegatoOneSlice.html" title="visuVTKAdaptor::NegatoOne\lSlice" alt="" coords="1048,1343,1237,1390"/>
+<area shape="rect" id="node65" href="$classvisuVTKAdaptor_1_1NegatoSlicingInteractor.html" title="visuVTKAdaptor::NegatoSlicing\lInteractor" alt="" coords="1040,1413,1245,1459"/>
+<area shape="rect" id="node67" href="$classvisuVTKAdaptor_1_1NegatoWindowingInteractor.html" title="visuVTKAdaptor::NegatoWindowing\lInteractor" alt="" coords="1028,1482,1257,1529"/>
+<area shape="rect" id="node69" href="$classvisuVTKAdaptor_1_1OrientationMarker.html" title="Adaptor using for displayed an orientationMarker in a generic scene. " alt="" coords="1049,1551,1236,1598"/>
+<area shape="rect" id="node71" href="$classvisuVTKAdaptor_1_1PickerInteractor.html" title="visuVTKAdaptor::PickerInteractor" alt="" coords="1035,1621,1251,1651"/>
+<area shape="rect" id="node73" href="$classvisuVTKAdaptor_1_1Plane.html" title="visuVTKAdaptor::Plane" alt="" coords="1064,1675,1221,1704"/>
+<area shape="rect" id="node75" href="$classvisuVTKAdaptor_1_1PlaneInteractor.html" title="visuVTKAdaptor::PlaneInteractor" alt="" coords="1036,1728,1249,1757"/>
+<area shape="rect" id="node77" href="$classvisuVTKAdaptor_1_1PlaneList.html" title="visuVTKAdaptor::PlaneList" alt="" coords="1053,1781,1232,1811"/>
+<area shape="rect" id="node79" href="$classvisuVTKAdaptor_1_1PlaneSelectionNotifier.html" title="Update selection plan in resection activity. " alt="" coords="1037,1834,1248,1881"/>
+<area shape="rect" id="node81" href="$classvisuVTKAdaptor_1_1PlaneSelector.html" title="Manage the current selected plan. " alt="" coords="1040,1904,1245,1933"/>
+<area shape="rect" id="node83" href="$classvisuVTKAdaptor_1_1Point.html" title="visuVTKAdaptor::Point" alt="" coords="1065,1957,1220,1987"/>
+<area shape="rect" id="node85" href="$classvisuVTKAdaptor_1_1PointList.html" title="visuVTKAdaptor::PointList" alt="" coords="1055,2011,1231,2040"/>
+<area shape="rect" id="node87" href="$classvisuVTKAdaptor_1_1PointListInteractor.html" title="visuVTKAdaptor::PointList\lInteractor" alt="" coords="1055,2063,1231,2110"/>
+<area shape="rect" id="node89" href="$classvisuVTKAdaptor_1_1ProbeCursor.html" title="Cursor management. " alt="" coords="1044,2133,1241,2163"/>
+<area shape="rect" id="node91" href="$classvisuVTKAdaptor_1_1Reconstruction.html" title="visuVTKAdaptor::Reconstruction" alt="" coords="1036,2187,1249,2216"/>
+<area shape="rect" id="node93" href="$classvisuVTKAdaptor_1_1Resection.html" title="visuVTKAdaptor::Resection" alt="" coords="1051,2240,1235,2269"/>
+<area shape="rect" id="node95" href="$classvisuVTKAdaptor_1_1ResectionDB.html" title="visuVTKAdaptor::ResectionDB" alt="" coords="1041,2293,1244,2323"/>
+<area shape="rect" id="node97" href="$classvisuVTKAdaptor_1_1SliceFollowerCamera.html" title="Update the camera according to slice move. " alt="" coords="1041,2346,1244,2393"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="607,1184,748,1213"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,1131,545,1160"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,1104,369,1133"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,1157,352,1187"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,1184,551,1213"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,1237,557,1267"/>
+</map>

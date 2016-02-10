@@ -1,0 +1,12 @@
+<map id="fwServices::get" name="fwServices::get">
+<area shape="rect" id="node3" href="$classfwGui_1_1registrar_1_1MenuBarRegistrar.html#a6a385f14d04b81d0730ce9b520d5633d" title="Starting menu bar registrar. All services managed in local menus and with start=&quot;yes&quot; in configuratio..." alt="" coords="199,5,369,51"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1registrar_1_1MenuRegistrar.html#a34388c35e7775ee3ee093470f411aca6" title="manages action service associated with menuItem of menu. " alt="" coords="183,74,385,121"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1registrar_1_1ToolBarRegistrar.html#ac47b54f9af7d670824b6e85e3314daa9" title="manages action service associated with menuItem of toolbar. " alt="" coords="203,143,365,190"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1AppConfigManager.html#a5aa10670fdfbc568d4969722e3038bcc" title="fwServices::AppConfigManager\l::startConnections" alt="" coords="181,213,387,259"/>
+<area shape="rect" id="node15" href="$classfwComEd_1_1ut_1_1ConfigParserTest.html#a9dfe1a09176c2adf840fea7acf53a707" title="Test the composite building. " alt="" coords="193,282,375,329"/>
+<area shape="rect" id="node17" href="$classfwServices_1_1ut_1_1ServiceTest.html#ae8e4137203f8157b984445103d97fb69" title="test sending/receiving message " alt="" coords="192,351,376,398"/>
+<area shape="rect" id="node19" href="$classfwComEd_1_1ut_1_1ConfigParserTest.html#a0b769c49d1c220414f1652c6cb36c49e" title="test object with services creation from a configuration " alt="" coords="169,421,399,467"/>
+<area shape="rect" id="node21" href="$classfwServices_1_1ut_1_1ServiceTest.html#aa5e32df11b8b345d75966efe4fab67e3" title="test start/stop/update service " alt="" coords="192,490,376,537"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1AppConfigManager.html#a60f0378e26db50b831d089b814291c12" title="Starts services specified in config. " alt="" coords="449,213,655,259"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1AppConfigManager.html#a7c91a03361df06fef993de852251d972" title="Calls methods : create, start then update. " alt="" coords="705,213,911,259"/>
+</map>

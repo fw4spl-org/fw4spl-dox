@@ -1,0 +1,33 @@
+<map id="fwTools::fwID::getID" name="fwTools::fwID::getID">
+<area shape="rect" id="node3" href="$classfwServices_1_1helper_1_1Config.html#acc74b29a783b80d57eded917025660c3" title="Parses &quot;&lt;connect&gt;&quot; tags from given configuration to connect signals and slots using given helper..." alt="" coords="199,170,383,217"/>
+<area shape="rect" id="node25" href="$classfwServices_1_1helper_1_1Config.html#ae1204da5d6190275694b6eff3cd3a033" title="Parses &quot;&lt;proxy&gt;&quot; tags from given configuration to connect signals and slots using proxies..." alt="" coords="217,266,364,313"/>
+<area shape="rect" id="node36" href="$classfwServices_1_1IService.html#a31aadcf24b9fc5cc8984489900cfa988" title="Return the object associated to service. " alt="" coords="220,569,361,615"/>
+<area shape="rect" id="node57" href="$classfwGui_1_1IGuiContainerSrv.html#a0559233b450051dc0c8f4bd0f02158eb" title="Initialize managers. " alt="" coords="209,663,372,710"/>
+<area shape="rect" id="node61" href="$classfwGui_1_1IActionSrv.html#aff17458150297ada203c39103fab6464" title="Initialize the action. " alt="" coords="224,733,357,779"/>
+<area shape="rect" id="node63" href="$classfwServices_1_1IService.html#ae9f866aee8f9f87d4759a775edcc5fd4" title="Reconfigure the service activity when is started. " alt="" coords="220,802,361,849"/>
+<area shape="rect" id="node67" href="$classfwServices_1_1IService.html#a933416067bb8ddbd0430ddaa04f448b6" title="Invoke starting() if m_globalState == STOPPED. Does nothing otherwise. " alt="" coords="220,871,361,918"/>
+<area shape="rect" id="node71" href="$classfwServices_1_1IService.html#a3235af512c359d38e9740533f641a1dc" title="Invoke stopping() if m_globalState == STARTED. Does nothing otherwise. Stops all observations. " alt="" coords="220,941,361,987"/>
+<area shape="rect" id="node74" href="$classfwServices_1_1IService.html#a7cf9749932ef5e17fc08b1459de4dead" title="Associate the service to another object. " alt="" coords="220,1010,361,1057"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1SRender.html#ac6f0349557c0f53b1a44435792c9cb03" title="Get a vtkTransform in the SRender, referenced by a key. Create it if it does not exist. " alt="" coords="455,266,617,313"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1IManagerSrv.html#a92562887e5aec0200c62d1fb34149f8b" title="Manages a connection define in config associated to object. " alt="" coords="448,5,624,51"/>
+<area shape="rect" id="node19" href="$classfwRenderVTK_1_1SRender.html#a111f3df3a62b070af6ea09055530408b" title="Install observations : should be implemented in IService. " alt="" coords="455,143,617,190"/>
+<area shape="rect" id="node21" href="$classscene2D_1_1Render.html#a3f5d84c262d5f11d3a63aa699dae892a" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="449,213,623,243"/>
+<area shape="rect" id="node23" href="$classfwServices_1_1AppConfigManager.html#afeb93963238876a2e755df252499bd12" title="Stops and destroys services specified in config, then resets the configRoot sptr. ..." alt="" coords="433,74,639,121"/>
+<area shape="rect" id="node9" href="$classctrlSelection_1_1IManagerSrv.html#a134430b00f73cd5761699cda237e24a2" title="Manages all connections define in config associated to object. Call manageConnection() ..." alt="" coords="691,229,867,275"/>
+<area shape="rect" id="node11" href="$classctrlSelection_1_1manager_1_1SField.html#ac65f406cf05b6e79d31d235701be3886" title="Slot: change objects. " alt="" coords="940,159,1092,206"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a7e74075f3212f7f47f8369011edd5ec9" title="Slot: change objects. " alt="" coords="919,229,1113,275"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1manager_1_1SField.html#ab57d869461bb04dbb5a68be5faa517bf" title="Slot: remove objects. " alt="" coords="940,367,1092,414"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a4e44acc0494380e068976ae71d5db070" title="Slot: remove objects. " alt="" coords="917,298,1115,345"/>
+<area shape="rect" id="node28" href="$classctrlSelection_1_1IManagerSrv.html#a2781e12bad21503672958e3e4c59f0c6" title="Manages all proxies connections define in config associated to object Call manageProxy() ..." alt="" coords="691,298,867,345"/>
+<area shape="rect" id="node39" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a3960bcd2e88db0bdfb559352fbd4163e" title="notify a render request iff vtkPipeline is modified " alt="" coords="445,437,627,483"/>
+<area shape="rect" id="node41" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aac8b0ad22f4d39709cbcccde71091db9" title="Initialize the service activity. " alt="" coords="688,367,869,414"/>
+<area shape="rect" id="node45" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aa7166206f35acbf5b200cec62c1ca30d" title="Overrides. " alt="" coords="688,575,869,622"/>
+<area shape="rect" id="node49" href="$classctrlSelection_1_1BookmarkSrv.html#a6aa69e981a54a0b21d485b0ea13d2e11" title="Adds the object in bookmark. " alt="" coords="445,557,627,603"/>
+<area shape="rect" id="node51" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#afbfb35b11f44491974f39f65b546ce7b" title="Call doStart() function. " alt="" coords="445,626,627,673"/>
+<area shape="rect" id="node54" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#a79a2044bffc4d8e81947a423c26bb644" title="Start and stop the IAdaptor. " alt="" coords="445,695,627,742"/>
+<area shape="rect" id="node43" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a5bbf6d97b8cab3cd3edf71739d3ac4b3" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="688,437,869,483"/>
+<area shape="rect" id="node47" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#ad3641b924dd05a6e99ae163f93fd6f67" title="Overrides. " alt="" coords="688,506,869,553"/>
+<area shape="rect" id="node59" href="$classuiImage_1_1WindowLevel.html#afda91c159bfee922dbcedc756e94209c" title="Configure the editor. " alt="" coords="459,815,613,862"/>
+<area shape="rect" id="node65" href="$classfwServices_1_1IService.html#aab454dd731e21ecabac9621496db3ca0" title="Invoke configuring() if m_globalState == STOPPED. Invoke reconfiguring() if m_globalState == STARTED..." alt="" coords="465,885,607,931"/>
+<area shape="rect" id="node69" href="$classfwServices_1_1IService.html#ad540e61677f83ee6d057317da73f3ad9" title="IService constructor. " alt="" coords="465,954,607,1001"/>
+</map>

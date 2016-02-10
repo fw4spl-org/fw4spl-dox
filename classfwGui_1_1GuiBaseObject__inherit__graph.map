@@ -1,0 +1,49 @@
+<map id="fwGui::GuiBaseObject" name="fwGui::GuiBaseObject">
+<area shape="rect" id="node7" href="$classfwGui_1_1builder_1_1IContainerBuilder.html" title="Defines the interface class for the container builder. " alt="" coords="636,5,807,51"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1builder_1_1IMenuBarBuilder.html" title="Defines the interface class for the menubar builder. " alt="" coords="639,74,804,121"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1builder_1_1IToolBarBuilder.html" title="Defines the interface class for the toolbar builder. " alt="" coords="643,145,800,191"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1container_1_1fwContainer.html" title="Defines the generic container for IHM. " alt="" coords="624,216,819,245"/>
+<area shape="rect" id="node23" href="$classfwGui_1_1container_1_1fwMenu.html" title="fwGui::container::fwMenu" alt="" coords="636,273,807,303"/>
+<area shape="rect" id="node27" href="$classfwGui_1_1container_1_1fwMenuBar.html" title="Defines the menu for IHM. " alt="" coords="627,340,816,369"/>
+<area shape="rect" id="node31" href="$classfwGui_1_1container_1_1fwMenuItem.html" title="Defines the menu item for IHM. " alt="" coords="623,407,820,436"/>
+<area shape="rect" id="node35" href="$classfwGui_1_1container_1_1fwToolBar.html" title="Defines the tool bar for IHM. " alt="" coords="629,471,813,500"/>
+<area shape="rect" id="node39" href="$classfwGui_1_1dialog_1_1IInputDialog.html" title="Defines the generic input dialog box for IHM. " alt="" coords="633,528,809,557"/>
+<area shape="rect" id="node45" href="$classfwGui_1_1dialog_1_1ILocationDialog.html" title="fwGui::dialog::ILocation\lDialog" alt="" coords="643,581,800,627"/>
+<area shape="rect" id="node51" href="$classfwGui_1_1dialog_1_1IMessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="621,651,821,680"/>
+<area shape="rect" id="node57" href="$classfwGui_1_1dialog_1_1IMultiSelectorDialog.html" title="IMultiSelectorDialog allows the choice of some elements among several (_selections) ..." alt="" coords="628,703,815,750"/>
+<area shape="rect" id="node63" href="$classfwGui_1_1dialog_1_1IProgressDialog.html" title="Defines the generic Progress dialog for IHM. " alt="" coords="640,773,803,819"/>
+<area shape="rect" id="node67" href="$classfwGui_1_1dialog_1_1IPulseProgressDialog.html" title="Defines the generic Progress dialog for IHM. " alt="" coords="624,842,819,889"/>
+<area shape="rect" id="node69" href="$classfwGui_1_1dialog_1_1ISelectorDialog.html" title="ISelectorDialog allows the choice of an element among several (_selections) " alt="" coords="643,911,800,958"/>
+<area shape="rect" id="node71" href="$classfwGui_1_1GuiRegistry.html" title="This class contains helpers to manage all fwContainer in the application. " alt="" coords="655,981,788,1011"/>
+<area shape="rect" id="node73" href="$classfwGui_1_1IApplication.html" title="Defines the application manipulation API. " alt="" coords="656,1035,787,1064"/>
+<area shape="rect" id="node75" href="$classfwGui_1_1ICursor.html" title="Defines the generic cursor for IHM. " alt="" coords="668,1088,775,1117"/>
+<area shape="rect" id="node77" href="$classfwGui_1_1IMenuItemCallback.html" title="Defines the menu item callback. " alt="" coords="633,1141,809,1171"/>
+<area shape="rect" id="node79" href="$classfwGui_1_1layoutManager_1_1IFrameLayoutManager.html" title="Defines the frame layout manager. " alt="" coords="641,1194,801,1241"/>
+<area shape="rect" id="node81" href="$classfwGui_1_1layoutManager_1_1IMenuBarLayoutManager.html" title="Defines the menu bar layout manager for IHM. " alt="" coords="635,1263,808,1310"/>
+<area shape="rect" id="node83" href="$classfwGui_1_1layoutManager_1_1IMenuLayoutManager.html" title="Defines the menu layout manager for IHM. " alt="" coords="644,1333,799,1379"/>
+<area shape="rect" id="node85" href="$classfwGui_1_1layoutManager_1_1IToolBarLayoutManager.html" title="Defines the toolBar layout manager for IHM. " alt="" coords="637,1402,805,1449"/>
+<area shape="rect" id="node87" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM. " alt="" coords="645,1471,797,1518"/>
+<area shape="rect" id="node89" href="$classfwGui_1_1registrar_1_1ActionRegistrar.html" title="Defines the action registrar for IHM. " alt="" coords="644,1541,799,1587"/>
+<area shape="rect" id="node91" href="$classfwGui_1_1registrar_1_1MenuBarRegistrar.html" title="Defines the menuBar registrar for IHM. " alt="" coords="636,1610,807,1657"/>
+<area shape="rect" id="node93" href="$classfwGui_1_1registrar_1_1MenuRegistrar.html" title="Defines the menu registrar for IHM. " alt="" coords="620,1680,823,1709"/>
+<area shape="rect" id="node95" href="$classfwGui_1_1registrar_1_1ToolBarRegistrar.html" title="Defines the toolBar registrar for IHM. " alt="" coords="640,1733,803,1779"/>
+<area shape="rect" id="node97" href="$classfwGui_1_1registrar_1_1ViewRegistrar.html" title="Defines the generic view manager for IHM. " alt="" coords="621,1803,821,1832"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,920,369,949"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1builder_1_1ContainerBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="891,5,1056,51"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1builder_1_1MenuBarBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="872,75,1075,104"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1builder_1_1ToolBarBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="876,128,1071,157"/>
+<area shape="rect" id="node21" href="$classfwGuiQt_1_1container_1_1QtContainer.html" title="Defines the QWidget container for IHM. " alt="" coords="908,181,1039,227"/>
+<area shape="rect" id="node25" href="$classfwGuiQt_1_1container_1_1QtMenuContainer.html" title="Defines the Qt menu bar container for IHM. " alt="" coords="908,250,1039,297"/>
+<area shape="rect" id="node29" href="$classfwGuiQt_1_1container_1_1QtMenuBarContainer.html" title="Defines the Qt menu bar container for GUI. " alt="" coords="897,319,1049,366"/>
+<area shape="rect" id="node33" href="$classfwGuiQt_1_1container_1_1QtMenuItemContainer.html" title="Defines the Qt menuItem bar container for IHM. " alt="" coords="895,389,1052,435"/>
+<area shape="rect" id="node37" href="$classfwGuiQt_1_1container_1_1QtToolBarContainer.html" title="Defines the Qt toolBar bar container for IHM. " alt="" coords="901,458,1045,505"/>
+<area shape="rect" id="node41" href="$classfwGui_1_1dialog_1_1InputDialog.html" title="Defines the generic input dialog for IHM. Use the Delegate design pattern. " alt="" coords="888,528,1059,557"/>
+<area shape="rect" id="node43" href="$classfwGuiQt_1_1dialog_1_1InputDialog.html" title="Defines an Input dialog. " alt="" coords="880,581,1067,611"/>
+<area shape="rect" id="node47" href="$classfwGui_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder selector dialog for IHM. " alt="" coords="877,635,1069,664"/>
+<area shape="rect" id="node49" href="$classfwGuiQt_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder dialog for IHM. " alt="" coords="889,687,1057,734"/>
+<area shape="rect" id="node53" href="$classfwGui_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. Use the Delegate design pattern. " alt="" coords="876,757,1071,787"/>
+<area shape="rect" id="node55" href="$classfwGuiQt_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="887,810,1060,857"/>
+<area shape="rect" id="node59" href="$classfwGui_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allows the choice of some element among several (_selections) ..." alt="" coords="883,879,1064,926"/>
+<area shape="rect" id="node61" href="$classfwGuiQt_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allowing the choice of an element among severals (_selections) ..." alt="" coords="876,949,1071,995"/>
+<area shape="rect" id="node65" href="$classfwGui_1_1dialog_1_1ProgressDialog.html" title="Defines the generic progress dialog for IHM. Use the Delegate design pattern. The specific implementa..." alt="" coords="876,1019,1071,1048"/>
+</map>

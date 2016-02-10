@@ -1,0 +1,5 @@
+<map id="fwRuntime::EConfigurationElement::addConfigurationElement" name="fwRuntime::EConfigurationElement::addConfigurationElement">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ConfigurationElementContainer.html#a4c4710e2e3ef26f8f851e0adab03d146" title="Adds a new configuration element to the extension. " alt="" coords="277,5,509,69"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1ConfigurationElement.html#a3cafa471f4d83060fc46e4da439b9be8" title="Sets an attribute with the specified name and value. " alt="" coords="304,93,483,139"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1ConfigurationElement.html#a4321da0060cd1e6135a746b8b4ef121f" title="Sets the value of the configuration element it&#45;self. " alt="" coords="308,162,479,209"/>
+</map>

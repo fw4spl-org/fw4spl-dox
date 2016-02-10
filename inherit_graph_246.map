@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classfwGuiQt_1_1SliceSelector.html" title="A qt panel used to control a VTK 2D Negatoscope view. " alt="" coords="153,5,308,35"/>
+<area shape="rect" id="node5" href="$classfwGuiQt_1_1widget_1_1QRangeSlider.html" title="fwGuiQt::widget::QRangeSlider" alt="" coords="128,59,333,88"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1widget_1_1EquipmentEditor.html" title="Widget to edit fwMedData::Equipment information. " alt="" coords="161,111,300,158"/>
+<area shape="rect" id="node9" href="$classuiMedData_1_1widget_1_1ListInput.html" title="Simple list widget where items can be added/removed from an input widget with add/remove buttons..." alt="" coords="161,181,300,227"/>
+<area shape="rect" id="node11" href="$classuiMedData_1_1widget_1_1PatientEditor.html" title="Widget to edit fwMedData::Patient information. " alt="" coords="161,250,300,297"/>
+<area shape="rect" id="node13" href="$classuiMedData_1_1widget_1_1SeriesEditor.html" title="Widget to edit fwMedData::Series information. " alt="" coords="161,319,300,366"/>
+<area shape="rect" id="node15" href="$classuiMedData_1_1widget_1_1StudyEditor.html" title="Widget to edit fwMedData::Study information. " alt="" coords="161,389,300,435"/>
+</map>

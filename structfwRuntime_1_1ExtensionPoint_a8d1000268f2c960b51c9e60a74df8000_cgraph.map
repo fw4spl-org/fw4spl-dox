@@ -1,0 +1,5 @@
+<map id="fwRuntime::ExtensionPoint::getAllExtensions" name="fwRuntime::ExtensionPoint::getAllExtensions">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#af5bd7a855c7451620d3ec7bb902a0953" title="Retrieves the iterator on the beginning of the extension collection. " alt="" coords="236,5,377,51"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a7190c65fd2f6a8f8b90b35aad6b3d46d" title="Retrieves the iterator on the end of the extension collection. " alt="" coords="236,74,377,121"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="236,143,377,190"/>
+</map>

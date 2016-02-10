@@ -1,0 +1,7 @@
+<map id="fwComEd::helper::Composite::swap" name="fwComEd::helper::Composite::swap">
+<area shape="rect" id="node3" href="$classuiImage_1_1WindowLevel.html#af89ef9fdebdd2a92ed56c06ac0bb4e14" title="Swap current tf and notify other services. " alt="" coords="248,74,427,121"/>
+<area shape="rect" id="node5" href="$classuiImage_1_1WindowLevel.html#a1b6f272c5e0c02df115981d240d304d8" title="Update editor information from the image. " alt="" coords="475,39,629,86"/>
+<area shape="rect" id="node11" href="$classuiImage_1_1WindowLevel.html#a63a6f880a42e7a8186e6b9ac066a56c3" title="Overrides. " alt="" coords="475,109,629,155"/>
+<area shape="rect" id="node7" href="$classuiImage_1_1WindowLevel.html#a30238b79b9c852e349d7f08fc06765a6" title="Swap of image. " alt="" coords="677,5,832,51"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1WindowLevel.html#ad39c747b18b452868f8c5cd6bd74e956" title="Called when transfer function points are modified. " alt="" coords="677,74,832,121"/>
+</map>

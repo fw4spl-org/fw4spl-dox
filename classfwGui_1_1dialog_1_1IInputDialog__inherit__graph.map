@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::IInputDialog" name="fwGui::dialog::IInputDialog">
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1InputDialog.html" title="Defines the generic input dialog for IHM. Use the Delegate design pattern. " alt="" coords="5,333,176,363"/>
+<area shape="rect" id="node11" href="$classfwGuiQt_1_1dialog_1_1InputDialog.html" title="Defines an Input dialog. " alt="" coords="200,333,387,363"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="116,179,268,208"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="123,101,261,131"/>
+</map>

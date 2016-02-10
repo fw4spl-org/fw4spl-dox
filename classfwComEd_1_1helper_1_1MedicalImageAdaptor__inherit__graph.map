@@ -1,0 +1,25 @@
+<map id="fwComEd::helper::MedicalImageAdaptor" name="fwComEd::helper::MedicalImageAdaptor">
+<area shape="rect" id="node3" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptorTpl.html" title="fwComEd::helper::Medical\lImageAdaptorTpl\&lt; IMAGEID \&gt;" alt="" coords="244,5,447,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1Negato.html" title="scene2D::adaptor::Negato" alt="" coords="259,75,432,104"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1TransferFunction.html" title="scene2D::adaptor::Transfer\lFunction" alt="" coords="255,127,436,174"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1SliceIndexPositionEditor.html" title="SliceIndexPositionEditor service allows to change the slice index of an image. " alt="" coords="253,197,437,243"/>
+<area shape="rect" id="node11" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing. " alt="" coords="268,267,423,296"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1Image.html" title="Render an image on the generic scene. " alt="" coords="265,320,425,349"/>
+<area shape="rect" id="node15" href="$classvisuVTKAdaptor_1_1Image3DCursor.html" title="Add a 3D spatial marker represented by a sphere. " alt="" coords="237,373,453,403"/>
+<area shape="rect" id="node17" href="$classvisuVTKAdaptor_1_1ImagePickerInteractor.html" title="Adaptor to manage image picking. " alt="" coords="247,426,444,473"/>
+<area shape="rect" id="node19" href="$classvisuVTKAdaptor_1_1ImageSeries.html" title="This adaptor shows ImageSeries. Creates an adaptor for the image in the series. " alt="" coords="247,496,444,525"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1ImageSlice.html" title="Adaptor to display only one slice of an image. " alt="" coords="251,549,440,579"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1ImageSliceOrientationText.html" title="Shows image orientation information (right, left, ...) This adaptor show locations labels in the four..." alt="" coords="251,602,440,649"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1ImagesProbeCursor.html" title="Draw pixel information from images given by id in composite. " alt="" coords="244,671,447,718"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1ImageText.html" title="Adaptor to display window image information (width, heigth, picked position) " alt="" coords="252,741,439,771"/>
+<area shape="rect" id="node29" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html" title="Update camera scene according to defined axes (axial, sagittal, frontal). " alt="" coords="257,794,433,841"/>
+<area shape="rect" id="node31" href="$classvisuVTKAdaptor_1_1NegatoMPR.html" title="visuVTKAdaptor::NegatoMPR" alt="" coords="247,864,444,893"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1NegatoOneSlice.html" title="visuVTKAdaptor::NegatoOne\lSlice" alt="" coords="251,917,440,963"/>
+<area shape="rect" id="node35" href="$classvisuVTKAdaptor_1_1NegatoSlicingInteractor.html" title="visuVTKAdaptor::NegatoSlicing\lInteractor" alt="" coords="243,986,448,1033"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1NegatoWindowingInteractor.html" title="visuVTKAdaptor::NegatoWindowing\lInteractor" alt="" coords="231,1055,460,1102"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1PlaneInteractor.html" title="visuVTKAdaptor::PlaneInteractor" alt="" coords="239,1125,452,1155"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ProbeCursor.html" title="Cursor management. " alt="" coords="247,1179,444,1208"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1SliceFollowerCamera.html" title="Update the camera according to slice move. " alt="" coords="244,1231,447,1278"/>
+<area shape="rect" id="node45" href="$classvisuVTKAdaptor_1_1SlicesCursor.html" title="visuVTKAdaptor::SlicesCursor" alt="" coords="245,1301,445,1331"/>
+<area shape="rect" id="node47" href="$classvisuVTKVRAdaptor_1_1Volume.html" title="visuVTKVRAdaptor::Volume" alt="" coords="252,1355,439,1384"/>
+</map>

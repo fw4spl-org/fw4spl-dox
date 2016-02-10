@@ -1,0 +1,10 @@
+<map id="fwCom::Slot&lt; ::boost::function&lt; R(A...) &gt; &gt;" name="fwCom::Slot&lt; ::boost::function&lt; R(A...) &gt; &gt;">
+<area shape="rect" id="node2" href="$classfwCom_1_1Slot_3_01R_07A_8_8_8_08_01_4.html" title="fwCom::Slot\&lt; R(A...) \&gt;" alt="" coords="1487,75,1644,104"/>
+<area shape="rect" id="node4" href="$structfwCom_1_1SlotCall_3_01R_07A_8_8_8_08_01_4.html" title="Slot call interface (call with return value). " alt="" coords="1295,66,1433,113"/>
+<area shape="rect" id="node6" href="$structfwCom_1_1SlotRun_3_01void_07A_8_8_8_08_01_4.html" title="Slot run interface (call without return value). " alt="" coords="1088,66,1243,113"/>
+<area shape="rect" id="node8" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations. " alt="" coords="912,75,1037,104"/>
+<area shape="rect" id="node10" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="584,13,723,43"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="167,75,265,104"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="613,136,693,165"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="153,127,279,174"/>
+</map>

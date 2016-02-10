@@ -1,0 +1,5 @@
+<map id="fwStructuralPatch::creator::fwMedData::ActivitySeries1" name="fwStructuralPatch::creator::fwMedData::ActivitySeries1">
+<area shape="rect" id="node2" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Series1.html" title="Structural creator for fwMedData::Series version 1. " alt="" coords="21,275,165,339"/>
+<area shape="rect" id="node4" href="$classfwAtomsPatch_1_1IStructuralCreator.html" title="Base class of all structural creators. Creates a new atom object with the default values correspondin..." alt="" coords="5,179,181,226"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="24,101,163,131"/>
+</map>

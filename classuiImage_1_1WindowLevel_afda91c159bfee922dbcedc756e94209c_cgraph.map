@@ -1,0 +1,7 @@
+<map id="uiImage::WindowLevel::configuring" name="uiImage::WindowLevel::configuring">
+<area shape="rect" id="node3" href="$classfwGui_1_1IGuiContainerSrv.html#a0559233b450051dc0c8f4bd0f02158eb" title="Initialize managers. " alt="" coords="225,27,388,74"/>
+<area shape="rect" id="node11" href="$classfwComEd_1_1helper_1_1MedicalImageAdaptor.html#a8001bb8e04d8f10ed6080a3244704db9" title="Set selected TF Key and TF Selection fwID from config. " alt="" coords="208,97,405,143"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="453,36,597,65"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="663,5,801,35"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="647,58,817,105"/>
+</map>
