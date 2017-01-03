@@ -1,0 +1,7 @@
+<map id="fwGui::dialog::LoggerDialog::showLoggerDialog" name="fwGui::dialog::LoggerDialog::showLoggerDialog">
+<area shape="rect" id="node3" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a680faf596ce8151900d15c4fd5eb1662" title="Override. " alt="" coords="239,5,457,51"/>
+<area shape="rect" id="node7" href="$classioGdcm_1_1SSeriesDBReader.html#a4bdbb9ae3998440f5f8624db2b71cb74" title="Override. " alt="" coords="257,74,439,121"/>
+<area shape="rect" id="node11" href="$classioGdcm_1_1SDicomSeriesConverter.html#a8c0cb9d8b6eaf3fdeb9aa013deb21c6a" title="Override. " alt="" coords="240,143,456,190"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a95f786ee4b6abe92da2607cff1c07838" title="Override. " alt="" coords="508,5,727,51"/>
+<area shape="rect" id="node9" href="$classioGdcm_1_1SSeriesDBReader.html#aeaa15fba6afa36ce95e8a6dd18a78360" title="Override. " alt="" coords="527,74,708,121"/>
+</map>

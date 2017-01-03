@@ -1,0 +1,29 @@
+<map id="fwDataIO::reader::IObjectReader" name="fwDataIO::reader::IObjectReader">
+<area shape="rect" id="node7" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="generic class for all object readers. " alt="" coords="648,473,845,519"/>
+<area shape="rect" id="node9" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Mesh \&gt;" alt="" coords="1079,387,1252,451"/>
+<area shape="rect" id="node15" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="1071,217,1260,281"/>
+<area shape="rect" id="node29" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::StructureTraitsDictionary \&gt;" alt="" coords="1072,129,1259,193"/>
+<area shape="rect" id="node33" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="1075,809,1256,873"/>
+<area shape="rect" id="node37" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Array \&gt;" alt="" coords="1079,505,1252,569"/>
+<area shape="rect" id="node43" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Image \&gt;" alt="" coords="1079,721,1252,785"/>
+<area shape="rect" id="node55" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData::Tag \&gt;" alt="" coords="1063,615,1268,662"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,535,372,564"/>
+<area shape="rect" id="node11" href="$classfwDataIO_1_1reader_1_1MeshReader.html" title="Mesh reader. Read file format .trian. " alt="" coords="1336,448,1539,477"/>
+<area shape="rect" id="node13" href="$classfwVtkIO_1_1MeshReader.html" title="Read a mesh.Read a VTK Mesh using the VTK lib. " alt="" coords="1361,395,1513,424"/>
+<area shape="rect" id="node17" href="$classfwDcmtkIO_1_1DicomSeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1321,235,1553,264"/>
+<area shape="rect" id="node19" href="$classfwDcmtkIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1340,288,1535,317"/>
+<area shape="rect" id="node21" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html" title="This class adds patient(s) from DICOM file(s) to fwData::SeriesDB. " alt="" coords="1341,341,1533,371"/>
+<area shape="rect" id="node23" href="$classfwVtkIO_1_1SeriesDBReader.html" title="Read a SeriesDB.Read VTK Mesh or Image files using the VTK lib, convert to ModelSeries or ImageSeries..." alt="" coords="1349,75,1525,104"/>
+<area shape="rect" id="node25" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="1327,128,1548,157"/>
+<area shape="rect" id="node27" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1340,181,1535,211"/>
+<area shape="rect" id="node31" href="$classfwDataIO_1_1reader_1_1DictionaryReader.html" title="Dictionary reader. Read file with .dic extension. " alt="" coords="1343,5,1532,51"/>
+<area shape="rect" id="node35" href="$classfwDataIO_1_1reader_1_1TransformationMatrix3DReader.html" title="Reader for transformation of 3D Matrix. Read file format .trf. " alt="" coords="1329,959,1545,1006"/>
+<area shape="rect" id="node39" href="$classfwDataIO_1_1reader_1_1ArrayReader.html" title="Array Reader. Read file format .raw. " alt="" coords="1336,501,1539,531"/>
+<area shape="rect" id="node41" href="$classfwDataIO_1_1reader_1_1GzArrayReader.html" title="Array Reader. Read file format .raw.gz. " alt="" coords="1348,554,1527,601"/>
+<area shape="rect" id="node45" href="$classfwDataIO_1_1reader_1_1GzBufferImageReader.html" title="Image Reader. Read file format .raw.gz. " alt="" coords="1347,730,1528,777"/>
+<area shape="rect" id="node47" href="$classfwItkIO_1_1ImageReader.html" title="fwItkIO::ImageReader" alt="" coords="1363,800,1512,829"/>
+<area shape="rect" id="node49" href="$classfwVtkIO_1_1ImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="1360,853,1515,883"/>
+<area shape="rect" id="node51" href="$classfwVtkIO_1_1MetaImageReader.html" title="Read a MetaImage.Read a MetaImage using the VTK lib. " alt="" coords="1345,907,1529,936"/>
+<area shape="rect" id="node53" href="$classfwVtkIO_1_1VtiImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="1352,677,1523,707"/>
+<area shape="rect" id="node57" href="$classfwDataIO_1_1reader_1_1TagReader.html" title="Tag Reader. Read file format .tag. " alt="" coords="1340,624,1535,653"/>
+</map>

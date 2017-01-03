@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::writer::ie::Surface::writeSurfaceMeshModule" name="fwGdcmIO::writer::ie::Surface::writeSurfaceMeshModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#a0cb3c5671877669df5b8cb94ab9d3602" title="Convert a surface representation mode (FW4SPL) into recommended presentation type (DICOM)..." alt="" coords="253,5,456,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#a832c5fa70c07382014ba254567aa01fb" title="Convert a representation mode into a DICOM form (eg : SURFACE, POINTS, WIREFRAME). " alt="" coords="243,74,467,121"/>
+</map>

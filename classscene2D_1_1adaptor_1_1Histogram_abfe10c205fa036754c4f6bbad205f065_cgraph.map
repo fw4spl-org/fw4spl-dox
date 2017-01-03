@@ -1,0 +1,6 @@
+<map id="scene2D::adaptor::Histogram::configuring" name="scene2D::adaptor::Histogram::configuring">
+<area shape="rect" id="node3" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#abee2c849e0e466b8b47d2f734fcd5fe0" title="Not implemented in IAdaptor but in its subclasses. " alt="" coords="249,39,431,86"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1data_1_1InitQtPen.html#a042d47d24a35453f48a79f35d1b5f7f6" title="Set a pen a color. " alt="" coords="255,109,425,155"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#abfd77d495d848dfd3c5b15c04d4a1aa7" title="Get the render that manages the IAdaptor. " alt="" coords="481,5,663,51"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#afc8cbae24765d58180d7adc6d1e43178" title="Get the object associated to the IAdaptor. " alt="" coords="481,74,663,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::writer::tid::Fiducial::createFiducial" name="fwGdcmIO::writer::tid::Fiducial::createFiducial">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#ae22f2f6ad4d348879a6b130232873e47" title="Create nodes according to the template. " alt="" coords="219,14,376,61"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1tid_1_1MeasurementReport.html#a4d19e873d6dcae893f685c018ca42aa1" title="Create Measurement Report template root node. " alt="" coords="425,5,580,69"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Document.html#a446e2d2d624adb4dae659f269aac8f21" title="Write SR Document Content Module tags. " alt="" coords="629,5,835,69"/>
+</map>

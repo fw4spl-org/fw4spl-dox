@@ -1,0 +1,4 @@
+<map id="fwServices::IService::getInOuts" name="fwServices::IService::getInOuts">
+<area shape="rect" id="node3" href="$classscene2D_1_1Render.html#a08ca72a78d6791c3816e826ba8236d3b" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="201,5,375,35"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1Render.html#a17af925c4fd91ac771a4644bb648c998" title="Stop all the adaptors attached to the render related composite, stop all those rattached to the objec..." alt="" coords="197,59,379,88"/>
+</map>

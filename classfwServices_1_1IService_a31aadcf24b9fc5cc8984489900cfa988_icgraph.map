@@ -1,0 +1,42 @@
+<map id="fwServices::IService::getObject" name="fwServices::IService::getObject">
+<area shape="rect" id="node3" href="$classgui_1_1action_1_1SConfigLauncher.html#a32cf62ace114f09139bb7d3ecde9fdd5" title="Slot: check if the configuration is executable. " alt="" coords="216,57,405,103"/>
+<area shape="rect" id="node7" href="$classpreferences_1_1SPreferences.html#a668990d43aa122849e2534d5a3b7b035" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="223,143,399,190"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1ModelSeries.html#a354c516b34ea4e3d5dff8c3f825da247" title="redraw all (stop then restart sub services) " alt="" coords="212,213,409,259"/>
+<area shape="rect" id="node11" href="$classioAtoms_1_1SReader.html#a09fd93edae81eaa2f212e6ae6a4e6945" title="Returns managed path type, here service manages only single file. " alt="" coords="199,283,423,312"/>
+<area shape="rect" id="node13" href="$classguiQt_1_1editor_1_1SDynamicView.html#ace0acec50b876241b056dc4f57707c70" title="Write information in a stream. " alt="" coords="216,335,405,382"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1manager_1_1SField.html#ab57d869461bb04dbb5a68be5faa517bf" title="Slot: remove objects. " alt="" coords="235,405,387,451"/>
+<area shape="rect" id="node19" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a3960bcd2e88db0bdfb559352fbd4163e" title="notify a render request iff vtkPipeline is modified " alt="" coords="220,525,401,571"/>
+<area shape="rect" id="node29" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aac8b0ad22f4d39709cbcccde71091db9" title="Initialize the service activity. " alt="" coords="485,143,667,190"/>
+<area shape="rect" id="node33" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aa7166206f35acbf5b200cec62c1ca30d" title="Overrides. " alt="" coords="485,975,667,1022"/>
+<area shape="rect" id="node59" href="$classctrlSelection_1_1BookmarkSrv.html#a6aa69e981a54a0b21d485b0ea13d2e11" title="Adds the object in bookmark. " alt="" coords="220,645,401,691"/>
+<area shape="rect" id="node61" href="$classctrlMemory_1_1LockDumpSrv.html#a3c427348cff4a7bc551053a96b748180" title="Uses fwData::ObjectLock to dump lock the associated data. " alt="" coords="221,714,400,761"/>
+<area shape="rect" id="node63" href="$classctrlSelection_1_1manager_1_1SField.html#a000b1f40c42c8e8fb11044dd9d2ab91e" title="ctrlSelection::manager\l::SField::starting" alt="" coords="235,783,387,830"/>
+<area shape="rect" id="node67" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#afbfb35b11f44491974f39f65b546ce7b" title="Call doStart() function. " alt="" coords="220,853,401,899"/>
+<area shape="rect" id="node69" href="$classuiIO_1_1action_1_1SExportWithSeriesDB.html#a35249c4bce0e8cd95f3e636cb7d72b9f" title="Start action. " alt="" coords="225,922,396,969"/>
+<area shape="rect" id="node71" href="$classgui_1_1action_1_1SConfigLauncher.html#a244cb6895f6b93415f60ba625f1c0266" title="This method launches the IAction::starting method. " alt="" coords="216,991,405,1038"/>
+<area shape="rect" id="node74" href="$classctrlCamp_1_1SCopy.html#a4be5376407f07adcda43d50a7c8620d1" title="Does nothing. " alt="" coords="221,1061,400,1091"/>
+<area shape="rect" id="node76" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#a79a2044bffc4d8e81947a423c26bb644" title="Start and stop the IAdaptor. " alt="" coords="220,1114,401,1161"/>
+<area shape="rect" id="node79" href="$classioData_1_1TransformationMatrix3DReaderService.html#a355e46279fd66f3dc62520d01ed45674" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="212,1183,409,1230"/>
+<area shape="rect" id="node81" href="$classioData_1_1TransformationMatrix3DWriterService.html#a3e6f5f9b4c45b649a4d9321408de3ea9" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="212,1253,409,1299"/>
+<area shape="rect" id="node83" href="$classuiIO_1_1editor_1_1SIOSelector.html#a6b0dcf308001a4f8b72956e777548630" title="Create a dialogue box to provide the user different available readers (writer) for the IOSelector ass..." alt="" coords="228,1322,393,1369"/>
+<area shape="rect" id="node5" href="$classgui_1_1action_1_1SConfigLauncher.html#adfaa853dbba0d563d2df89d6bb83f7bf" title="Constructor. Do nothing. " alt="" coords="481,5,671,51"/>
+<area shape="rect" id="node15" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="481,74,671,121"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1Axes.html#aab933ceca6dcc8ea224be93c9d344177" title="Slot: update axes visibility (true = visible) " alt="" coords="499,213,653,259"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1Image.html#a7818779e522b7161bdce5ade3ab0e461" title="Called when transfer function points are modified. " alt="" coords="496,282,656,329"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1Image.html#af5ca88915d3ca94f0a10ca951bf5b519" title="Called when transfer function windowing is modified. " alt="" coords="496,351,656,398"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1Image.html#a69d86d967d03314b4cbc8e898de2c437" title="Slot: Update image opacity and visibility. " alt="" coords="496,421,656,467"/>
+<area shape="rect" id="node31" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a5bbf6d97b8cab3cd3edf71739d3ac4b3" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="485,490,667,537"/>
+<area shape="rect" id="node35" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#ad3641b924dd05a6e99ae163f93fd6f67" title="Overrides. " alt="" coords="485,559,667,606"/>
+<area shape="rect" id="node49" href="$classvisuVTKAdaptor_1_1MeshNormals.html#acaed734020a8c6df9cb3dc2bbda1c6cc" title="Slot: used to update mesh vertex. " alt="" coords="473,629,679,675"/>
+<area shape="rect" id="node51" href="$classvisuVTKAdaptor_1_1MeshNormals.html#a5159e64c8af2e3fa97e7a851a3d72958" title="Slot: used to update point normals. " alt="" coords="473,698,679,745"/>
+<area shape="rect" id="node53" href="$classvisuVTKAdaptor_1_1MeshNormals.html#ab1b468150ffc447c5be1130ac9676b95" title="Slot: used to update cell normals. " alt="" coords="473,767,679,814"/>
+<area shape="rect" id="node55" href="$classvisuVTKAdaptor_1_1ModelSeries.html#aae7e1a3042b8d56bb3fb4a9260062c3d" title="Slot: show(or hide) reconstructions. " alt="" coords="477,837,675,883"/>
+<area shape="rect" id="node57" href="$classvisuVTKAdaptor_1_1Plane.html#ab4a3e0d7bcf9187cc730855a84ba78e2" title="Changes points color (red is selected, else white) " alt="" coords="497,906,655,953"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1ImageText.html#a1654105d652793c3f7aee68d51864828" title="Slot: update image slice index. " alt="" coords="735,386,921,433"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1ImageText.html#a658bf1388a0734fc5d210d0188e4b347" title="Update tranfer function points. " alt="" coords="735,455,921,502"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ImageText.html#ab9cfaf390796c5542798384b7ad92d49" title="Update transfer function windowing. " alt="" coords="735,525,921,571"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html#ae53e8fc22ccdf3573395ba6c5b059ac5" title="Configure the adaptor. " alt="" coords="740,594,916,641"/>
+<area shape="rect" id="node45" href="$classvisuVTKAdaptor_1_1Plane.html#ac5dbc69fd7cfcfbcec8b55d3e7838990" title="Update the plane from the points and notify planes is modified. " alt="" coords="749,663,907,710"/>
+<area shape="rect" id="node47" href="$classvisuVTKAdaptor_1_1SlicesCursor.html#a50211ca549317a07b9967c5765babdfe" title="Slot: set the scale for the cross : 1. means full cross, 0.5 half cross, 0. no cross. " alt="" coords="728,733,928,779"/>
+<area shape="rect" id="node65" href="$classctrlSelection_1_1manager_1_1SField.html#a7d92d16914bcc28227edbf4301c531f0" title="Implements updating method derived from IService. Do nothing. " alt="" coords="500,1045,652,1091"/>
+</map>

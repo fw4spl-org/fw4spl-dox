@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::helper::DicomDir::findDicomDir" name="fwGdcmIO::helper::DicomDir::findDicomDir">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a347bc7a8c4e85d92c42538c49e93b66c" title="Return true if a dicomdir file can be read. " alt="" coords="247,5,420,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="247,74,420,121"/>
+</map>

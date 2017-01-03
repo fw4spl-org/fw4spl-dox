@@ -1,0 +1,5 @@
+<map id="fwStructuralPatch::creator::fwMedData::Series1::create" name="fwStructuralPatch::creator::fwMedData::Series1::create">
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html#acaed202322f5efcb82db362d86371425" title="Creates the specified object (sets &#39;image&#39; attribute) and calls creator &#39;Series1&#39;. " alt="" coords="204,5,351,69"/>
+<area shape="rect" id="node5" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ModelSeries1.html#a5a21df45c47b79d0ba1d5bedfa754b33" title="Creates the specified object (sets &#39;reconstruction_db&#39; attribute) and calls creator &#39;Series1&#39;..." alt="" coords="205,93,349,157"/>
+<area shape="rect" id="node7" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ActivitySeries1.html#a035bdc4ea772cbb3a3022f1e71e6caee" title="Creates the specified object. " alt="" coords="200,181,355,245"/>
+</map>

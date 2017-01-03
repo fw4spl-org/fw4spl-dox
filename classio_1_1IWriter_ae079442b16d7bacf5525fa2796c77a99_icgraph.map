@@ -1,0 +1,4 @@
+<map id="io::IWriter::configuring" name="io::IWriter::configuring">
+<area shape="rect" id="node3" href="$classioAtoms_1_1SWriter.html#a2ce40c407f54f86038b0f6f20fcbe616" title="Configures the writer. " alt="" coords="207,5,399,35"/>
+<area shape="rect" id="node5" href="$classioQt_1_1SPdfWriter.html#a8db1ef80560ec7086beb70860b6bd82e" title="Configure service. This method is called by configure() from base service ( fwServices::IService ) ..." alt="" coords="208,59,397,88"/>
+</map>

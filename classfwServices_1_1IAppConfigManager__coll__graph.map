@@ -1,0 +1,5 @@
+<map id="fwServices::IAppConfigManager" name="fwServices::IAppConfigManager">
+<area shape="rect" id="node2" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="143,184,257,213"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="23,104,161,133"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="185,104,289,133"/>
+</map>

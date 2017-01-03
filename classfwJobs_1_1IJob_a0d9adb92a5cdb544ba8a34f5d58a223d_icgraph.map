@@ -1,0 +1,6 @@
+<map id="fwJobs::IJob::setTotalWorkUnitsUpgradeLock" name="fwJobs::IJob::setTotalWorkUnitsUpgradeLock">
+<area shape="rect" id="node3" href="$classfwJobs_1_1Aggregator.html#affc0fee2462ba7464a50ba893976ee39" title="Add an IJob to the Aggregator. " alt="" coords="248,5,411,35"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#a79920c2f80cbd6d92ae261c515e27ca3" title="Setter on total work units. " alt="" coords="239,58,420,105"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#a79ff8e34d2daa46f834a57ae3e0c9393" title="Create DicomSeries from information stored in DICOMDIR. " alt="" coords="471,58,660,105"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="711,58,884,105"/>
+</map>

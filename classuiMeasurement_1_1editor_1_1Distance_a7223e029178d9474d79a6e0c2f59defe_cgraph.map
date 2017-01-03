@@ -1,0 +1,5 @@
+<map id="uiMeasurement::editor::Distance::starting" name="uiMeasurement::editor::Distance::starting">
+<area shape="rect" id="node3" href="$classfwGui_1_1IGuiContainerSrv.html#ad196e4e9f0f17f9d49454df0cb3536f4" title="Creates view, sub&#45;views and toolbar containers. Manages sub&#45;views and toobar services. " alt="" coords="221,5,384,51"/>
+<area shape="rect" id="node5" href="$classuiMeasurement_1_1editor_1_1Distance.html#a935f851cd8e63e50080b366824b4aefb" title="Notify the scene that a distance is added. " alt="" coords="205,74,400,121"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#ac0ac1a469b4be20ba958fa08996cd662" title="Streaming a service. " alt="" coords="449,74,591,121"/>
+</map>

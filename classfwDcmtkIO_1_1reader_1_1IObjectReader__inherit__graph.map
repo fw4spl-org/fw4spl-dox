@@ -1,0 +1,5 @@
+<map id="fwDcmtkIO::reader::IObjectReader" name="fwDcmtkIO::reader::IObjectReader">
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html" title="Base class for Dicom instance reader. " alt="" coords="196,5,340,51"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1reader_1_1ImageTagReader.html" title="Reader for image tag. " alt="" coords="197,74,339,121"/>
+<area shape="rect" id="node7" href="$classfwDcmtkIO_1_1reader_1_1MPPSReader.html" title="Reader for MPPS. " alt="" coords="197,143,339,190"/>
+</map>

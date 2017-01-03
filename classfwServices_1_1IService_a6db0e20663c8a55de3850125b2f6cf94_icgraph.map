@@ -1,0 +1,24 @@
+<map id="fwServices::IService::isStarted" name="fwServices::IService::isStarted">
+<area shape="rect" id="node3" href="$classscene2D_1_1Render.html#a376594488e2b5011a1eb0d0a5af6b09e" title="Returns what happens to scene&#39;s aspect ratio on view resize events. " alt="" coords="199,351,388,398"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a3960bcd2e88db0bdfb559352fbd4163e" title="notify a render request iff vtkPipeline is modified " alt="" coords="203,421,384,467"/>
+<area shape="rect" id="node45" href="$classscene2D_1_1Render.html#a08ca72a78d6791c3816e826ba8236d3b" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="207,491,380,520"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1Axes.html#aab933ceca6dcc8ea224be93c9d344177" title="Slot: update axes visibility (true = visible) " alt="" coords="464,5,619,51"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1Image.html#a7818779e522b7161bdce5ade3ab0e461" title="Called when transfer function points are modified. " alt="" coords="461,74,621,121"/>
+<area shape="rect" id="node11" href="$classvisuVTKAdaptor_1_1Image.html#af5ca88915d3ca94f0a10ca951bf5b519" title="Called when transfer function windowing is modified. " alt="" coords="461,143,621,190"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1Image.html#a69d86d967d03314b4cbc8e898de2c437" title="Slot: Update image opacity and visibility. " alt="" coords="461,213,621,259"/>
+<area shape="rect" id="node15" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aac8b0ad22f4d39709cbcccde71091db9" title="Initialize the service activity. " alt="" coords="451,282,632,329"/>
+<area shape="rect" id="node17" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a5bbf6d97b8cab3cd3edf71739d3ac4b3" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="451,351,632,398"/>
+<area shape="rect" id="node19" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aa7166206f35acbf5b200cec62c1ca30d" title="Overrides. " alt="" coords="451,421,632,467"/>
+<area shape="rect" id="node21" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#ad3641b924dd05a6e99ae163f93fd6f67" title="Overrides. " alt="" coords="451,490,632,537"/>
+<area shape="rect" id="node35" href="$classvisuVTKAdaptor_1_1MeshNormals.html#acaed734020a8c6df9cb3dc2bbda1c6cc" title="Slot: used to update mesh vertex. " alt="" coords="439,559,644,606"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1MeshNormals.html#a5159e64c8af2e3fa97e7a851a3d72958" title="Slot: used to update point normals. " alt="" coords="439,629,644,675"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1MeshNormals.html#ab1b468150ffc447c5be1130ac9676b95" title="Slot: used to update cell normals. " alt="" coords="439,698,644,745"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ModelSeries.html#aae7e1a3042b8d56bb3fb4a9260062c3d" title="Slot: show(or hide) reconstructions. " alt="" coords="443,767,640,814"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1Plane.html#ab4a3e0d7bcf9187cc730855a84ba78e2" title="Changes points color (red is selected, else white) " alt="" coords="463,837,620,883"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1ImageText.html#a1654105d652793c3f7aee68d51864828" title="Slot: update image slice index. " alt="" coords="700,317,887,363"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1ImageText.html#a658bf1388a0734fc5d210d0188e4b347" title="Update tranfer function points. " alt="" coords="700,386,887,433"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1ImageText.html#ab9cfaf390796c5542798384b7ad92d49" title="Update transfer function windowing. " alt="" coords="700,455,887,502"/>
+<area shape="rect" id="node29" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html#ae53e8fc22ccdf3573395ba6c5b059ac5" title="Configure the adaptor. " alt="" coords="705,525,881,571"/>
+<area shape="rect" id="node31" href="$classvisuVTKAdaptor_1_1Plane.html#ac5dbc69fd7cfcfbcec8b55d3e7838990" title="Update the plane from the points and notify planes is modified. " alt="" coords="715,594,872,641"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1SlicesCursor.html#a50211ca549317a07b9967c5765babdfe" title="Slot: set the scale for the cross : 1. means full cross, 0.5 half cross, 0. no cross. " alt="" coords="693,663,893,710"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fwServices::IService::getObjSrvConnections" name="fwServices::IService::getObjSrvConnections">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a540ebeabae5ee08620853d911d63ad42" title="Returns proposals to connect service slots to associated objects signals, this method is used for obj..." alt="" coords="235,5,381,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#afbfb35b11f44491974f39f65b546ce7b" title="Call doStart() function. " alt="" coords="217,74,399,121"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aac8b0ad22f4d39709cbcccde71091db9" title="Initialize the service activity. " alt="" coords="217,143,399,190"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1adaptor_1_1IAdaptor.html#a79a2044bffc4d8e81947a423c26bb644" title="Start and stop the IAdaptor. " alt="" coords="217,213,399,259"/>
+<area shape="rect" id="node11" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#aa7166206f35acbf5b200cec62c1ca30d" title="Overrides. " alt="" coords="217,282,399,329"/>
+</map>

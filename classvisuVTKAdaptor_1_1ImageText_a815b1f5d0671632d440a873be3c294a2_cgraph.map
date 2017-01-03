@@ -1,0 +1,12 @@
+<map id="visuVTKAdaptor::ImageText::doConfigure" name="visuVTKAdaptor::ImageText::doConfigure">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="261,5,427,69"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1Text.html#a23c3d632982dea71262d2f640ae91b26" title="Configure the adaptor. " alt="" coords="269,93,419,139"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7527d803bf2ca1cbe25a3b75c948ebd2" title="Get the level of the selected tf. " alt="" coords="267,163,421,227"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1helper_1_1Image.html#a40da5696c10795768e685dccc73a2b17" title="Helpers for 3D images. " alt="" coords="259,338,429,385"/>
+<area shape="rect" id="node17" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a118a716823d99badb1ce1018c038d1df" title="Get the window of the selected tf. " alt="" coords="267,251,421,315"/>
+<area shape="rect" id="node20" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a364bb119f4e869d70103f9bd086d233a" title="Set selected TF Key and TF Selection fwID from config. " alt="" coords="267,408,421,472"/>
+<area shape="rect" id="node22" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a35b3188375865d89005fcf3afb11f59d" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="241,495,447,542"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="496,101,664,131"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="503,207,657,271"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1Image.html#abc97b00fa2ac09bcc51914a45a5ea091" title="Helpers for 3D images. " alt="" coords="503,338,657,385"/>
+</map>

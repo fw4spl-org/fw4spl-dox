@@ -1,0 +1,6 @@
+<map id="fwCommand::Manager::queue" name="fwCommand::Manager::queue">
+<area shape="rect" id="node3" href="$classfwCommand_1_1Manager.html#accc5ea1300b0c8fb0dd13b45cb0b8f58" title="Returns the maximum memory that could be used by a single command. " alt="" coords="209,5,388,51"/>
+<area shape="rect" id="node5" href="$classfwCommand_1_1Manager.html#a735c071938b72d660a88e9233e09d3ce" title="Returns the maximum number of undo that could be stored in the history. " alt="" coords="221,74,376,121"/>
+<area shape="rect" id="node7" href="$classfwCommand_1_1Manager.html#a6683b6770ff54ff4c267c0f26b8b27a6" title="Returns the maximum memory that could be used by the history. " alt="" coords="221,143,376,190"/>
+<area shape="rect" id="node9" href="$classfwCommand_1_1Manager.html#ab0f4cd8825f33e7a829615794225100f" title="Remove first command in m_listCmd and desalocate this command. " alt="" coords="221,213,376,259"/>
+</map>

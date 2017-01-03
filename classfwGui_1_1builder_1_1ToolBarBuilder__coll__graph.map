@@ -1,0 +1,5 @@
+<map id="fwGui::builder::ToolBarBuilder" name="fwGui::builder::ToolBarBuilder">
+<area shape="rect" id="node2" href="$classfwGui_1_1builder_1_1IToolBarBuilder.html" title="Defines the interface class for the toolbar builder. " alt="" coords="108,281,265,327"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="16,184,168,213"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="23,104,161,133"/>
+</map>

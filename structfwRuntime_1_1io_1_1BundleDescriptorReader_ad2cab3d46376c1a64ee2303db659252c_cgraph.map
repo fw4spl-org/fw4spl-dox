@@ -1,0 +1,4 @@
+<map id="fwRuntime::io::BundleDescriptorReader::createBundleFromXmlPlugin" name="fwRuntime::io::BundleDescriptorReader::createBundleFromXmlPlugin">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="292,5,433,51"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="292,74,433,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="uiMedData::widget::Selector::removeSeries" name="uiMedData::widget::Selector::removeSeries">
+<area shape="rect" id="node3" href="$classuiMedData_1_1widget_1_1Selector.html#ae7562adfb175e2770190fc9d09c1f655" title="Deletes the selected items and notify the deleted series. " alt="" coords="215,5,380,51"/>
+<area shape="rect" id="node5" href="$classuiMedData_1_1widget_1_1Selector.html#aac3ee2d76182b6c1ad953dab8837f9e3" title="Catch the delete key event and remove the selected items. " alt="" coords="431,5,596,51"/>
+</map>

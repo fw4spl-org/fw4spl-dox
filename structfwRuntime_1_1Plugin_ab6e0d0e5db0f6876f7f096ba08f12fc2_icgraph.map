@@ -1,0 +1,6 @@
+<map id="fwRuntime::Plugin::getBundle" name="fwRuntime::Plugin::getBundle">
+<area shape="rect" id="node3" href="$classappXml_1_1Plugin.html#a158f306e38b79f113367c863c46f7f31" title="Overrides start method. . " alt="" coords="196,5,340,35"/>
+<area shape="rect" id="node5" href="$classappXml2_1_1Plugin.html#a462d9aebe5e914f421eff23e5f216f52" title="Overrides start method. . " alt="" coords="193,59,343,88"/>
+<area shape="rect" id="node7" href="$structmemory_1_1Plugin.html#a4b1f615f755773c849dcd2e181d069f9" title="Start method. (does nothing) " alt="" coords="195,112,341,141"/>
+<area shape="rect" id="node9" href="$classguiQt_1_1Plugin.html#ae45dc58e7d57ff91593144775ff6eef7" title="Notifies the plugin about its stop. " alt="" coords="203,165,333,195"/>
+</map>

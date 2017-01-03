@@ -1,0 +1,16 @@
+<map id="fwData::Image" name="fwData::Image">
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="1819,48,1928,77"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1427,48,1541,77"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="1057,13,1196,43"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1075,67,1179,96"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwData::Object \&gt;" alt="" coords="1392,147,1576,194"/>
+<area shape="rect" id="node14" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="607,269,820,299"/>
+<area shape="rect" id="node24" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; CLASS \&gt;" alt="" coords="1035,207,1219,254"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="240,425,363,455"/>
+<area shape="rect" id="node48" title="STL class. " alt="" coords="1427,599,1541,628"/>
+<area shape="rect" id="node28" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1415,224,1553,253"/>
+<area shape="rect" id="node30" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1069,389,1184,419"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="261,537,341,567"/>
+<area shape="rect" id="node41" href="$classfwTools_1_1Type.html" title="Class describing an elementary C++ type aka unsigned char, signed char, .... int, float..." alt="" coords="1821,513,1925,543"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="7,623,132,670"/>
+</map>

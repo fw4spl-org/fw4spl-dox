@@ -1,0 +1,14 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::installTFSlots" name="fwDataTools::helper::MedicalImageAdaptor::installTFSlots">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa38a3fbdbc198027431c858cb436990e" title="Slot: add objects. " alt="" coords="212,84,367,148"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aaf785fe1298b3e1ad449ef1450a666c3" title="Slot: called when transfer function points are modified. " alt="" coords="451,5,605,69"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa696d66868ea033151a75daed3fde567" title="Slot: change objects. " alt="" coords="212,172,367,236"/>
+<area shape="rect" id="node25" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ac6014f9b885395c0671634a48132ec97" title="Slot: remove objects. " alt="" coords="212,260,367,324"/>
+<area shape="rect" id="node30" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7d9b4baceeffed0e54dca20355413705" title="Slot: called when transfer function windowing is modified. " alt="" coords="212,377,367,441"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a0512ff2207c36bb17689636c05091165" title="Get selected TF Key. " alt="" coords="451,251,605,315"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="451,163,605,227"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ab661875b9bbaa37f9f6f4f4c67575bea" title="Add a connection. " alt="" coords="417,93,639,139"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a90c36d12a8dbee28b7de6e8f3f65159c" title="Called when transfer function points are modified. " alt="" coords="689,5,844,69"/>
+<area shape="rect" id="node18" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="417,338,639,385"/>
+<area shape="rect" id="node20" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="693,338,840,385"/>
+<area shape="rect" id="node32" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a350586dd27d5a140786a6938dbfe1523" title="Called when transfer function windowing is modified. " alt="" coords="449,408,607,472"/>
+</map>

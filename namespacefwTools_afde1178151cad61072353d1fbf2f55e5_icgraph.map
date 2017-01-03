@@ -1,0 +1,5 @@
+<map id="fwTools::getTime" name="fwTools::getTime">
+<area shape="rect" id="node3" href="$classguiQt_1_1editor_1_1SDynamicView.html#ace0acec50b876241b056dc4f57707c70" title="Write information in a stream. " alt="" coords="177,5,367,51"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#ad5f9fac4869aac1c9d0e58b67ae93228" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="185,74,359,121"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="417,5,607,51"/>
+</map>

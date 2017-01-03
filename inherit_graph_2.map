@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classcamp_1_1ExtendedClassVisitor.html" title="camp::ExtendedClassVisitor" alt="" coords="148,136,335,165"/>
+<area shape="rect" id="node5" href="$classfwAtomConversion_1_1AtomToDataMappingVisitor.html" title="This visitor visits data object to fill it with associated atom object attributes. This class is used by AtomVisitor to convert an fwData::Object. " alt="" coords="395,5,581,51"/>
+<area shape="rect" id="node7" href="$classfwAtomConversion_1_1DataVisitor.html" title="Visitor used to convert a fwData to a fwAtoms. fwData camp property names are used like key to store ..." alt="" coords="385,75,591,104"/>
+<area shape="rect" id="node9" href="$classfwDataCamp_1_1visitor_1_1CompareObjects.html" title="Visitor used to compare two objects. " alt="" coords="417,127,559,174"/>
+<area shape="rect" id="node11" href="$classfwDataCamp_1_1visitor_1_1GetObject.html" title="This class is an helper to introspect a data and find an object (contained into this data) from a nor..." alt="" coords="417,197,559,243"/>
+<area shape="rect" id="node13" href="$classfwDataCamp_1_1visitor_1_1RecursiveLock.html" title="This class is an helper to lock an object and all its children recursively. " alt="" coords="417,266,559,313"/>
+</map>

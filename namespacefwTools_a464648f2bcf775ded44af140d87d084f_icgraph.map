@@ -1,0 +1,6 @@
+<map id="fwTools::getDate" name="fwTools::getDate">
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html#acb5c1cb0514b44b85d016d5375f9bef3" title="Applies patch. " alt="" coords="176,5,371,69"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SDynamicView.html#ace0acec50b876241b056dc4f57707c70" title="Write information in a stream. " alt="" coords="179,93,368,139"/>
+<area shape="rect" id="node9" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#ad5f9fac4869aac1c9d0e58b67ae93228" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="187,162,360,209"/>
+<area shape="rect" id="node7" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="420,93,609,139"/>
+</map>

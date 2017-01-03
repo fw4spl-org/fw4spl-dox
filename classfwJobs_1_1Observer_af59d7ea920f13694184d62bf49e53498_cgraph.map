@@ -1,0 +1,10 @@
+<map id="fwJobs::Observer::Observer" name="fwJobs::Observer::Observer">
+<area shape="rect" id="node3" href="$classfwJobs_1_1IJob.html#a88be0f02451117809d391a03e4212ca7" title="Add cancel callback to sequence for cancel hook. " alt="" coords="241,13,479,43"/>
+<area shape="rect" id="node9" href="$classfwJobs_1_1Observer.html#a3499b33b8b3b4d9b94966da755c01b18" title="Call for finishing observer progress. " alt="" coords="279,67,441,96"/>
+<area shape="rect" id="node11" href="$classfwJobs_1_1IJob.html#a646fc96367db7d6b33e7c45b1d19371f" title="Finish the job without mutex lock: set the state to finished or canceled. " alt="" coords="269,120,451,149"/>
+<area shape="rect" id="node15" href="$classfwJobs_1_1IJob.html#aaf1e64374fb41b423ad85a9b13d0b9ae" title="Run the current job. " alt="" coords="299,173,421,203"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#a2905dca6f77148bfe88086784ab81eb2" title="Add cancel callback to sequence for cancel hook. " alt="" coords="529,13,727,43"/>
+<area shape="rect" id="node7" href="$classfwJobs_1_1IJob.html#ac82043e5df5dce195b5e62aabcf1e383" title="Add job cancel callback to sequence without mutex lock for cancel hook. " alt="" coords="777,5,975,51"/>
+<area shape="rect" id="node13" href="$classfwJobs_1_1IJob.html#a18208baa7de736660453ad92de26dfff" title="Setter on the state without mutex lock. " alt="" coords="529,120,727,149"/>
+<area shape="rect" id="node17" href="$classfwJobs_1_1IJob.html#a537455cd0aea0ad80982f605b2a28847" title="Run an instanciated job. " alt="" coords="555,173,701,203"/>
+</map>

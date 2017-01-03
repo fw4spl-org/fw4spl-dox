@@ -1,0 +1,4 @@
+<map id="fwActivities::IActivityValidator::checkRequirements" name="fwActivities::IActivityValidator::checkRequirements">
+<area shape="rect" id="node3" href="$classfwActivities_1_1IActivityValidator.html#acf96caef0f0955c7e4c3f09576703957" title="Calls the object validator if it is defined. " alt="" coords="251,5,448,51"/>
+<area shape="rect" id="node5" href="$classfwActivities_1_1registry_1_1Activities.html#a96b15391d34df7160015ac8654486fad" title="Return the default global instance of Activities. " alt="" coords="273,74,425,121"/>
+</map>

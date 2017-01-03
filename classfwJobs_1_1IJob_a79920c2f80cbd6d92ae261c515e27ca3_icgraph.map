@@ -1,0 +1,4 @@
+<map id="fwJobs::IJob::setTotalWorkUnits" name="fwJobs::IJob::setTotalWorkUnits">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#a79ff8e34d2daa46f834a57ae3e0c9393" title="Create DicomSeries from information stored in DICOMDIR. " alt="" coords="239,5,428,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="479,5,652,51"/>
+</map>

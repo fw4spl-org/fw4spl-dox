@@ -1,0 +1,28 @@
+<map id="guiQt::editor::SDynamicView::swapping" name="guiQt::editor::SDynamicView::swapping">
+<area shape="rect" id="node3" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a0c01ab0255488f5434db4e7d9e83e254" title="Return activity series. " alt="" coords="265,5,471,51"/>
+<area shape="rect" id="node5" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a0bc047e3a73758f396ddc7ee4e5e1179" title="Return appConfig identifier. " alt="" coords="268,74,468,121"/>
+<area shape="rect" id="node7" href="$classfwActivities_1_1registry_1_1Activities.html#a96b15391d34df7160015ac8654486fad" title="Return the default global instance of Activities. " alt="" coords="564,254,716,301"/>
+<area shape="rect" id="node9" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a9d1a207ad085134d3644c138b2ec45b9" title="Return activity icon path. " alt="" coords="280,194,456,241"/>
+<area shape="rect" id="node11" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#ac2252b43b9557a1e5471a71b73cb971b" title="Return the map of the string association to replace in config. " alt="" coords="269,263,467,310"/>
+<area shape="rect" id="node13" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a1f88fda694c18ded1def8bcab31f8476" title="Return tab identifier. " alt="" coords="288,333,448,379"/>
+<area shape="rect" id="node15" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a476cf222c130c8acb170829767d14463" title="Return activity title. " alt="" coords="293,402,443,449"/>
+<area shape="rect" id="node17" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a5ee15f9eba5c9201fdac4e31c307f4cb" title="Return tooltip. " alt="" coords="284,471,452,518"/>
+<area shape="rect" id="node19" href="$classfwServices_1_1registry_1_1AppConfig.html#a82fae51e58bd27b63f7307e258f38b70" title="Create an unique identifier. " alt="" coords="264,541,472,587"/>
+<area shape="rect" id="node21" href="$classguiQt_1_1editor_1_1SDynamicView.html#ace0acec50b876241b056dc4f57707c70" title="Write information in a stream. " alt="" coords="273,610,463,657"/>
+<area shape="rect" id="node40" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="543,741,737,787"/>
+<area shape="rect" id="node50" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a3e5e313aee229a2febe836882ec28aa2" title="Return if the activity can be closed. " alt="" coords="284,730,452,777"/>
+<area shape="rect" id="node52" href="$classfwServices_1_1IAppConfigManager.html#a0ff391f480a5c6edef5aa64e2d7c79f6" title="fwServices::IAppConfigManager::New" alt="" coords="245,800,491,829"/>
+<area shape="rect" id="node54" href="$classfwGui_1_1GuiRegistry.html#a1ceab023d25ec218cd3d8c2dcdc19eb0" title="Registers container associate with window ID. " alt="" coords="291,853,445,899"/>
+<area shape="rect" id="node23" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="539,443,741,472"/>
+<area shape="rect" id="node25" href="$namespacefwTools.html#a464648f2bcf775ded44af140d87d084f" title="Convert a boost time to a string date. " alt="" coords="579,496,701,525"/>
+<area shape="rect" id="node28" href="$classfwServices_1_1IService.html#a31aadcf24b9fc5cc8984489900cfa988" title="Return the object associated to service. " alt="" coords="569,549,711,595"/>
+<area shape="rect" id="node38" href="$namespacefwTools.html#afde1178151cad61072353d1fbf2f55e5" title="Convert a boost time to a string time. " alt="" coords="579,619,701,648"/>
+<area shape="rect" id="node48" href="$classfwGui_1_1GuiRegistry.html#a7058eeb4b8cb900cf8d24063b452083c" title="Unregisters container associate with window ID. " alt="" coords="555,671,725,718"/>
+<area shape="rect" id="node30" href="$classfwServices_1_1IService.html#a84affebc8258fcec7a32770854b56f9b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="817,549,959,595"/>
+<area shape="rect" id="node32" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="816,619,960,648"/>
+<area shape="rect" id="node34" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="1065,588,1204,617"/>
+<area shape="rect" id="node36" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="1049,641,1220,687"/>
+<area shape="rect" id="node42" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="791,706,985,753"/>
+<area shape="rect" id="node44" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="791,775,985,822"/>
+<area shape="rect" id="node46" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="1035,775,1235,822"/>
+</map>

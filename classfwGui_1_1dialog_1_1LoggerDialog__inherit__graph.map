@@ -1,0 +1,5 @@
+<map id="fwGui::dialog::LoggerDialog" name="fwGui::dialog::LoggerDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1ILoggerDialog.html" title="ILoggerDialog is used to display a dialog message and a set of logs. " alt="" coords="5,256,192,285"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="23,179,175,208"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="29,101,168,131"/>
+</map>

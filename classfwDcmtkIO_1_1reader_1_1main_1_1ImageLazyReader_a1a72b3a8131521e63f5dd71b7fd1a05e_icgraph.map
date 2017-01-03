@@ -1,0 +1,4 @@
+<map id="fwDcmtkIO::reader::main::ImageLazyReader::createInstanceBuffer" name="fwDcmtkIO::reader::main::ImageLazyReader::createInstanceBuffer">
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1reader_1_1main_1_1ImageLazySource.html#a641a53f4848151ffa6c183d624e53eb3" title="Constructor. " alt="" coords="236,5,399,69"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1reader_1_1main_1_1ImageLazySource.html#ae1d644d42821df0bcd4d4c244eb261ab" title="Method to read n bytes in dicom buffer and write it in s. " alt="" coords="220,93,415,139"/>
+</map>

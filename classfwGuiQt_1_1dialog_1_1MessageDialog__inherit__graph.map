@@ -1,0 +1,5 @@
+<map id="fwGuiQt::dialog::MessageDialog" name="fwGuiQt::dialog::MessageDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1IMessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="5,256,205,285"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="29,179,181,208"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="36,101,175,131"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="visuVTKAdaptor::ImageSlice::doConfigure" name="visuVTKAdaptor::ImageSlice::doConfigure">
+<area shape="rect" id="node3" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#a36420aec8fffe98e921a8a4b59c6ae28" title="Connect signal to slot, and register this new connection in m_connections. " alt="" coords="247,5,468,51"/>
+<area shape="rect" id="node5" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="247,74,468,121"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a35b3188375865d89005fcf3afb11f59d" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="255,143,460,190"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="280,213,435,277"/>
+<area shape="rect" id="node7" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="517,74,664,121"/>
+</map>

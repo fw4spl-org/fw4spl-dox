@@ -1,0 +1,5 @@
+<map id="fwDataTools::TransformationMatrix3D::identity" name="fwDataTools::TransformationMatrix3D::identity">
+<area shape="rect" id="node3" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a0fb102781c063dd7454135703bf4c1e8" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="247,49,399,113"/>
+<area shape="rect" id="node5" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a99014a35b9edb854b5d75d6b5224aa4e" title="Initialize the service activity. " alt="" coords="449,5,601,69"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a936d8a7a5d6a17d230b7148a435b4d51" title="Swap the service from associated object to another object. " alt="" coords="449,93,601,157"/>
+</map>

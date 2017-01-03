@@ -1,0 +1,14 @@
+<map id="uiMeasurement::action::LoadLandmark::updating" name="uiMeasurement::action::LoadLandmark::updating">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ac2807f263dc1b320c8c85590432cfd65" title="specify some filtering when browsing files: " alt="" coords="229,5,421,51"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="243,75,408,139"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ac9089689132bcc8570ac04165effbcf4" title="Save the specified default location for the dialog in preferences (if available) " alt="" coords="229,162,421,209"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a3b0e0ea5f0b57d21986daa33ef83d732" title="Set the initial location for the dialog. " alt="" coords="229,231,421,278"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5ea39af6405130f2c6ef27a2820be238" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="229,301,421,347"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a9682346d8118fcb4f9fe4caf4eaa76c0" title="Set the title for the dialog. " alt="" coords="229,370,421,417"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a6733599f0a055082253618428082766f" title="Display the dialog. " alt="" coords="229,439,421,486"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="228,509,423,555"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1ILocationDialog.html#afe365e8bbb4d1aa519e2d003eefe4070" title="fwGui::dialog::ILocation\lDialog::show" alt="" coords="492,439,649,486"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="473,509,668,555"/>
+<area shape="rect" id="node23" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="473,578,668,625"/>
+<area shape="rect" id="node25" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="717,578,917,625"/>
+</map>

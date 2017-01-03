@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structfwGuiQt_1_1widget_1_1Castable.html" title="fwGuiQt::widget::Castable\l\&lt; Handle \&gt;" alt="" coords="20,5,196,51"/>
+<area shape="rect" id="node3" href="$classfwGuiQt_1_1widget_1_1Handle.html" title="fwGuiQt::widget::Handle" alt="" coords="261,52,427,81"/>
+<area shape="rect" id="node4" href="$structfwGuiQt_1_1widget_1_1Castable.html" title="fwGuiQt::widget::Castable\l\&lt; Window \&gt;" alt="" coords="20,143,196,190"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1widget_1_1Window.html" title="fwGuiQt::widget::Window" alt="" coords="259,113,429,143"/>
+<area shape="rect" id="node7" href="$classfwGuiQt_1_1widget_1_1QRangeSlider_1_1Paintable.html" title="fwGuiQt::widget::QRangeSlider\l::Paintable" alt="" coords="5,74,211,121"/>
+</map>

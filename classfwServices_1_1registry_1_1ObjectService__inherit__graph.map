@@ -1,0 +1,4 @@
+<map id="fwServices::registry::ObjectService" name="fwServices::registry::ObjectService">
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="23,101,161,131"/>
+<area shape="rect" id="node6" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="185,101,324,131"/>
+</map>

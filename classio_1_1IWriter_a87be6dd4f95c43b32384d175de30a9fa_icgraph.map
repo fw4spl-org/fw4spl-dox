@@ -1,0 +1,5 @@
+<map id="io::IWriter::setFiles" name="io::IWriter::setFiles">
+<area shape="rect" id="node3" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="188,32,337,61"/>
+<area shape="rect" id="node5" href="$classioAtoms_1_1SWriter.html#a2ce40c407f54f86038b0f6f20fcbe616" title="Configures the writer. " alt="" coords="388,5,580,35"/>
+<area shape="rect" id="node7" href="$classioQt_1_1SPdfWriter.html#a8db1ef80560ec7086beb70860b6bd82e" title="Configure service. This method is called by configure() from base service ( fwServices::IService ) ..." alt="" coords="389,59,579,88"/>
+</map>

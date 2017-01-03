@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::writer::ie::Surface::writeSurfaceSegmentationModule" name="fwGdcmIO::writer::ie::Surface::writeSurfaceSegmentationModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DictionarySegment.html#a2105f94c41a0e28905d0dba1115d4ee9" title="Get anatomic region sequence from label of an organ. " alt="" coords="297,5,543,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DictionarySegment.html#a5e6226c7600cdae26e0d8d1ecf1d398b" title="Get segmented property category code sequence from label of an organ. " alt="" coords="291,74,549,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DictionarySegment.html#ac59093b890b608de82958d2b77f709a2" title="Get segmented property type code sequence from label of an organ. " alt="" coords="303,143,537,190"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Surface.html#a42b53ac50a16bf914b722c91af8bad28" title="Write Content Identification Macro. " alt="" coords="305,213,535,277"/>
+</map>

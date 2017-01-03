@@ -1,0 +1,11 @@
+<map id="fwDcmtkIO::DicomSeriesDBReader" name="fwDcmtkIO::DicomSeriesDBReader">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="1061,23,1251,87"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers. " alt="" coords="425,5,596,51"/>
+<area shape="rect" id="node10" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="generic class for all object readers. " alt="" coords="648,41,845,87"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,372,43"/>
+<area shape="rect" id="node13" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::reader\l::IObjectReader \&gt;" alt="" coords="1067,111,1245,175"/>
+<area shape="rect" id="node15" href="$structfwData_1_1location_1_1enableFolder.html" title="This class is derived by reader/writer. " alt="" coords="665,119,828,166"/>
+<area shape="rect" id="node17" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enable\lMultiFiles\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="1071,199,1241,263"/>
+<area shape="rect" id="node19" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="This class is derived by reader/writer. " alt="" coords="665,207,828,254"/>
+<area shape="rect" id="node21" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="1071,287,1241,316"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="preferences::SPreferences::configuring" name="preferences::SPreferences::configuring">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a31aadcf24b9fc5cc8984489900cfa988" title="Return the object associated to service. " alt="" coords="233,35,375,82"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#a84affebc8258fcec7a32770854b56f9b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="425,5,567,51"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="424,75,568,104"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="633,44,772,73"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="617,97,788,143"/>
+</map>

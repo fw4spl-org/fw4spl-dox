@@ -1,0 +1,9 @@
+<map id="io::IReader::getFolder" name="io::IReader::getFolder">
+<area shape="rect" id="node3" href="$classioDcmtk_1_1SDicomSeriesDBReader.html#a9fb67a5e87c1c2fbdf795e5cb78a7ae9" title="Override. " alt="" coords="203,5,427,51"/>
+<area shape="rect" id="node5" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#abaadf513d8bbdfc53bcc597717dbd585" title="Override. " alt="" coords="221,74,408,121"/>
+<area shape="rect" id="node7" href="$classioVtkGdcm_1_1SSeriesDBReader.html#af069b5c85ce381d498c5960ea0004fef" title="Override. " alt="" coords="213,143,416,190"/>
+<area shape="rect" id="node9" href="$classioDcmtk_1_1SDicomTagSeriesDBReader.html#a816c7c1b0b50be2fff1664f72db995c8" title="Override. " alt="" coords="223,213,407,259"/>
+<area shape="rect" id="node11" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a3e76d239599148e690eeadd92dac7a3b" title="Override. " alt="" coords="205,282,424,329"/>
+<area shape="rect" id="node13" href="$classioDcmtk_1_1SSeriesDBReader.html#ae6fee65943f0e8095a4722e8bccbb79b" title="Override. " alt="" coords="221,351,408,398"/>
+<area shape="rect" id="node15" href="$classioGdcm_1_1SSeriesDBReader.html#aed22a248dfc21938b560b8a4ed64ad1a" title="Override. " alt="" coords="224,421,405,467"/>
+</map>

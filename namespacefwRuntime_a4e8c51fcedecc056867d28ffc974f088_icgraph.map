@@ -1,0 +1,8 @@
+<map id="fwRuntime::findExtensionPoint" name="fwRuntime::findExtensionPoint">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#aa5a5a08171483605b6957c25938522b4" title="Registers a new extension point. " alt="" coords="257,5,399,51"/>
+<area shape="rect" id="node5" href="$namespacefwRuntime.html#ac4fd0055e73698aab71fb859aac1d01d" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="227,74,429,121"/>
+<area shape="rect" id="node9" href="$namespacefwRuntime.html#aae3562a1767fcae09be2942404cd3f68" title="Retrieves all extensions for the point having the specified identifier. " alt="" coords="233,143,423,190"/>
+<area shape="rect" id="node11" href="$namespacefwRuntime.html#a5e781482e84f1c0a382d3491d5be7cc6" title="Get information for the point. " alt="" coords="237,213,419,243"/>
+<area shape="rect" id="node13" href="$structfwRuntime_1_1Runtime.html#a846630c053b019b485d642b94f41ba63" title="Unregister a new extension point. " alt="" coords="241,266,415,313"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#a414afe8d935fb9850db10e3f185b664f" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="477,74,680,121"/>
+</map>

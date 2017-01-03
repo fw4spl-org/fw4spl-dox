@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::helper::DicomSearch::searchRecursively" name="fwGdcmIO::helper::DicomSearch::searchRecursively">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="304,5,477,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomAnonymizer.html#af6ec57108fd242de4c1bdeba76adbefe" title="The removed tag will not be process by anonimization tag. " alt="" coords="269,74,512,121"/>
+</map>

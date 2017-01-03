@@ -1,0 +1,15 @@
+<map id="fwServices::IAppConfigManager::New" name="fwServices::IAppConfigManager::New">
+<area shape="rect" id="node3" href="$classactivities_1_1action_1_1SActivityLauncher.html#ae14086c858b6a9a498b77b1f3fc05ab4" title="Overrides. " alt="" coords="313,5,479,51"/>
+<area shape="rect" id="node5" href="$classappXml_1_1Plugin.html#aeb86049b7bc7444ebdeaf3b055270d2e" title="Notifies the plugin about its initialisation. " alt="" coords="313,75,479,104"/>
+<area shape="rect" id="node7" href="$classappXml2_1_1Plugin.html#ab268b82ed9ac10a02c9b6c959ad008ee" title="Notifies the plugin about its initialisation. " alt="" coords="311,128,481,157"/>
+<area shape="rect" id="node9" href="$classguiQt_1_1editor_1_1DynamicView.html#a0a666f969a52e7de0fa72d6eab5fd13d" title="Launch tab. " alt="" coords="305,181,487,227"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1helper_1_1ConfigLauncher.html#aee4b5998807a69fee45d7fc68b5fd67f" title="Launch Appconfig. " alt="" coords="300,250,492,297"/>
+<area shape="rect" id="node13" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html#a2bae71fce7fec12b55f29566eb76d3ec" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="311,319,481,366"/>
+<area shape="rect" id="node15" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html#a1f8b1277ddab96c18715bfcf601dc302" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="309,389,483,435"/>
+<area shape="rect" id="node17" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="301,458,491,505"/>
+<area shape="rect" id="node19" href="$classdataReg_1_1parser_1_1Object.html#a7fd97d29ffbc3fad2450d200b2bd9a31" title="Parse the XML configuration. " alt="" coords="316,527,476,574"/>
+<area shape="rect" id="node21" href="$classdataReg_1_1parser_1_1List.html#a35a49148d2274e1f44b2151ec78b35e3" title="Updating method : create List object. " alt="" coords="324,597,468,643"/>
+<area shape="rect" id="node23" href="$classdataReg_1_1parser_1_1Composite.html#acc884e230a53b94affef3cca8f07c779" title="Updating method : create composite object. " alt="" coords="303,666,489,713"/>
+<area shape="rect" id="node25" href="$classuiMedData_1_1SSeriesViewer.html#a4db02f32dfcda816b6a0eb403ac6f351" title="Launch the config on the object if possible. " alt="" coords="307,735,485,782"/>
+<area shape="rect" id="node27" href="$classuiMedData_1_1SSeriesViewer.html#aef9b17822e71b2cab0efb0aa018e7acc" title="Calls updating on starting. " alt="" coords="541,735,720,782"/>
+</map>

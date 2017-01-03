@@ -1,0 +1,11 @@
+<map id="uiMeasurement::action::FocusLandmark::updating" name="uiMeasurement::action::FocusLandmark::updating">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="481,198,676,245"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="251,45,416,109"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#afb5819e4841835e33ecb9df169d8fe92" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="481,21,676,67"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a27e42ac5d51e12ae72a87e62e972bdd2" title="Set the message. " alt="" coords="236,133,431,179"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad71a45fa0e744cd1612241c8b1313620" title="Set the title of the message box. " alt="" coords="236,253,431,299"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="481,351,676,398"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="236,322,431,369"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1MessageDialog.html#af3e3451339ec5ddfee1435294fac9ee1" title="Set the default button. " alt="" coords="481,129,676,175"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="725,351,925,398"/>
+</map>

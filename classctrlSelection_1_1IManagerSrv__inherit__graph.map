@@ -1,0 +1,11 @@
+<map id="ctrlSelection::IManagerSrv" name="ctrlSelection::IManagerSrv">
+<area shape="rect" id="node17" href="$classctrlMemory_1_1manager_1_1LockDumpManagerSrv.html" title="This service allows to lock an object for dump when it is contained in the composite. " alt="" coords="1021,15,1184,62"/>
+<area shape="rect" id="node19" href="$classctrlSelection_1_1manager_1_1SField.html" title="This services is a manager which starts, stops or swaps services on field contained in a composite wh..." alt="" coords="1027,85,1179,131"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html" title="This services is a manager which starts, stops or swaps services on object contained in a composite w..." alt="" coords="1027,154,1179,201"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="607,93,748,123"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,40,545,69"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,13,369,43"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,67,352,96"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,93,551,123"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,147,557,176"/>
+</map>

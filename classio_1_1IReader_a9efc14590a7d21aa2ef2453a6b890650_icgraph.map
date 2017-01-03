@@ -1,0 +1,6 @@
+<map id="io::IReader::configuring" name="io::IReader::configuring">
+<area shape="rect" id="node3" href="$classioDcmtk_1_1SSeriesDBReader.html#af486dc96f0dcc4b276625f4088276a64" title="ioDcmtk::SSeriesDBReader\l::configuring" alt="" coords="228,5,415,51"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SSeriesDBReader.html#a23adaf1174ce4374beab76d6b3dee63a" title="ioGdcm::SSeriesDBReader\l::configuring" alt="" coords="231,74,412,121"/>
+<area shape="rect" id="node7" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a516d372a59faaf6eee1d61877220908f" title="ioGdcm::SDicomSeriesDBReader\l::configuring" alt="" coords="212,143,431,190"/>
+<area shape="rect" id="node9" href="$classioAtoms_1_1SReader.html#a4e7645353f82a6c00b6566514463e7c0" title="Configures the reader. " alt="" coords="221,213,421,243"/>
+</map>

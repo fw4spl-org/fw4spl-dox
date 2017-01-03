@@ -1,0 +1,9 @@
+<map id="fwMDSemanticPatch::V1::V2::fwData::Study" name="fwMDSemanticPatch::V1::V2::fwData::Study">
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1ISemanticPatch.html" title="Base class of contextual patches. " alt="" coords="1151,105,1359,135"/>
+<area shape="rect" id="node4" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="567,68,721,97"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,372,43"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="263,121,343,151"/>
+<area shape="rect" id="node16" href="$structfwAtomsPatch_1_1ISemanticPatch_1_1Context.html" title="Struct used to store a context and the versions where the patch can be applied. " alt="" coords="540,135,748,182"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="31,113,156,159"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="587,205,701,235"/>
+</map>

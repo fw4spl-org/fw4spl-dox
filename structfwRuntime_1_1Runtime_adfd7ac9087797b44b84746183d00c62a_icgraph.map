@@ -1,0 +1,9 @@
+<map id="fwRuntime::Runtime::addBundles" name="fwRuntime::Runtime::addBundles">
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#a4e8c51fcedecc056867d28ffc974f088" title="Retrieves the extension point having the specified identifier. " alt="" coords="199,143,369,190"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#aa5a5a08171483605b6957c25938522b4" title="Registers a new extension point. " alt="" coords="449,5,591,51"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#ac4fd0055e73698aab71fb859aac1d01d" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="419,74,621,121"/>
+<area shape="rect" id="node11" href="$namespacefwRuntime.html#aae3562a1767fcae09be2942404cd3f68" title="Retrieves all extensions for the point having the specified identifier. " alt="" coords="425,143,615,190"/>
+<area shape="rect" id="node13" href="$namespacefwRuntime.html#a5e781482e84f1c0a382d3491d5be7cc6" title="Get information for the point. " alt="" coords="429,213,611,243"/>
+<area shape="rect" id="node15" href="$structfwRuntime_1_1Runtime.html#a846630c053b019b485d642b94f41ba63" title="Unregister a new extension point. " alt="" coords="433,266,607,313"/>
+<area shape="rect" id="node9" href="$namespacefwRuntime.html#a414afe8d935fb9850db10e3f185b664f" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="669,74,872,121"/>
+</map>

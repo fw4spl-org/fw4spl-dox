@@ -1,0 +1,12 @@
+<map id="fwActivities::registry::Activities" name="fwActivities::registry::Activities">
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="2177,23,2316,52"/>
+<area shape="rect" id="node8" href="$structfwActivities_1_1registry_1_1ActivityInfo.html" title="Holds Activities configuration. " alt="" coords="1908,229,2049,275"/>
+<area shape="rect" id="node12" href="$structfwActivities_1_1registry_1_1ActivityRequirement.html" title="fwActivities::registry\l::ActivityRequirement" alt="" coords="1177,342,1324,389"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="184,541,264,571"/>
+<area shape="rect" id="node20" href="$structfwActivities_1_1registry_1_1ActivityRequirementKey.html" title="fwActivities::registry\l::ActivityRequirementKey" alt="" coords="372,397,543,443"/>
+<area shape="rect" id="node28" href="$structfwActivities_1_1registry_1_1ActivityAppConfig.html" title="fwActivities::registry\l::ActivityAppConfig" alt="" coords="1180,618,1321,665"/>
+<area shape="rect" id="node32" href="$structfwActivities_1_1registry_1_1ActivityAppConfigParam.html" title="fwActivities::registry\l::ActivityAppConfigParam" alt="" coords="371,618,544,665"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="7,533,132,579"/>
+<area shape="rect" id="node23" title="STL class. " alt="" coords="400,283,515,312"/>
+<area shape="rect" id="node45" title="STL class. " alt="" coords="396,85,519,115"/>
+</map>

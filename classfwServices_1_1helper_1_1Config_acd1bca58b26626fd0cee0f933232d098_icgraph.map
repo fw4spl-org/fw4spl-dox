@@ -1,0 +1,15 @@
+<map id="fwServices::helper::Config::parseConnections" name="fwServices::helper::Config::parseConnections">
+<area shape="rect" id="node3" href="$classfwServices_1_1helper_1_1Config.html#adad8a2a766cf59c19e8a1424c9c142fd" title="Parses &quot;&lt;connect&gt;&quot; tags from given configuration to connect signals and slots using given helper..." alt="" coords="236,178,420,225"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1AppConfigManager.html#a37997c3e2f3e57d4863202c101484e12" title="Get config root. " alt="" coords="471,39,676,86"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1SRender.html#a2d41c24eb9001667f59c7511d997f399" title="Get a vtkTransform in the SRender, referenced by a key. Create it if it does not exist. " alt="" coords="492,109,655,155"/>
+<area shape="rect" id="node9" href="$classctrlSelection_1_1IManagerSrv.html#a92562887e5aec0200c62d1fb34149f8b" title="Manages a connection define in config associated to object. " alt="" coords="485,178,661,225"/>
+<area shape="rect" id="node25" href="$classfwRenderVTK_1_1SRender.html#a6e208a144cae8198b57d79b65acf594c" title="Install observations : should be implemented in IService. " alt="" coords="492,247,655,294"/>
+<area shape="rect" id="node27" href="$classscene2D_1_1Render.html#a08ca72a78d6791c3816e826ba8236d3b" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="487,317,660,347"/>
+<area shape="rect" id="node11" href="$classctrlSelection_1_1IManagerSrv.html#a134430b00f73cd5761699cda237e24a2" title="Manages all connections define in config associated to object. Call manageConnection() ..." alt="" coords="725,178,901,225"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1manager_1_1SField.html#a7480d619d94a235310e6c8dcca827069" title="Slot: add objects. " alt="" coords="972,5,1124,51"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#ac02089f6bf9dffb7b7c8b2444f2ad4e4" title="Slot: add objects. " alt="" coords="961,74,1135,121"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1manager_1_1SField.html#ac65f406cf05b6e79d31d235701be3886" title="Slot: change objects. " alt="" coords="972,143,1124,190"/>
+<area shape="rect" id="node19" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a7e74075f3212f7f47f8369011edd5ec9" title="Slot: change objects. " alt="" coords="951,213,1145,259"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1manager_1_1SField.html#ab57d869461bb04dbb5a68be5faa517bf" title="Slot: remove objects. " alt="" coords="972,282,1124,329"/>
+<area shape="rect" id="node23" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a4e44acc0494380e068976ae71d5db070" title="Slot: remove objects. " alt="" coords="949,351,1147,398"/>
+</map>

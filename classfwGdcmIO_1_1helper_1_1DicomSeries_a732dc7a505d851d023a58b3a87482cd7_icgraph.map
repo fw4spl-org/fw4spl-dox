@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::helper::DicomSeries::splitFiles" name="fwGdcmIO::helper::DicomSeries::splitFiles">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ae13c7c09b91917356f8bd0a71a87abbb" title="Read DicomSeries from paths. " alt="" coords="264,5,475,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="524,5,697,51"/>
+</map>

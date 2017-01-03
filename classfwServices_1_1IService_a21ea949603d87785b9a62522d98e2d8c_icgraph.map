@@ -1,0 +1,9 @@
+<map id="fwServices::IService::getConfiguration" name="fwServices::IService::getConfiguration">
+<area shape="rect" id="node3" href="$classfwServices_1_1SConfigController.html#a5832ac2ecc5291ebb927c68515f1e6e8" title="Declare the configuration to associate with an operator type and a view config. " alt="" coords="391,5,588,51"/>
+<area shape="rect" id="node5" href="$classgui_1_1action_1_1SConfigLauncher.html#a39fad871f8421c7edf76d6961b9f6a2e" title="Declare the configuration to associate with an operator type and a view config. " alt="" coords="395,74,584,121"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="199,143,340,190"/>
+<area shape="rect" id="node11" href="$classguiQt_1_1editor_1_1SParameters.html#a38b40d3bc417260f72e156fe71a96a02" title="Initializes Qt input widgets for parameters according to xml configuration. " alt="" coords="401,282,577,329"/>
+<area shape="rect" id="node13" href="$classactivities_1_1SSeriesSignal.html#a9637ac6c26518bad0efb8ba99174ee28" title="Parse XML configuration. " alt="" coords="408,351,571,398"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1updater_1_1STranslate.html#a62e1b1eabdee42f56120548e046abff5" title="Configure the services : declare the events to react. " alt="" coords="408,143,571,190"/>
+<area shape="rect" id="node17" href="$classopVTKMesh_1_1SVTKMesher.html#aab4d71d0c66b9077580dd803d0be0888" title="Declare the configuration to define percent of reduction, image source and ModelSeries destination..." alt="" coords="400,213,579,259"/>
+</map>

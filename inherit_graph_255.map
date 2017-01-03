@@ -1,0 +1,619 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structfwRuntime_1_1BundleElement.html" title="Implements the base class for all element managed by a bundle. " alt="" coords="5,525,187,555"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ExecutableFactory.html" title="Defines the abstract executable factory class. " alt="" coords="241,472,444,501"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Extension.html" title="Defines the extension class. " alt="" coords="268,579,417,608"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1ExtensionPoint.html" title="Defines the extension point class. " alt="" coords="252,525,433,555"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1utils_1_1GenericExecutableFactory.html" title="Defines a generic template executable factory class. " alt="" coords="527,463,697,510"/>
+<area shape="rect" id="node10" href="$structfwRuntime_1_1ConfigurationElementContainer.html" title="Defines the generic configuration element container class. " alt="" coords="11,605,181,651"/>
+<area shape="rect" id="node12" href="$structfwRuntime_1_1ConfigurationElement.html" title="Defines the configuration element class. " alt="" coords="257,631,428,678"/>
+<area shape="rect" id="node14" href="$classfwRuntime_1_1EConfigurationElement.html" title="Editable configuration element : allow the self configuration element building, which reading XML str..." alt="" coords="523,593,701,639"/>
+<area shape="rect" id="node18" href="$classfwPacsIO_1_1SeriesRetriever.html" title="Reads DICOM series from pacs. " alt="" coords="523,7076,701,7105"/>
+<area shape="rect" id="node21" href="$classfwPacsIO_1_1SeriesEnquirer.html" title="Reads DICOM series from pacs. " alt="" coords="525,13533,699,13563"/>
+<area shape="rect" id="node22" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="236,740,449,769"/>
+<area shape="rect" id="node24" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwData::Object \&gt;" alt="" coords="520,1337,704,1383"/>
+<area shape="rect" id="node148" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwDicomIOFilter::IFilter \&gt;" alt="" coords="517,662,707,709"/>
+<area shape="rect" id="node200" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; CLASS \&gt;" alt="" coords="520,731,704,778"/>
+<area shape="rect" id="node26" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="832,1848,941,1877"/>
+<area shape="rect" id="node28" href="$classfwData_1_1Array.html" title="Provides a way to manage a view on a multidimentionnal array. " alt="" coords="1115,2568,1216,2597"/>
+<area shape="rect" id="node30" href="$classfwData_1_1Color.html" title="This class defines color object. " alt="" coords="1115,2621,1216,2651"/>
+<area shape="rect" id="node32" href="$classfwData_1_1Composite.html" title="This class defines a composite object. " alt="" coords="1099,2675,1232,2704"/>
+<area shape="rect" id="node34" href="$classfwData_1_1Edge.html" title="This class defines an edge object. " alt="" coords="1115,2728,1216,2757"/>
+<area shape="rect" id="node36" href="$classfwData_1_1GenericFieldBase.html" title="GenericFieldBase define common operation on simple data. " alt="" coords="1079,2781,1252,2811"/>
+<area shape="rect" id="node56" href="$classfwData_1_1Graph.html" title="This class defines a graph object. " alt="" coords="1112,2835,1219,2864"/>
+<area shape="rect" id="node58" href="$classfwData_1_1Histogram.html" title="This class defines the histogram of an image. " alt="" coords="1100,2888,1231,2917"/>
+<area shape="rect" id="node60" href="$classfwData_1_1Image.html" title="This class defines an image. " alt="" coords="1112,2941,1219,2971"/>
+<area shape="rect" id="node62" href="$classfwData_1_1Line.html" title="This class defines a Line defined by two points. " alt="" coords="1117,808,1213,837"/>
+<area shape="rect" id="node64" href="$classfwData_1_1List.html" title="This class defines a list of objects. " alt="" coords="1119,861,1212,891"/>
+<area shape="rect" id="node66" href="$classfwData_1_1location_1_1ILocation.html" title="Abstract class to define a location ( fileSystem, directory(IES) etc.... ) " alt="" coords="1076,915,1255,944"/>
+<area shape="rect" id="node74" href="$classfwData_1_1Material.html" title="This class defines a material. A material is represented by an ambient color and a diffuse color..." alt="" coords="1107,968,1224,997"/>
+<area shape="rect" id="node76" href="$classfwData_1_1Mesh.html" title="Data holding a geometric structure composed of points, lines, triangles, quads or polygons..." alt="" coords="1113,1021,1217,1051"/>
+<area shape="rect" id="node78" href="$classfwData_1_1Node.html" title="This class defines a node. A node is represented by input and output ports. " alt="" coords="1115,1075,1216,1104"/>
+<area shape="rect" id="node80" href="$classfwData_1_1Plane.html" title="This class defines a plane defined by tree points. " alt="" coords="1113,1128,1217,1157"/>
+<area shape="rect" id="node82" href="$classfwData_1_1PlaneList.html" title="This class defines a list of planes. " alt="" coords="1103,1181,1228,1211"/>
+<area shape="rect" id="node84" href="$classfwData_1_1Point.html" title="This class define a 3D point. " alt="" coords="1115,1235,1216,1264"/>
+<area shape="rect" id="node86" href="$classfwData_1_1PointList.html" title="This class defines a list of points. " alt="" coords="1104,1288,1227,1317"/>
+<area shape="rect" id="node88" href="$classfwData_1_1Port.html" title="A port is defined by an identifier and a type. " alt="" coords="1117,1341,1213,1371"/>
+<area shape="rect" id="node90" href="$classfwData_1_1ProcessObject.html" title="Provides the notion of Process Object: object having inputs and outputs. " alt="" coords="1087,1395,1244,1424"/>
+<area shape="rect" id="node92" href="$classfwData_1_1Reconstruction.html" title="This class defines a reconstruction object. " alt="" coords="1085,1448,1245,1477"/>
+<area shape="rect" id="node94" href="$classfwData_1_1ReconstructionTraits.html" title="This class defines Reconstruction traits. " alt="" coords="1069,1501,1261,1531"/>
+<area shape="rect" id="node96" href="$classfwData_1_1Resection.html" title="This class defines a resection. " alt="" coords="1100,1555,1231,1584"/>
+<area shape="rect" id="node98" href="$classfwData_1_1ResectionDB.html" title="This class defines a resection container. " alt="" coords="1091,1608,1240,1637"/>
+<area shape="rect" id="node100" href="$classfwData_1_1ROITraits.html" title="This class defines ROI traits. " alt="" coords="1101,1661,1229,1691"/>
+<area shape="rect" id="node102" href="$classfwData_1_1Spline.html" title="This class defines a spline object. " alt="" coords="1112,1715,1219,1744"/>
+<area shape="rect" id="node104" href="$classfwData_1_1StructureTraits.html" title="This class defines structure traits. " alt="" coords="1087,1768,1244,1797"/>
+<area shape="rect" id="node106" href="$classfwData_1_1StructureTraitsDictionary.html" title="This class defines a dictionary of structure traits. " alt="" coords="1057,1821,1273,1851"/>
+<area shape="rect" id="node108" href="$classfwData_1_1Tag.html" title="This class represent a tag. A tag contains a list of points. " alt="" coords="1119,1875,1212,1904"/>
+<area shape="rect" id="node110" href="$classfwData_1_1TransferFunction.html" title="This class defines a transfer function. " alt="" coords="1080,1928,1251,1957"/>
+<area shape="rect" id="node112" href="$classfwData_1_1TransformationMatrix3D.html" title="This class represents a 3D transformation matrix (4x4). " alt="" coords="1060,1981,1271,2011"/>
+<area shape="rect" id="node114" href="$classfwData_1_1Vector.html" title="This class defines a vector of objects. " alt="" coords="1111,2035,1220,2064"/>
+<area shape="rect" id="node116" href="$classfwMedData_1_1Equipment.html" title="Holds equipment information. " alt="" coords="1087,2088,1244,2117"/>
+<area shape="rect" id="node118" href="$classfwMedData_1_1Patient.html" title="Holds patient information. " alt="" coords="1096,2141,1235,2171"/>
+<area shape="rect" id="node120" href="$classfwMedData_1_1Series.html" title="Holds series information. " alt="" coords="1099,2195,1232,2224"/>
+<area shape="rect" id="node136" href="$classfwMedData_1_1SeriesDB.html" title="Holds series data. " alt="" coords="1089,2248,1241,2277"/>
+<area shape="rect" id="node138" href="$classfwMedData_1_1Study.html" title="Holds study information. " alt="" coords="1100,2301,1231,2331"/>
+<area shape="rect" id="node140" href="$classfwPacsIO_1_1data_1_1PacsConfiguration.html" title="This class defines a Pacs configuration. " alt="" coords="1052,2355,1279,2384"/>
+<area shape="rect" id="node142" href="$classscene2D_1_1data_1_1Axis.html" title="This class manages an axis on the scene2D. " alt="" coords="1095,2408,1236,2437"/>
+<area shape="rect" id="node144" href="$classscene2D_1_1data_1_1Event.html" title="This class manage events on the scene 2D (mouse event, keyboard event , ...). " alt="" coords="1091,2461,1240,2491"/>
+<area shape="rect" id="node146" href="$classscene2D_1_1data_1_1Viewport.html" title="Manage the current viewport of the scene2D. " alt="" coords="1083,2515,1248,2544"/>
+<area shape="rect" id="node38" href="$classfwData_1_1GenericField.html" title="Generic &quot;field&quot; object template. " alt="" coords="1360,2529,1536,2559"/>
+<area shape="rect" id="node40" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; bool \&gt;" alt="" coords="1376,2582,1520,2629"/>
+<area shape="rect" id="node44" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; float \&gt;" alt="" coords="1376,2651,1520,2698"/>
+<area shape="rect" id="node48" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; int \&gt;" alt="" coords="1376,2721,1520,2767"/>
+<area shape="rect" id="node52" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; std::string \&gt;" alt="" coords="1376,2459,1520,2506"/>
+<area shape="rect" id="node42" href="$classfwData_1_1Boolean.html" title="This class contains a boolean value. " alt="" coords="1675,2591,1792,2620"/>
+<area shape="rect" id="node46" href="$classfwData_1_1Float.html" title="This class contains an float value. " alt="" coords="1683,2660,1784,2689"/>
+<area shape="rect" id="node50" href="$classfwData_1_1Integer.html" title="This class contains an integer value. Integer object is essentially used as a field in other objects..." alt="" coords="1677,2729,1789,2759"/>
+<area shape="rect" id="node54" href="$classfwData_1_1String.html" title="This class contains an std::string value. " alt="" coords="1680,2468,1787,2497"/>
+<area shape="rect" id="node68" href="$classfwData_1_1location_1_1Folder.html" title="This class defines a folder location. " alt="" coords="1368,915,1528,944"/>
+<area shape="rect" id="node70" href="$classfwData_1_1location_1_1MultiFiles.html" title="This class defines a multi files location. " alt="" coords="1357,968,1539,997"/>
+<area shape="rect" id="node72" href="$classfwData_1_1location_1_1SingleFile.html" title="This class defines a single file location. " alt="" coords="1357,861,1539,891"/>
+<area shape="rect" id="node122" href="$classfwMedData_1_1ActivitySeries.html" title="Holds activity information. " alt="" coords="1359,2141,1537,2171"/>
+<area shape="rect" id="node124" href="$classfwMedData_1_1AttachmentSeries.html" title="Holds attachment file. " alt="" coords="1348,2195,1548,2224"/>
+<area shape="rect" id="node126" href="$classfwMedData_1_1DicomSeries.html" title="Holds DICOM data. " alt="" coords="1363,2248,1533,2277"/>
+<area shape="rect" id="node128" href="$classfwMedData_1_1ImageSeries.html" title="Holds images data. " alt="" coords="1363,2301,1533,2331"/>
+<area shape="rect" id="node130" href="$classfwMedData_1_1ModelSeries.html" title="Holds models data. " alt="" coords="1364,2355,1532,2384"/>
+<area shape="rect" id="node132" href="$classfwMedData_1_1NavigationSeries.html" title="Holds navigation information. " alt="" coords="1351,2035,1545,2064"/>
+<area shape="rect" id="node134" href="$classuiMedData_1_1InsertSeries.html" title="Used as a placeholder in uiMedData::editor::SSelector UI to insert create and insert new series in a ..." alt="" coords="1367,2088,1529,2117"/>
+<area shape="rect" id="node150" href="$classfwDicomIOFilter_1_1IFilter.html" title="Base class for Dicom instance filter. " alt="" coords="808,343,965,372"/>
+<area shape="rect" id="node152" href="$classfwDicomIOFilter_1_1composite_1_1IComposite.html" title="Base class for Dicom instance composite filter. " alt="" coords="1073,39,1257,86"/>
+<area shape="rect" id="node156" href="$classfwDicomIOFilter_1_1custom_1_1ICustom.html" title="Base class for Dicom instance custom filter. " alt="" coords="1081,143,1249,190"/>
+<area shape="rect" id="node162" href="$classfwDicomIOFilter_1_1modifier_1_1IModifier.html" title="Base class for Dicom instance modifier. " alt="" coords="1080,247,1251,294"/>
+<area shape="rect" id="node166" href="$classfwDicomIOFilter_1_1sorter_1_1ISorter.html" title="Base class for Dicom instance sorter. " alt="" coords="1087,334,1244,381"/>
+<area shape="rect" id="node176" href="$classfwDicomIOFilter_1_1splitter_1_1ISplitter.html" title="Base class for Dicom instance splitter. " alt="" coords="1084,455,1247,502"/>
+<area shape="rect" id="node154" href="$classfwDicomIOFilter_1_1composite_1_1CTImageStorageDefaultComposite.html" title="Default filter used to read CTImageStorage SOP class. " alt="" coords="1331,5,1565,51"/>
+<area shape="rect" id="node158" href="$classfwDicomIOFilter_1_1custom_1_1DefaultDicomFilter.html" title="Default DICOM Filter. " alt="" coords="1364,143,1532,190"/>
+<area shape="rect" id="node160" href="$classfwDicomIOFilter_1_1custom_1_1NoFilter.html" title="Filter that doesn&#39;t apply any modification. " alt="" coords="1364,74,1532,121"/>
+<area shape="rect" id="node164" href="$classfwDicomIOFilter_1_1modifier_1_1SliceThicknessModifier.html" title="Filter that uses the ImagepositionPatient tag to sort the instances. The position increases along the..." alt="" coords="1363,213,1533,259"/>
+<area shape="rect" id="node168" href="$classfwDicomIOFilter_1_1sorter_1_1ImagePositionPatientSorter.html" title="Filter that uses the ImagepositionPatient tag to sort the instances. The position increases along the..." alt="" coords="1353,351,1543,398"/>
+<area shape="rect" id="node170" href="$classfwDicomIOFilter_1_1sorter_1_1TagValueSorter.html" title="Filter that uses a tag to sort the instances. " alt="" coords="1369,282,1527,329"/>
+<area shape="rect" id="node172" href="$classfwDicomIOFilter_1_1sorter_1_1InstanceNumberSorter.html" title="Filter that uses the InstanceNumber tag to sort the instances. " alt="" coords="1653,125,1813,171"/>
+<area shape="rect" id="node174" href="$classfwDicomIOFilterQt_1_1sorter_1_1TagValueConfigurableSorter.html" title="Filter that uses a tag to sort the instances. " alt="" coords="1639,195,1828,259"/>
+<area shape="rect" id="node178" href="$classfwDicomIOFilter_1_1splitter_1_1ImageDimensionsSplitter.html" title="Filter that uses the image dimensions to split the instances. " alt="" coords="1360,490,1536,537"/>
+<area shape="rect" id="node180" href="$classfwDicomIOFilter_1_1splitter_1_1ImagePositionPatientSplitter.html" title="Filter that uses the ImagePositionPatient tag to split the instances. For this filter to work properl..." alt="" coords="1351,559,1545,606"/>
+<area shape="rect" id="node182" href="$classfwDicomIOFilter_1_1splitter_1_1TagValueInstanceRemoveSplitter.html" title="Filter that remove instances according to tag value. " alt="" coords="1336,629,1560,675"/>
+<area shape="rect" id="node186" href="$classfwDicomIOFilter_1_1splitter_1_1TagValueSplitter.html" title="Filter that uses a tag to split the instances. " alt="" coords="1367,421,1529,467"/>
+<area shape="rect" id="node184" href="$classfwDicomIOFilterQt_1_1splitter_1_1TagValueInstanceRemoveConfigurableSplitter.html" title="Filter that remove instances if a tag has a certain value. " alt="" coords="1641,717,1825,781"/>
+<area shape="rect" id="node188" href="$classfwDicomIOFilter_1_1splitter_1_1AcquisitionNumberSplitter.html" title="Filter that uses the AcquisitionNumber tag to split the instances. " alt="" coords="1643,282,1824,329"/>
+<area shape="rect" id="node190" href="$classfwDicomIOFilter_1_1splitter_1_1ImageOrientationSplitter.html" title="Filter that uses the ImageOrientationPatient tag to split the instances. " alt="" coords="1648,351,1819,398"/>
+<area shape="rect" id="node192" href="$classfwDicomIOFilter_1_1splitter_1_1ImageTypeSplitter.html" title="Filter that uses the ImageType tag to split the instances. " alt="" coords="1652,421,1815,467"/>
+<area shape="rect" id="node194" href="$classfwDicomIOFilter_1_1splitter_1_1SOPClassUIDSplitter.html" title="Filter that uses the SOPClassUID tag to split the instances. " alt="" coords="1652,490,1815,537"/>
+<area shape="rect" id="node196" href="$classfwDicomIOFilter_1_1splitter_1_1TemporalPositionSplitter.html" title="Filter that uses the TemporalPositionIdentifier tag to split the instances. " alt="" coords="1648,559,1819,606"/>
+<area shape="rect" id="node198" href="$classfwDicomIOFilterQt_1_1splitter_1_1TagValueConfigurableSplitter.html" title="Filter that uses a tag to split the instances. " alt="" coords="1635,629,1832,693"/>
+<area shape="rect" id="node203" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="273,14565,412,14595"/>
+<area shape="rect" id="node1209" href="$structfwRuntime_1_1Bundle.html" title="Defines the bundle class. " alt="" coords="276,14049,409,14079"/>
+<area shape="rect" id="node205" href="$classfwActivities_1_1IBuilder.html" title="Base class for all fwActivities builder&#39;s classes. " alt="" coords="541,14133,683,14163"/>
+<area shape="rect" id="node211" href="$classfwActivities_1_1IValidator.html" title="Base class for all fwActivities validator&#39;s classes. " alt="" coords="536,14237,688,14267"/>
+<area shape="rect" id="node223" href="$classfwActivities_1_1registry_1_1Activities.html" title="This class allows to register all the configuration parameters which has the point extension &quot;::activ..." alt="" coords="541,15962,683,16009"/>
+<area shape="rect" id="node225" href="$classfwAtoms_1_1Base.html" title="Base class for all Atom classes. " alt="" coords="556,17069,668,17099"/>
+<area shape="rect" id="node241" href="$classfwAtomsFilter_1_1IFilter.html" title="Removes atom attributes which are not managed by a context. " alt="" coords="540,17813,684,17843"/>
+<area shape="rect" id="node247" href="$classfwAtomsPatch_1_1conditions_1_1Abstract.html" title="Defines a condition in the patch. " alt="" coords="525,17893,699,17939"/>
+<area shape="rect" id="node251" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="535,17309,689,17339"/>
+<area shape="rect" id="node295" href="$classfwAtomsPatch_1_1IStructuralCreator.html" title="Base class of all structural creators. Creates a new atom object with the default values correspondin..." alt="" coords="524,18181,700,18227"/>
+<area shape="rect" id="node311" href="$classfwAtomsPatch_1_1VersionsGraph.html" title="Versions graph description. " alt="" coords="511,18251,713,18280"/>
+<area shape="rect" id="node313" href="$structfwCom_1_1SignalBase.html" title="Signal base class. " alt="" coords="543,13691,681,13720"/>
+<area shape="rect" id="node317" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations. " alt="" coords="549,15909,675,15939"/>
+<area shape="rect" id="node329" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="517,13904,707,13933"/>
+<area shape="rect" id="node333" href="$classfwCore_1_1HiResTimer.html" title="This class provide a timer (stopwatch). HiResTimer is able to measure the elapsed time with a few mic..." alt="" coords="541,13744,683,13773"/>
+<area shape="rect" id="node335" href="$classfwCore_1_1log_1_1ScopedMessage.html" title="Scoped messages. " alt="" coords="515,13797,709,13827"/>
+<area shape="rect" id="node337" href="$classfwCore_1_1log_1_1SpyLogger.html" title="Implements the SpyLogger. " alt="" coords="533,13851,691,13880"/>
+<area shape="rect" id="node339" href="$classfwCore_1_1LogicStamp.html" title="Provides a Logical timestamp system. " alt="" coords="541,13957,683,13987"/>
+<area shape="rect" id="node341" href="$classfwCore_1_1TimeStamp.html" title="Provides a timestamp and a expiracy system. " alt="" coords="543,14011,681,14040"/>
+<area shape="rect" id="node343" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers. " alt="" coords="527,15095,697,15142"/>
+<area shape="rect" id="node397" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="528,16347,696,16394"/>
+<area shape="rect" id="node453" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="811,12892,963,12921"/>
+<area shape="rect" id="node603" href="$classfwLog_1_1Log.html" title="Log. " alt="" coords="569,14344,655,14373"/>
+<area shape="rect" id="node605" href="$classfwMemory_1_1BufferManager.html" title="BufferManager implementation. " alt="" coords="524,14397,700,14427"/>
+<area shape="rect" id="node607" href="$classfwMemory_1_1BufferObject.html" title="Define Base class for FW4SPL buffers. " alt="" coords="531,14451,693,14480"/>
+<area shape="rect" id="node609" href="$classfwMemory_1_1IPolicy.html" title="Defines the memory dump policy interface. " alt="" coords="547,15699,677,15728"/>
+<area shape="rect" id="node621" href="$classfwRenderVTK_1_1IVtkRenderWindowInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a window. " alt="" coords="500,15839,724,15886"/>
+<area shape="rect" id="node627" href="$classfwRuntime_1_1profile_1_1Profile.html" title="Implements a bundle set profile. " alt="" coords="548,14557,676,14603"/>
+<area shape="rect" id="node629" href="$classfwServices_1_1helper_1_1ConfigLauncher.html" title="This class provides few methods to manage AppConfig (parsing, starting, stopping...). " alt="" coords="547,14626,677,14673"/>
+<area shape="rect" id="node631" href="$classfwServices_1_1registry_1_1ActiveWorkers.html" title="This class to register active worker in the system, creates a default worker. " alt="" coords="543,14695,681,14742"/>
+<area shape="rect" id="node633" href="$classfwServices_1_1registry_1_1AppConfig.html" title="This class allows to register all the configuration which has the point extension &quot;::fwServices::regi..." alt="" coords="543,14765,681,14811"/>
+<area shape="rect" id="node635" href="$classfwServices_1_1registry_1_1AppConfig2.html" title="This class allows to register all the configuration which has the point extension &quot;::fwServices::regi..." alt="" coords="543,14834,681,14881"/>
+<area shape="rect" id="node637" href="$classfwServices_1_1registry_1_1AppConfigParameters.html" title="This class allows to register all the configuration parameters which has the point extension &quot;::fwSer..." alt="" coords="533,14903,691,14950"/>
+<area shape="rect" id="node639" href="$classfwServices_1_1registry_1_1AppInfo.html" title="fwServices::registry\l::AppInfo" alt="" coords="543,15026,681,15073"/>
+<area shape="rect" id="node641" href="$classfwServices_1_1registry_1_1ObjectService.html" title="maintain the relation between objects and services " alt="" coords="817,14141,956,14187"/>
+<area shape="rect" id="node643" href="$classfwServices_1_1registry_1_1Proxy.html" title="This class defines a proxy for signal/slot connections. " alt="" coords="543,15165,681,15211"/>
+<area shape="rect" id="node645" href="$classfwServices_1_1registry_1_1ServiceConfig.html" title="This class allows to register all the service configuration which has the point extension &quot;::fwServic..." alt="" coords="543,15234,681,15281"/>
+<area shape="rect" id="node647" href="$classfwServices_1_1registry_1_1ServiceConfigInfo.html" title="fwServices::registry\l::ServiceConfigInfo" alt="" coords="543,15751,681,15798"/>
+<area shape="rect" id="node649" href="$classfwServices_1_1registry_1_1ServiceFactory.html" title="fwServices::registry\l::ServiceFactory" alt="" coords="543,14063,681,14110"/>
+<area shape="rect" id="node651" href="$classfwThread_1_1Timer.html" title="The Timer class provides single&#45;shot or repetitive timers. A Timer triggers a function once after a d..." alt="" coords="553,14291,671,14320"/>
+<area shape="rect" id="node657" href="$classfwThread_1_1Worker.html" title="This class creates and manages a task loop. The default implementation create a loop in a new thread..." alt="" coords="549,14504,675,14533"/>
+<area shape="rect" id="node663" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="555,801,669,831"/>
+<area shape="rect" id="node207" href="$classfwActivities_1_1builder_1_1ActivitySeries.html" title="Defines the default builder for the data ActivitySeries. " alt="" coords="819,13791,955,13838"/>
+<area shape="rect" id="node209" href="$classfwActivities_1_1builder_1_1ActivitySeriesInitData.html" title="Defines an activity builder which instanciates a new requirement if minOccurs and maxOccurs are set t..." alt="" coords="1087,13966,1244,14013"/>
+<area shape="rect" id="node213" href="$classfwActivities_1_1IActivityValidator.html" title="Base class for all fwActivities activity validator&#39;s classes. " alt="" coords="788,14211,985,14240"/>
+<area shape="rect" id="node217" href="$classfwActivities_1_1IObjectValidator.html" title="Base class for all fwActivities data validator&#39;s classes. " alt="" coords="792,13912,981,13941"/>
+<area shape="rect" id="node221" href="$classfwActivities_1_1validator_1_1RelatedStudy.html" title="Defines a validator which checks that given series refer to the same study. " alt="" coords="813,14263,960,14310"/>
+<area shape="rect" id="node215" href="$classfwActivities_1_1validator_1_1DefaultActivity.html" title="Defines a validator which checks that activity requirements are valid. " alt="" coords="1092,14371,1239,14418"/>
+<area shape="rect" id="node219" href="$classfwActivities_1_1validator_1_1ImageProperties.html" title="Defines a validator which checks that properties of given images are the same. " alt="" coords="1092,14035,1239,14082"/>
+<area shape="rect" id="node227" href="$classfwAtoms_1_1Blob.html" title="Representation of a buffer. " alt="" coords="833,17256,940,17285"/>
+<area shape="rect" id="node229" href="$classfwAtoms_1_1Boolean.html" title="Represented a Boolean value. " alt="" coords="823,16936,951,16965"/>
+<area shape="rect" id="node231" href="$classfwAtoms_1_1Map.html" title="Map is a container for mapping representation. " alt="" coords="833,16989,940,17019"/>
+<area shape="rect" id="node233" href="$classfwAtoms_1_1Numeric.html" title="Storing a numeric value. " alt="" coords="821,17043,952,17072"/>
+<area shape="rect" id="node235" href="$classfwAtoms_1_1Object.html" title="Class represented a fwData::Object. " alt="" coords="827,17096,947,17125"/>
+<area shape="rect" id="node237" href="$classfwAtoms_1_1Sequence.html" title="Sequence represented a list of meta object. " alt="" coords="817,17149,956,17179"/>
+<area shape="rect" id="node239" href="$classfwAtoms_1_1String.html" title="Class represented a String. " alt="" coords="829,17203,944,17232"/>
+<area shape="rect" id="node243" href="$classfilterVRRender_1_1MedicalDataV1.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V1&quot; in VR&#45;Render. " alt="" coords="784,17867,989,17896"/>
+<area shape="rect" id="node245" href="$classfilterVRRender_1_1MedicalDataV2.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V2&quot; in VR&#45;Render. " alt="" coords="784,17813,989,17843"/>
+<area shape="rect" id="node249" href="$classfwAtomsPatch_1_1conditions_1_1NumericOverflow.html" title="Applies condition on numeric value. " alt="" coords="800,17919,973,17966"/>
+<area shape="rect" id="node253" href="$classfwAtomsPatch_1_1ISemanticPatch.html" title="Base class of contextual patches. " alt="" coords="783,17309,991,17339"/>
+<area shape="rect" id="node265" href="$classfwAtomsPatch_1_1IStructuralPatch.html" title="Base class of all structural patches. " alt="" coords="799,17743,975,17790"/>
+<area shape="rect" id="node255" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html" title="Patch an acquisition from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="1073,17151,1257,17198"/>
+<area shape="rect" id="node257" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html" title="Patch the composite describing a &#39;Medical workspace&#39; from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; c..." alt="" coords="1075,17221,1256,17267"/>
+<area shape="rect" id="node259" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html" title="Patch a patient from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="1085,17013,1245,17059"/>
+<area shape="rect" id="node261" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html" title="Patch a study from version V&#39;1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="1088,17290,1243,17337"/>
+<area shape="rect" id="node263" href="$classfwMDSemanticPatch_1_1V2_1_1V03AGO_1_1fwData_1_1Image.html" title="Patch an image from version &#39;V2&#39; to &#39;V03AGO&#39; within &#39;MedicalData&#39; context. " alt="" coords="1069,17082,1261,17129"/>
+<area shape="rect" id="node267" href="$classfwStructuralPatch_1_1fwData_1_1Acquisition_1_1V1ToFwMedDataImageSeriesV1.html" title="Transforms an acquisition in version &#39;1&#39; to an image series in version &#39;1&#39;. " alt="" coords="1055,17448,1276,17512"/>
+<area shape="rect" id="node269" href="$classfwStructuralPatch_1_1fwData_1_1Image_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1084,17535,1247,17582"/>
+<area shape="rect" id="node271" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V1ToV2.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1079,17605,1252,17651"/>
+<area shape="rect" id="node273" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V2ToV3.html" title="Structural patch to convert a fwData::Image from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1079,17674,1252,17721"/>
+<area shape="rect" id="node275" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V3ToV4.html" title="Structural patch to convert a fwData::Material from version &#39;3&#39; to version &#39;4&#39;. " alt="" coords="1079,17743,1252,17790"/>
+<area shape="rect" id="node277" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V4ToV3.html" title="Structural patch to convert a fwData::Material from version &#39;4&#39; to version &#39;3&#39;. " alt="" coords="1079,17813,1252,17859"/>
+<area shape="rect" id="node279" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV2.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1087,17882,1244,17929"/>
+<area shape="rect" id="node281" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V1ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;3&#39;. " alt="" coords="1087,17951,1244,17998"/>
+<area shape="rect" id="node283" href="$classfwStructuralPatch_1_1fwData_1_1Mesh_1_1V2ToV3.html" title="Structural patch to convert a fwData::Mesh from version &#39;2&#39; to version &#39;3&#39;. " alt="" coords="1087,18021,1244,18067"/>
+<area shape="rect" id="node285" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html" title="Transforms a ::fwData::Patient to a fwMedData::Patient. " alt="" coords="1068,18091,1263,18155"/>
+<area shape="rect" id="node287" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V1ToV2.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1085,18179,1245,18243"/>
+<area shape="rect" id="node289" href="$classfwStructuralPatch_1_1fwData_1_1Reconstruction_1_1V2ToV3.html" title="Structural patch to convert a fwData::Reconstruction from version &#39;2&#39; to version &#39;3&#39;. " alt="" coords="1085,18267,1245,18331"/>
+<area shape="rect" id="node291" href="$classfwStructuralPatch_1_1fwData_1_1Study_1_1V1ToFwMedDataStudyV1.html" title="Transforms a ::fwData::Study to a fwMedData::Study. " alt="" coords="1057,18355,1273,18419"/>
+<area shape="rect" id="node293" href="$classfwStructuralPatch_1_1fwData_1_1TransformationMatrix3D_1_1V1ToV2.html" title="Structural patch to convert a fwData::Mesh from version &#39;1&#39; to version &#39;2&#39;. " alt="" coords="1064,17360,1267,17424"/>
+<area shape="rect" id="node297" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Equipment1.html" title="Structural creator for fwMedData::Equipment version &#39;1&#39;. " alt="" coords="815,18531,959,18595"/>
+<area shape="rect" id="node299" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Patient1.html" title="Structural creator for fwMedData::Patient version &#39;1&#39;. " alt="" coords="815,18128,959,18192"/>
+<area shape="rect" id="node301" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Series1.html" title="Structural creator for fwMedData::Series version 1. " alt="" coords="815,18443,959,18507"/>
+<area shape="rect" id="node309" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Study1.html" title="Structural creator for fwMedData::Study version &#39;1&#39;. " alt="" coords="815,18216,959,18280"/>
+<area shape="rect" id="node303" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ActivitySeries1.html" title="Structural creator for fwMedData::ActivitySeries version 1. " alt="" coords="1093,18531,1237,18595"/>
+<area shape="rect" id="node305" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html" title="Structural creator for fwMedData::ImageSeries version &#39;1&#39;. " alt="" coords="1093,18443,1237,18507"/>
+<area shape="rect" id="node307" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ModelSeries1.html" title="Structural creator for fwMedData::ModelSeries version &#39;1&#39;. " alt="" coords="1093,18619,1237,18683"/>
+<area shape="rect" id="node315" href="$structfwCom_1_1Signal_3_01R_07A_8_8_8_08_01_4.html" title="Signal implementation. Template parameter T must always be void. " alt="" coords="801,13669,972,13699"/>
+<area shape="rect" id="node319" href="$structfwCom_1_1SlotRun_3_01void_07A_8_8_8_08_01_4.html" title="Slot run interface (call without return value). " alt="" coords="809,16269,964,16315"/>
+<area shape="rect" id="node321" href="$structfwCom_1_1SlotCall_3_01R_07A_8_8_8_08_01_4.html" title="Slot call interface (call with return value). " alt="" coords="1096,16269,1235,16315"/>
+<area shape="rect" id="node323" href="$classfwCom_1_1Slot_3_01R_07A_8_8_8_08_01_4.html" title="fwCom::Slot\&lt; R(A...) \&gt;" alt="" coords="1369,16277,1527,16307"/>
+<area shape="rect" id="node325" href="$classfwCom_1_1Slot_3_01_1_1boost_1_1function_3_01R_07A_8_8_8_08_01_4_01_4.html" title="fwCom::Slot\&lt; ::boost\l::function\&lt; R(A...) \&gt; \&gt;" alt="" coords="1659,16269,1808,16315"/>
+<area shape="rect" id="node327" href="$classfwCom_1_1Slot_3_01Slot_3_01R_07A_8_8_8_08_01_4_01_4.html" title="fwCom::Slot\&lt; Slot\&lt;\l R(A...) \&gt; \&gt;" alt="" coords="1917,16269,2056,16315"/>
+<area shape="rect" id="node331" href="$structfwCom_1_1SlotConnection_3_01void_07A_8_8_8_08_01_4.html" title="Slot connection implementation. This class is for internal use purpose. " alt="" coords="807,13722,967,13769"/>
+<area shape="rect" id="node345" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="generic class for all object readers. " alt="" coords="788,14917,985,14963"/>
+<area shape="rect" id="node347" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Array \&gt;" alt="" coords="800,16093,973,16157"/>
+<area shape="rect" id="node353" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Image \&gt;" alt="" coords="800,14776,973,14840"/>
+<area shape="rect" id="node365" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::Mesh \&gt;" alt="" coords="800,14987,973,15051"/>
+<area shape="rect" id="node371" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::StructureTraitsDictionary \&gt;" alt="" coords="793,16181,980,16245"/>
+<area shape="rect" id="node375" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData::Tag \&gt;" alt="" coords="784,15514,989,15561"/>
+<area shape="rect" id="node379" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="796,15584,977,15648"/>
+<area shape="rect" id="node383" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="792,14547,981,14611"/>
+<area shape="rect" id="node349" href="$classfwDataIO_1_1reader_1_1ArrayReader.html" title="Array Reader. Read file format .raw. " alt="" coords="1064,16103,1267,16132"/>
+<area shape="rect" id="node351" href="$classfwDataIO_1_1reader_1_1GzArrayReader.html" title="Array Reader. Read file format .raw.gz. " alt="" coords="1076,16029,1255,16075"/>
+<area shape="rect" id="node355" href="$classfwDataIO_1_1reader_1_1GzBufferImageReader.html" title="Image Reader. Read file format .raw.gz. " alt="" coords="1075,14915,1256,14962"/>
+<area shape="rect" id="node357" href="$classfwItkIO_1_1ImageReader.html" title="fwItkIO::ImageReader" alt="" coords="1091,14756,1240,14785"/>
+<area shape="rect" id="node359" href="$classfwVtkIO_1_1ImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="1088,14703,1243,14732"/>
+<area shape="rect" id="node361" href="$classfwVtkIO_1_1MetaImageReader.html" title="Read a MetaImage.Read a MetaImage using the VTK lib. " alt="" coords="1073,14596,1257,14625"/>
+<area shape="rect" id="node363" href="$classfwVtkIO_1_1VtiImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="1080,14649,1251,14679"/>
+<area shape="rect" id="node367" href="$classfwDataIO_1_1reader_1_1MeshReader.html" title="Mesh reader. Read file format .trian. " alt="" coords="1064,15513,1267,15543"/>
+<area shape="rect" id="node369" href="$classfwVtkIO_1_1MeshReader.html" title="Read a mesh.Read a VTK Mesh using the VTK lib. " alt="" coords="1089,14809,1241,14839"/>
+<area shape="rect" id="node373" href="$classfwDataIO_1_1reader_1_1DictionaryReader.html" title="Dictionary reader. Read file with .dic extension. " alt="" coords="1071,16173,1260,16219"/>
+<area shape="rect" id="node377" href="$classfwDataIO_1_1reader_1_1TagReader.html" title="Tag Reader. Read file format .tag. " alt="" coords="1068,15692,1263,15721"/>
+<area shape="rect" id="node381" href="$classfwDataIO_1_1reader_1_1TransformationMatrix3DReader.html" title="Reader for transformation of 3D Matrix. Read file format .trf. " alt="" coords="1057,15887,1273,15934"/>
+<area shape="rect" id="node385" href="$classfwDcmtkIO_1_1DicomSeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1049,14265,1281,14295"/>
+<area shape="rect" id="node387" href="$classfwDcmtkIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1068,14475,1263,14504"/>
+<area shape="rect" id="node389" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html" title="This class adds patient(s) from DICOM file(s) to fwData::SeriesDB. " alt="" coords="1069,14105,1261,14135"/>
+<area shape="rect" id="node391" href="$classfwVtkIO_1_1SeriesDBReader.html" title="Read a SeriesDB.Read VTK Mesh or Image files using the VTK lib, convert to ModelSeries or ImageSeries..." alt="" coords="1077,14319,1253,14348"/>
+<area shape="rect" id="node393" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="1055,14159,1276,14188"/>
+<area shape="rect" id="node395" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="1068,14212,1263,14241"/>
+<area shape="rect" id="node399" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="792,16602,981,16649"/>
+<area shape="rect" id="node401" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Array \&gt;" alt="" coords="801,15427,972,15491"/>
+<area shape="rect" id="node407" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="801,15075,972,15139"/>
+<area shape="rect" id="node421" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Mesh \&gt;" alt="" coords="801,15251,972,15315"/>
+<area shape="rect" id="node427" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="796,15339,977,15403"/>
+<area shape="rect" id="node431" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::DicomSeries \&gt;" alt="" coords="796,16672,977,16736"/>
+<area shape="rect" id="node435" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ImageSeries \&gt;" alt="" coords="796,16760,977,16824"/>
+<area shape="rect" id="node439" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ModelSeries \&gt;" alt="" coords="796,16848,977,16912"/>
+<area shape="rect" id="node443" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::Series \&gt;" alt="" coords="796,16339,977,16403"/>
+<area shape="rect" id="node447" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="796,16427,977,16491"/>
+<area shape="rect" id="node403" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html" title="Array Writer. Write file format .raw. " alt="" coords="1069,15567,1261,15596"/>
+<area shape="rect" id="node405" href="$classfwDataIO_1_1writer_1_1GzArrayWriter.html" title="Array Writer. Write file format .raw.gz. " alt="" coords="1079,15443,1252,15490"/>
+<area shape="rect" id="node409" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html" title="Image Writer. Write file format .raw.gz. " alt="" coords="1076,15038,1255,15085"/>
+<area shape="rect" id="node411" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="1093,14863,1237,14892"/>
+<area shape="rect" id="node413" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="1083,14985,1248,15015"/>
+<area shape="rect" id="node415" href="$classfwVtkIO_1_1ImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="1091,15161,1240,15191"/>
+<area shape="rect" id="node417" href="$classfwVtkIO_1_1MetaImageWriter.html" title="Write a MetaImage.Write a MetaImage using the VTK lib. " alt="" coords="1076,15108,1255,15137"/>
+<area shape="rect" id="node419" href="$classfwVtkIO_1_1VtiImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="1083,15215,1248,15244"/>
+<area shape="rect" id="node423" href="$classfwDataIO_1_1writer_1_1MeshWriter.html" title="Mesh writer. Write file format .trian. " alt="" coords="1069,15321,1261,15351"/>
+<area shape="rect" id="node425" href="$classfwVtkIO_1_1MeshWriter.html" title="Write a mesh.Write a VTK Mesh using the VTK lib. " alt="" coords="1093,15268,1237,15297"/>
+<area shape="rect" id="node429" href="$classfwDataIO_1_1writer_1_1TransformationMatrix3DWriter.html" title="Writer for transformation of 3D Matrix. Write file format .trf. " alt="" coords="1059,15374,1272,15421"/>
+<area shape="rect" id="node433" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesWriter.html" title="Write a DicomSeries in DICOM format. " alt="" coords="1060,16561,1271,16607"/>
+<area shape="rect" id="node437" href="$classvtkGdcmIO_1_1ImageSeriesWriter.html" title="Write an ImageSeries in DICOM format. " alt="" coords="1063,16671,1268,16700"/>
+<area shape="rect" id="node441" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html" title="Write a fwData::Reconstruction.Write a fwData::Reconstruction as .obj file using the VTK lib and the ..." alt="" coords="1063,16803,1268,16832"/>
+<area shape="rect" id="node445" href="$classfwGdcmIO_1_1writer_1_1Series.html" title="This class handles DICOM files writing. It defines needs of data storage and delegates writing to app..." alt="" coords="1080,16356,1251,16385"/>
+<area shape="rect" id="node449" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html" title="fwGdcmIO::helper::DicomSeries\lDBWriter" alt="" coords="1060,16471,1271,16518"/>
+<area shape="rect" id="node451" href="$classfwGdcmIO_1_1writer_1_1SeriesDB.html" title="This class manages patient writing, in DICOM file format. " alt="" coords="1071,16419,1260,16448"/>
+<area shape="rect" id="node455" href="$classfwGui_1_1builder_1_1IContainerBuilder.html" title="Defines the interface class for the container builder. " alt="" coords="1080,12522,1251,12569"/>
+<area shape="rect" id="node459" href="$classfwGui_1_1builder_1_1IMenuBarBuilder.html" title="Defines the interface class for the menubar builder. " alt="" coords="1083,12714,1248,12761"/>
+<area shape="rect" id="node463" href="$classfwGui_1_1builder_1_1ISlideViewBuilder.html" title="Defines the interface class for the slide view builder. " alt="" coords="1080,12783,1251,12830"/>
+<area shape="rect" id="node467" href="$classfwGui_1_1builder_1_1IToolBarBuilder.html" title="Defines the interface class for the toolbar builder. " alt="" coords="1087,12853,1244,12899"/>
+<area shape="rect" id="node471" href="$classfwGui_1_1container_1_1fwContainer.html" title="Defines the generic container for IHM. " alt="" coords="1068,12923,1263,12952"/>
+<area shape="rect" id="node475" href="$classfwGui_1_1container_1_1fwMenu.html" title="fwGui::container::fwMenu" alt="" coords="1080,12976,1251,13005"/>
+<area shape="rect" id="node479" href="$classfwGui_1_1container_1_1fwMenuBar.html" title="Defines the menu for IHM. " alt="" coords="1071,13029,1260,13059"/>
+<area shape="rect" id="node483" href="$classfwGui_1_1container_1_1fwMenuItem.html" title="Defines the menu item for IHM. " alt="" coords="1067,13083,1264,13112"/>
+<area shape="rect" id="node487" href="$classfwGui_1_1container_1_1fwToolBar.html" title="Defines the tool bar for IHM. " alt="" coords="1073,13205,1257,13235"/>
+<area shape="rect" id="node491" href="$classfwGui_1_1dialog_1_1IInputDialog.html" title="Defines the generic input dialog box for IHM. " alt="" coords="1077,13267,1253,13296"/>
+<area shape="rect" id="node497" href="$classfwGui_1_1dialog_1_1ILocationDialog.html" title="fwGui::dialog::ILocation\lDialog" alt="" coords="1087,13365,1244,13411"/>
+<area shape="rect" id="node503" href="$classfwGui_1_1dialog_1_1ILoggerDialog.html" title="ILoggerDialog is used to display a dialog message and a set of logs. " alt="" coords="1072,13668,1259,13697"/>
+<area shape="rect" id="node509" href="$classfwGui_1_1dialog_1_1IMessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="1065,13453,1265,13483"/>
+<area shape="rect" id="node515" href="$classfwGui_1_1dialog_1_1IMultiSelectorDialog.html" title="IMultiSelectorDialog allows the choice of some elements among several (_selections) ..." alt="" coords="1072,13774,1259,13821"/>
+<area shape="rect" id="node521" href="$classfwGui_1_1dialog_1_1IProgressDialog.html" title="Defines the generic Progress dialog for IHM. " alt="" coords="1084,13135,1247,13182"/>
+<area shape="rect" id="node527" href="$classfwGui_1_1dialog_1_1IPulseProgressDialog.html" title="Defines the generic Progress dialog for IHM. " alt="" coords="1068,13598,1263,13645"/>
+<area shape="rect" id="node533" href="$classfwGui_1_1dialog_1_1ISelectorDialog.html" title="ISelectorDialog allows the choice of an element among several (_selections) " alt="" coords="1087,13843,1244,13890"/>
+<area shape="rect" id="node539" href="$classfwGui_1_1GuiRegistry.html" title="This class contains helpers to manage all fwContainer in the application. " alt="" coords="1099,13507,1232,13536"/>
+<area shape="rect" id="node541" href="$classfwGui_1_1IApplication.html" title="Defines the application manipulation API. " alt="" coords="1100,12592,1231,12621"/>
+<area shape="rect" id="node547" href="$classfwGui_1_1ICursor.html" title="Defines the generic cursor for IHM. " alt="" coords="1112,13913,1219,13943"/>
+<area shape="rect" id="node553" href="$classfwGui_1_1IMenuItemCallback.html" title="Defines the menu item callback. " alt="" coords="1077,9607,1253,9636"/>
+<area shape="rect" id="node559" href="$classfwGui_1_1layoutManager_1_1IFrameLayoutManager.html" title="Defines an interface for managing a frame. " alt="" coords="1085,11847,1245,11894"/>
+<area shape="rect" id="node563" href="$classfwGui_1_1layoutManager_1_1IMenuBarLayoutManager.html" title="Defines the menu bar layout manager for IHM. " alt="" coords="1079,11999,1252,12046"/>
+<area shape="rect" id="node567" href="$classfwGui_1_1layoutManager_1_1IMenuLayoutManager.html" title="Defines the menu layout manager for IHM. " alt="" coords="1088,12069,1243,12115"/>
+<area shape="rect" id="node571" href="$classfwGui_1_1layoutManager_1_1IToolBarLayoutManager.html" title="Defines the toolBar layout manager for IHM. " alt="" coords="1081,12138,1249,12185"/>
+<area shape="rect" id="node575" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM. " alt="" coords="1089,12645,1241,12691"/>
+<area shape="rect" id="node593" href="$classfwGui_1_1registrar_1_1ActionRegistrar.html" title="Defines the action registrar for IHM. " alt="" coords="1088,12207,1243,12254"/>
+<area shape="rect" id="node595" href="$classfwGui_1_1registrar_1_1MenuBarRegistrar.html" title="Defines the menuBar registrar for IHM. " alt="" coords="1080,12277,1251,12323"/>
+<area shape="rect" id="node597" href="$classfwGui_1_1registrar_1_1MenuRegistrar.html" title="Defines the menu registrar for IHM. " alt="" coords="1064,12347,1267,12376"/>
+<area shape="rect" id="node599" href="$classfwGui_1_1registrar_1_1ToolBarRegistrar.html" title="Defines the toolBar registrar for IHM. " alt="" coords="1084,12399,1247,12446"/>
+<area shape="rect" id="node601" href="$classfwGui_1_1registrar_1_1ViewRegistrar.html" title="Defines the generic view manager for IHM. " alt="" coords="1065,12469,1265,12499"/>
+<area shape="rect" id="node457" href="$classfwGui_1_1builder_1_1ContainerBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="1365,12290,1531,12337"/>
+<area shape="rect" id="node461" href="$classfwGui_1_1builder_1_1MenuBarBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="1347,12691,1549,12720"/>
+<area shape="rect" id="node465" href="$classfwGui_1_1builder_1_1SlideViewBuilder.html" title="Defines the qt implementation of the slide view builder. " alt="" coords="1364,12743,1532,12790"/>
+<area shape="rect" id="node469" href="$classfwGui_1_1builder_1_1ToolBarBuilder.html" title="Defines the generic layout manager for IHM. " alt="" coords="1351,12813,1545,12843"/>
+<area shape="rect" id="node473" href="$classfwGuiQt_1_1container_1_1QtContainer.html" title="Defines the QWidget container for IHM. " alt="" coords="1383,12866,1513,12913"/>
+<area shape="rect" id="node477" href="$classfwGuiQt_1_1container_1_1QtMenuContainer.html" title="Defines the Qt menu bar container for IHM. " alt="" coords="1383,12935,1513,12982"/>
+<area shape="rect" id="node481" href="$classfwGuiQt_1_1container_1_1QtMenuBarContainer.html" title="Defines the Qt menu bar container for GUI. " alt="" coords="1372,13005,1524,13051"/>
+<area shape="rect" id="node485" href="$classfwGuiQt_1_1container_1_1QtMenuItemContainer.html" title="Defines the Qt menuItem bar container for IHM. " alt="" coords="1369,13074,1527,13121"/>
+<area shape="rect" id="node489" href="$classfwGuiQt_1_1container_1_1QtToolBarContainer.html" title="Defines the Qt toolBar bar container for IHM. " alt="" coords="1376,13197,1520,13243"/>
+<area shape="rect" id="node493" href="$classfwGui_1_1dialog_1_1InputDialog.html" title="Defines the generic input dialog for IHM. Use the Delegate design pattern. " alt="" coords="1363,13267,1533,13296"/>
+<area shape="rect" id="node495" href="$classfwGuiQt_1_1dialog_1_1InputDialog.html" title="Defines an Input dialog. " alt="" coords="1355,13320,1541,13349"/>
+<area shape="rect" id="node499" href="$classfwGui_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder selector dialog for IHM. " alt="" coords="1352,13373,1544,13403"/>
+<area shape="rect" id="node501" href="$classfwGuiQt_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder dialog for IHM. " alt="" coords="1364,13426,1532,13473"/>
+<area shape="rect" id="node505" href="$classfwGui_1_1dialog_1_1LoggerDialog.html" title="ILoggerDialog is used to display a dialog message and a set of logs Use the Delegate design pattern..." alt="" coords="1357,13757,1539,13787"/>
+<area shape="rect" id="node507" href="$classfwGuiQt_1_1dialog_1_1LoggerDialog.html" title="LoggerDialog allowing the choice of an element among severals (_selections) " alt="" coords="1351,13811,1545,13840"/>
+<area shape="rect" id="node511" href="$classfwGui_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. Use the Delegate design pattern. " alt="" coords="1351,13496,1545,13525"/>
+<area shape="rect" id="node513" href="$classfwGuiQt_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="1361,13549,1535,13595"/>
+<area shape="rect" id="node517" href="$classfwGui_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allows the choice of some element among several (_selections) ..." alt="" coords="1357,13933,1539,13979"/>
+<area shape="rect" id="node519" href="$classfwGuiQt_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allowing the choice of an element among severals (_selections) ..." alt="" coords="1351,13863,1545,13910"/>
+<area shape="rect" id="node523" href="$classfwGui_1_1dialog_1_1ProgressDialog.html" title="Defines the generic progress dialog for IHM. Use the Delegate design pattern. The specific implementa..." alt="" coords="1351,13144,1545,13173"/>
+<area shape="rect" id="node525" href="$classfwGuiQt_1_1dialog_1_1ProgressDialog.html" title="This class allows us to select an acquisition in a patient data base. " alt="" coords="1648,9429,1819,9475"/>
+<area shape="rect" id="node529" href="$classfwGui_1_1dialog_1_1PulseProgressDialog.html" title="Defines the generic pulse progress dialog for IHM. Use the Delegate design pattern. The specific implementation selection is ensured by fwGuiRegisterMacro. The specific implementation are in fwGuiWX and fwGuiQT libraries. " alt="" coords="1353,13618,1543,13665"/>
+<area shape="rect" id="node531" href="$classfwGuiQt_1_1dialog_1_1PulseProgressDialog.html" title="This class allows us to show a pulse progress bar. " alt="" coords="1345,13687,1551,13734"/>
+<area shape="rect" id="node535" href="$classfwGui_1_1dialog_1_1SelectorDialog.html" title="SelectorDialog allows the choice of an element among several (_selections) Use the Delegate design pa..." alt="" coords="1353,14003,1543,14032"/>
+<area shape="rect" id="node537" href="$classfwGuiQt_1_1dialog_1_1SelectorDialog.html" title="SelectorDialog allowing the choice of an element among severals (_selections) " alt="" coords="1364,14055,1532,14102"/>
+<area shape="rect" id="node543" href="$classfwGui_1_1Application.html" title="Gives access to the underlayed application part. " alt="" coords="1384,12360,1512,12389"/>
+<area shape="rect" id="node545" href="$classfwGuiQt_1_1Application.html" title="Gives access to the qt application part. " alt="" coords="1663,12977,1804,13007"/>
+<area shape="rect" id="node549" href="$classfwGui_1_1Cursor.html" title="Defines the generic cursor for IHM. Use the Delegate design pattern. " alt="" coords="1397,14125,1499,14155"/>
+<area shape="rect" id="node551" href="$classfwGuiQt_1_1Cursor.html" title="Defines the generic cursor for IHM. " alt="" coords="1389,14179,1507,14208"/>
+<area shape="rect" id="node555" href="$classfwGui_1_1ActionCallbackBase.html" title="Defines the menu item callback. " alt="" coords="1357,9273,1539,9303"/>
+<area shape="rect" id="node557" href="$classfwGuiQt_1_1ActionCallback.html" title="Defines the menu item callback. " alt="" coords="1651,8435,1816,8464"/>
+<area shape="rect" id="node561" href="$classfwGui_1_1FrameLayoutManager.html" title="Defines the frame manager. " alt="" coords="1639,9001,1828,9031"/>
+<area shape="rect" id="node565" href="$classfwGui_1_1layoutManager_1_1MenuBarLayoutManager.html" title="Defines the menu bar layout manager for IHM. " alt="" coords="1363,12006,1533,12053"/>
+<area shape="rect" id="node569" href="$classfwGui_1_1layoutManager_1_1MenuLayoutManager.html" title="Defines the menu layout manager for IHM. " alt="" coords="1373,12075,1523,12122"/>
+<area shape="rect" id="node573" href="$classfwGui_1_1layoutManager_1_1ToolBarLayoutManager.html" title="Defines the toolBar layout manager for IHM. " alt="" coords="1367,12145,1529,12191"/>
+<area shape="rect" id="node577" href="$classfwGui_1_1layoutManager_1_1CardinalLayoutManagerBase.html" title="Defines the base for cardinal layout manager. " alt="" coords="1349,12621,1547,12667"/>
+<area shape="rect" id="node581" href="$classfwGui_1_1layoutManager_1_1LineLayoutManagerBase.html" title="Defines the base for line layout manager. " alt="" coords="1361,12413,1535,12459"/>
+<area shape="rect" id="node585" href="$classfwGui_1_1layoutManager_1_1TabLayoutManagerBase.html" title="Defines the base for cardinal layout manager. " alt="" coords="1363,12482,1533,12529"/>
+<area shape="rect" id="node589" href="$classfwGui_1_1layoutManager_1_1ToolboxLayoutManagerBase.html" title="Defines the base for line layout manager. " alt="" coords="1351,12551,1545,12598"/>
+<area shape="rect" id="node579" href="$classfwGui_1_1CardinalLayoutManager.html" title="Defines the cardinal layout manager. " alt="" coords="1633,13191,1833,13220"/>
+<area shape="rect" id="node583" href="$classfwGui_1_1LineLayoutManager.html" title="Defines the line layout manager. " alt="" coords="1645,13031,1821,13060"/>
+<area shape="rect" id="node587" href="$classfwGui_1_1TabLayoutManager.html" title="Defines the tab layout manager. " alt="" coords="1647,13084,1820,13113"/>
+<area shape="rect" id="node591" href="$classfwGui_1_1ToolboxLayoutManager.html" title="Defines the toolbox layout manager. " alt="" coords="1635,13137,1832,13167"/>
+<area shape="rect" id="node611" href="$classfwMemory_1_1policy_1_1AlwaysDump.html" title="Always dump policy. " alt="" coords="781,15672,992,15701"/>
+<area shape="rect" id="node613" href="$classfwMemory_1_1policy_1_1BarrierDump.html" title="Barrier dump policy. " alt="" coords="784,15725,989,15755"/>
+<area shape="rect" id="node615" href="$classfwMemory_1_1policy_1_1NeverDump.html" title="Never dump policy. " alt="" coords="785,15779,988,15808"/>
+<area shape="rect" id="node617" href="$classfwMemory_1_1policy_1_1ValveDump.html" title="Valve dump policy. " alt="" coords="787,15832,987,15861"/>
+<area shape="rect" id="node623" href="$classfwRenderVTK_1_1OffScreenInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a off screen window. " alt="" coords="773,15885,1000,15931"/>
+<area shape="rect" id="node625" href="$classvisuVTKQt_1_1VtkRenderWindowInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a window. " alt="" coords="785,15954,988,16001"/>
+<area shape="rect" id="node653" href="$classfwGuiQt_1_1TimerQt.html" title="Private Timer implementation using Qt. " alt="" coords="824,14333,949,14363"/>
+<area shape="rect" id="node655" href="$classfwThread_1_1TimerAsio.html" title="Private Timer implementation using boost::asio. " alt="" coords="816,14387,957,14416"/>
+<area shape="rect" id="node659" href="$classfwGuiQt_1_1WorkerQt.html" title="Private implementation of fwThread::Worker using boost::asio. " alt="" coords="820,14440,953,14469"/>
+<area shape="rect" id="node661" href="$classfwThread_1_1WorkerAsio.html" title="Private implementation of fwThread::Worker using boost::asio. " alt="" coords="811,14493,963,14523"/>
+<area shape="rect" id="node665" href="$classfwAtomsPatch_1_1patcher_1_1IPatcher.html" title="Base class of all patchers. " alt="" coords="808,531,965,578"/>
+<area shape="rect" id="node671" href="$classfwCommand_1_1ICommand.html" title="The base class for all command. " alt="" coords="803,668,971,697"/>
+<area shape="rect" id="node677" href="$classfwCommand_1_1Manager.html" title="Keep tracking an history of commands. " alt="" coords="809,801,964,831"/>
+<area shape="rect" id="node679" href="$classfwCommand_1_1UndoRedoManager.html" title="Keep tracking an history of commands. " alt="" coords="779,855,995,884"/>
+<area shape="rect" id="node683" href="$classfwLog_1_1Logger.html" title="Logger class used to store logs. " alt="" coords="835,615,939,644"/>
+<area shape="rect" id="node685" href="$classfwServices_1_1IAppConfigManager.html" title="This class provides an interface to manage configurations template. " alt="" coords="781,748,992,777"/>
+<area shape="rect" id="node691" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="816,7129,957,7159"/>
+<area shape="rect" id="node667" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html" title="Default patcher. " alt="" coords="1087,525,1244,571"/>
+<area shape="rect" id="node669" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1MedicalWorkspacePatcher.html" title="This patcher adds required meta infos on composites describing a &#39;Medical workspace&#39;. " alt="" coords="1335,698,1561,745"/>
+<area shape="rect" id="node673" href="$classfwCommand_1_1Empty.html" title="Empty command. " alt="" coords="1095,595,1236,624"/>
+<area shape="rect" id="node675" href="$classfwCommand_1_1PaintCommand.html" title="Command class to be used by all paint tools. " alt="" coords="1068,648,1263,677"/>
+<area shape="rect" id="node687" href="$classfwServices_1_1AppConfigManager.html" title="This class provides an API to manage config template. " alt="" coords="1063,701,1268,731"/>
+<area shape="rect" id="node689" href="$classfwServices_1_1AppConfigManager2.html" title="This class provides an API to manage config template. " alt="" coords="1059,755,1272,784"/>
+<area shape="rect" id="node693" href="$classctrlCamp_1_1ICamp.html" title="This interface defines service API. It can be considered as a default type for services using fwCamp..." alt="" coords="1104,6625,1227,6655"/>
+<area shape="rect" id="node701" href="$classctrlSelection_1_1IManagerSrv.html" title="Base class for manager. A manager starts, stops or swaps services on object contained in a composite ..." alt="" coords="1077,6817,1253,6847"/>
+<area shape="rect" id="node709" href="$classctrlSelection_1_1IUpdaterSrv.html" title="An updater is attached on a composite. It is use to add, swap and remove object in the composite when..." alt="" coords="1080,7060,1251,7089"/>
+<area shape="rect" id="node719" href="$classctrlSelection_1_1IWrapperSrv.html" title="The purpose of this service is to wrap messages incoming to the object to new messages. " alt="" coords="1079,7164,1252,7193"/>
+<area shape="rect" id="node723" href="$classfwGui_1_1IActionSrv.html" title="Defines the service interface managing the menu items. " alt="" coords="1385,11953,1511,11983"/>
+<area shape="rect" id="node813" href="$classfwGui_1_1IFrameSrv.html" title="Defines the service interface managing a frame. " alt="" coords="1103,11101,1228,11131"/>
+<area shape="rect" id="node817" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout. " alt="" coords="1084,7287,1247,7316"/>
+<area shape="rect" id="node903" href="$classfwGui_1_1IMenuBarSrv.html" title="Defines the service interface managing the menu bar. " alt="" coords="1096,11185,1235,11215"/>
+<area shape="rect" id="node907" href="$classfwGui_1_1IMenuSrv.html" title="Defines the service interface managing the menu. " alt="" coords="1105,11300,1225,11329"/>
+<area shape="rect" id="node911" href="$classfwGui_1_1IToolBarSrv.html" title="Defines the service interface managing the toolBar. " alt="" coords="1099,11476,1232,11505"/>
+<area shape="rect" id="node915" href="$classfwPreferences_1_1IPreferences.html" title="Preferences service API. This class represents the base interface for preferences services..." alt="" coords="1072,11773,1259,11803"/>
+<area shape="rect" id="node919" href="$classfwRenderVTK_1_1IVtkAdaptorService.html" title="fwRenderVTK::IVtkAdaptor\lService" alt="" coords="1075,8837,1256,8883"/>
+<area shape="rect" id="node1023" href="$classfwServices_1_1IController.html" title="This interface defines control service API. Does nothing particularly, can be considered as a default..." alt="" coords="1088,3447,1243,3476"/>
+<area shape="rect" id="node1065" href="$classfwServices_1_1IParametersService.html" title="This interface defines a basic slots to receive parameter values from signals. " alt="" coords="1060,3393,1271,3423"/>
+<area shape="rect" id="node1067" href="$classfwServices_1_1IXMLParser.html" title="Service type for the construction of an object and associated services from an XML&#45;based description..." alt="" coords="1084,4169,1247,4199"/>
+<area shape="rect" id="node1089" href="$classgui_1_1editor_1_1IDialogEditor.html" title="Defines the service interface managing the editor service which create their own container. " alt="" coords="1084,4437,1247,4467"/>
+<area shape="rect" id="node1097" href="$classio_1_1IReader.html" title="Reader service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="1123,5084,1208,5113"/>
+<area shape="rect" id="node1137" href="$classio_1_1IWriter.html" title="Writer service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="1127,6065,1204,6095"/>
+<area shape="rect" id="node1171" href="$classopVTKMesh_1_1IMesher.html" title="This interface defines mesher service API. " alt="" coords="1091,6545,1240,6575"/>
+<area shape="rect" id="node1175" href="$classscene2D_1_1adaptor_1_1IAdaptor.html" title="Root class for all scene2D adaptors. " alt="" coords="1075,11033,1256,11063"/>
+<area shape="rect" id="node695" href="$classctrlCamp_1_1SCopy.html" title="This service copies an object and updates its own object or the defined target. It can either copy th..." alt="" coords="1387,6652,1509,6681"/>
+<area shape="rect" id="node697" href="$classctrlCamp_1_1SExtractMeshByType.html" title="This service extract meshes of a specific structure type from fwMedData::ModelSeries. If the model series have some meshes with the same structure type, it will extract the first found. Additionnaly, it can also match the organ name with a regular expression. " alt="" coords="1343,6545,1553,6575"/>
+<area shape="rect" id="node699" href="$classctrlCamp_1_1SExtractObj.html" title="This service get objects from a source object and expose them as new objects. " alt="" coords="1371,6599,1525,6628"/>
+<area shape="rect" id="node703" href="$classctrlMemory_1_1manager_1_1LockDumpManagerSrv.html" title="This service allows to lock an object for dump when it is contained in the composite. " alt="" coords="1367,6843,1529,6890"/>
+<area shape="rect" id="node705" href="$classctrlSelection_1_1manager_1_1SField.html" title="This services is a manager which starts, stops or swaps services on field contained in a composite wh..." alt="" coords="1372,6705,1524,6751"/>
+<area shape="rect" id="node707" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html" title="This services is a manager which starts, stops or swaps services on object contained in a composite w..." alt="" coords="1372,6774,1524,6821"/>
+<area shape="rect" id="node711" href="$classctrlSelection_1_1updater_1_1SDrop.html" title="Drop received object to associated fwData::Composite. " alt="" coords="1376,6913,1520,6959"/>
+<area shape="rect" id="node713" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html" title="Registers/unregisters the object given by the slots. " alt="" coords="1376,6982,1520,7029"/>
+<area shape="rect" id="node715" href="$classctrlSelection_1_1updater_1_1SObjFromUid.html" title="Updates the composite from object given by uid. The objects is added/swapped/removed from composite w..." alt="" coords="1376,7051,1520,7098"/>
+<area shape="rect" id="node717" href="$classctrlSelection_1_1updater_1_1STranslate.html" title="Update the composite related to this service according to the receiving composite signals and transla..." alt="" coords="1376,7121,1520,7167"/>
+<area shape="rect" id="node721" href="$classctrlSelection_1_1wrapper_1_1SImageSignalForwarder.html" title="This service forwards signals from an image ti another. " alt="" coords="1364,7190,1532,7237"/>
+<area shape="rect" id="node725" href="$classactivities_1_1action_1_1SActivityLauncher.html" title="This action launchs an activity according to the selected data. " alt="" coords="1665,11654,1801,11701"/>
+<area shape="rect" id="node727" href="$classactivities_1_1action_1_1SCreateActivity.html" title="This action launchs an activity according to the given configuration. " alt="" coords="1672,11723,1795,11770"/>
+<area shape="rect" id="node729" href="$classgui_1_1action_1_1SConfigLauncher.html" title="To manage configuration file defines in xml extension. " alt="" coords="1639,11793,1828,11823"/>
+<area shape="rect" id="node731" href="$classgui_1_1action_1_1SDoNothing.html" title="This action does nothing. " alt="" coords="1653,11847,1813,11876"/>
+<area shape="rect" id="node733" href="$classgui_1_1action_1_1SModifyLayout.html" title="This action is used to modify the layout configuration. " alt="" coords="1645,11900,1821,11929"/>
+<area shape="rect" id="node735" href="$classgui_1_1action_1_1SPushField.html" title="To add or remove an object in composite with specific key. " alt="" coords="1655,11953,1812,11983"/>
+<area shape="rect" id="node737" href="$classgui_1_1action_1_1SPushObject.html" title="To add or remove an object in composite with specific key. " alt="" coords="1651,12007,1816,12036"/>
+<area shape="rect" id="node739" href="$classgui_1_1action_1_1SQuit.html" title="This action tries to close the window and reset root object. " alt="" coords="1672,12060,1795,12089"/>
+<area shape="rect" id="node741" href="$classgui_1_1action_1_1SSignal.html" title="Simple Signal service. " alt="" coords="1667,12113,1800,12143"/>
+<area shape="rect" id="node743" href="$classgui_1_1action_1_1SSlotCaller.html" title="Run a slot given by HasSlot id and slot key. " alt="" coords="1656,12167,1811,12196"/>
+<area shape="rect" id="node747" href="$classgui_1_1action_1_1SStarter.html" title="Apply an action (start, stop, ...) on a service specify by uid.This action works on a fwData::Object..." alt="" coords="1664,12220,1803,12249"/>
+<area shape="rect" id="node749" href="$classioData_1_1action_1_1SMeshModifier.html" title="This action modifies a mesh using specified functor in configuration. The purpose is to test all poss..." alt="" coords="1635,12273,1832,12303"/>
+<area shape="rect" id="node751" href="$classioDicom_1_1SSeriesDBMerger.html" title="This service is used to merge selected series with a SeriesDB. All the series in the vector are pushe..." alt="" coords="1643,12327,1824,12356"/>
+<area shape="rect" id="node753" href="$classioGdcm_1_1SDicomSeriesConverter.html" title="This service is used to read and push DicomSeries to a SeriesDB. " alt="" coords="1625,12380,1841,12409"/>
+<area shape="rect" id="node755" href="$classmonitor_1_1action_1_1ClassFactoryRegistryInfo.html" title="Implements an action to show services registered in factory. " alt="" coords="1636,12433,1831,12479"/>
+<area shape="rect" id="node757" href="$classmonitor_1_1action_1_1ComponentsTree.html" title="Implements an action that show bundle information. " alt="" coords="1625,12503,1841,12532"/>
+<area shape="rect" id="node759" href="$classmonitor_1_1action_1_1fwMetrics.html" title="Implements an action for show metrics about f4s factories (number of data, message and service in fac..." alt="" coords="1647,12556,1820,12585"/>
+<area shape="rect" id="node761" href="$classmonitor_1_1action_1_1MemoryConsumption.html" title="Increase or decrease the memory consumption by storing a new image, use to experiment dump process..." alt="" coords="1613,12609,1853,12639"/>
+<area shape="rect" id="node763" href="$classmonitor_1_1action_1_1MemoryInfo.html" title="Implements an action to show in a message box few memory information. " alt="" coords="1641,12663,1825,12692"/>
+<area shape="rect" id="node765" href="$classmonitor_1_1action_1_1SDumpAll.html" title="Implements an action that dump all buffer (if possible) " alt="" coords="1647,12716,1820,12745"/>
+<area shape="rect" id="node767" href="$classopImageFilter_1_1action_1_1SThreshold.html" title="Apply a threshold on an image. " alt="" coords="1661,12769,1805,12815"/>
+<area shape="rect" id="node769" href="$classopVTKMesh_1_1action_1_1SMeshCreation.html" title="Action to create a mesh from an image using VTK library. " alt="" coords="1661,12838,1805,12885"/>
+<area shape="rect" id="node771" href="$classuiGeneric_1_1action_1_1LaunchBrowserActionService.html" title="This action launch a browser on the url given in configuration. " alt="" coords="1637,12907,1829,12954"/>
+<area shape="rect" id="node773" href="$classuiGeneric_1_1action_1_1ShowHelpContents.html" title="This action show the help contents. " alt="" coords="1667,10507,1800,10554"/>
+<area shape="rect" id="node775" href="$classuiGeneric_1_1action_1_1ShowRevInfo.html" title="This action show the revision info for bundle and lib. " alt="" coords="1669,9866,1797,9913"/>
+<area shape="rect" id="node777" href="$classuiGeneric_1_1action_1_1SShowAbout.html" title="This action show the about frame. " alt="" coords="1669,10334,1797,10381"/>
+<area shape="rect" id="node779" href="$classuiIO_1_1action_1_1SExportWithSeriesDB.html" title="This action allows to export the current series using a temporary seriesDB. " alt="" coords="1648,10577,1819,10623"/>
+<area shape="rect" id="node781" href="$classuiIO_1_1action_1_1SSeriesDBMerger.html" title="This action allows to load a new SeriesDB and merge it with the current SeriesDB. ..." alt="" coords="1632,10647,1835,10676"/>
+<area shape="rect" id="node783" href="$classuiMeasurement_1_1action_1_1AddDistance.html" title="This action adds distance on image. " alt="" coords="1656,10699,1811,10746"/>
+<area shape="rect" id="node785" href="$classuiMeasurement_1_1action_1_1AddLandmark.html" title="This action adds landmaks on image. " alt="" coords="1656,10769,1811,10815"/>
+<area shape="rect" id="node787" href="$classuiMeasurement_1_1action_1_1FocusLandmark.html" title="This action moves the image slice on chosen landmark. " alt="" coords="1656,10838,1811,10885"/>
+<area shape="rect" id="node789" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html" title="Load landmark from a file. " alt="" coords="1656,10907,1811,10954"/>
+<area shape="rect" id="node791" href="$classuiMeasurement_1_1action_1_1RemoveDistance.html" title="This action removes distances. " alt="" coords="1656,10977,1811,11023"/>
+<area shape="rect" id="node793" href="$classuiMeasurement_1_1action_1_1RemoveLandmark.html" title="This action removes landmarks. " alt="" coords="1656,11046,1811,11093"/>
+<area shape="rect" id="node795" href="$classuiMeasurement_1_1action_1_1SAddLabeledPoint.html" title="This action adds landmaks on image. " alt="" coords="1656,11115,1811,11162"/>
+<area shape="rect" id="node797" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html" title="Save landmark store in image on the filesystem. " alt="" coords="1656,11185,1811,11231"/>
+<area shape="rect" id="node799" href="$classuiMeasurement_1_1action_1_1ShowDistance.html" title="This action allows to show/hide image distances. " alt="" coords="1656,11254,1811,11301"/>
+<area shape="rect" id="node801" href="$classuiMeasurement_1_1action_1_1ShowLandmark.html" title="This action allows to show/hide image landmarks. " alt="" coords="1656,11323,1811,11370"/>
+<area shape="rect" id="node803" href="$classuiMedData_1_1action_1_1SExportSeries.html" title="This action allows to export the series specified in config to the SeriesDB. The export is performed ..." alt="" coords="1665,11393,1801,11439"/>
+<area shape="rect" id="node805" href="$classuiMedData_1_1action_1_1SInitNewSeries.html" title="This action allows to update uiMedData::editor::SSelector UI in order to add new series. " alt="" coords="1665,11462,1801,11509"/>
+<area shape="rect" id="node807" href="$classuiPreferences_1_1action_1_1SPreferencesConfiguration.html" title="This action shows a dialog to configure preferences of an application. " alt="" coords="1640,9598,1827,9645"/>
+<area shape="rect" id="node809" href="$classuiVisu_1_1action_1_1CrossTypeAction.html" title="This action allows change the cross type. " alt="" coords="1647,11531,1820,11578"/>
+<area shape="rect" id="node811" href="$classuiVisu_1_1action_1_1SSnapshot.html" title="This action allows to snapshot a generic sceneSend a &#39;snapped&#39; signal containing the filename used to..." alt="" coords="1647,11601,1820,11631"/>
+<area shape="rect" id="node745" href="$classgui_1_1action_1_1SBooleanSlotCaller.html" title="This action runs a slot given by HasSlot id and slot key with a boolean in paramter representing the ..." alt="" coords="1903,12158,2071,12205"/>
+<area shape="rect" id="node815" href="$classgui_1_1frame_1_1SDefaultFrame.html" title="Defines the default frame for standard application. " alt="" coords="1360,11585,1536,11615"/>
+<area shape="rect" id="node819" href="$classfwRender_1_1IRender.html" title="Defines the service interface managing the rendering service for object. " alt="" coords="1383,7471,1513,7500"/>
+<area shape="rect" id="node831" href="$classgui_1_1editor_1_1IEditor.html" title="Defines the service interface managing the editor service for object. " alt="" coords="1385,7313,1511,7343"/>
+<area shape="rect" id="node895" href="$classgui_1_1view_1_1IView.html" title="Defines the service interface managing a view placed in main frame. " alt="" coords="1391,7260,1505,7289"/>
+<area shape="rect" id="node821" href="$classfwRenderVTK_1_1SRender.html" title="The generic scene service shows adaptors in a 3D VTK scene. " alt="" coords="1652,8328,1815,8357"/>
+<area shape="rect" id="node823" href="$classscene2D_1_1Render.html" title="Scene2D rendering class. " alt="" coords="1672,8381,1795,8411"/>
+<area shape="rect" id="node825" href="$classvtkCompositeMesh_1_1RendererService.html" title="Service rendering fwData::Mesh contained in a fwData::Composite using VTK.Service registered details ..." alt="" coords="1636,8487,1831,8534"/>
+<area shape="rect" id="node827" href="$classvtkSimpleMesh_1_1SRenderer.html" title="Service rendering a fwData::Mesh using VTK. " alt="" coords="1643,8557,1824,8587"/>
+<area shape="rect" id="node829" href="$classvtkSimpleNegato_1_1SRenderer.html" title="Service rendering a fwData::Image using VTK. " alt="" coords="1637,8680,1829,8709"/>
+<area shape="rect" id="node833" href="$classactivities_1_1editor_1_1SCreateActivity.html" title="This editor launchs an activity according to the given configuration. " alt="" coords="1672,7431,1795,7478"/>
+<area shape="rect" id="node835" href="$classbasicRegistration_1_1SImagesSubstract.html" title="basicRegistration::\lSImagesSubstract" alt="" coords="1668,7501,1799,7547"/>
+<area shape="rect" id="node837" href="$classgui_1_1editor_1_1DummyEditor.html" title="Defines the service interface managing the basic editor service for object. Do nothing. " alt="" coords="1651,6365,1816,6395"/>
+<area shape="rect" id="node839" href="$classguiQt_1_1editor_1_1Code.html" title="This service displays a code editor and works on a fwData::String. " alt="" coords="1668,7624,1799,7653"/>
+<area shape="rect" id="node841" href="$classguiQt_1_1editor_1_1SParameters.html" title="Generic editor to interact with parameters. " alt="" coords="1645,7677,1821,7707"/>
+<area shape="rect" id="node843" href="$classguiQt_1_1editor_1_1SSelectionMenuButton.html" title="This service show a menu button. The user can select one item in the menu. " alt="" coords="1652,7730,1815,7777"/>
+<area shape="rect" id="node845" href="$classguiQt_1_1editor_1_1SSignalButton.html" title="This editor shows a button and send a signal when it is clicked. " alt="" coords="1641,7800,1825,7829"/>
+<area shape="rect" id="node847" href="$classguiQt_1_1editor_1_1SSlider.html" title="This editor allows to draw a slider with an integer data. " alt="" coords="1663,7853,1804,7883"/>
+<area shape="rect" id="node849" href="$classioDicom_1_1SFilterSelectionEditor.html" title="This editor service is used to select and apply filters to Dicom series. " alt="" coords="1648,7906,1819,7953"/>
+<area shape="rect" id="node851" href="$classioDicom_1_1SSliceIndexDicomEditor.html" title="This editor service is used to select a slice index and read the corresponding image on the local com..." alt="" coords="1640,7975,1827,8022"/>
+<area shape="rect" id="node853" href="$classioPacs_1_1SPacsConfigurationEditor.html" title="This editor service is used to edit a pacs configuration. " alt="" coords="1640,8045,1827,8091"/>
+<area shape="rect" id="node855" href="$classioPacs_1_1SQueryEditor.html" title="This editor service is used to perform a IOPACS query on a pacs. " alt="" coords="1660,8115,1807,8144"/>
+<area shape="rect" id="node857" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html" title="This editor service is used to select a slice index and pull the image from the pacs if it is not ava..." alt="" coords="1644,6418,1823,6465"/>
+<area shape="rect" id="node859" href="$classmonitor_1_1DumpEditor.html" title="Editor to dump or restore selected buffer. " alt="" coords="1663,6488,1804,6517"/>
+<area shape="rect" id="node861" href="$classuiImage_1_1ImageInfo.html" title="ImageInfo service allows to display image pixel information. " alt="" coords="1667,6541,1800,6571"/>
+<area shape="rect" id="node863" href="$classuiImage_1_1ImageTransparency.html" title="ImageTransparency service allows to change image transparency. " alt="" coords="1639,6595,1828,6624"/>
+<area shape="rect" id="node865" href="$classuiImage_1_1SliceIndexPositionEditor.html" title="SliceIndexPositionEditor service allows to change the slice index of an image. " alt="" coords="1641,8610,1825,8657"/>
+<area shape="rect" id="node867" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing. " alt="" coords="1656,8168,1811,8197"/>
+<area shape="rect" id="node869" href="$classuiMeasurement_1_1editor_1_1Distance.html" title="Distance service is represented by a button. It allows to show distances in a generic scene..." alt="" coords="1659,6647,1808,6694"/>
+<area shape="rect" id="node871" href="$classuiMedData_1_1editor_1_1SActivityWizard.html" title="This editor allows to select the data required by an activity in order to create the ActivitySeries..." alt="" coords="1667,6717,1800,6763"/>
+<area shape="rect" id="node873" href="$classuiMedData_1_1editor_1_1SModelSeriesList.html" title="SModelSeriesList service. " alt="" coords="1667,6786,1800,6833"/>
+<area shape="rect" id="node875" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html" title="Display the organs list and allow an interactive selection to set the corresponding meshes in a compo..." alt="" coords="1657,6855,1809,6902"/>
+<area shape="rect" id="node877" href="$classuiMedData_1_1editor_1_1SSelector.html" title="This editor shows information about the medical data. It allows to manipulate (select, erase, ...) studies and series. " alt="" coords="1667,6925,1800,6971"/>
+<area shape="rect" id="node879" href="$classuiMedData_1_1editor_1_1SSeries.html" title="Shows and edit fwMedData::Series information. " alt="" coords="1667,6994,1800,7041"/>
+<area shape="rect" id="node881" href="$classuiReconstruction_1_1OrganMaterialEditor.html" title="OrganMaterialEditor service. " alt="" coords="1629,7063,1837,7110"/>
+<area shape="rect" id="node883" href="$classuiReconstruction_1_1RepresentationEditor.html" title="RepresentationEditor service. " alt="" coords="1625,7133,1841,7179"/>
+<area shape="rect" id="node885" href="$classuiTF_1_1TransferFunctionEditor.html" title="TransferFunctionEditor service. " alt="" coords="1640,7203,1827,7232"/>
+<area shape="rect" id="node887" href="$classuiVisu_1_1BasicFloatEditor.html" title="BasicFloatEditor service permits to edit a float value. " alt="" coords="1652,7256,1815,7285"/>
+<area shape="rect" id="node889" href="$classuiVisu_1_1PointEditor.html" title="PointEditor service allows to display point information. " alt="" coords="1668,7571,1799,7600"/>
+<area shape="rect" id="node891" href="$classuiVisu_1_1SnapshotEditor.html" title="SnapshotEditor service is represented by a button. It allows to snap shot a generic scene..." alt="" coords="1656,7309,1811,7339"/>
+<area shape="rect" id="node893" href="$classuiVisu_1_1TransformationMatrixEditor.html" title="TransformationMatrixEditor service is represented by a slider. It update the rotation matrix from the..." alt="" coords="1639,7362,1828,7409"/>
+<area shape="rect" id="node897" href="$classgui_1_1view_1_1SDefaultView.html" title="Defines the generic layout for application. " alt="" coords="1652,6205,1815,6235"/>
+<area shape="rect" id="node899" href="$classguiQt_1_1editor_1_1DynamicView.html" title="This editor manages tabs containing sub&#45;configurations. " alt="" coords="1643,6312,1824,6341"/>
+<area shape="rect" id="node901" href="$classguiQt_1_1editor_1_1SDynamicView.html" title="This editor manages tabs containing activities. " alt="" coords="1639,6259,1828,6288"/>
+<area shape="rect" id="node905" href="$classgui_1_1aspect_1_1SDefaultMenuBar.html" title="Defines the default menubar for standard application. " alt="" coords="1349,11639,1547,11668"/>
+<area shape="rect" id="node909" href="$classgui_1_1aspect_1_1SDefaultMenu.html" title="Defines the default menu for standard application. " alt="" coords="1360,11692,1536,11721"/>
+<area shape="rect" id="node913" href="$classgui_1_1aspect_1_1SDefaultToolBar.html" title="Defines the default toolbar for standard application. " alt="" coords="1353,11745,1543,11775"/>
+<area shape="rect" id="node917" href="$classpreferences_1_1SPreferences.html" title="Service to load and save preferences. " alt="" coords="1360,11799,1536,11828"/>
+<area shape="rect" id="node921" href="$classvisuVTKAdaptor_1_1Axes.html" title="Render axes in the generic scene. " alt="" coords="1371,7791,1525,7820"/>
+<area shape="rect" id="node923" href="$classvisuVTKAdaptor_1_1BoxWidget.html" title="visuVTKAdaptor::BoxWidget" alt="" coords="1353,7844,1543,7873"/>
+<area shape="rect" id="node925" href="$classvisuVTKAdaptor_1_1Camera2.html" title="visuVTKAdaptor::Camera2" alt="" coords="1359,7897,1537,7927"/>
+<area shape="rect" id="node927" href="$classvisuVTKAdaptor_1_1Cube.html" title="Render a cube on the generic scene. " alt="" coords="1371,7951,1525,7980"/>
+<area shape="rect" id="node929" href="$classvisuVTKAdaptor_1_1Distance.html" title="visuVTKAdaptor::Distance" alt="" coords="1360,8004,1536,8033"/>
+<area shape="rect" id="node931" href="$classvisuVTKAdaptor_1_1Image.html" title="Render an image on the generic scene. " alt="" coords="1368,9695,1528,9724"/>
+<area shape="rect" id="node933" href="$classvisuVTKAdaptor_1_1Image3DCursor.html" title="Add a 3D spatial marker represented by a sphere. " alt="" coords="1340,9817,1556,9847"/>
+<area shape="rect" id="node935" href="$classvisuVTKAdaptor_1_1ImageLandmarks.html" title="Adaptor for landmarks in the field of an image. " alt="" coords="1336,8057,1560,8087"/>
+<area shape="rect" id="node937" href="$classvisuVTKAdaptor_1_1ImageMultiDistances.html" title="Adaptor to display distance on an image. " alt="" coords="1353,8110,1543,8157"/>
+<area shape="rect" id="node939" href="$classvisuVTKAdaptor_1_1ImagePickerInteractor.html" title="Adaptor to manage image picking. " alt="" coords="1349,9870,1547,9917"/>
+<area shape="rect" id="node941" href="$classvisuVTKAdaptor_1_1ImagesBlend.html" title="Manage blend for image given in configuration. " alt="" coords="1348,8180,1548,8209"/>
+<area shape="rect" id="node943" href="$classvisuVTKAdaptor_1_1ImageSeries.html" title="This adaptor shows ImageSeries. Creates an adaptor for the image in the series. " alt="" coords="1349,10239,1547,10268"/>
+<area shape="rect" id="node945" href="$classvisuVTKAdaptor_1_1ImageSlice.html" title="Adaptor to display only one slice of an image. " alt="" coords="1353,10292,1543,10321"/>
+<area shape="rect" id="node947" href="$classvisuVTKAdaptor_1_1ImageSliceOrientationText.html" title="Shows image orientation information (right, left, ...) This adaptor show locations labels in the four..." alt="" coords="1353,10345,1543,10391"/>
+<area shape="rect" id="node949" href="$classvisuVTKAdaptor_1_1ImagesProbeCursor.html" title="Draw pixel information from images given by id in composite. " alt="" coords="1347,9379,1549,9426"/>
+<area shape="rect" id="node951" href="$classvisuVTKAdaptor_1_1InteractorStyle.html" title="Managing vtk interactor style. " alt="" coords="1359,8233,1537,8279"/>
+<area shape="rect" id="node953" href="$classvisuVTKAdaptor_1_1LabeledPointList.html" title="Adaptor to display a point list. " alt="" coords="1337,8303,1559,8332"/>
+<area shape="rect" id="node955" href="$classvisuVTKAdaptor_1_1Material.html" title="Manage material representation of meshes. " alt="" coords="1363,8356,1533,8385"/>
+<area shape="rect" id="node957" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html" title="Update camera scene according to defined axes (axial, sagittal, frontal). " alt="" coords="1360,9449,1536,9495"/>
+<area shape="rect" id="node959" href="$classvisuVTKAdaptor_1_1Mesh.html" title="Display a mesh on the generic scene. " alt="" coords="1369,8409,1527,8439"/>
+<area shape="rect" id="node961" href="$classvisuVTKAdaptor_1_1MeshesBoxWidget.html" title="Create a Box widget around the meshes contained in the composite. " alt="" coords="1351,8462,1545,8509"/>
+<area shape="rect" id="node963" href="$classvisuVTKAdaptor_1_1MeshNormals.html" title="visuVTKAdaptor::MeshNormals" alt="" coords="1345,8532,1551,8561"/>
+<area shape="rect" id="node965" href="$classvisuVTKAdaptor_1_1ModelSeries.html" title="This adaptor shows ModelSeries. Creates adaptors for each reconstruction in model. " alt="" coords="1349,8585,1547,8615"/>
+<area shape="rect" id="node967" href="$classvisuVTKAdaptor_1_1NegatoMPR.html" title="visuVTKAdaptor::NegatoMPR" alt="" coords="1349,9940,1547,9969"/>
+<area shape="rect" id="node969" href="$classvisuVTKAdaptor_1_1NegatoOneSlice.html" title="visuVTKAdaptor::NegatoOne\lSlice" alt="" coords="1353,9747,1543,9794"/>
+<area shape="rect" id="node971" href="$classvisuVTKAdaptor_1_1NegatoSlicingInteractor.html" title="visuVTKAdaptor::NegatoSlicing\lInteractor" alt="" coords="1345,9993,1551,10039"/>
+<area shape="rect" id="node973" href="$classvisuVTKAdaptor_1_1NegatoWindowingInteractor.html" title="visuVTKAdaptor::NegatoWindowing\lInteractor" alt="" coords="1333,10115,1563,10162"/>
+<area shape="rect" id="node975" href="$classvisuVTKAdaptor_1_1OrientationMarker.html" title="Adaptor using for displayed an orientationMarker in a generic scene. " alt="" coords="1355,8638,1541,8685"/>
+<area shape="rect" id="node977" href="$classvisuVTKAdaptor_1_1PickerInteractor.html" title="visuVTKAdaptor::PickerInteractor" alt="" coords="1340,8708,1556,8737"/>
+<area shape="rect" id="node979" href="$classvisuVTKAdaptor_1_1Plane.html" title="visuVTKAdaptor::Plane" alt="" coords="1369,8761,1527,8791"/>
+<area shape="rect" id="node981" href="$classvisuVTKAdaptor_1_1PlaneInteractor.html" title="visuVTKAdaptor::PlaneInteractor" alt="" coords="1341,10185,1555,10215"/>
+<area shape="rect" id="node983" href="$classvisuVTKAdaptor_1_1PlaneList.html" title="visuVTKAdaptor::PlaneList" alt="" coords="1359,8815,1537,8844"/>
+<area shape="rect" id="node985" href="$classvisuVTKAdaptor_1_1PlaneSelectionNotifier.html" title="Update selection plan in resection activity. " alt="" coords="1343,8867,1553,8914"/>
+<area shape="rect" id="node987" href="$classvisuVTKAdaptor_1_1PlaneSelector.html" title="Manage the current selected plan. " alt="" coords="1345,8937,1551,8967"/>
+<area shape="rect" id="node989" href="$classvisuVTKAdaptor_1_1Point.html" title="visuVTKAdaptor::Point" alt="" coords="1371,8991,1525,9020"/>
+<area shape="rect" id="node991" href="$classvisuVTKAdaptor_1_1PointList.html" title="visuVTKAdaptor::PointList" alt="" coords="1360,9044,1536,9073"/>
+<area shape="rect" id="node993" href="$classvisuVTKAdaptor_1_1PointListInteractor.html" title="visuVTKAdaptor::PointList\lInteractor" alt="" coords="1360,9097,1536,9143"/>
+<area shape="rect" id="node995" href="$classvisuVTKAdaptor_1_1ProbeCursor.html" title="Cursor management. " alt="" coords="1349,10063,1547,10092"/>
+<area shape="rect" id="node997" href="$classvisuVTKAdaptor_1_1Reconstruction.html" title="visuVTKAdaptor::Reconstruction" alt="" coords="1341,9167,1555,9196"/>
+<area shape="rect" id="node999" href="$classvisuVTKAdaptor_1_1Resection.html" title="visuVTKAdaptor::Resection" alt="" coords="1356,9220,1540,9249"/>
+<area shape="rect" id="node1001" href="$classvisuVTKAdaptor_1_1ResectionDB.html" title="visuVTKAdaptor::ResectionDB" alt="" coords="1347,7524,1549,7553"/>
+<area shape="rect" id="node1003" href="$classvisuVTKAdaptor_1_1SliceFollowerCamera.html" title="Update the camera according to slice move. " alt="" coords="1347,9518,1549,9565"/>
+<area shape="rect" id="node1005" href="$classvisuVTKAdaptor_1_1SlicesCursor.html" title="visuVTKAdaptor::SlicesCursor" alt="" coords="1348,9588,1548,9617"/>
+<area shape="rect" id="node1007" href="$classvisuVTKAdaptor_1_1Snapshot.html" title="This service will snapshot the current generic scene. It has two slots that can either snapshot into ..." alt="" coords="1359,7577,1537,7607"/>
+<area shape="rect" id="node1009" href="$classvisuVTKAdaptor_1_1Text.html" title="visuVTKAdaptor::Text" alt="" coords="1373,9327,1523,9356"/>
+<area shape="rect" id="node1015" href="$classvisuVTKAdaptor_1_1Texture.html" title="Adaptor to map a texture on a mesh. This is done via visuVTKAdaptor::Material. However in the configu..." alt="" coords="1364,7631,1532,7660"/>
+<area shape="rect" id="node1017" href="$classvisuVTKAdaptor_1_1Transform.html" title="Adaptor to manage a TransformationMatrix3D from a vtkTransform and vice versa. " alt="" coords="1356,7684,1540,7713"/>
+<area shape="rect" id="node1019" href="$classvisuVTKAdaptor_1_1VectorField.html" title="visuVTKAdaptor::VectorField" alt="" coords="1353,7737,1543,7767"/>
+<area shape="rect" id="node1021" href="$classvisuVTKVRAdaptor_1_1Volume.html" title="This adaptor displays a volume image. " alt="" coords="1355,9641,1541,9671"/>
+<area shape="rect" id="node1011" href="$classvisuVTKAdaptor_1_1ImageText.html" title="Adaptor to display window image information (width, heigth, picked position) " alt="" coords="1640,10429,1827,10459"/>
+<area shape="rect" id="node1013" href="$classvisuVTKAdaptor_1_1PointLabel.html" title="visuVTKAdaptor::PointLabel" alt="" coords="1640,9327,1827,9356"/>
+<area shape="rect" id="node1025" href="$classactivities_1_1SSeriesSignal.html" title="This service emits a signal for each added series (the signal contains the added series) ..." alt="" coords="1367,3351,1529,3380"/>
+<area shape="rect" id="node1027" href="$classbasicRegistration_1_1SPointListRegistration.html" title="Register a point list against a reference point list. Each point in the list to register is matched w..." alt="" coords="1372,3403,1524,3450"/>
+<area shape="rect" id="node1029" href="$classbasicRegistration_1_1STransformMesh.html" title="basicRegistration::\lSTransformMesh" alt="" coords="1383,3473,1513,3519"/>
+<area shape="rect" id="node1031" href="$classctrlMemory_1_1LockDumpSrv.html" title="This services dump lock object. Unlock it on stopping. " alt="" coords="1359,3543,1537,3572"/>
+<area shape="rect" id="node1033" href="$classctrlSelection_1_1BookmarkSrv.html" title="This service bookmark its object with the name given in configuration. " alt="" coords="1357,3596,1539,3625"/>
+<area shape="rect" id="node1035" href="$classctrlSelection_1_1ImageUpdateAxis.html" title="This service updates a fwData::Float given in configuration with the image axis. " alt="" coords="1345,3649,1551,3679"/>
+<area shape="rect" id="node1037" href="$classctrlSelection_1_1MedicalImageSrv.html" title="This service convert its attached image to a medical image by adding specific fields. " alt="" coords="1347,3703,1549,3732"/>
+<area shape="rect" id="node1039" href="$classfwServices_1_1SConfigController.html" title="To manage configuration file defines in xml extension. " alt="" coords="1349,3756,1547,3785"/>
+<area shape="rect" id="node1041" href="$classioGdcm_1_1SDicomSeriesAnonymizer.html" title="Service to anonymize a DicomSeries. " alt="" coords="1335,3809,1561,3839"/>
+<area shape="rect" id="node1043" href="$classioPacs_1_1SPacsConfigurationInitializer.html" title="This service is used to initialize a Pacs Configuration data. " alt="" coords="1355,3862,1541,3909"/>
+<area shape="rect" id="node1045" href="$classioPacs_1_1SProgressBarController.html" title="This editor service is used to display a progress bar. " alt="" coords="1345,3932,1551,3961"/>
+<area shape="rect" id="node1047" href="$classioPacs_1_1SSeriesPuller.html" title="This service is used to pull series from a PACS. " alt="" coords="1373,2791,1523,2820"/>
+<area shape="rect" id="node1049" href="$classioPacs_1_1SSeriesPusher.html" title="This service is used to push a DICOM series to a PACS. " alt="" coords="1369,2844,1527,2873"/>
+<area shape="rect" id="node1051" href="$classmemory_1_1SDumpPolicy.html" title="memory::SDumpPolicy" alt="" coords="1369,2897,1527,2927"/>
+<area shape="rect" id="node1053" href="$classscene2D_1_1processing_1_1SComputeHistogram.html" title="The SComputeHistogram service computes the histogram of the image. " alt="" coords="1372,2950,1524,2997"/>
+<area shape="rect" id="node1055" href="$classTuto15MultithreadCtrl_1_1SIncrementArray.html" title="This service increments all the values of a fwData::Array. " alt="" coords="1375,3019,1521,3066"/>
+<area shape="rect" id="node1057" href="$classTuto15MultithreadCtrl_1_1SReadArray.html" title="This service initializes a fwData::Array with 10 values (0 to 9). " alt="" coords="1375,3089,1521,3135"/>
+<area shape="rect" id="node1059" href="$classTuto15MultithreadCtrl_1_1SShowArray.html" title="This service displays the array values. " alt="" coords="1375,3158,1521,3205"/>
+<area shape="rect" id="node1061" href="$classuiMedData_1_1SSeriesViewer.html" title="This Service allows to preview the selected series in the Vector. For the moment, it works only on a ..." alt="" coords="1359,3228,1537,3257"/>
+<area shape="rect" id="node1063" href="$classvtkSimpleMesh_1_1SSimpleMeshDeformation.html" title="Service used to demonstrate how to deform a mesh. " alt="" coords="1348,3281,1548,3327"/>
+<area shape="rect" id="node1069" href="$classdataReg_1_1parser_1_1Composite.html" title="Specific service for the construction of a Composite and its associated services from an XML&#45;based de..." alt="" coords="1355,4300,1541,4329"/>
+<area shape="rect" id="node1071" href="$classdataReg_1_1parser_1_1GenericField.html" title="Specific service for the construction of a GenericField and its associated services from an XML&#45;based..." alt="" coords="1364,4091,1532,4138"/>
+<area shape="rect" id="node1081" href="$classdataReg_1_1parser_1_1List.html" title="Specific service for the construction of a List and its associated services from an XML&#45;based descrip..." alt="" coords="1376,3985,1520,4015"/>
+<area shape="rect" id="node1083" href="$classdataReg_1_1parser_1_1Object.html" title="Specific fwTools::Object parser. Does nothing as no IService method is specialized: IXMLParser base c..." alt="" coords="1368,4039,1528,4068"/>
+<area shape="rect" id="node1085" href="$classdataReg_1_1parser_1_1TransferFunction.html" title="Specific service for the construction of a TransferFunction and its associated services from an XML&#45;b..." alt="" coords="1363,4161,1533,4207"/>
+<area shape="rect" id="node1087" href="$classdataReg_1_1parser_1_1TransformationMatrix3D.html" title="Specific service for the construction of a TransformationMatrix3D and its associated services from an..." alt="" coords="1343,4230,1553,4277"/>
+<area shape="rect" id="node1073" href="$classdataReg_1_1parser_1_1BooleanParser.html" title="Specialisation of GenericField parser for boolean. " alt="" coords="1648,4183,1819,4230"/>
+<area shape="rect" id="node1075" href="$classdataReg_1_1parser_1_1FloatParser.html" title="Specialisation of GenericField parser for float. " alt="" coords="1639,4008,1828,4037"/>
+<area shape="rect" id="node1077" href="$classdataReg_1_1parser_1_1IntegerParser.html" title="Specialisation of GenericField parser for integer. " alt="" coords="1652,4061,1815,4107"/>
+<area shape="rect" id="node1079" href="$classdataReg_1_1parser_1_1StringParser.html" title="Specialisation of GenericField parser for string. " alt="" coords="1636,4131,1831,4160"/>
+<area shape="rect" id="node1091" href="$classgui_1_1editor_1_1SJobBar.html" title="Service diplaying a progress bar. " alt="" coords="1380,4407,1516,4436"/>
+<area shape="rect" id="node1093" href="$classioDicom_1_1SFilterSelectorDialog.html" title="Defines the service interface managing the editor service for object. " alt="" coords="1367,4459,1529,4506"/>
+<area shape="rect" id="node1095" href="$classuiIO_1_1editor_1_1SIOSelector.html" title="Defines the service interface managing the editor service for object. " alt="" coords="1365,4353,1531,4383"/>
+<area shape="rect" id="node1099" href="$classioAtoms_1_1SReader.html" title="Atoms reader. Service to load data from Atoms format. " alt="" coords="1384,4583,1512,4612"/>
+<area shape="rect" id="node1101" href="$classioData_1_1MeshReaderService.html" title="Mesh reader service. " alt="" coords="1355,4636,1541,4665"/>
+<area shape="rect" id="node1103" href="$classioData_1_1SAttachmentSeriesReader.html" title="SAttachmentSeries reader service. " alt="" coords="1357,4689,1539,4735"/>
+<area shape="rect" id="node1105" href="$classioData_1_1SplineReaderService.html" title="Spline reader service. " alt="" coords="1353,4759,1543,4788"/>
+<area shape="rect" id="node1107" href="$classioData_1_1TransformationMatrix3DReaderService.html" title="Transformation matrix 3D reader service. " alt="" coords="1349,4811,1547,4858"/>
+<area shape="rect" id="node1109" href="$classioDcmtk_1_1SDicomSeriesDBReader.html" title="Read DICOM Series from a DICOM with DCMTK. " alt="" coords="1336,4881,1560,4911"/>
+<area shape="rect" id="node1111" href="$classioDcmtk_1_1SDicomTagSeriesDBReader.html" title="SDicomTagSeriesDBReader reads a folder that has DICOM images. " alt="" coords="1356,4934,1540,4981"/>
+<area shape="rect" id="node1113" href="$classioDcmtk_1_1SSeriesDBReader.html" title="Read ImageSeries from DICOM with dcmtk. " alt="" coords="1355,5004,1541,5033"/>
+<area shape="rect" id="node1115" href="$classioGdcm_1_1SDicomSeriesDBReader.html" title="Read DicomSeries from DICOM with gdcm reader. " alt="" coords="1339,5057,1557,5087"/>
+<area shape="rect" id="node1117" href="$classioGdcm_1_1SSeriesDBReader.html" title="Read ImageSeries from DICOM with gdcm reader. " alt="" coords="1357,5111,1539,5140"/>
+<area shape="rect" id="node1119" href="$classioITK_1_1InrImageReaderService.html" title="ioITK::InrImageReaderService" alt="" coords="1349,5164,1547,5193"/>
+<area shape="rect" id="node1121" href="$classioITK_1_1SInrSeriesDBReader.html" title="Reads inr files and pushes them into SeriesDB. " alt="" coords="1357,5217,1539,5247"/>
+<area shape="rect" id="node1123" href="$classioTuto_1_1ExternalDataReaderService.html" title="ioTuto::ExternalDataReader\lService" alt="" coords="1356,5270,1540,5317"/>
+<area shape="rect" id="node1125" href="$classioVTK_1_1SImageReader.html" title="VTK Image Reader. " alt="" coords="1372,5340,1524,5369"/>
+<area shape="rect" id="node1127" href="$classioVTK_1_1SMeshReader.html" title="VTK Mesh Reader. " alt="" coords="1373,5393,1523,5423"/>
+<area shape="rect" id="node1129" href="$classioVTK_1_1SModelSeriesReader.html" title="VTK Model series reader.Service reading a model series as .vtk files using the fwVtkIO lib..." alt="" coords="1353,5447,1543,5476"/>
+<area shape="rect" id="node1131" href="$classioVTK_1_1SSeriesDBReader.html" title="VTK File Reader. " alt="" coords="1361,5500,1535,5529"/>
+<area shape="rect" id="node1133" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html" title="This service reads a dicom dir in lazy mode, and provides a fwMedData::SeriesDB. " alt="" coords="1355,5553,1541,5599"/>
+<area shape="rect" id="node1135" href="$classioVtkGdcm_1_1SSeriesDBReader.html" title="ioVtkGdcm::SSeriesDBReader" alt="" coords="1347,4529,1549,4559"/>
+<area shape="rect" id="node1139" href="$classioAtoms_1_1SWriter.html" title="Atoms writer. Service to write an fwData medical data converted in fwAtoms. " alt="" coords="1387,5676,1509,5705"/>
+<area shape="rect" id="node1141" href="$classioData_1_1MeshWriterService.html" title="Mesh writer service. " alt="" coords="1359,5729,1537,5759"/>
+<area shape="rect" id="node1143" href="$classioData_1_1TransformationMatrix3DWriterService.html" title="Transformation matrix 3D writer service. " alt="" coords="1349,5782,1547,5829"/>
+<area shape="rect" id="node1145" href="$classioGdcm_1_1SDicomSeriesWriter.html" title="Services to write an DicomSeries in DICOM format. " alt="" coords="1351,5852,1545,5881"/>
+<area shape="rect" id="node1147" href="$classioGdcm_1_1SSeriesDBWriter.html" title="Services to write several series in DICOM format. " alt="" coords="1361,5905,1535,5935"/>
+<area shape="rect" id="node1149" href="$classioITK_1_1InrImageWriterService.html" title="ioITK::InrImageWriterService" alt="" coords="1353,5959,1543,5988"/>
+<area shape="rect" id="node1151" href="$classioITK_1_1JpgImageWriterService.html" title="ioITK::JpgImageWriterService" alt="" coords="1349,6012,1547,6041"/>
+<area shape="rect" id="node1153" href="$classioITK_1_1SImageSeriesWriter.html" title="Write an image to inr format. " alt="" coords="1359,6065,1537,6095"/>
+<area shape="rect" id="node1155" href="$classioITK_1_1SJpgImageSeriesWriter.html" title="Write an image to jpg format. " alt="" coords="1349,6119,1547,6148"/>
+<area shape="rect" id="node1157" href="$classioQt_1_1SPdfWriter.html" title="Creates and writes a PDF containing images. " alt="" coords="1389,6172,1507,6201"/>
+<area shape="rect" id="node1159" href="$classioVTK_1_1SImageSeriesWriter.html" title="VTK Image Writer. " alt="" coords="1357,6225,1539,6255"/>
+<area shape="rect" id="node1161" href="$classioVTK_1_1SImageWriter.html" title="VTK Image Writer. " alt="" coords="1375,6279,1521,6308"/>
+<area shape="rect" id="node1163" href="$classioVTK_1_1SMeshWriter.html" title="VTK Mesh Writer. " alt="" coords="1377,6332,1519,6361"/>
+<area shape="rect" id="node1165" href="$classioVTK_1_1SModelSeriesObjWriter.html" title="Wavefront OBJ files. " alt="" coords="1347,6385,1549,6415"/>
+<area shape="rect" id="node1167" href="$classioVTK_1_1SModelSeriesWriter.html" title="VTK Model series writer.Service writing a model series as .vtk files using the fwVtkIO lib..." alt="" coords="1357,6439,1539,6468"/>
+<area shape="rect" id="node1169" href="$classioVtkGdcm_1_1SImageSeriesWriter.html" title="Services to write an ImageSeries in DICOM format. " alt="" coords="1343,5623,1553,5652"/>
+<area shape="rect" id="node1173" href="$classopVTKMesh_1_1SVTKMesher.html" title="This service generates meshes from an image using VTK library. " alt="" coords="1359,6492,1537,6521"/>
+<area shape="rect" id="node1177" href="$classscene2D_1_1adaptor_1_1Axis.html" title="scene2D::adaptor::Axis" alt="" coords="1369,10727,1527,10756"/>
+<area shape="rect" id="node1179" href="$classscene2D_1_1adaptor_1_1CurvedHistogram.html" title="IAdaptor implementation for histogram data. " alt="" coords="1361,10779,1535,10826"/>
+<area shape="rect" id="node1181" href="$classscene2D_1_1adaptor_1_1Grid2D.html" title="scene2D::adaptor::Grid2D" alt="" coords="1361,10849,1535,10879"/>
+<area shape="rect" id="node1183" href="$classscene2D_1_1adaptor_1_1GridFromFloat.html" title="Create a Grid in the scen2D with float min/max values. " alt="" coords="1355,10902,1541,10949"/>
+<area shape="rect" id="node1185" href="$classscene2D_1_1adaptor_1_1Histogram.html" title="IAdaptor implementation for histogram data. " alt="" coords="1352,10972,1544,11001"/>
+<area shape="rect" id="node1187" href="$classscene2D_1_1adaptor_1_1HistogramCursor.html" title="IAdaptor implementation to show a cursor on histogram pointed by mouse. " alt="" coords="1352,11025,1544,11071"/>
+<area shape="rect" id="node1189" href="$classscene2D_1_1adaptor_1_1HistogramValue.html" title="IAdaptor implementation to show the histogram values clicked by mouse. " alt="" coords="1352,11094,1544,11141"/>
+<area shape="rect" id="node1191" href="$classscene2D_1_1adaptor_1_1Line.html" title="line adaptor. Draw a line on the scene2D " alt="" coords="1369,11164,1527,11193"/>
+<area shape="rect" id="node1193" href="$classscene2D_1_1adaptor_1_1Negato.html" title="scene2D::adaptor::Negato" alt="" coords="1361,10604,1535,10633"/>
+<area shape="rect" id="node1195" href="$classscene2D_1_1adaptor_1_1ScaleValues.html" title="scene2D::adaptor::ScaleValues" alt="" coords="1345,11217,1551,11247"/>
+<area shape="rect" id="node1197" href="$classscene2D_1_1adaptor_1_1Sin.html" title="scene2D::adaptor::Sin" alt="" coords="1372,11271,1524,11300"/>
+<area shape="rect" id="node1199" href="$classscene2D_1_1adaptor_1_1Square.html" title="Create a square on the scene2D. " alt="" coords="1361,11324,1535,11353"/>
+<area shape="rect" id="node1201" href="$classscene2D_1_1adaptor_1_1TransferFunction.html" title="scene2D::adaptor::Transfer\lFunction" alt="" coords="1357,10657,1539,10703"/>
+<area shape="rect" id="node1203" href="$classscene2D_1_1adaptor_1_1ViewportInteractor.html" title="Adaptor implementation that manages the camera on the view. " alt="" coords="1356,11377,1540,11423"/>
+<area shape="rect" id="node1205" href="$classscene2D_1_1adaptor_1_1ViewportRangeSelector.html" title="scene2D::adaptor::Viewport\lRangeSelector" alt="" coords="1356,11446,1540,11493"/>
+<area shape="rect" id="node1207" href="$classscene2D_1_1adaptor_1_1ViewportUpdater.html" title="Adaptor implementation that manages the camera on the view (by updating the viewport object)..." alt="" coords="1356,11515,1540,11562"/>
+<area shape="rect" id="node1211" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::reader\l::IObjectReader \&gt;" alt="" coords="797,13965,976,14029"/>
+<area shape="rect" id="node1217" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="800,16515,973,16579"/>
+<area shape="rect" id="node1225" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enable\lMultiFiles\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="801,14053,972,14117"/>
+<area shape="rect" id="node1232" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="801,14635,972,14699"/>
+<area shape="rect" id="node1238" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="805,15163,968,15227"/>
+<area shape="rect" id="node1250" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; IObjectReader \&gt;" alt="" coords="793,16023,980,16070"/>
+<area shape="rect" id="node1258" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="291,801,395,831"/>
+<area shape="rect" id="node1260" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="543,13587,681,13616"/>
+<area shape="rect" id="node1265" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="549,7129,675,7159"/>
+<area shape="rect" id="node1268" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html" title="Helpers for medical image. " alt="" coords="1088,9993,1243,10039"/>
+<area shape="rect" id="node1270" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptorTpl.html" title="fwDataTools::helper\l::MedicalImageAdaptorTpl\l\&lt; IMAGEID \&gt;" alt="" coords="1361,10415,1535,10479"/>
+<area shape="rect" id="node1300" href="$classDropFilter.html" title="DropFilter" alt="" coords="1695,8221,1772,8251"/>
+<area shape="rect" id="node1305" href="$classfwGuiQt_1_1util_1_1FuncSlot.html" title="fwGuiQt::util::FuncSlot" alt="" coords="1656,8275,1811,8304"/>
+<area shape="rect" id="node1341" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="801,14864,972,14893"/>
+<area shape="rect" id="node1350" href="$classfwTools_1_1ProgressToLogger.html" title="Class ProgressToLogger is an ProgressAdviser::ProgressHandler, it receive notification from its Progr..." alt="" coords="796,14723,977,14752"/>
+</map>

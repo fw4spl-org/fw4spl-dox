@@ -1,0 +1,4 @@
+<map id="scene2D::adaptor::ViewportRangeSelector::updateViewportFromShutter" name="scene2D::adaptor::ViewportRangeSelector::updateViewportFromShutter">
+<area shape="rect" id="node3" href="$classscene2D_1_1adaptor_1_1ViewportRangeSelector.html#ab5c265d45397822b48744e712ef049ee" title="Pure virtual &#45;&gt; implemented in the subclasses. " alt="" coords="311,5,495,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1ViewportRangeSelector.html#a783207c36cce9f642cac900bee3ebc48" title="Interact with the mouse events catched on the IAdaptor (virtual function, its behavior is only define..." alt="" coords="292,74,513,121"/>
+</map>

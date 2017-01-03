@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::reader::tid::MeasurementReport::readSR" name="fwGdcmIO::reader::tid::MeasurementReport::readSR">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="211,14,357,61"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read a DICOM File. " alt="" coords="405,14,603,61"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1Series.html#a6a37a4d62baf8ed22f884c755372dfc0" title="Destructor. " alt="" coords="652,14,825,61"/>
+</map>

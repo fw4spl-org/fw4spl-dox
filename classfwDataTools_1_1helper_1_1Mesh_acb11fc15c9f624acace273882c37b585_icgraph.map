@@ -1,0 +1,18 @@
+<map id="fwDataTools::helper::Mesh::setPointColor" name="fwDataTools::helper::Mesh::setPointColor">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1Mesh.html#a043d764f0548195d21f89fb9b1a79135" title="Colorize mesh (vertex point color). " alt="" coords="208,153,352,199"/>
+<area shape="rect" id="node24" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a8a29efe0aeb5bce720275754c641839b" title="Convert a vtkUnstructuredGrid to a ::fwData::Mesh::sptr. " alt="" coords="204,247,356,294"/>
+<area shape="rect" id="node28" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a802a45b11d1140aca0e8001a1fe0115c" title="Convert a vtkPolyData to a ::fwData::Mesh::sptr. " alt="" coords="204,317,356,363"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="451,58,595,105"/>
+<area shape="rect" id="node17" href="$classfwDataTools_1_1AlgoMeshDeformation.html#ac13d26f2c84e12929ff1878328847183" title="Initialize the simulated acquisition. " alt="" coords="407,127,639,174"/>
+<area shape="rect" id="node21" href="$classioData_1_1action_1_1SMeshModifier.html#af89ab56597240f82d15f44f98b0d1290" title="Process the action: modifies the mesh using the selected functor. " alt="" coords="972,158,1169,205"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="693,58,917,105"/>
+<area shape="rect" id="node9" href="$classfwTest_1_1generator_1_1Object.html#a3bd0ae3313d9d8c4de1dbc9239327d2c" title="Creates a Resection with 2 planes, 1 input Reconstruction and 1 output Reconstruction. " alt="" coords="983,5,1159,51"/>
+<area shape="rect" id="node13" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0ee07722d0f1c74347d0966dc85049ac" title="Returns a ModelSeries containing random Reconstructions. " alt="" coords="973,74,1168,121"/>
+<area shape="rect" id="node11" href="$classfwTest_1_1generator_1_1Object.html#aec8448030a011689b1c3832dd325d401" title="Creates a ResectionDB containing one Resection. " alt="" coords="1220,5,1415,51"/>
+<area shape="rect" id="node15" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0de89a71e6ef0a53ebdfa94e71a1f4a0" title="Creates a SeriesDB. " alt="" coords="1228,74,1407,121"/>
+<area shape="rect" id="node19" href="$classfwDataTools_1_1AlgoMeshDeformation.html#a601f78f26ce880a3ea0444c4d7b8d5d8" title="Compute deformation or init algo if necessary. " alt="" coords="689,127,921,174"/>
+<area shape="rect" id="node26" href="$classfwVtkIO_1_1SeriesDBReader.html#aae0981697623203c49633157bb690549" title="Destructor. " alt="" coords="435,247,611,294"/>
+<area shape="rect" id="node30" href="$classfwVtkIO_1_1MeshReader.html#a3ce860f834cbf651c5f16169b6d9add6" title="Reading operator. " alt="" coords="447,317,599,363"/>
+<area shape="rect" id="node33" href="$classopVTKMesh_1_1action_1_1SMeshCreation.html#a2a8bbc46634438d2ec3d21d09b7aeab6" title="Process the mesh creation from the image. " alt="" coords="439,386,607,433"/>
+<area shape="rect" id="node35" href="$classopVTKMesh_1_1SVTKMesher.html#a00ba928142b136a8e6a597b0fc469860" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="433,455,612,502"/>
+</map>

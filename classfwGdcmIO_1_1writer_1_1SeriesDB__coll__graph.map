@@ -1,0 +1,11 @@
+<map id="fwGdcmIO::writer::SeriesDB" name="fwGdcmIO::writer::SeriesDB">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="1129,61,1311,125"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="501,43,669,90"/>
+<area shape="rect" id="node14" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="721,79,911,126"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,15,372,44"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="263,79,343,108"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="31,74,156,121"/>
+<area shape="rect" id="node17" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="1133,149,1307,213"/>
+<area shape="rect" id="node19" href="$structfwData_1_1location_1_1enableFolder.html" title="This class is derived by reader/writer. " alt="" coords="735,158,897,205"/>
+<area shape="rect" id="node21" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="1135,237,1305,267"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="fwCom::HasSlots" name="fwCom::HasSlots">
+<area shape="rect" id="node3" href="$classfwServices_1_1AppConfigManager2.html" title="This class provides an API to manage config template. " alt="" coords="181,1259,395,1288"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="217,1312,359,1341"/>
+<area shape="rect" id="node7" href="$classctrlCamp_1_1ICamp.html" title="This interface defines service API. It can be considered as a default type for services using fwCamp..." alt="" coords="487,85,609,115"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1IManagerSrv.html" title="Base class for manager. A manager starts, stops or swaps services on object contained in a composite ..." alt="" coords="460,277,636,307"/>
+<area shape="rect" id="node23" href="$classctrlSelection_1_1IUpdaterSrv.html" title="An updater is attached on a composite. It is use to add, swap and remove object in the composite when..." alt="" coords="463,520,633,549"/>
+<area shape="rect" id="node33" href="$classctrlSelection_1_1IWrapperSrv.html" title="The purpose of this service is to wrap messages incoming to the object to new messages. " alt="" coords="461,812,635,841"/>
+<area shape="rect" id="node37" href="$classfwGui_1_1IActionSrv.html" title="Defines the service interface managing the menu items. " alt="" coords="485,1019,611,1048"/>
+<area shape="rect" id="node69" href="$classfwGui_1_1IFrameSrv.html" title="Defines the service interface managing a frame. " alt="" coords="485,1072,611,1101"/>
+<area shape="rect" id="node71" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout. " alt="" coords="467,1125,629,1155"/>
+<area shape="rect" id="node73" href="$classfwGui_1_1IMenuBarSrv.html" title="Defines the service interface managing the menu bar. " alt="" coords="479,1179,617,1208"/>
+<area shape="rect" id="node75" href="$classfwGui_1_1IMenuSrv.html" title="Defines the service interface managing the menu. " alt="" coords="488,1232,608,1261"/>
+<area shape="rect" id="node77" href="$classfwGui_1_1IToolBarSrv.html" title="Defines the service interface managing the toolBar. " alt="" coords="481,1285,615,1315"/>
+<area shape="rect" id="node79" href="$classfwPreferences_1_1IPreferences.html" title="Preferences service API. This class represents the base interface for preferences services..." alt="" coords="455,1339,641,1368"/>
+<area shape="rect" id="node81" href="$classfwRenderVTK_1_1IVtkAdaptorService.html" title="fwRenderVTK::IVtkAdaptor\lService" alt="" coords="457,1391,639,1438"/>
+<area shape="rect" id="node83" href="$classfwServices_1_1IController.html" title="This interface defines control service API. Does nothing particularly, can be considered as a default..." alt="" coords="471,1461,625,1491"/>
+<area shape="rect" id="node85" href="$classfwServices_1_1IParametersService.html" title="This interface defines a basic slots to receive parameter values from signals. " alt="" coords="443,1515,653,1544"/>
+<area shape="rect" id="node87" href="$classfwServices_1_1IXMLParser.html" title="Service type for the construction of an object and associated services from an XML&#45;based description..." alt="" coords="467,1568,629,1597"/>
+<area shape="rect" id="node89" href="$classgui_1_1editor_1_1IDialogEditor.html" title="Defines the service interface managing the editor service which create their own container. " alt="" coords="467,1621,629,1651"/>
+<area shape="rect" id="node91" href="$classio_1_1IReader.html" title="Reader service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="505,1675,591,1704"/>
+<area shape="rect" id="node93" href="$classio_1_1IWriter.html" title="Writer service API. It manages extension points definition and extension configurationThis class repr..." alt="" coords="509,1728,587,1757"/>
+<area shape="rect" id="node95" href="$classopVTKMesh_1_1IMesher.html" title="This interface defines mesher service API. " alt="" coords="473,1781,623,1811"/>
+<area shape="rect" id="node97" href="$classscene2D_1_1adaptor_1_1IAdaptor.html" title="Root class for all scene2D adaptors. " alt="" coords="457,1835,639,1864"/>
+<area shape="rect" id="node9" href="$classctrlCamp_1_1SCopy.html" title="This service copies an object and updates its own object or the defined target. It can either copy th..." alt="" coords="748,5,871,35"/>
+<area shape="rect" id="node11" href="$classctrlCamp_1_1SExtractMeshByType.html" title="This service extract meshes of a specific structure type from fwMedData::ModelSeries. If the model series have some meshes with the same structure type, it will extract the first found. Additionnaly, it can also match the organ name with a regular expression. " alt="" coords="704,59,915,88"/>
+<area shape="rect" id="node13" href="$classctrlCamp_1_1SExtractObj.html" title="This service get objects from a source object and expose them as new objects. " alt="" coords="732,112,887,141"/>
+<area shape="rect" id="node17" href="$classctrlMemory_1_1manager_1_1LockDumpManagerSrv.html" title="This service allows to lock an object for dump when it is contained in the composite. " alt="" coords="728,165,891,211"/>
+<area shape="rect" id="node19" href="$classctrlSelection_1_1manager_1_1SField.html" title="This services is a manager which starts, stops or swaps services on field contained in a composite wh..." alt="" coords="733,234,885,281"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html" title="This services is a manager which starts, stops or swaps services on object contained in a composite w..." alt="" coords="733,303,885,350"/>
+<area shape="rect" id="node25" href="$classctrlSelection_1_1updater_1_1SDrop.html" title="Drop received object to associated fwData::Composite. " alt="" coords="737,373,881,419"/>
+<area shape="rect" id="node27" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html" title="Registers/unregisters the object given by the slots. " alt="" coords="737,442,881,489"/>
+<area shape="rect" id="node29" href="$classctrlSelection_1_1updater_1_1SObjFromUid.html" title="Updates the composite from object given by uid. The objects is added/swapped/removed from composite w..." alt="" coords="737,511,881,558"/>
+<area shape="rect" id="node31" href="$classctrlSelection_1_1updater_1_1STranslate.html" title="Update the composite related to this service according to the receiving composite signals and transla..." alt="" coords="737,581,881,627"/>
+<area shape="rect" id="node35" href="$classctrlSelection_1_1wrapper_1_1SImageSignalForwarder.html" title="This service forwards signals from an image ti another. " alt="" coords="725,650,893,697"/>
+<area shape="rect" id="node39" href="$classactivities_1_1action_1_1SActivityLauncher.html" title="This action launchs an activity according to the selected data. " alt="" coords="741,719,877,766"/>
+<area shape="rect" id="node41" href="$classactivities_1_1action_1_1SCreateActivity.html" title="This action launchs an activity according to the given configuration. " alt="" coords="748,789,871,835"/>
+<area shape="rect" id="node43" href="$classgui_1_1action_1_1SConfigLauncher.html" title="To manage configuration file defines in xml extension. " alt="" coords="715,859,904,888"/>
+<area shape="rect" id="node45" href="$classgui_1_1action_1_1SDoNothing.html" title="This action does nothing. " alt="" coords="729,912,889,941"/>
+<area shape="rect" id="node47" href="$classgui_1_1action_1_1SModifyLayout.html" title="This action is used to modify the layout configuration. " alt="" coords="721,965,897,995"/>
+<area shape="rect" id="node49" href="$classgui_1_1action_1_1SPushField.html" title="To add or remove an object in composite with specific key. " alt="" coords="731,1019,888,1048"/>
+<area shape="rect" id="node51" href="$classgui_1_1action_1_1SPushObject.html" title="To add or remove an object in composite with specific key. " alt="" coords="727,1072,892,1101"/>
+<area shape="rect" id="node53" href="$classgui_1_1action_1_1SQuit.html" title="This action tries to close the window and reset root object. " alt="" coords="748,1125,871,1155"/>
+<area shape="rect" id="node55" href="$classgui_1_1action_1_1SSignal.html" title="Simple Signal service. " alt="" coords="743,1179,876,1208"/>
+<area shape="rect" id="node57" href="$classgui_1_1action_1_1SSlotCaller.html" title="Run a slot given by HasSlot id and slot key. " alt="" coords="732,1232,887,1261"/>
+<area shape="rect" id="node59" href="$classgui_1_1action_1_1SStarter.html" title="Apply an action (start, stop, ...) on a service specify by uid.This action works on a fwData::Object..." alt="" coords="740,1285,879,1315"/>
+<area shape="rect" id="node61" href="$classioData_1_1action_1_1SMeshModifier.html" title="This action modifies a mesh using specified functor in configuration. The purpose is to test all poss..." alt="" coords="711,1339,908,1368"/>
+<area shape="rect" id="node63" href="$classioDicom_1_1SSeriesDBMerger.html" title="This service is used to merge selected series with a SeriesDB. All the series in the vector are pushe..." alt="" coords="719,1392,900,1421"/>
+<area shape="rect" id="node65" href="$classioGdcm_1_1SDicomSeriesConverter.html" title="This service is used to read and push DicomSeries to a SeriesDB. " alt="" coords="701,1445,917,1475"/>
+<area shape="rect" id="node67" href="$classmonitor_1_1action_1_1ClassFactoryRegistryInfo.html" title="Implements an action to show services registered in factory. " alt="" coords="712,1498,907,1545"/>
+</map>

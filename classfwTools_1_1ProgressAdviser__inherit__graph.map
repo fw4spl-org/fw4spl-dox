@@ -1,0 +1,9 @@
+<map id="fwTools::ProgressAdviser" name="fwTools::ProgressAdviser">
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1DicomSeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="351,5,583,35"/>
+<area shape="rect" id="node7" href="$classfwDcmtkIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="369,59,564,88"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1Series.html" title="This class handles DICOM files writing. It defines needs of data storage and delegates writing to app..." alt="" coords="381,112,552,141"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1writer_1_1SeriesDB.html" title="This class manages patient writing, in DICOM file format. " alt="" coords="372,165,561,195"/>
+<area shape="rect" id="node13" href="$classfwItkIO_1_1ImageReader.html" title="fwItkIO::ImageReader" alt="" coords="392,219,541,248"/>
+<area shape="rect" id="node15" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="395,272,539,301"/>
+<area shape="rect" id="node17" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="384,325,549,355"/>
+</map>

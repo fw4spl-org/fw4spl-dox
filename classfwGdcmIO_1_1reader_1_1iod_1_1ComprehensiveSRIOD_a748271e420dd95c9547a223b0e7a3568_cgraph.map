@@ -1,0 +1,18 @@
+<map id="fwGdcmIO::reader::iod::ComprehensiveSRIOD::read" name="fwGdcmIO::reader::iod::ComprehensiveSRIOD::read">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="251,229,397,275"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a657a338a2860638988765197820a3b36" title="Read a Structured Report. " alt="" coords="447,127,641,174"/>
+<area shape="rect" id="node14" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html#a5e961cd53fcf137cd30bb64a429e0576" title="Create Measurement Report template root node. " alt="" coords="467,320,621,384"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a57285fa0070c52fb96a0dbe31b44e260" title="Read all sub nodes and add it as children to the parent node. " alt="" coords="692,5,895,51"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#ab75588a691cedb860ea99f70f9259c6c" title="Read a sub node and add it as a child to the parent node. " alt="" coords="956,5,1151,51"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a37378b0c8dac3a7c538dd8571ee933b3" title="Add a sub node. " alt="" coords="1212,5,1431,51"/>
+<area shape="rect" id="node16" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a7c2799d7210bfa18927383c5a4a1543a" title="Get Coded attribute. " alt="" coords="953,163,1153,227"/>
+<area shape="rect" id="node18" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a57d396d35c50a5293cea96f15115558e" title="Get Sub node container. " alt="" coords="945,584,1161,648"/>
+<area shape="rect" id="node20" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html#a1ae5908e2c27608344a2627b6ce07d7e" title="Read a fiducial node. " alt="" coords="719,329,868,375"/>
+<area shape="rect" id="node34" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html#ac5729ad25d8d61e02befa5f41cb575b9" title="Read a measurement node. " alt="" coords="707,417,880,463"/>
+<area shape="rect" id="node24" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRTextNode.html#a4f29913fbfad7b241c0b45aac7c81d43" title="Get Text value. " alt="" coords="972,75,1135,139"/>
+<area shape="rect" id="node26" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html#a9eaa2156e38061adc9b6d5bb8de7626d" title="Get Graphic data container. " alt="" coords="963,496,1144,560"/>
+<area shape="rect" id="node28" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html#a2f65fdeb23c3ddc094cc53b12faa559a" title="Get Frame number. " alt="" coords="967,320,1140,384"/>
+<area shape="rect" id="node30" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html#a33cf7f45a5c7ebb5a3f3b4b41dcf3201" title="Get Graphic data container. " alt="" coords="955,408,1152,472"/>
+<area shape="rect" id="node32" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html#a4fea2a1e7fb11c2648a5075ece93ea50" title="Add a landmark into the image. " alt="" coords="973,250,1133,297"/>
+<area shape="rect" id="node40" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html#a989a0a1a869539e86a264a6d6ad876e7" title="Add a distance into the image. " alt="" coords="959,671,1148,718"/>
+</map>

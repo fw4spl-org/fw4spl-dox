@@ -1,0 +1,4 @@
+<map id="ctrlSelection::BookmarkSrv::configuring" name="ctrlSelection::BookmarkSrv::configuring">
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="249,5,388,35"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="235,59,403,88"/>
+</map>

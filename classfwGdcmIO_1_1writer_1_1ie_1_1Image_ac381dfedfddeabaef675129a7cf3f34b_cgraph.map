@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::writer::ie::Image::writeImagePixelModule" name="fwGdcmIO::writer::ie::Image::writeImagePixelModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#ab7368a8981d47301e60205dfcfacac21" title="Return the photometric interpretation of an acquisition. " alt="" coords="264,5,467,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#ae8c39c48a086803d1296590e06283fe4" title="Return the pixel type from a gdcm pixel format. " alt="" coords="264,74,467,121"/>
+</map>

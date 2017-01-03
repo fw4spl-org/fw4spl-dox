@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::helper::FileWriter::write" name="fwGdcmIO::helper::FileWriter::write">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1iod_1_1CTMRImageIOD.html#a24f28033ae5ac7a4ef66853b13beefce" title="Write DICOM file. " alt="" coords="252,5,417,51"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1iod_1_1ComprehensiveSRIOD.html#a4752159ea430c8339e917582a875d7f0" title="Write DICOM file. " alt="" coords="253,75,416,139"/>
+<area shape="rect" id="node10" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SpatialFiducialsIOD.html#a0b943637e203e560ad21aba05f68c7b0" title="Write DICOM file. " alt="" coords="260,163,409,227"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SurfaceSegmentationIOD.html#a07eed2645b15102ead7dcaa12765add0" title="Write DICOM file. " alt="" coords="245,251,424,315"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1Series.html#a18b66624af6345a706ca4f11f3c593a3" title="Load and start appropriate writing tools. In addition, it creates an adapted folder tree where DICOM ..." alt="" coords="472,127,643,174"/>
+</map>

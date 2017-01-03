@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::writer::ie::SpatialFiducials::writeSpatialFiducialsModule" name="fwGdcmIO::writer::ie::SpatialFiducials::writeSpatialFiducialsModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#a765c836c7e515ee58fedd053d104c1ce" title="Write image landmarks into sequence. " alt="" coords="255,14,476,61"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#ae5dcc121fb2ad7d96072eae929f7fc79" title="Add a frame number to the referenced image sequence. " alt="" coords="525,5,744,69"/>
+</map>

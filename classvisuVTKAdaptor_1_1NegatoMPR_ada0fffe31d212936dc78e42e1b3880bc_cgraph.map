@@ -1,0 +1,6 @@
+<map id="visuVTKAdaptor::NegatoMPR::doConfigure" name="visuVTKAdaptor::NegatoMPR::doConfigure">
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a7110f05efd67b97c7449b950084f9dab" title="Returns true if the service automatically triggers the rendering. " alt="" coords="251,5,432,51"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a0512ff2207c36bb17689636c05091165" title="Get selected TF Key. " alt="" coords="264,75,419,139"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#adff256d19625fcbc43d7794689e56e7f" title="Get TF Selection fwID. " alt="" coords="264,163,419,227"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a364bb119f4e869d70103f9bd086d233a" title="Set selected TF Key and TF Selection fwID from config. " alt="" coords="264,251,419,315"/>
+</map>

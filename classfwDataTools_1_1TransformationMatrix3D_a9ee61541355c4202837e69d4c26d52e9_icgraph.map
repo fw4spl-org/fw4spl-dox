@@ -1,0 +1,6 @@
+<map id="fwDataTools::TransformationMatrix3D::multiply" name="fwDataTools::TransformationMatrix3D::multiply">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1TransformationMatrix3D.html#a256871106e953e3af3d6263cb201011d" title="Set the matrix to identity. " alt="" coords="247,58,436,105"/>
+<area shape="rect" id="node5" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a0fb102781c063dd7454135703bf4c1e8" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="487,49,639,113"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a99014a35b9edb854b5d75d6b5224aa4e" title="Initialize the service activity. " alt="" coords="689,5,841,69"/>
+<area shape="rect" id="node9" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a936d8a7a5d6a17d230b7148a435b4d51" title="Swap the service from associated object to another object. " alt="" coords="689,93,841,157"/>
+</map>

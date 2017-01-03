@@ -1,0 +1,12 @@
+<map id="base.hpp" name="base.hpp">
+<area shape="rect" id="node3" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="3213,392,3373,421"/>
+<area shape="rect" id="node5" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros. " alt="" coords="1735,469,1871,499"/>
+<area shape="rect" id="node58" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="3233,160,3367,189"/>
+<area shape="rect" id="node85" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="3557,83,3749,112"/>
+<area shape="rect" id="node47" href="$Demangler_8hpp_source.html" title="fwCore/Demangler.hpp" alt="" coords="3213,556,3368,585"/>
+<area shape="rect" id="node64" href="$SpyLogger_8hpp_source.html" title="fwCore/log/SpyLogger.hpp" alt="" coords="2877,315,3053,344"/>
+<area shape="rect" id="node71" href="$ScopedMessage_8hpp_source.html" title="fwCore/log/ScopedMessage.hpp" alt="" coords="3267,237,3477,267"/>
+<area shape="rect" id="node75" href="$HiResTimer_8hpp_source.html" title="fwCore/HiResTimer.hpp" alt="" coords="3357,315,3520,344"/>
+<area shape="rect" id="node80" href="$HiResClock_8hpp_source.html" title="fwCore/HiResClock.hpp" alt="" coords="3605,469,3768,499"/>
+<area shape="rect" id="node91" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="3881,160,4031,189"/>
+</map>

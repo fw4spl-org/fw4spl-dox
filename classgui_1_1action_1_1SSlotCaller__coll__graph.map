@@ -1,0 +1,15 @@
+<map id="gui::action::SSlotCaller" name="gui::action::SSlotCaller">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html" title="Defines the service interface managing the menu items. " alt="" coords="1821,323,1947,352"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1619,76,1760,105"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1297,144,1412,173"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="1033,144,1172,173"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1051,197,1155,227"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1292,79,1417,108"/>
+<area shape="rect" id="node16" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1052,83,1153,112"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="261,37,341,67"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="7,29,132,75"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="240,192,363,221"/>
+<area shape="rect" id="node43" title="STL class. " alt="" coords="244,308,359,337"/>
+<area shape="rect" id="node30" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1285,17,1424,47"/>
+<area shape="rect" id="node32" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1045,15,1160,44"/>
+</map>

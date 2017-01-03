@@ -1,0 +1,12 @@
+<map id="ioVTK::SMeshReader::configureWithIHM" name="ioVTK::SMeshReader::configureWithIHM">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ac2807f263dc1b320c8c85590432cfd65" title="specify some filtering when browsing files: " alt="" coords="203,5,395,51"/>
+<area shape="rect" id="node5" href="$classio_1_1IReader.html#aa27f4602b0fd733eb3f69820c2bba8e2" title="Clear any location set by the setFile/setFiles/setFolder setter. " alt="" coords="209,75,388,104"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ac9089689132bcc8570ac04165effbcf4" title="Save the specified default location for the dialog in preferences (if available) " alt="" coords="203,127,395,174"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a3b0e0ea5f0b57d21986daa33ef83d732" title="Set the initial location for the dialog. " alt="" coords="203,197,395,243"/>
+<area shape="rect" id="node11" href="$classio_1_1IReader.html#a6e6d15caea2248f4d3aa88f7a78e4f54" title="Sets file path. " alt="" coords="232,267,365,296"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5ea39af6405130f2c6ef27a2820be238" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="203,319,395,366"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a9682346d8118fcb4f9fe4caf4eaa76c0" title="Set the title for the dialog. " alt="" coords="203,389,395,435"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a6733599f0a055082253618428082766f" title="Display the dialog. " alt="" coords="203,458,395,505"/>
+<area shape="rect" id="node13" href="$classio_1_1IReader.html#ac73aed04c8a34ddfb41dc006440e50ad" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="444,267,625,296"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1dialog_1_1ILocationDialog.html#afe365e8bbb4d1aa519e2d003eefe4070" title="fwGui::dialog::ILocation\lDialog::show" alt="" coords="456,458,613,505"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="fwDataTools::helper::Composite::swap" name="fwDataTools::helper::Composite::swap">
+<area shape="rect" id="node3" href="$classctrlCamp_1_1SExtractObj.html#acad5e678051e8c445d2dcb4e4cb08bad" title="Does nothing. " alt="" coords="209,5,364,51"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1updater_1_1SObjFromUid.html#a202a072722dcf0a46f45d025afc36435" title="Swaps the object into the composite with the key given by config. " alt="" coords="213,74,360,121"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac2f4a0dfd4e39c489a2cc5027a7bc1aa" title="Swaps the object into the composite with the key given by config. " alt="" coords="212,143,361,190"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1WindowLevel.html#af89ef9fdebdd2a92ed56c06ac0bb4e14" title="Swap current tf and notify other services. " alt="" coords="197,213,376,259"/>
+<area shape="rect" id="node21" href="$classuiTF_1_1TransferFunctionEditor.html#a28ecadc4c98da6ebd9f68380452798a9" title="Update the image with the selected TF in the ComboBox. " alt="" coords="193,282,380,329"/>
+<area shape="rect" id="node23" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a0fb102781c063dd7454135703bf4c1e8" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="211,352,363,416"/>
+<area shape="rect" id="node11" href="$classuiImage_1_1WindowLevel.html#a1b6f272c5e0c02df115981d240d304d8" title="Update editor information from the image. " alt="" coords="429,178,584,225"/>
+<area shape="rect" id="node19" href="$classuiImage_1_1WindowLevel.html#a63a6f880a42e7a8186e6b9ac066a56c3" title="Overrides. " alt="" coords="429,247,584,294"/>
+<area shape="rect" id="node13" href="$classuiImage_1_1WindowLevel.html#a3ba43ef941bd688e5e8bb52331837d13" title="Install the layout. " alt="" coords="632,109,787,155"/>
+<area shape="rect" id="node15" href="$classuiImage_1_1WindowLevel.html#a30238b79b9c852e349d7f08fc06765a6" title="Swap of image. " alt="" coords="632,178,787,225"/>
+<area shape="rect" id="node17" href="$classuiImage_1_1WindowLevel.html#ad39c747b18b452868f8c5cd6bd74e956" title="Called when transfer function points are modified. " alt="" coords="632,247,787,294"/>
+<area shape="rect" id="node25" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a99014a35b9edb854b5d75d6b5224aa4e" title="Initialize the service activity. " alt="" coords="431,335,583,399"/>
+<area shape="rect" id="node27" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a936d8a7a5d6a17d230b7148a435b4d51" title="Swap the service from associated object to another object. " alt="" coords="431,423,583,487"/>
+</map>

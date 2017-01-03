@@ -1,0 +1,19 @@
+<map id="fwData::GenericFieldBase" name="fwData::GenericFieldBase">
+<area shape="rect" id="node22" href="$classfwData_1_1GenericField.html" title="Generic &quot;field&quot; object template. " alt="" coords="1255,156,1431,185"/>
+<area shape="rect" id="node24" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; std::string \&gt;" alt="" coords="1569,107,1713,154"/>
+<area shape="rect" id="node28" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; float \&gt;" alt="" coords="1569,5,1713,51"/>
+<area shape="rect" id="node32" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; int \&gt;" alt="" coords="1569,285,1713,331"/>
+<area shape="rect" id="node36" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; bool \&gt;" alt="" coords="1569,190,1713,237"/>
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="865,156,975,185"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="664,95,779,124"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="295,41,433,71"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="312,95,416,124"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwData::Object \&gt;" alt="" coords="629,147,813,194"/>
+<area shape="rect" id="node14" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="7,192,220,221"/>
+<area shape="rect" id="node16" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; CLASS \&gt;" alt="" coords="272,147,456,194"/>
+<area shape="rect" id="node19" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="652,217,791,247"/>
+<area shape="rect" id="node26" href="$classfwData_1_1String.html" title="This class contains an std::string value. " alt="" coords="1772,116,1879,145"/>
+<area shape="rect" id="node30" href="$classfwData_1_1Float.html" title="This class contains an float value. " alt="" coords="1775,13,1876,43"/>
+<area shape="rect" id="node34" href="$classfwData_1_1Integer.html" title="This class contains an integer value. Integer object is essentially used as a field in other objects..." alt="" coords="1769,293,1881,323"/>
+<area shape="rect" id="node38" href="$classfwData_1_1Boolean.html" title="This class contains a boolean value. " alt="" coords="1767,199,1884,228"/>
+</map>

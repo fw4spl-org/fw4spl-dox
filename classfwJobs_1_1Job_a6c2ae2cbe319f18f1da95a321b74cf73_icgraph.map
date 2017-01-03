@@ -1,0 +1,5 @@
+<map id="fwJobs::Job::New" name="fwJobs::Job::New">
+<area shape="rect" id="node3" href="$classioAtoms_1_1SWriter.html#aad07c698baa2bee34450ca23ae88c55c" title="Convert fwData to fwAtoms, and apply the writer chosen from file extension. " alt="" coords="197,5,376,35"/>
+<area shape="rect" id="node5" href="$classioAtoms_1_1SReader.html#a950137d9c33a89cbb6324be4467a61ad" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="193,59,380,88"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html#a3cc5610267316fb9a2c61b1f30deef0f" title="Write the image series in DICOM format. " alt="" coords="181,111,392,158"/>
+</map>

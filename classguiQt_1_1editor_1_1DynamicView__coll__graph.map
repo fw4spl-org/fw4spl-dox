@@ -1,0 +1,20 @@
+<map id="guiQt::editor::DynamicView" name="guiQt::editor::DynamicView">
+<area shape="rect" id="node4" href="$classgui_1_1view_1_1IView.html" title="Defines the service interface managing a view placed in main frame. " alt="" coords="2093,193,2208,223"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout. " alt="" coords="1879,260,2041,289"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1680,419,1821,448"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1352,479,1467,508"/>
+<area shape="rect" id="node12" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="1043,479,1181,508"/>
+<area shape="rect" id="node16" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1060,425,1164,455"/>
+<area shape="rect" id="node18" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1347,396,1472,425"/>
+<area shape="rect" id="node20" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1061,372,1163,401"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="261,321,341,351"/>
+<area shape="rect" id="node45" href="$structguiQt_1_1editor_1_1AppConfig.html" title="guiQt::editor::AppConfig" alt="" coords="1328,144,1491,173"/>
+<area shape="rect" id="node50" href="$structfwActivities_1_1registry_1_1ActivityAppConfigParam.html" title="fwActivities::registry\l::ActivityAppConfigParam" alt="" coords="605,231,779,278"/>
+<area shape="rect" id="node68" href="$structguiQt_1_1editor_1_1DynamicView_1_1DynamicViewInfo.html" title="guiQt::editor::DynamicView\l::DynamicViewInfo" alt="" coords="1021,691,1203,738"/>
+<area shape="rect" id="node26" title="STL class. " alt="" coords="7,175,132,222"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="240,556,363,585"/>
+<area shape="rect" id="node59" title="STL class. " alt="" coords="252,59,351,88"/>
+<area shape="rect" id="node53" title="STL class. " alt="" coords="416,145,531,175"/>
+<area shape="rect" id="node34" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1340,324,1479,353"/>
+<area shape="rect" id="node36" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1055,313,1169,343"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="fwGui::IGuiContainerSrv::create" name="fwGui::IGuiContainerSrv::create">
+<area shape="rect" id="node3" href="$classbasicRegistration_1_1SImagesSubstract.html#abed83376c9bb8e6e331940aaab2a53e3" title="Overrides. " alt="" coords="236,5,417,51"/>
+<area shape="rect" id="node5" href="$classuiImage_1_1ImageInfo.html#aed5230562ad833dff9c8359ed2051a09" title="Starts editor. " alt="" coords="260,74,393,121"/>
+<area shape="rect" id="node7" href="$classuiVisu_1_1BasicFloatEditor.html#a2f27105006349c039a124dcc5a302f1b" title="Install the layout. " alt="" coords="245,143,408,190"/>
+<area shape="rect" id="node9" href="$classuiVisu_1_1TransformationMatrixEditor.html#a6f1c5fddb7e1367d9bd6ebf857eab3e0" title="Install the layout. " alt="" coords="232,213,421,259"/>
+<area shape="rect" id="node11" href="$classuiReconstruction_1_1OrganMaterialEditor.html#aec2377f6f68204beafecc1335b62115e" title="This method launches the IEditor::starting method. " alt="" coords="223,282,431,329"/>
+<area shape="rect" id="node13" href="$classgui_1_1view_1_1SDefaultView.html#a5de2160e37117b1a8ffc9964cd8a28bd" title="Register a view with defined id. " alt="" coords="245,351,408,398"/>
+<area shape="rect" id="node15" href="$classgui_1_1editor_1_1DummyEditor.html#a3bdfebd6240fba5a6499212490c9c344" title="This method launches the IEditor::starting method. " alt="" coords="244,421,409,467"/>
+<area shape="rect" id="node17" href="$classuiVisu_1_1PointEditor.html#a7dcea1a37e5532a8d67dd0a17c54fd0e" title="This method launches the IEditor::starting method. " alt="" coords="261,490,392,537"/>
+<area shape="rect" id="node19" href="$classuiVisu_1_1SnapshotEditor.html#a41acc8c3e2969ed237860023679a1baa" title="Install the layout. " alt="" coords="249,559,404,606"/>
+<area shape="rect" id="node21" href="$classuiImage_1_1ImageTransparency.html#a340a43c60f3430df75373bd7068d3b1c" title="Starts editor. " alt="" coords="232,629,421,675"/>
+<area shape="rect" id="node23" href="$classmonitor_1_1DumpEditor.html#adc8a37a7cbe7411ae70d34dcf6c46f1e" title="Install the layout and call updating() method. " alt="" coords="256,698,397,745"/>
+<area shape="rect" id="node25" href="$classioPacs_1_1SQueryEditor.html#ad1897e4c35f81ca2c0441081e31653bd" title="Override. " alt="" coords="253,767,400,814"/>
+<area shape="rect" id="node27" href="$classvtkSimpleNegato_1_1SRenderer.html#a3a91f21153a39920419705d12e579da8" title="Starting method. " alt="" coords="231,837,423,883"/>
+<area shape="rect" id="node29" href="$classuiReconstruction_1_1RepresentationEditor.html#a421324a3e23a7ad444b754e79f3bad1f" title="This method launches the IEditor::starting method. " alt="" coords="219,906,435,953"/>
+<area shape="rect" id="node31" href="$classguiQt_1_1editor_1_1Code.html#a6b6a2001c8021542318c1d2842b45f5a" title="Install the layout. " alt="" coords="261,975,392,1022"/>
+<area shape="rect" id="node33" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a99014a35b9edb854b5d75d6b5224aa4e" title="Initialize the service activity. " alt="" coords="251,1045,403,1109"/>
+<area shape="rect" id="node35" href="$classuiImage_1_1SliceIndexPositionEditor.html#a9e2a720b0cb1b2364a97f26904a888f7" title="Install the layout. " alt="" coords="235,1133,419,1179"/>
+<area shape="rect" id="node37" href="$classuiMeasurement_1_1editor_1_1Distance.html#a7223e029178d9474d79a6e0c2f59defe" title="Install the layout. " alt="" coords="252,1202,401,1249"/>
+<area shape="rect" id="node39" href="$classuiMedData_1_1editor_1_1SSeries.html#a25f0b7db097423aef43b004979b8aa3c" title="Installs GUI : create container and add selector. " alt="" coords="260,1271,393,1318"/>
+<area shape="rect" id="node41" href="$classguiQt_1_1editor_1_1SSignalButton.html#a5f7b07af87633f9d94b9b4bd3b5faa5a" title="This method launches the IEditor::starting method. " alt="" coords="235,1341,419,1387"/>
+<area shape="rect" id="node43" href="$classactivities_1_1editor_1_1SCreateActivity.html#ab1777ee1e4114dde16437779184608f2" title="This method launches the IEditor::starting method. " alt="" coords="240,1410,413,1457"/>
+<area shape="rect" id="node45" href="$classguiQt_1_1editor_1_1SSelectionMenuButton.html#ab7a5ffec7192df0b971dc6d3a8defbf6" title="Install the layout. " alt="" coords="245,1479,408,1526"/>
+<area shape="rect" id="node47" href="$classioDicom_1_1SFilterSelectionEditor.html#a2f027cb5d6e620313dbbef23cc686735" title="Override. " alt="" coords="241,1549,412,1595"/>
+<area shape="rect" id="node49" href="$classuiMedData_1_1editor_1_1SSelector.html#a91c158fafc90a4d09ecaaa83dcf7f184" title="Installs GUI : create container and add selector. " alt="" coords="260,1618,393,1665"/>
+<area shape="rect" id="node51" href="$classioPacs_1_1SPacsConfigurationEditor.html#ae476a10a13269b56f1e58c7082a8361a" title="Override. " alt="" coords="233,1687,420,1734"/>
+<area shape="rect" id="node53" href="$classguiQt_1_1editor_1_1SParameters.html#a38b40d3bc417260f72e156fe71a96a02" title="Initializes Qt input widgets for parameters according to xml configuration. " alt="" coords="239,1757,415,1803"/>
+<area shape="rect" id="node55" href="$classguiQt_1_1editor_1_1SSlider.html#adcd89f64f7ee6c6682895d3929a717f8" title="Installs the layout. " alt="" coords="256,1826,397,1873"/>
+<area shape="rect" id="node57" href="$classuiImage_1_1WindowLevel.html#a3ba43ef941bd688e5e8bb52331837d13" title="Install the layout. " alt="" coords="249,1895,404,1942"/>
+<area shape="rect" id="node59" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a1d3a6f34bdad72241f22dfb0c170a231" title="Override. " alt="" coords="233,1965,420,2011"/>
+<area shape="rect" id="node61" href="$classguiQt_1_1editor_1_1SDynamicView.html#aa5dd2af8a68cea5677dfe01877982e76" title="Install the container. " alt="" coords="232,2034,421,2081"/>
+<area shape="rect" id="node63" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a6ff2a3f0938e623f0e44553b86b3df55" title="Override. " alt="" coords="237,2103,416,2150"/>
+<area shape="rect" id="node65" href="$classguiQt_1_1editor_1_1DynamicView.html#ad792f2c270cb45dff56dce72e8f0b9f8" title="Install the container. " alt="" coords="236,2173,417,2219"/>
+<area shape="rect" id="node67" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#a79e10dd2bd16e4fc7400321960c4ac45" title="This method creates the editor gui. " alt="" coords="244,2242,409,2289"/>
+<area shape="rect" id="node69" href="$classscene2D_1_1Render.html#a08ca72a78d6791c3816e826ba8236d3b" title="Call startContext to set the scene, the viewport and the view, and add&#39;em to the QtContainer and star..." alt="" coords="240,2312,413,2341"/>
+</map>

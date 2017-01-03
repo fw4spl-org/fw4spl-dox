@@ -1,0 +1,4 @@
+<map id="fwGui::dialog::InputDialog::showInputDialog" name="fwGui::dialog::InputDialog::showInputDialog">
+<area shape="rect" id="node3" href="$classuiMedData_1_1action_1_1SExportSeries.html#a786ea66c5044ae9a7f2ccb57d7673da2" title="Adds the series specified by m_seriesId in the SeriesDB. " alt="" coords="232,5,395,51"/>
+<area shape="rect" id="node5" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#ad5f9fac4869aac1c9d0e58b67ae93228" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="227,74,400,121"/>
+</map>

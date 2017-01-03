@@ -1,0 +1,5 @@
+<map id="fwAtomsFilter::IFilter" name="fwAtomsFilter::IFilter">
+<area shape="rect" id="node7" href="$classfilterVRRender_1_1MedicalDataV1.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V1&quot; in VR&#45;Render. " alt="" coords="5,256,211,285"/>
+<area shape="rect" id="node9" href="$classfilterVRRender_1_1MedicalDataV2.html" title="Filter associated to context &quot;MedicalData&quot; version &quot;V2&quot; in VR&#45;Render. " alt="" coords="235,256,440,285"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="153,101,292,131"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::container::DicomInstance::computeSOPClassUID" name="fwGdcmIO::container::DicomInstance::computeSOPClassUID">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1DicomInstance.html#a3e500863b864f7ff5c636635a7673bc3" title="Get the flag on multi&#45;files state of an image series. " alt="" coords="343,5,524,69"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1DicomInstance.html#ad4416fbbd63d060facf4edc033f7ca25" title="Set SOP Class UID. " alt="" coords="319,93,548,139"/>
+</map>

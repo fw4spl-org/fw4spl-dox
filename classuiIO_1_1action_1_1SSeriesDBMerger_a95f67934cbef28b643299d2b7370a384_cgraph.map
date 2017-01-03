@@ -1,0 +1,6 @@
+<map id="uiIO::action::SSeriesDBMerger::updating" name="uiIO::action::SSeriesDBMerger::updating">
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ServiceConfig.html#a9e9e0c136f0bb9a4e9a3a0abaded138b" title="Return the default global instance of ServiceConfig. " alt="" coords="257,5,436,51"/>
+<area shape="rect" id="node5" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a89bf67701443d36383a21ce18391dc75" title="Merge seriesDBIn all series from seriesDBIn to the SeriesDB. " alt="" coords="265,74,428,121"/>
+<area shape="rect" id="node9" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="265,143,428,190"/>
+<area shape="rect" id="node7" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="487,74,649,121"/>
+</map>

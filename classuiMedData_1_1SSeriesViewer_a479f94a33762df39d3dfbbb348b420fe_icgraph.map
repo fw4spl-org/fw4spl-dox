@@ -1,0 +1,5 @@
+<map id="uiMedData::SSeriesViewer::info" name="uiMedData::SSeriesViewer::info">
+<area shape="rect" id="node3" href="$classuiMedData_1_1SSeriesViewer.html#a81633ca5c34b073b04e52daf668987c1" title="Configures the service. " alt="" coords="232,5,411,51"/>
+<area shape="rect" id="node5" href="$classuiMedData_1_1SSeriesViewer.html#a4db02f32dfcda816b6a0eb403ac6f351" title="Launch the config on the object if possible. " alt="" coords="232,74,411,121"/>
+<area shape="rect" id="node7" href="$classuiMedData_1_1SSeriesViewer.html#aef9b17822e71b2cab0efb0aa018e7acc" title="Calls updating on starting. " alt="" coords="459,74,637,121"/>
+</map>

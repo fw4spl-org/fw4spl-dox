@@ -1,0 +1,9 @@
+<map id="ctrlSelection::IManagerSrv::manageConnection" name="ctrlSelection::IManagerSrv::manageConnection">
+<area shape="rect" id="node3" href="$classctrlSelection_1_1IManagerSrv.html#a134430b00f73cd5761699cda237e24a2" title="Manages all connections define in config associated to object. Call manageConnection() ..." alt="" coords="229,178,405,225"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1manager_1_1SField.html#a7480d619d94a235310e6c8dcca827069" title="Slot: add objects. " alt="" coords="476,5,628,51"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1manager_1_1SField.html#ac65f406cf05b6e79d31d235701be3886" title="Slot: change objects. " alt="" coords="476,74,628,121"/>
+<area shape="rect" id="node9" href="$classctrlSelection_1_1manager_1_1SField.html#ab57d869461bb04dbb5a68be5faa517bf" title="Slot: remove objects. " alt="" coords="476,143,628,190"/>
+<area shape="rect" id="node11" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#ac02089f6bf9dffb7b7c8b2444f2ad4e4" title="Slot: add objects. " alt="" coords="465,213,639,259"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a7e74075f3212f7f47f8369011edd5ec9" title="Slot: change objects. " alt="" coords="455,282,649,329"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1manager_1_1SwapperSrv.html#a4e44acc0494380e068976ae71d5db070" title="Slot: remove objects. " alt="" coords="453,351,651,398"/>
+</map>

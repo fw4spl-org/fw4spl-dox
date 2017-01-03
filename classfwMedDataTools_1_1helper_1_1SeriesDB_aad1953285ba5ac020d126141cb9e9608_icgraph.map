@@ -1,0 +1,12 @@
+<map id="fwMedDataTools::helper::SeriesDB::clear" name="fwMedDataTools::helper::SeriesDB::clear">
+<area shape="rect" id="node3" href="$classioDicom_1_1SFilterSelectionEditor.html#a7f633b26bed8810d4b82b82e8c1ae908" title="Create and add a filter in a specific position. " alt="" coords="244,5,415,51"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a680faf596ce8151900d15c4fd5eb1662" title="Override. " alt="" coords="220,74,439,121"/>
+<area shape="rect" id="node9" href="$classioGdcm_1_1SSeriesDBReader.html#a4bdbb9ae3998440f5f8624db2b71cb74" title="Override. " alt="" coords="239,143,420,190"/>
+<area shape="rect" id="node13" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a797bc2567cb2db3bd0b3f1b04df9f9bc" title="Read the selected image. " alt="" coords="236,213,423,259"/>
+<area shape="rect" id="node17" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a5e895f9ec74048319f9d38d73652d13d" title="Read the selected image. " alt="" coords="240,282,419,329"/>
+<area shape="rect" id="node21" href="$classioGdcm_1_1SDicomSeriesConverter.html#a8c0cb9d8b6eaf3fdeb9aa013deb21c6a" title="Override. " alt="" coords="221,351,437,398"/>
+<area shape="rect" id="node7" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a95f786ee4b6abe92da2607cff1c07838" title="Override. " alt="" coords="489,74,708,121"/>
+<area shape="rect" id="node11" href="$classioGdcm_1_1SSeriesDBReader.html#aeaa15fba6afa36ce95e8a6dd18a78360" title="Override. " alt="" coords="508,143,689,190"/>
+<area shape="rect" id="node15" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a1db62c863a8e3dea4d9414aedd40cce8" title="Constructor. " alt="" coords="496,213,701,259"/>
+<area shape="rect" id="node19" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#afcc74da2cda0fe0a0e8bc8b57bacf4d8" title="Constructor. " alt="" coords="496,283,701,347"/>
+</map>

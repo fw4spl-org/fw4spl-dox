@@ -1,0 +1,8 @@
+<map id="fwGdcmIO::reader::tid::Measurement::readNode" name="fwGdcmIO::reader::tid::Measurement::readNode">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html#a989a0a1a869539e86a264a6d6ad876e7" title="Add a distance into the image. " alt="" coords="241,5,431,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a7c2799d7210bfa18927383c5a4a1543a" title="Get Coded attribute. " alt="" coords="236,75,436,139"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html#a2f65fdeb23c3ddc094cc53b12faa559a" title="Get Frame number. " alt="" coords="249,163,423,227"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html#a9eaa2156e38061adc9b6d5bb8de7626d" title="Get Graphic data container. " alt="" coords="245,251,427,315"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html#a33cf7f45a5c7ebb5a3f3b4b41dcf3201" title="Get Graphic data container. " alt="" coords="237,339,435,403"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a57d396d35c50a5293cea96f15115558e" title="Get Sub node container. " alt="" coords="228,427,444,491"/>
+</map>

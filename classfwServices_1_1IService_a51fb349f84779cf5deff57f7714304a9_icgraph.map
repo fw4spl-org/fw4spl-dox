@@ -1,0 +1,17 @@
+<map id="fwServices::IService::setOutput" name="fwServices::IService::setOutput">
+<area shape="rect" id="node3" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ab281575b2c08ceec265acafe6892cff4" title="Adds the object into the composite with the key given by config. " alt="" coords="233,5,377,51"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#af95e3f4c5ba7cd447b5cefa5dbe7fe40" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="212,74,399,121"/>
+<area shape="rect" id="node7" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a797bc2567cb2db3bd0b3f1b04df9f9bc" title="Read the selected image. " alt="" coords="212,143,399,190"/>
+<area shape="rect" id="node11" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a5e895f9ec74048319f9d38d73652d13d" title="Read the selected image. " alt="" coords="216,213,395,259"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac86b8b1c058097f39af3a8c11a165cae" title="Adds the object from the composite with the key given by config. " alt="" coords="224,282,387,329"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#a5b4777d924227812d7ebff8b5e347797" title="Adds the object into the composite with the key given by config if it is present. ..." alt="" coords="197,351,413,398"/>
+<area shape="rect" id="node19" href="$classctrlCamp_1_1SCopy.html#a4be5376407f07adcda43d50a7c8620d1" title="Does nothing. " alt="" coords="216,421,395,451"/>
+<area shape="rect" id="node21" href="$classctrlCamp_1_1SExtractObj.html#acad5e678051e8c445d2dcb4e4cb08bad" title="Does nothing. " alt="" coords="228,474,383,521"/>
+<area shape="rect" id="node23" href="$classctrlCamp_1_1SExtractMeshByType.html#a1561fe2cd6c7f3d89c653d11d00e1ef8" title="Does nothing. " alt="" coords="215,543,396,590"/>
+<area shape="rect" id="node25" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac2f4a0dfd4e39c489a2cc5027a7bc1aa" title="Swaps the object into the composite with the key given by config. " alt="" coords="231,613,380,659"/>
+<area shape="rect" id="node27" href="$classgui_1_1action_1_1SPushField.html#a8fe664c23b5f2c11391dc0ed9b002327" title="Extract the object. " alt="" coords="227,682,384,729"/>
+<area shape="rect" id="node29" href="$classgui_1_1action_1_1SPushObject.html#a30a763fb24cc9ba223c9e53c37f3656c" title="Extract the object. " alt="" coords="223,751,388,798"/>
+<area shape="rect" id="node31" href="$classctrlCamp_1_1SExtractMeshByType.html#a20af80de934fdab2022587e45be9607a" title="Does nothing. " alt="" coords="215,821,396,867"/>
+<area shape="rect" id="node9" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a1db62c863a8e3dea4d9414aedd40cce8" title="Constructor. " alt="" coords="463,139,668,186"/>
+<area shape="rect" id="node13" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#afcc74da2cda0fe0a0e8bc8b57bacf4d8" title="Constructor. " alt="" coords="463,209,668,273"/>
+</map>

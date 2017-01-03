@@ -1,0 +1,15 @@
+<map id="io::IWriter::setFile" name="io::IWriter::setFile">
+<area shape="rect" id="node3" href="$classioITK_1_1SImageSeriesWriter.html#ac2d14acb787ad7947883fa58ec0e7b38" title="Override. " alt="" coords="204,5,383,51"/>
+<area shape="rect" id="node5" href="$classioAtoms_1_1SWriter.html#a9f1af1b733dcc23d7329c74bd6304dad" title="Propose to create a medical data file. " alt="" coords="203,74,384,121"/>
+<area shape="rect" id="node7" href="$classioITK_1_1InrImageWriterService.html#aef682d2d633c6393bcf4c2cedb94e540" title="Override. " alt="" coords="199,143,388,190"/>
+<area shape="rect" id="node9" href="$classioData_1_1TransformationMatrix3DWriterService.html#afdea04b6df4d1e148f1916e3f0bf6297" title="Configure the matrix path. " alt="" coords="181,213,405,259"/>
+<area shape="rect" id="node11" href="$classioVTK_1_1SImageSeriesWriter.html#aa3eb67a96aa7d6730c80ed6921fd9cfa" title="Configure the image path. " alt="" coords="203,282,384,329"/>
+<area shape="rect" id="node13" href="$classioVTK_1_1SMeshWriter.html#a7a5cc4990ed09cff4c189eb1fbba3175" title="Configure the mesh path. " alt="" coords="223,351,364,398"/>
+<area shape="rect" id="node15" href="$classioVTK_1_1SImageWriter.html#a040d1db8d0a46c9f6e28ab7bcd5c9dcd" title="Configure the image path. " alt="" coords="220,421,367,467"/>
+<area shape="rect" id="node17" href="$classioData_1_1MeshWriterService.html#af41ef2b75d2bae316989bbde32e93bd8" title="Configure the mesh path. " alt="" coords="204,490,383,537"/>
+<area shape="rect" id="node19" href="$classioQt_1_1SPdfWriter.html#a56e43ec92400f719b05260e52106d6f7" title="Configure the image path. " alt="" coords="204,559,383,606"/>
+<area shape="rect" id="node23" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="219,629,368,659"/>
+<area shape="rect" id="node21" href="$classioQt_1_1SPdfWriter.html#ae4b58f883dd1255ef6233cf2fa73fc2d" title="Updating method. Creates a new PDF. " alt="" coords="464,568,637,597"/>
+<area shape="rect" id="node25" href="$classioAtoms_1_1SWriter.html#a2ce40c407f54f86038b0f6f20fcbe616" title="Configures the writer. " alt="" coords="455,625,647,655"/>
+<area shape="rect" id="node27" href="$classioQt_1_1SPdfWriter.html#a8db1ef80560ec7086beb70860b6bd82e" title="Configure service. This method is called by configure() from base service ( fwServices::IService ) ..." alt="" coords="456,679,645,708"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ioAtoms::SWriter::configuring" name="ioAtoms::SWriter::configuring">
+<area shape="rect" id="node3" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="249,53,399,83"/>
+<area shape="rect" id="node5" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="639,53,812,83"/>
+<area shape="rect" id="node7" href="$classio_1_1IWriter.html#ab72fabf86c951e3bcdf42273f27cd576" title="Sets file path. " alt="" coords="456,27,581,56"/>
+<area shape="rect" id="node10" href="$classio_1_1IWriter.html#a87be6dd4f95c43b32384d175de30a9fa" title="Sets file paths. " alt="" coords="452,80,585,109"/>
+<area shape="rect" id="node13" href="$classio_1_1IWriter.html#ab705f4f0deeacacc3cd7c48a077be284" title="Sets folder path. " alt="" coords="448,133,589,163"/>
+</map>

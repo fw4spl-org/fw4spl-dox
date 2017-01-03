@@ -1,0 +1,28 @@
+<map id="fwData::location::enableSingleFile&lt; RW &gt;" name="fwData::location::enableSingleFile&lt; RW &gt;">
+<area shape="rect" id="node3" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="349,121,520,185"/>
+<area shape="rect" id="node15" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; IObjectReader \&gt;" alt="" coords="341,463,528,510"/>
+<area shape="rect" id="node31" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="353,980,516,1044"/>
+<area shape="rect" id="node5" href="$classfwItkIO_1_1ImageReader.html" title="fwItkIO::ImageReader" alt="" coords="613,5,763,35"/>
+<area shape="rect" id="node7" href="$classfwVtkIO_1_1ImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="611,59,765,88"/>
+<area shape="rect" id="node9" href="$classfwVtkIO_1_1MeshReader.html" title="Read a mesh.Read a VTK Mesh using the VTK lib. " alt="" coords="612,112,764,141"/>
+<area shape="rect" id="node11" href="$classfwVtkIO_1_1MetaImageReader.html" title="Read a MetaImage.Read a MetaImage using the VTK lib. " alt="" coords="596,165,780,195"/>
+<area shape="rect" id="node13" href="$classfwVtkIO_1_1VtiImageReader.html" title="Read an image.Read a VTK Image using the VTK lib. " alt="" coords="603,219,773,248"/>
+<area shape="rect" id="node17" href="$classfwDataIO_1_1reader_1_1ArrayReader.html" title="Array Reader. Read file format .raw. " alt="" coords="587,272,789,301"/>
+<area shape="rect" id="node19" href="$classfwDataIO_1_1reader_1_1DictionaryReader.html" title="Dictionary reader. Read file with .dic extension. " alt="" coords="593,325,783,371"/>
+<area shape="rect" id="node21" href="$classfwDataIO_1_1reader_1_1GzArrayReader.html" title="Array Reader. Read file format .raw.gz. " alt="" coords="599,394,777,441"/>
+<area shape="rect" id="node23" href="$classfwDataIO_1_1reader_1_1GzBufferImageReader.html" title="Image Reader. Read file format .raw.gz. " alt="" coords="597,463,779,510"/>
+<area shape="rect" id="node25" href="$classfwDataIO_1_1reader_1_1MeshReader.html" title="Mesh reader. Read file format .trian. " alt="" coords="587,533,789,563"/>
+<area shape="rect" id="node27" href="$classfwDataIO_1_1reader_1_1TagReader.html" title="Tag Reader. Read file format .tag. " alt="" coords="591,587,785,616"/>
+<area shape="rect" id="node29" href="$classfwDataIO_1_1reader_1_1TransformationMatrix3DReader.html" title="Reader for transformation of 3D Matrix. Read file format .trf. " alt="" coords="580,639,796,686"/>
+<area shape="rect" id="node33" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html" title="Array Writer. Write file format .raw. " alt="" coords="592,709,784,739"/>
+<area shape="rect" id="node35" href="$classfwDataIO_1_1writer_1_1GzArrayWriter.html" title="Array Writer. Write file format .raw.gz. " alt="" coords="601,762,775,809"/>
+<area shape="rect" id="node37" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html" title="Image Writer. Write file format .raw.gz. " alt="" coords="599,831,777,878"/>
+<area shape="rect" id="node39" href="$classfwDataIO_1_1writer_1_1MeshWriter.html" title="Mesh writer. Write file format .trian. " alt="" coords="592,901,784,931"/>
+<area shape="rect" id="node41" href="$classfwDataIO_1_1writer_1_1TransformationMatrix3DWriter.html" title="Writer for transformation of 3D Matrix. Write file format .trf. " alt="" coords="581,954,795,1001"/>
+<area shape="rect" id="node43" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html" title="fwGdcmIO::helper::DicomSeries\lDBWriter" alt="" coords="583,1023,793,1070"/>
+<area shape="rect" id="node45" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="616,1093,760,1123"/>
+<area shape="rect" id="node47" href="$classfwVtkIO_1_1ImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="613,1147,763,1176"/>
+<area shape="rect" id="node49" href="$classfwVtkIO_1_1MeshWriter.html" title="Write a mesh.Write a VTK Mesh using the VTK lib. " alt="" coords="616,1200,760,1229"/>
+<area shape="rect" id="node51" href="$classfwVtkIO_1_1MetaImageWriter.html" title="Write a MetaImage.Write a MetaImage using the VTK lib. " alt="" coords="599,1253,777,1283"/>
+<area shape="rect" id="node53" href="$classfwVtkIO_1_1VtiImageWriter.html" title="Write an image.Write a VTK Image using the VTK lib. " alt="" coords="605,1307,771,1336"/>
+</map>

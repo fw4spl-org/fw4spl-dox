@@ -1,0 +1,3 @@
+<map id="uiMedData::widget::Selector::selectSeries" name="uiMedData::widget::Selector::selectSeries">
+<area shape="rect" id="node3" href="$classuiMedData_1_1widget_1_1Selector.html#ad6a5d05c1fabec94c899cb057a63c9ef" title="Slot called when the selection changed. Emits a signal containing the new selected/deselected series..." alt="" coords="207,5,388,51"/>
+</map>

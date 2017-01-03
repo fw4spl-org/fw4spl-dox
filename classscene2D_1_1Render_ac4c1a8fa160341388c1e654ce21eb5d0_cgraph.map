@@ -1,0 +1,7 @@
+<map id="scene2D::Render::swapping" name="scene2D::Render::swapping">
+<area shape="rect" id="node3" href="$classfwServices_1_1helper_1_1Config.html#a3bb5aa16082e7a7c3e5cbdd9dd7c7ccc" title="Disconnects all proxies associated to objectKey. " alt="" coords="241,35,423,82"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1IService.html#af98da4a410587cde1b329546daa4bbff" title="Write information in a stream. " alt="" coords="261,105,403,151"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1IService.html#ac0ac1a469b4be20ba958fa08996cd662" title="Streaming a service. " alt="" coords="261,174,403,221"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="487,5,625,51"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="472,75,640,104"/>
+</map>

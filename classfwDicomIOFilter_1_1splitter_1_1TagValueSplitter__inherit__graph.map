@@ -1,0 +1,16 @@
+<map id="fwDicomIOFilter::splitter::TagValueSplitter" name="fwDicomIOFilter::splitter::TagValueSplitter">
+<area shape="rect" id="node22" href="$classfwDicomIOFilter_1_1splitter_1_1AcquisitionNumberSplitter.html" title="Filter that uses the AcquisitionNumber tag to split the instances. " alt="" coords="1517,5,1699,51"/>
+<area shape="rect" id="node24" href="$classfwDicomIOFilter_1_1splitter_1_1ImageOrientationSplitter.html" title="Filter that uses the ImageOrientationPatient tag to split the instances. " alt="" coords="1523,74,1693,121"/>
+<area shape="rect" id="node26" href="$classfwDicomIOFilter_1_1splitter_1_1ImageTypeSplitter.html" title="Filter that uses the ImageType tag to split the instances. " alt="" coords="1527,143,1689,190"/>
+<area shape="rect" id="node28" href="$classfwDicomIOFilter_1_1splitter_1_1SOPClassUIDSplitter.html" title="Filter that uses the SOPClassUID tag to split the instances. " alt="" coords="1527,213,1689,259"/>
+<area shape="rect" id="node30" href="$classfwDicomIOFilter_1_1splitter_1_1TemporalPositionSplitter.html" title="Filter that uses the TemporalPositionIdentifier tag to split the instances. " alt="" coords="1523,282,1693,329"/>
+<area shape="rect" id="node32" href="$classfwDicomIOFilterQt_1_1splitter_1_1TagValueConfigurableSplitter.html" title="Filter that uses a tag to split the instances. " alt="" coords="1509,352,1707,416"/>
+<area shape="rect" id="node2" href="$classfwDicomIOFilter_1_1splitter_1_1ISplitter.html" title="Base class for Dicom instance splitter. " alt="" coords="1079,178,1241,225"/>
+<area shape="rect" id="node4" href="$classfwDicomIOFilter_1_1IFilter.html" title="Base class for Dicom instance filter. " alt="" coords="868,187,1025,216"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="663,159,777,188"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="295,108,433,137"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="312,161,416,191"/>
+<area shape="rect" id="node14" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; ::fwDicomIOFilter::IFilter \&gt;" alt="" coords="625,211,815,258"/>
+<area shape="rect" id="node16" href="$classfwTools_1_1DynamicAttributesBase.html" title="fwTools::DynamicAttributesBase" alt="" coords="7,240,220,269"/>
+<area shape="rect" id="node18" href="$classfwTools_1_1DynamicAttributes.html" title="fwTools::DynamicAttributes\l\&lt; CLASS \&gt;" alt="" coords="272,269,456,315"/>
+</map>

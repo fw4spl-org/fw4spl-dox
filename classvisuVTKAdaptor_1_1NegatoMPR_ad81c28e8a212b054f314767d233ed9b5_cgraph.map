@@ -1,0 +1,6 @@
+<map id="visuVTKAdaptor::NegatoMPR::doUpdate" name="visuVTKAdaptor::NegatoMPR::doUpdate">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="272,5,437,69"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="285,93,424,139"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a2f7517555c684a7e64eb1aa16df5fffb" title="Set the image orientation. " alt="" coords="277,163,432,227"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a35b3188375865d89005fcf3afb11f59d" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="252,250,457,297"/>
+</map>

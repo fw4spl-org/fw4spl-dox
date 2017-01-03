@@ -1,0 +1,13 @@
+<map id="fwVtkIO::helper::Mesh::updatePolyDataPoints" name="fwVtkIO::helper::Mesh::updatePolyDataPoints">
+<area shape="rect" id="node3" href="$classfwVtkIO_1_1helper_1_1Mesh.html#aa8f409baff52f2a52ec44ed91c21d54e" title="Convert a ::fwData::Mesh::sptr to a vtkPolyData. " alt="" coords="241,282,393,329"/>
+<area shape="rect" id="node15" href="$classvtkSimpleMesh_1_1SRenderer.html#a3fee3edf43bb3c8ea39759ab42180fd2" title="Updating method. " alt="" coords="509,490,691,537"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1MeshNormals.html#acaed734020a8c6df9cb3dc2bbda1c6cc" title="Slot: used to update mesh vertex. " alt="" coords="215,475,420,522"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1Mesh.html#a82c88abd7d531c1d0b680825f5d1eed1" title="Slot: used to update mesh vertex. " alt="" coords="239,545,396,591"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a218b2e84b2b5d0b848eeb27664802430" title="Compute the volume of the mesh using MassProperties vtk class. " alt="" coords="524,5,676,51"/>
+<area shape="rect" id="node7" href="$classvtkSimpleMesh_1_1SRenderer.html#adcc2173edd3798b5a768f4054be9c605" title="This method is used to notify that the VTK camera position is updated. " alt="" coords="507,74,693,121"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1MeshesBoxWidget.html#a23d08ba7c328169d2dcee273709bae68" title="Updates map from composite meshes. " alt="" coords="471,143,729,190"/>
+<area shape="rect" id="node11" href="$classvisuVTKAdaptor_1_1Mesh.html#a474502f1e378ab569e3a8288c515a0c3" title="Creates normals adaptor if material has NORMALS, else remove normals adaptor. " alt="" coords="521,213,679,259"/>
+<area shape="rect" id="node13" href="$classvtkCompositeMesh_1_1RendererService.html#a09bd6b48288fab69dd537295a3c06eaf" title="Updating method. " alt="" coords="503,282,697,329"/>
+<area shape="rect" id="node17" href="$classfwVtkIO_1_1MeshWriter.html#a4b7876221138a425e3d24f1d441478ec" title="Reading operator. " alt="" coords="528,351,672,398"/>
+<area shape="rect" id="node19" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a21ff94e553dd9c4476d4eb3bb08fba7f" title="Destructor. " alt="" coords="497,421,703,467"/>
+</map>

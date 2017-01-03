@@ -1,0 +1,10 @@
+<map id="fwServices::registry::AppConfig::getUniqueIdentifier" name="fwServices::registry::AppConfig::getUniqueIdentifier">
+<area shape="rect" id="node3" href="$classactivities_1_1action_1_1SActivityLauncher.html#ae14086c858b6a9a498b77b1f3fc05ab4" title="Overrides. " alt="" coords="276,5,441,51"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1DynamicView.html#a0a666f969a52e7de0fa72d6eab5fd13d" title="Launch tab. " alt="" coords="268,74,449,121"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1helper_1_1ConfigLauncher.html#aee4b5998807a69fee45d7fc68b5fd67f" title="Launch Appconfig. " alt="" coords="263,143,455,190"/>
+<area shape="rect" id="node9" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html#a1f8b1277ddab96c18715bfcf601dc302" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="272,213,445,259"/>
+<area shape="rect" id="node11" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html#a2bae71fce7fec12b55f29566eb76d3ec" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="273,282,444,329"/>
+<area shape="rect" id="node13" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="264,351,453,398"/>
+<area shape="rect" id="node15" href="$classuiMedData_1_1SSeriesViewer.html#a4db02f32dfcda816b6a0eb403ac6f351" title="Launch the config on the object if possible. " alt="" coords="269,421,448,467"/>
+<area shape="rect" id="node17" href="$classuiMedData_1_1SSeriesViewer.html#aef9b17822e71b2cab0efb0aa018e7acc" title="Calls updating on starting. " alt="" coords="504,421,683,467"/>
+</map>

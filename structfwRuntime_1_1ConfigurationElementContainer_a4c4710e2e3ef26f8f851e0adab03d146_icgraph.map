@@ -1,0 +1,8 @@
+<map id="fwRuntime::ConfigurationElementContainer::addConfigurationElement" name="fwRuntime::ConfigurationElementContainer::addConfigurationElement">
+<area shape="rect" id="node3" href="$classfwRuntime_1_1EConfigurationElement.html#aea341aa32ecdd08fb8841248388725b3" title="Create and add a configuration element. " alt="" coords="297,30,521,77"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1ConfigurationElementContainer.html#adbbd96d865cf90e709469d4add175be4" title="Retrieves the configurations corresponding to the specified name. " alt="" coords="287,100,532,164"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1IUpdaterSrv.html#a8501c66e554c77298358f17b644fed44" title="Configure the event to manage and its corresponding action. " alt="" coords="587,5,763,51"/>
+<area shape="rect" id="node9" href="$classioDcmtk_1_1SSeriesDBReader.html#af486dc96f0dcc4b276625f4088276a64" title="ioDcmtk::SSeriesDBReader\l::configuring" alt="" coords="581,74,768,121"/>
+<area shape="rect" id="node11" href="$classioGdcm_1_1SSeriesDBReader.html#a23adaf1174ce4374beab76d6b3dee63a" title="ioGdcm::SSeriesDBReader\l::configuring" alt="" coords="584,143,765,190"/>
+<area shape="rect" id="node13" href="$classgui_1_1action_1_1SSlotCaller.html#a2a1c2c98a7ab05c3740fe19b2b337d32" title="This method is used to configure the service parameters: specifies which slots must be called..." alt="" coords="597,213,752,259"/>
+</map>

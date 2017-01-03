@@ -1,0 +1,6 @@
+<map id="ioVTK::SSeriesDBReader::info" name="ioVTK::SSeriesDBReader::info">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="228,39,423,86"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="473,5,668,51"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="473,74,668,121"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="717,74,917,121"/>
+</map>

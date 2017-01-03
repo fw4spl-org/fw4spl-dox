@@ -1,0 +1,15 @@
+<map id="gui::editor::SJobBar" name="gui::editor::SJobBar">
+<area shape="rect" id="node2" href="$classgui_1_1editor_1_1IDialogEditor.html" title="Defines the service interface managing the editor service which create their own container. " alt="" coords="1763,121,1925,151"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1569,164,1711,193"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1257,237,1372,267"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="993,237,1132,267"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1011,291,1115,320"/>
+<area shape="rect" id="node14" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1252,172,1377,201"/>
+<area shape="rect" id="node16" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1012,176,1113,205"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="261,244,341,273"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="7,235,132,282"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="240,123,363,152"/>
+<area shape="rect" id="node42" title="STL class. " alt="" coords="252,41,351,71"/>
+<area shape="rect" id="node30" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1245,111,1384,140"/>
+<area shape="rect" id="node32" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1005,108,1120,137"/>
+</map>

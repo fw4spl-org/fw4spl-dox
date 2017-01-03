@@ -1,0 +1,4 @@
+<map id="fwTest::generator::Mesh::generateTriangleQuadMesh" name="fwTest::generator::Mesh::generateTriangleQuadMesh">
+<area shape="rect" id="node3" href="$classfwTest_1_1generator_1_1Mesh.html#ad5f544cea986ee54283a199da3b2bb2d" title="Add quad cells in mesh, this method generates synthetic data (two face of a cube). " alt="" coords="283,5,429,51"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Mesh.html#a67e01fe2e032dd3a6b64a837eafb8e7e" title="Add triangle cells in mesh, this method generates synthetic data (two face of a cube). " alt="" coords="276,74,436,121"/>
+</map>

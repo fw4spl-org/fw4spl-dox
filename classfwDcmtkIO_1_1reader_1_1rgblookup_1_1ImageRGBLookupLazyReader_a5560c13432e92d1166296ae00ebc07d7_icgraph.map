@@ -1,0 +1,4 @@
+<map id="fwDcmtkIO::reader::rgblookup::ImageRGBLookupLazyReader::createInstanceBuffer" name="fwDcmtkIO::reader::rgblookup::ImageRGBLookupLazyReader::createInstanceBuffer">
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1reader_1_1rgblookup_1_1ImageRGBLookupLazySource.html#a7925b717511b406dcb3ff95ad9079512" title="Constructor. " alt="" coords="276,5,521,69"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1reader_1_1rgblookup_1_1ImageRGBLookupLazySource.html#a3f7a7b49f1f4c80376166fe16f086a0b" title="Method to read n bytes in dicom buffer and write it in s. " alt="" coords="288,93,509,157"/>
+</map>

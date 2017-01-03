@@ -1,0 +1,5 @@
+<map id="ctrlSelection::updater::SObjFromSlot::addOrSwap" name="ctrlSelection::updater::SObjFromSlot::addOrSwap">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#ac0ac1a469b4be20ba958fa08996cd662" title="Streaming a service. " alt="" coords="244,5,385,51"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#a51fb349f84779cf5deff57f7714304a9" title="Register an output object at a given key in the OSR, replacing it if it already exists. " alt="" coords="244,74,385,121"/>
+<area shape="rect" id="node7" href="$namespacefwServices_1_1OSR.html#a317c6679a1d04dd53de7a910e0319009" title="Wraps ObjectService::isRegistered. " alt="" coords="435,83,640,112"/>
+</map>

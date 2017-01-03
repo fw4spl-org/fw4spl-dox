@@ -1,0 +1,5 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::updatingTFWindowing" name="fwDataTools::helper::MedicalImageAdaptor::updatingTFWindowing">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7d9b4baceeffed0e54dca20355413705" title="Slot: called when transfer function windowing is modified. " alt="" coords="215,5,369,69"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7da2fb939f5f910da4de15354a00cdb6" title="Install the slots to managed TF modifications. " alt="" coords="420,5,575,69"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#ad00884fc1e782937b6bef0e6e9ca35fb" title="Constructor, add handle events TRANSFERFUNCTION and WINDOWING. " alt="" coords="624,14,805,61"/>
+</map>

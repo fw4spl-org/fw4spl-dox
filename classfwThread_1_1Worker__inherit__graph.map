@@ -1,0 +1,5 @@
+<map id="fwThread::Worker" name="fwThread::Worker">
+<area shape="rect" id="node7" href="$classfwGuiQt_1_1WorkerQt.html" title="Private implementation of fwThread::Worker using boost::asio. " alt="" coords="5,256,139,285"/>
+<area shape="rect" id="node9" href="$classfwThread_1_1WorkerAsio.html" title="Private implementation of fwThread::Worker using boost::asio. " alt="" coords="163,256,315,285"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="85,101,224,131"/>
+</map>

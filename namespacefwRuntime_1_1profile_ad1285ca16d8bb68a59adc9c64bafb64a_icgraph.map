@@ -1,0 +1,3 @@
+<map id="fwRuntime::profile::setCurrentProfile" name="fwRuntime::profile::setCurrentProfile">
+<area shape="rect" id="node3" href="$classfwRuntime_1_1profile_1_1Profile.html#a4462c6c748d5e28d21f0702c7586ca1a" title="Returns a raw pointer on internal arguments. The returned data shall not be modified. This is provided for external library needs (QApplication contructor for example) " alt="" coords="181,5,347,51"/>
+</map>

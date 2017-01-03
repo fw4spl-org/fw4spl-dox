@@ -1,0 +1,6 @@
+<map id="fwJobs::IJob::cancel" name="fwJobs::IJob::cancel">
+<area shape="rect" id="node3" href="$classfwJobs_1_1Job.html#a186151bc184c85e13490c24f0e2cad86" title="Reimplements IJob&#39;s cancel. " alt="" coords="223,5,361,35"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#af938585369eb38a4a263584a9d87bf0c" title="Setter on cancelable. " alt="" coords="199,59,385,88"/>
+<area shape="rect" id="node7" href="$classgui_1_1editor_1_1SJobBar.html#a009772c277a4ab73b9800efce3e94444" title="showJob slot&#39;s method " alt="" coords="224,111,360,158"/>
+<area shape="rect" id="node9" href="$classgui_1_1editor_1_1SJobBar.html#a7056080b53400929888725c48aec1fa0" title="Constructor. Do nothing. " alt="" coords="436,111,572,158"/>
+</map>

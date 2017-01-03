@@ -1,0 +1,6 @@
+<map id="uiMedData::widget::ActivityDataView::checkAndComputeData" name="uiMedData::widget::ActivityDataView::checkAndComputeData">
+<area shape="rect" id="node3" href="$classfwDataCamp_1_1visitor_1_1CompareObjects.html#abd4758c27418d4b7206a6ed2cb83118d" title="Process to the comparison between reference object and compared object. When the process completes..." alt="" coords="243,5,429,51"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1registry_1_1ServiceConfig.html#a9e9e0c136f0bb9a4e9a3a0abaded138b" title="Return the default global instance of ServiceConfig. " alt="" coords="247,74,425,121"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="252,144,420,173"/>
+<area shape="rect" id="node5" href="$classfwData_1_1Object.html#af0357de4a1e118c53ee9f5f82413030b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="477,13,680,43"/>
+</map>

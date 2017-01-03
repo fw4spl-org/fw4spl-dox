@@ -1,0 +1,4 @@
+<map id="fwTools::DynamicType::setType" name="fwTools::DynamicType::setType">
+<area shape="rect" id="node3" href="$classfwTools_1_1DynamicType.html#a11daf81b9158c03da2a881e193cb9c84" title="Register a new type to be managed within DynamicType. " alt="" coords="211,5,368,51"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1DynamicType.html#a6e15cc162c7ce78166d03e24fd5cc46e" title="Return a human readable string for type (static version no instanciation ...) " alt="" coords="211,74,368,121"/>
+</map>

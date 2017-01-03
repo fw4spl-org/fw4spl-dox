@@ -1,0 +1,7 @@
+<map id="ioPacs::SSeriesPuller::readLocalSeries" name="ioPacs::SSeriesPuller::readLocalSeries">
+<area shape="rect" id="node3" href="$classfwTools_1_1System.html#a1b9f8df4e8b3eefcca11602e096d53b4" title="Returns a unique per&#45;process temporary folder. The top level temporary folder will be automatically d..." alt="" coords="204,5,412,51"/>
+<area shape="rect" id="node5" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a89bf67701443d36383a21ce18391dc75" title="Merge seriesDBIn all series from seriesDBIn to the SeriesDB. " alt="" coords="227,74,389,121"/>
+<area shape="rect" id="node9" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="227,143,389,190"/>
+<area shape="rect" id="node11" href="$classfwPacsIO_1_1helper_1_1Series.html#a53e62458d0804f7b25ba2b8a96d26e9b" title="Convert DCMTK series to instance uid vector. " alt="" coords="204,213,412,259"/>
+<area shape="rect" id="node7" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="463,74,625,121"/>
+</map>

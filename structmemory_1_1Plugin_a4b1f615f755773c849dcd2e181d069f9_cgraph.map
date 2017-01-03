@@ -1,0 +1,4 @@
+<map id="memory::Plugin::start" name="memory::Plugin::start">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Plugin.html#ab6e0d0e5db0f6876f7f096ba08f12fc2" title="Retrieves the bundle the executable originates from. " alt="" coords="220,5,356,51"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1BufferManager.html#ab3333231d8c4ddf9eb599562060c3ce8" title="Returns the current BufferManager instance. " alt="" coords="200,74,376,121"/>
+</map>

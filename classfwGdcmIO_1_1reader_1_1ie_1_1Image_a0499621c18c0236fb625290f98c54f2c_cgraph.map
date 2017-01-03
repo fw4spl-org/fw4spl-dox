@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::reader::ie::Image::readImagePixelModule" name="fwGdcmIO::reader::ie::Image::readImagePixelModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Image.html#ae14ed71e86c4275589ab42e5379e5e37" title="Correct image buffer according to image orientation. " alt="" coords="271,14,484,61"/>
+<area shape="rect" id="node7" href="$classfwDicomTools_1_1Image.html#aad0fd186e096b215d754b4e521d6f4e0" title="Find Image Type. " alt="" coords="261,93,493,139"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#ae8c39c48a086803d1296590e06283fe4" title="Return the pixel type from a gdcm pixel format. " alt="" coords="541,213,744,259"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Image.html#af632033b51f380015524d2801c97261b" title="Read image buffer. " alt="" coords="292,213,463,259"/>
+<area shape="rect" id="node18" href="$classfwDataTools_1_1helper_1_1Array.html#a3a372e10d52d952b958357ab3cac398c" title="Setter for the array buffer. " alt="" coords="308,282,447,329"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Image.html#ab8ded958eea2a0b7a2c1031df06d0f97" title="Compute the inverse of matrix. " alt="" coords="541,5,744,51"/>
+<area shape="rect" id="node9" href="$classfwDicomTools_1_1Image.html#a07a8a0e94d2b9e826b070379e42e4dcd" title="Return minimum possible value of the pixel. " alt="" coords="568,74,717,121"/>
+<area shape="rect" id="node11" href="$classfwDicomTools_1_1Image.html#a9153248376daea937d009439c63e5145" title="Return maximum possible value of the pixel. " alt="" coords="568,143,717,190"/>
+</map>

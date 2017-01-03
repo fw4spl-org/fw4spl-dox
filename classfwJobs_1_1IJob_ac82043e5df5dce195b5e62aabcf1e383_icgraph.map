@@ -1,0 +1,7 @@
+<map id="fwJobs::IJob::addCancelHookNoLock" name="fwJobs::IJob::addCancelHookNoLock">
+<area shape="rect" id="node3" href="$classfwJobs_1_1Aggregator.html#affc0fee2462ba7464a50ba893976ee39" title="Add an IJob to the Aggregator. " alt="" coords="272,5,435,35"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#a2905dca6f77148bfe88086784ab81eb2" title="Add cancel callback to sequence for cancel hook. " alt="" coords="255,59,452,88"/>
+<area shape="rect" id="node7" href="$classfwJobs_1_1IJob.html#a88be0f02451117809d391a03e4212ca7" title="Add cancel callback to sequence for cancel hook. " alt="" coords="503,28,740,57"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html#a3cc5610267316fb9a2c61b1f30deef0f" title="Write the image series in DICOM format. " alt="" coords="516,81,727,127"/>
+<area shape="rect" id="node9" href="$classfwJobs_1_1Observer.html#af59d7ea920f13694184d62bf49e53498" title="Constructor. " alt="" coords="789,28,976,57"/>
+</map>

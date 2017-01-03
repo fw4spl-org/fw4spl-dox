@@ -1,0 +1,6 @@
+<map id="fwData::Material::setDiffuseTexture" name="fwData::Material::setDiffuseTexture">
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1Texture.html#ae7feab0fa8662067f285443d72311642" title="Slot called when a texture must be applied on a material. " alt="" coords="241,39,409,86"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1Texture.html#a74222df164de1352e70767b04e76df4c" title="Constructor. " alt="" coords="460,5,628,51"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1Texture.html#a7f82f9715392eec0e0ce3b405a666ed7" title="Updates the vtkTransform from the TransformationMatrix3D. " alt="" coords="460,74,628,121"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1Texture.html#a8803ddcab20f06cd3a7d8d47f02d013a" title="Calls doUpdate() " alt="" coords="679,74,847,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwDataTools::helper::Array::getBufferPtr" name="fwDataTools::helper::Array::getBufferPtr">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1ArrayGetter.html#a7c57682ac6e0a93e4194b43d09bfb296" title="Getter for a buffer item. pointer to the requested item in the buffer. " alt="" coords="192,5,341,51"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1ArrayGetter.html#a89659574ba6d307bf771396d8028464a" title="Copies the data into the buffer pointed by " alt="" coords="389,5,539,51"/>
+</map>

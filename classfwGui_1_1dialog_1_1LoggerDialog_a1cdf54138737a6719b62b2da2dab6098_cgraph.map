@@ -1,0 +1,4 @@
+<map id="fwGui::dialog::LoggerDialog::showLoggerDialog" name="fwGui::dialog::LoggerDialog::showLoggerDialog">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1LoggerDialog.html#a48c8f0932a0b6d4c85803cb8c773fd32" title="Show the dialog and return whether the user has selected the Ok or Cancel button. ..." alt="" coords="239,5,420,51"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1ILoggerDialog.html#a016e8ba5d870d1589b2739b2fe1269e6" title="Show the dialog and return whether the user has selected the Ok or Cancel button. ..." alt="" coords="469,5,656,51"/>
+</map>

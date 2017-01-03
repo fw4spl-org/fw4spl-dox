@@ -1,0 +1,8 @@
+<map id="fwActivities::IValidator" name="fwActivities::IValidator">
+<area shape="rect" id="node7" href="$classfwActivities_1_1IActivityValidator.html" title="Base class for all fwActivities activity validator&#39;s classes. " alt="" coords="621,17,819,47"/>
+<area shape="rect" id="node11" href="$classfwActivities_1_1IObjectValidator.html" title="Base class for all fwActivities data validator&#39;s classes. " alt="" coords="625,79,815,108"/>
+<area shape="rect" id="node15" href="$classfwActivities_1_1validator_1_1RelatedStudy.html" title="Defines a validator which checks that given series refer to the same study. " alt="" coords="647,131,793,178"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,79,369,108"/>
+<area shape="rect" id="node9" href="$classfwActivities_1_1validator_1_1DefaultActivity.html" title="Defines a validator which checks that activity requirements are valid. " alt="" coords="867,5,1013,51"/>
+<area shape="rect" id="node13" href="$classfwActivities_1_1validator_1_1ImageProperties.html" title="Defines a validator which checks that properties of given images are the same. " alt="" coords="867,74,1013,121"/>
+</map>

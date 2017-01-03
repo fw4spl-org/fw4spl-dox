@@ -1,0 +1,26 @@
+var classfwDataIO_1_1reader_1_1IObjectReader =
+[
+    [ "Registrar", "classfwDataIO_1_1reader_1_1IObjectReader_1_1Registrar.html", "classfwDataIO_1_1reader_1_1IObjectReader_1_1Registrar" ],
+    [ "CancelCallback", "classfwDataIO_1_1reader_1_1IObjectReader.html#a74b6b644ed525c4217d4d3ffc9ac84aa", null ],
+    [ "Key", "classfwDataIO_1_1reader_1_1IObjectReader.html#a3234c7dd8b0f352a295d20a6d6c05977", null ],
+    [ "ProgressCallback", "classfwDataIO_1_1reader_1_1IObjectReader.html#a50d173e629d3644aefec521a8c785c39", null ],
+    [ "IObjectReader", "classfwDataIO_1_1reader_1_1IObjectReader.html#af289c2bd2eb759eef210b3638ae52395", null ],
+    [ "~IObjectReader", "classfwDataIO_1_1reader_1_1IObjectReader.html#a77575522cc880ebd4015f9a8f7d24b57", null ],
+    [ "cancel", "classfwDataIO_1_1reader_1_1IObjectReader.html#ad412e858b5b1b7d6de18e2283b8cb3f6", null ],
+    [ "extension", "classfwDataIO_1_1reader_1_1IObjectReader.html#ae36eba34006049fff618c165ac7887a1", null ],
+    [ "getClassname", "classfwDataIO_1_1reader_1_1IObjectReader.html#ad8a06f91e304e4fc1de38b64882c9992", null ],
+    [ "getFullClassname", "classfwDataIO_1_1reader_1_1IObjectReader.html#adcf787aca492620b254b45bf7ede30ed", null ],
+    [ "getFullNamespace", "classfwDataIO_1_1reader_1_1IObjectReader.html#aafa23f3e860d911bf1faf4648af90d3e", null ],
+    [ "getJob", "classfwDataIO_1_1reader_1_1IObjectReader.html#a84412865f9afca6e5c561238aac6109e", null ],
+    [ "getLeafClassname", "classfwDataIO_1_1reader_1_1IObjectReader.html#a6b4b7724d5785716d57a5bca544cfb86", null ],
+    [ "getLocation", "classfwDataIO_1_1reader_1_1IObjectReader.html#a76ae4407a3a957d08bbd399c9c21f837", null ],
+    [ "getObject", "classfwDataIO_1_1reader_1_1IObjectReader.html#a6ddb8fea191fb50b0eb39bc31868bd86", null ],
+    [ "getRootedClassname", "classfwDataIO_1_1reader_1_1IObjectReader.html#a2de2a20097e5aaacf645a08605583fce", null ],
+    [ "getRootedNamespace", "classfwDataIO_1_1reader_1_1IObjectReader.html#acbf17da47fb450e554fececc2af56d4d", null ],
+    [ "isA", "classfwDataIO_1_1reader_1_1IObjectReader.html#aeccfee6d713c9266fc6fb25ae25944fd", null ],
+    [ "read", "classfwDataIO_1_1reader_1_1IObjectReader.html#a2493bc8e28323531ab6bef317813f800", null ],
+    [ "setLocation", "classfwDataIO_1_1reader_1_1IObjectReader.html#ae4acbb803b40e7c3beef193a10d3af85", null ],
+    [ "setObject", "classfwDataIO_1_1reader_1_1IObjectReader.html#a647381eee2541ce4344d59b2fefe490c", null ],
+    [ "m_location", "classfwDataIO_1_1reader_1_1IObjectReader.html#a4c646262ed85ac158ce273677c093d33", null ],
+    [ "m_object", "classfwDataIO_1_1reader_1_1IObjectReader.html#a8ac6e851007d0b795d42bd3b43358db1", null ]
+];

@@ -1,0 +1,12 @@
+<map id="fwRuntime::getInfoForPoint" name="fwRuntime::getInfoForPoint">
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#a4e8c51fcedecc056867d28ffc974f088" title="Retrieves the extension point having the specified identifier. " alt="" coords="239,247,409,294"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#adfd7ac9087797b44b84746183d00c62a" title="Adds all bundle found in t he given path. " alt="" coords="505,5,647,51"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#ac3ad56e80e701530f9e225733f416421" title="Loads all bundles that can be found in the specified directory. " alt="" coords="496,75,656,104"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1io_1_1ProfileReader.html#ad462ad9ee707762408550e2bbce17009" title="Creates a profile from an xml file located at the given path. " alt="" coords="481,127,671,174"/>
+<area shape="rect" id="node11" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="743,158,884,205"/>
+<area shape="rect" id="node13" href="$structfwRuntime_1_1Runtime.html#aa7a79fcdb77983835e28ddc61fe822ac" title="Retrieves the bundle for the specified idenfier. " alt="" coords="505,247,647,294"/>
+<area shape="rect" id="node15" href="$structfwRuntime_1_1Runtime.html#a27bf9d08addb51435e096654c099da53" title="Retrieves the extension point instance matching the specified identifier. " alt="" coords="505,317,647,363"/>
+<area shape="rect" id="node17" href="$structfwRuntime_1_1IExecutable.html#a79af3d0dc2695861887f461887eee62f" title="Retrieves the bundle the executable originates from. " alt="" coords="495,386,657,433"/>
+<area shape="rect" id="node19" href="$namespacefwRuntime.html#ad6c36b4e1c879d1a48013f58a7d6ea3c" title="Retrieve a filesystem valid path for a path relative to the bundle having the specified identifier..." alt="" coords="459,456,693,485"/>
+<area shape="rect" id="node22" href="$namespacefwRuntime.html#a0c1d7b9c7ef1220c048171a8f1f2042a" title="Starts the given bundle set profile. " alt="" coords="499,509,653,539"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor" name="fwDataTools::helper::MedicalImageAdaptor">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptorTpl.html" title="fwDataTools::helper\l::MedicalImageAdaptorTpl\l\&lt; IMAGEID \&gt;" alt="" coords="240,5,413,69"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1Negato.html" title="scene2D::adaptor::Negato" alt="" coords="240,93,413,123"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1TransferFunction.html" title="scene2D::adaptor::Transfer\lFunction" alt="" coords="236,146,417,193"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1SliceIndexPositionEditor.html" title="SliceIndexPositionEditor service allows to change the slice index of an image. " alt="" coords="235,215,419,262"/>
+<area shape="rect" id="node11" href="$classuiImage_1_1WindowLevel.html" title="WindowLevel service allows to change the min / max value of windowing. " alt="" coords="249,285,404,315"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1Image.html" title="Render an image on the generic scene. " alt="" coords="247,339,407,368"/>
+<area shape="rect" id="node15" href="$classvisuVTKAdaptor_1_1Image3DCursor.html" title="Add a 3D spatial marker represented by a sphere. " alt="" coords="219,392,435,421"/>
+<area shape="rect" id="node17" href="$classvisuVTKAdaptor_1_1ImagePickerInteractor.html" title="Adaptor to manage image picking. " alt="" coords="228,445,425,491"/>
+<area shape="rect" id="node19" href="$classvisuVTKAdaptor_1_1ImageSeries.html" title="This adaptor shows ImageSeries. Creates an adaptor for the image in the series. " alt="" coords="228,515,425,544"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1ImageSlice.html" title="Adaptor to display only one slice of an image. " alt="" coords="232,568,421,597"/>
+<area shape="rect" id="node23" href="$classvisuVTKAdaptor_1_1ImageSliceOrientationText.html" title="Shows image orientation information (right, left, ...) This adaptor show locations labels in the four..." alt="" coords="232,621,421,667"/>
+<area shape="rect" id="node25" href="$classvisuVTKAdaptor_1_1ImagesProbeCursor.html" title="Draw pixel information from images given by id in composite. " alt="" coords="225,690,428,737"/>
+<area shape="rect" id="node27" href="$classvisuVTKAdaptor_1_1ImageText.html" title="Adaptor to display window image information (width, heigth, picked position) " alt="" coords="233,760,420,789"/>
+<area shape="rect" id="node29" href="$classvisuVTKAdaptor_1_1Medical3DCamera.html" title="Update camera scene according to defined axes (axial, sagittal, frontal). " alt="" coords="239,813,415,859"/>
+<area shape="rect" id="node31" href="$classvisuVTKAdaptor_1_1NegatoMPR.html" title="visuVTKAdaptor::NegatoMPR" alt="" coords="228,883,425,912"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1NegatoOneSlice.html" title="visuVTKAdaptor::NegatoOne\lSlice" alt="" coords="232,935,421,982"/>
+<area shape="rect" id="node35" href="$classvisuVTKAdaptor_1_1NegatoSlicingInteractor.html" title="visuVTKAdaptor::NegatoSlicing\lInteractor" alt="" coords="224,1005,429,1051"/>
+<area shape="rect" id="node37" href="$classvisuVTKAdaptor_1_1NegatoWindowingInteractor.html" title="visuVTKAdaptor::NegatoWindowing\lInteractor" alt="" coords="212,1074,441,1121"/>
+<area shape="rect" id="node39" href="$classvisuVTKAdaptor_1_1PlaneInteractor.html" title="visuVTKAdaptor::PlaneInteractor" alt="" coords="220,1144,433,1173"/>
+<area shape="rect" id="node41" href="$classvisuVTKAdaptor_1_1ProbeCursor.html" title="Cursor management. " alt="" coords="228,1197,425,1227"/>
+<area shape="rect" id="node43" href="$classvisuVTKAdaptor_1_1SliceFollowerCamera.html" title="Update the camera according to slice move. " alt="" coords="225,1250,428,1297"/>
+<area shape="rect" id="node45" href="$classvisuVTKAdaptor_1_1SlicesCursor.html" title="visuVTKAdaptor::SlicesCursor" alt="" coords="227,1320,427,1349"/>
+<area shape="rect" id="node47" href="$classvisuVTKVRAdaptor_1_1Volume.html" title="This adaptor displays a volume image. " alt="" coords="233,1373,420,1403"/>
+</map>

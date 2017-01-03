@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::writer::ie::FrameOfReference::writeFrameOfReferenceModule" name="fwGdcmIO::writer::ie::FrameOfReference::writeFrameOfReferenceModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1iod_1_1CTMRImageIOD.html#a24f28033ae5ac7a4ef66853b13beefce" title="Write DICOM file. " alt="" coords="276,5,441,51"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SurfaceSegmentationIOD.html#a07eed2645b15102ead7dcaa12765add0" title="Write DICOM file. " alt="" coords="269,75,448,139"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1Series.html#a18b66624af6345a706ca4f11f3c593a3" title="Load and start appropriate writing tools. In addition, it creates an adapted folder tree where DICOM ..." alt="" coords="496,45,667,91"/>
+</map>

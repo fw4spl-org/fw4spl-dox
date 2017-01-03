@@ -1,0 +1,4 @@
+<map id="fwRuntime::io::BundleDescriptorReader::createBundle" name="fwRuntime::io::BundleDescriptorReader::createBundle">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="265,5,407,51"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="265,74,407,121"/>
+</map>

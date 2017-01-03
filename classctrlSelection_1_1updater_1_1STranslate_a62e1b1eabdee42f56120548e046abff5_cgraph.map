@@ -1,0 +1,4 @@
+<map id="ctrlSelection::updater::STranslate::configuring" name="ctrlSelection::updater::STranslate::configuring">
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="220,5,361,51"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="412,5,553,51"/>
+</map>

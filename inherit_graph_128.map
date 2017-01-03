@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classfwCore_1_1util_1_1LazyInstantiator.html" title="A base class for lazy instantiation, constructed on first demand. " alt="" coords="149,5,341,51"/>
+<area shape="rect" id="node5" href="$classfwRuntime_1_1profile_1_1Activater.html" title="Activates a given bundle with optional parameters. " alt="" coords="181,74,309,121"/>
+<area shape="rect" id="node7" href="$classfwRuntime_1_1profile_1_1Initializer.html" title="Starts a given bundle. " alt="" coords="181,143,309,190"/>
+<area shape="rect" id="node9" href="$classfwRuntime_1_1profile_1_1Starter.html" title="Starts a given bundle. " alt="" coords="181,213,309,259"/>
+<area shape="rect" id="node11" href="$classfwRuntime_1_1profile_1_1Stopper.html" title="Stops a given bundle. " alt="" coords="181,282,309,329"/>
+<area shape="rect" id="node13" href="$classfwRuntime_1_1profile_1_1Uninitializer.html" title="Starts a given bundle. " alt="" coords="181,351,309,398"/>
+</map>

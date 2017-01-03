@@ -1,0 +1,7 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::updatingTFPoints" name="fwDataTools::helper::MedicalImageAdaptor::updatingTFPoints">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aaf785fe1298b3e1ad449ef1450a666c3" title="Slot: called when transfer function points are modified. " alt="" coords="212,75,367,139"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa38a3fbdbc198027431c858cb436990e" title="Slot: add objects. " alt="" coords="417,5,572,69"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7da2fb939f5f910da4de15354a00cdb6" title="Install the slots to managed TF modifications. " alt="" coords="623,75,777,139"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa696d66868ea033151a75daed3fde567" title="Slot: change objects. " alt="" coords="417,144,572,208"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#ad00884fc1e782937b6bef0e6e9ca35fb" title="Constructor, add handle events TRANSFERFUNCTION and WINDOWING. " alt="" coords="827,83,1008,130"/>
+</map>

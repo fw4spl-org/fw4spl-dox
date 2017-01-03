@@ -1,0 +1,4 @@
+<map id="fwMath::getClosestPoint" name="fwMath::getClosestPoint">
+<area shape="rect" id="node3" href="$namespacefwMath.html#aee9022699af75e137a51a8b55398ab2e" title="Compute the projection of a point in a given direction and test if this intersection is inside a give..." alt="" coords="221,5,344,35"/>
+<area shape="rect" id="node5" href="$namespacefwMath.html#ab95b2d6057db0df8754ca9958e63a46d" title="Give the intersection between a plane and a line. The result is returned in a point (_point)..." alt="" coords="392,5,515,35"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="visuVTKAdaptor::Material::updateMaterial" name="visuVTKAdaptor::Material::updateMaterial">
+<area shape="rect" id="node3" href="$classfwData_1_1Material.html#aa0483d3ae75aafec49b4697c580342d2" title="returns editable ambient color " alt="" coords="271,5,441,35"/>
+<area shape="rect" id="node5" href="$classfwData_1_1Material.html#a7b251e6c73eeff362f7a2bed2a40f20a" title="returns editable diffuse color " alt="" coords="273,59,439,88"/>
+<area shape="rect" id="node7" href="$classfwData_1_1Material.html#aa2cfe7d13e84e9f34a6a5d4c2c7da30d" title="returns editable diffuse texture " alt="" coords="263,111,449,158"/>
+<area shape="rect" id="node9" href="$classfwData_1_1Material.html#a062492a47485ca78abe02b91e059e682" title="get/set the texture wrapping " alt="" coords="263,181,449,227"/>
+<area shape="rect" id="node11" href="$classfwData_1_1Material.html#a84842e50dc96183c27ee126c15a457af" title="get/set the representation models (edge, point, wireframe, surface) " alt="" coords="224,251,488,280"/>
+<area shape="rect" id="node13" href="$classfwData_1_1Material.html#ac6c4429b9a997422d3c32c65550c2ee8" title="get/set the shading models(flat, gouraud, phong) " alt="" coords="245,304,467,333"/>
+<area shape="rect" id="node15" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a35b3188375865d89005fcf3afb11f59d" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="253,357,459,403"/>
+</map>

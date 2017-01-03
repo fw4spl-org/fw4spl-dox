@@ -1,0 +1,19 @@
+<map id="ioVTK::SModelSeriesWriter::configureWithIHM" name="ioVTK::SModelSeriesWriter::configureWithIHM">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="485,231,680,278"/>
+<area shape="rect" id="node5" href="$classio_1_1IWriter.html#ac05a81bf96d5e81d4a639180731dabe2" title="Clear any location set by the setFile/setFiles/setFolder setter. " alt="" coords="251,59,421,88"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ac9089689132bcc8570ac04165effbcf4" title="Save the specified default location for the dialog in preferences (if available) " alt="" coords="240,111,432,158"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a3b0e0ea5f0b57d21986daa33ef83d732" title="Set the initial location for the dialog. " alt="" coords="240,181,432,227"/>
+<area shape="rect" id="node11" href="$classio_1_1IWriter.html#ab705f4f0deeacacc3cd7c48a077be284" title="Sets folder path. " alt="" coords="265,5,407,35"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1MessageDialog.html#afb5819e4841835e33ecb9df169d8fe92" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="485,370,680,417"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a27e42ac5d51e12ae72a87e62e972bdd2" title="Set the message. " alt="" coords="239,301,433,347"/>
+<area shape="rect" id="node23" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5ea39af6405130f2c6ef27a2820be238" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="240,421,432,467"/>
+<area shape="rect" id="node25" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad71a45fa0e744cd1612241c8b1313620" title="Set the title of the message box. " alt="" coords="239,490,433,537"/>
+<area shape="rect" id="node27" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a9682346d8118fcb4f9fe4caf4eaa76c0" title="Set the title for the dialog. " alt="" coords="240,559,432,606"/>
+<area shape="rect" id="node29" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a1382f6205288dc457f233c67a2f0284e" title="Set the type of location for the dialog (SINGLE_FILE, FORLDER, MULTI_FILES) " alt="" coords="240,629,432,675"/>
+<area shape="rect" id="node31" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a6733599f0a055082253618428082766f" title="Display the dialog. " alt="" coords="240,698,432,745"/>
+<area shape="rect" id="node35" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="239,767,433,814"/>
+<area shape="rect" id="node13" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="496,5,669,35"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1dialog_1_1MessageDialog.html#af3e3451339ec5ddfee1435294fac9ee1" title="Set the default button. " alt="" coords="485,301,680,347"/>
+<area shape="rect" id="node33" href="$classfwGui_1_1dialog_1_1ILocationDialog.html#afe365e8bbb4d1aa519e2d003eefe4070" title="fwGui::dialog::ILocation\lDialog::show" alt="" coords="504,698,661,745"/>
+<area shape="rect" id="node37" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="483,767,683,814"/>
+</map>

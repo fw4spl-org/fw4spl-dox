@@ -1,0 +1,12 @@
+<map id="fwRenderVTK::IVtkAdaptorService::stopping" name="fwRenderVTK::IVtkAdaptorService::stopping">
+<area shape="rect" id="node3" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="236,22,457,69"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a3960bcd2e88db0bdfb559352fbd4163e" title="notify a render request iff vtkPipeline is modified " alt="" coords="256,126,437,173"/>
+<area shape="rect" id="node5" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="537,5,684,51"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1IService.html#a6db0e20663c8a55de3850125b2f6cf94" title="Test if the service is started or not. " alt="" coords="540,74,681,121"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1IService.html#a31aadcf24b9fc5cc8984489900cfa988" title="Return the object associated to service. " alt="" coords="540,143,681,190"/>
+<area shape="rect" id="node21" href="$classfwRenderVTK_1_1IVtkAdaptorService.html#a35b3188375865d89005fcf3afb11f59d" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="508,213,713,259"/>
+<area shape="rect" id="node13" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="763,121,907,151"/>
+<area shape="rect" id="node19" href="$classfwServices_1_1IService.html#a84affebc8258fcec7a32770854b56f9b" title="return object&#39;s classname given by fwCore::Demangler::getClassname() " alt="" coords="764,174,905,221"/>
+<area shape="rect" id="node15" href="$classfwTools_1_1fwID.html#a862fc692341b55fe08041f0b35507df6" title="return object&#39;s classname given by fwCore::Demangler::getRootedClassname() " alt="" coords="956,82,1127,129"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="972,152,1111,181"/>
+</map>

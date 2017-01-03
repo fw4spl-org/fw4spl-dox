@@ -1,0 +1,5 @@
+<map id="uiMedData::editor::SSelector::onSelectedSeries" name="uiMedData::editor::SSelector::onSelectedSeries">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Vector.html#ab42a0e8dff82ed5f2327ccc73b0a90de" title="Add an object in the vector. " alt="" coords="243,5,381,51"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Vector.html#a74297d2b7d19ea68434109ebda26424d" title="Send the signal of modification. " alt="" coords="243,74,381,121"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1Vector.html#a3ed153b004f3757f039254f242f04db2" title="Remove an object in the vector. " alt="" coords="243,143,381,190"/>
+</map>

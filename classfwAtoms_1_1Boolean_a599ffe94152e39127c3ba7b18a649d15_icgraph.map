@@ -1,0 +1,12 @@
+<map id="fwAtoms::Boolean::New" name="fwAtoms::Boolean::New">
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V4ToV3.html#a777580c801e8fb66603916a781fc1312" title="Applies patch. " alt="" coords="233,5,407,69"/>
+<area shape="rect" id="node5" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V2ToV3.html#aa9d4d492cf3e9df85226696f08256402" title="Applies patch. " alt="" coords="233,93,407,157"/>
+<area shape="rect" id="node7" href="$classfwAtoms_1_1Boolean.html#a3ce882a6768054b5fd2a3c8cfcf4c506" title="Returns a clone object. " alt="" coords="236,181,404,211"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1Boolean.html#a543c61c58581d50f16b16301aa5f44f5" title="Construct an object storing a bool value. " alt="" coords="239,235,401,264"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a6c0626726a1a7ea6d86e93509886bb8d" title="Process atom base. " alt="" coords="220,287,420,334"/>
+<area shape="rect" id="node13" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a513ee60f7c2943947f77d71214a3577b" title="Process structural atom object. " alt="" coords="473,151,700,215"/>
+<area shape="rect" id="node18" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a33dbe235559ece16106c531558646257" title="Process contextual atom object. " alt="" coords="469,239,704,303"/>
+<area shape="rect" id="node22" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad8ced6b1e5871b12510de5d93de38e7c" title="Process atom mapping. " alt="" coords="477,326,696,373"/>
+<area shape="rect" id="node25" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a81996b6b891e6815401d5eebeb0121be" title="Process atom sequence. " alt="" coords="472,395,701,442"/>
+<area shape="rect" id="node15" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#aafb56ac01f01452173281d95c85d7ff7" title="Apply the patch to the specified object. " alt="" coords="753,195,932,259"/>
+</map>

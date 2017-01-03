@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::writer::iod::InformationObjectDefinition" name="fwGdcmIO::writer::iod::InformationObjectDefinition">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1iod_1_1ComprehensiveSRIOD.html" title="ComprehensiveSRIOD class used to write Enhanced Structured Report DICOM files. " alt="" coords="251,5,413,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1iod_1_1CTMRImageIOD.html" title="CTMRImageIOD class used to write CTImage and MRImage DICOM files. " alt="" coords="257,74,407,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SpatialFiducialsIOD.html" title="SpatialFiducialsIOD class used to write Spacial Fiducials DICOM files. " alt="" coords="257,143,407,190"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SurfaceSegmentationIOD.html" title="SurfaceSegmentationIOD class used to write Surface Segmentation DICOM files. " alt="" coords="243,213,421,259"/>
+</map>

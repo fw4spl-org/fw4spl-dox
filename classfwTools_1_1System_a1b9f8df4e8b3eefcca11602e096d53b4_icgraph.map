@@ -1,0 +1,18 @@
+<map id="fwTools::System::getTemporaryFolder" name="fwTools::System::getTemporaryFolder">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesAnonymizer.html#a7e82786765bf96550eabe99663d01a93" title="Anonymize the DicomSeries (doesn&#39;t modify the current object) " alt="" coords="280,5,491,51"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1BufferManager.html#a99d75ead9dcbe9556d85beb380d0c94b" title="Dump/restore a buffer. " alt="" coords="297,74,473,121"/>
+<area shape="rect" id="node7" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a680faf596ce8151900d15c4fd5eb1662" title="Override. " alt="" coords="276,143,495,190"/>
+<area shape="rect" id="node11" href="$classfwPacsIO_1_1SeriesRetriever.html#aa392cb74992066a8638f91e4e7b0c29f" title="Initialize the connection. " alt="" coords="296,213,475,259"/>
+<area shape="rect" id="node13" href="$classfwPacsIO_1_1SeriesEnquirer.html#a38117a7040bed2360a75a7ed122ef68d" title="Initialize the connection. " alt="" coords="299,282,472,329"/>
+<area shape="rect" id="node15" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#ae2a730173f17518ff7ea72eb9cbff5bb" title="Pull the selected slice from the pacs. " alt="" coords="296,351,475,398"/>
+<area shape="rect" id="node21" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a797bc2567cb2db3bd0b3f1b04df9f9bc" title="Read the selected image. " alt="" coords="292,421,479,467"/>
+<area shape="rect" id="node25" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a5e895f9ec74048319f9d38d73652d13d" title="Read the selected image. " alt="" coords="296,490,475,537"/>
+<area shape="rect" id="node29" href="$classioPacs_1_1SSeriesPuller.html#ad6e611feb6c988b57f51098ecef017ac" title="Read local series. " alt="" coords="311,559,460,606"/>
+<area shape="rect" id="node33" href="$classfwGdcmIO_1_1helper_1_1DicomAnonymizer.html#af6ec57108fd242de4c1bdeba76adbefe" title="The removed tag will not be process by anonimization tag. " alt="" coords="264,629,507,675"/>
+<area shape="rect" id="node9" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a95f786ee4b6abe92da2607cff1c07838" title="Override. " alt="" coords="556,143,775,190"/>
+<area shape="rect" id="node17" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a90f429052001bd0eaf1ba52d22a05b2d" title="Function called when a new slice must be displayed. " alt="" coords="571,347,760,394"/>
+<area shape="rect" id="node19" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a6ff2a3f0938e623f0e44553b86b3df55" title="Override. " alt="" coords="824,347,1003,394"/>
+<area shape="rect" id="node23" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a1db62c863a8e3dea4d9414aedd40cce8" title="Constructor. " alt="" coords="563,417,768,463"/>
+<area shape="rect" id="node27" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#afcc74da2cda0fe0a0e8bc8b57bacf4d8" title="Constructor. " alt="" coords="563,487,768,551"/>
+<area shape="rect" id="node31" href="$classioPacs_1_1SSeriesPuller.html#a3d50255da1b4c50c2d8fb8c67a36faf5" title="Constructor. " alt="" coords="591,574,740,621"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="scene2D::adaptor::TransferFunction::doUpdate" name="scene2D::adaptor::TransferFunction::doUpdate">
+<area shape="rect" id="node3" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a9bfea25b91ac02856430580f7b059707" title="scene2D::adaptor::Transfer\lFunction::doStart" alt="" coords="249,5,431,51"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#ae5b2046d0ab2801ceb02d804ab039ca0" title="scene2D::adaptor::Transfer\lFunction::doSwap" alt="" coords="249,74,431,121"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a628647be5921ae935dbb7416c0bb76df" title="scene2D::adaptor::Transfer\lFunction::processInteraction" alt="" coords="247,143,433,190"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a0ddd2e153a429a5a1660ac6086cc7b28" title="Called when transfer function points are modified. " alt="" coords="249,213,431,259"/>
+<area shape="rect" id="node11" href="$classscene2D_1_1adaptor_1_1TransferFunction.html#a87f626bd60dbb5734c5d47867ed0986a" title="Called when transfer function windowing is modified. " alt="" coords="236,282,444,329"/>
+</map>

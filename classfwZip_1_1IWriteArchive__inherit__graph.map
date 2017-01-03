@@ -1,0 +1,4 @@
+<map id="fwZip::IWriteArchive" name="fwZip::IWriteArchive">
+<area shape="rect" id="node3" href="$classfwZip_1_1WriteDirArchive.html" title="This class defines functions to write a file in a file system archive. " alt="" coords="5,83,160,112"/>
+<area shape="rect" id="node5" href="$classfwZip_1_1WriteZipArchive.html" title="This class defines functions to write a file in a zip archive. " alt="" coords="184,83,339,112"/>
+</map>

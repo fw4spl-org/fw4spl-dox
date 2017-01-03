@@ -1,0 +1,7 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::getImageSpacing" name="fwDataTools::helper::MedicalImageAdaptor::getImageSpacing">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aead16d097e8fb6f55f4eee7102177e60" title="Get the slice center. " alt="" coords="424,5,581,69"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a8a003b4421f79f2c37c040b21c01459f" title="Get the image size ( = dataSize * spacing ). " alt="" coords="212,40,367,104"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aadd37731ecdc88581c498ab54a1fd727" title="Convert from world coordinates system to image coordinates system. " alt="" coords="212,128,367,192"/>
+<area shape="rect" id="node10" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ac75285b87ba24487807c147e4564c6ec" title="Convert world coordinates to slice index coordinates. " alt="" coords="212,216,367,280"/>
+<area shape="rect" id="node12" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a9efd816fd8a73d9802196cb7f5388d87" title="Convert coordinates in the world to coordinates in the image. " alt="" coords="416,216,589,280"/>
+</map>

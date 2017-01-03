@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::container::sr::DicomSRNode::write" name="fwGdcmIO::container::sr::DicomSRNode::write">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRCodeNode.html#a0f15869bfe1b6a52fd008b855fdb8c27" title="Write the SR node in the dataset. " alt="" coords="243,5,411,69"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRContainerNode.html#a390b772987554b05cb09233b9dbb020e" title="Write the SR node in the dataset. " alt="" coords="231,93,423,157"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRUIDRefNode.html#a20c728d0bc5a240f57d31dc7ac9ac83c" title="Write the SR node in the dataset. " alt="" coords="236,181,417,245"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRTextNode.html#a21a308a8dfc0d87a9043a02ae13e3176" title="Write the SR node in the dataset. " alt="" coords="245,269,408,333"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNumNode.html#a9b8b27ebf4db380c5a0a5b503c9abc9d" title="Write the SR node in the dataset. " alt="" coords="244,357,409,421"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html#a62a17c1df8699d0356a385bc78307b7f" title="Write the SR node in the dataset. " alt="" coords="240,445,413,509"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html#a840f5b842ea56b6e2c9dd0dfce7aaa90" title="Write the SR node in the dataset. " alt="" coords="236,533,417,597"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html#a6c0ef7e97e69c66e6c0465af5883c1da" title="Write the SR node in the dataset. " alt="" coords="228,621,425,685"/>
+</map>

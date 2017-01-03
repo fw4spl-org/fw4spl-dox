@@ -1,0 +1,6 @@
+<map id="fwGuiQt::dialog::LocationDialog::show" name="fwGuiQt::dialog::LocationDialog::show">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a9588a8c01049bd7880c03c4f8b3c0edf" title="Gets the default location for the dialog (from preferences or specified by user) " alt="" coords="224,5,416,51"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a392cbdc9814f2388a32cba52881863eb" title="Returns the title for the dialog. " alt="" coords="224,74,416,121"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5ea39af6405130f2c6ef27a2820be238" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="224,143,416,190"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a1382f6205288dc457f233c67a2f0284e" title="Set the type of location for the dialog (SINGLE_FILE, FORLDER, MULTI_FILES) " alt="" coords="224,213,416,259"/>
+</map>

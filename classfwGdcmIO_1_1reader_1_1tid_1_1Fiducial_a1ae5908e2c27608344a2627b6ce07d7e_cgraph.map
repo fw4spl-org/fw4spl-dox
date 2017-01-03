@@ -1,0 +1,9 @@
+<map id="fwGdcmIO::reader::tid::Fiducial::readNode" name="fwGdcmIO::reader::tid::Fiducial::readNode">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html#a4fea2a1e7fb11c2648a5075ece93ea50" title="Add a landmark into the image. " alt="" coords="235,5,395,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a7c2799d7210bfa18927383c5a4a1543a" title="Get Coded attribute. " alt="" coords="215,75,415,139"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html#a2f65fdeb23c3ddc094cc53b12faa559a" title="Get Frame number. " alt="" coords="228,163,401,227"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html#a9eaa2156e38061adc9b6d5bb8de7626d" title="Get Graphic data container. " alt="" coords="224,251,405,315"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html#a33cf7f45a5c7ebb5a3f3b4b41dcf3201" title="Get Graphic data container. " alt="" coords="216,339,413,403"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a57d396d35c50a5293cea96f15115558e" title="Get Sub node container. " alt="" coords="207,427,423,491"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRTextNode.html#a4f29913fbfad7b241c0b45aac7c81d43" title="Get Text value. " alt="" coords="233,515,396,579"/>
+</map>

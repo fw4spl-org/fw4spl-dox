@@ -1,0 +1,8 @@
+<map id="fwCore::Demangler::demangle" name="fwCore::Demangler::demangle">
+<area shape="rect" id="node3" href="$classfwCore_1_1Demangler.html#ae5cc8836faea308b30fc1502a3db3e4a" title="Returns &quot;some::long::namespace::Object&quot; from &quot;::some::long::namespace::Object&quot;. " alt="" coords="201,5,343,51"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1Demangler.html#ad9f8896d1bcf03c5b6196e58133e340c" title="Returns &quot;some::long::namespace&quot; from &quot;::some::long::namespace::Object&quot;. " alt="" coords="201,74,343,121"/>
+<area shape="rect" id="node9" href="$classfwCore_1_1Demangler.html#aeab7971721e5cdf9ac18429773992179" title="Returns &quot;Object&quot; from &quot;::some::long::namespace::Object&quot;. " alt="" coords="201,143,343,190"/>
+<area shape="rect" id="node11" href="$classfwCore_1_1Demangler.html#a495d1db28922ebf711633e929529f159" title="Returns &quot;::some::long::namespace::Object&quot; from &quot;::some::long::namespace::Object&quot;. ..." alt="" coords="199,213,345,259"/>
+<area shape="rect" id="node7" href="$classfwCore_1_1Demangler.html#ae1812c17a4d348aedde5f03c7e8cebae" title="Returns &quot;::some::long::namespace&quot; from &quot;::some::long::namespace::Object&quot;. " alt="" coords="395,74,547,121"/>
+<area shape="rect" id="node13" href="$classfwCore_1_1Demangler.html#a37fca5fa3ff6d583b49ce601da900dff" title="Like getRootedClassname(), present for backward compatibility. " alt="" coords="400,213,541,259"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fwItkIO::ImageWriter" name="fwItkIO::ImageWriter">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="1007,23,1177,87"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="424,5,592,51"/>
+<area shape="rect" id="node10" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="644,41,833,87"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,372,43"/>
+<area shape="rect" id="node13" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="1011,111,1173,175"/>
+<area shape="rect" id="node15" href="$structfwData_1_1location_1_1enableSingleFile.html" title="This class is derived by reader/writer. " alt="" coords="657,119,820,166"/>
+<area shape="rect" id="node17" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="1007,199,1177,228"/>
+</map>

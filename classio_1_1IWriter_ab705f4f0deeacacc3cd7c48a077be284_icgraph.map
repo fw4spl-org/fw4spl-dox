@@ -1,0 +1,12 @@
+<map id="io::IWriter::setFolder" name="io::IWriter::setFolder">
+<area shape="rect" id="node3" href="$classioGdcm_1_1SSeriesDBWriter.html#a4d3061443df444eeb442c6f90c906b41" title="Propose a directory selection where to save the DICOM files. " alt="" coords="215,5,388,51"/>
+<area shape="rect" id="node5" href="$classioITK_1_1SJpgImageSeriesWriter.html#a78b42bd6279114d375096919da5fbd33" title="Override. " alt="" coords="203,74,400,121"/>
+<area shape="rect" id="node7" href="$classioVtkGdcm_1_1SImageSeriesWriter.html#a16e7842558029d70175f87182e23236d" title="Propose select a directory where to save the DICOM files. " alt="" coords="196,143,407,190"/>
+<area shape="rect" id="node9" href="$classioITK_1_1JpgImageWriterService.html#a79f6bc106397992413098d5f4ad87a8e" title="Override. " alt="" coords="203,213,400,259"/>
+<area shape="rect" id="node11" href="$classioGdcm_1_1SDicomSeriesWriter.html#a30722f8e5fc338f6ccb8c28d19285d40" title="Propose select a directory where to save the DICOM files. " alt="" coords="204,282,399,329"/>
+<area shape="rect" id="node13" href="$classioVTK_1_1SModelSeriesWriter.html#a591642d67e46ad3335cd228da74e4f2b" title="Configure the mesh path. " alt="" coords="211,351,392,398"/>
+<area shape="rect" id="node15" href="$classioVTK_1_1SModelSeriesObjWriter.html#a9431e4319ecd16f3b63b80c6411850c5" title="Configure the mesh path. " alt="" coords="200,421,403,467"/>
+<area shape="rect" id="node17" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="227,491,376,520"/>
+<area shape="rect" id="node19" href="$classioAtoms_1_1SWriter.html#a2ce40c407f54f86038b0f6f20fcbe616" title="Configures the writer. " alt="" coords="457,464,649,493"/>
+<area shape="rect" id="node21" href="$classioQt_1_1SPdfWriter.html#a8db1ef80560ec7086beb70860b6bd82e" title="Configure service. This method is called by configure() from base service ( fwServices::IService ) ..." alt="" coords="459,517,648,547"/>
+</map>

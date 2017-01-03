@@ -1,0 +1,17 @@
+<map id="fwGdcmIO::writer::ie::InformationEntity&lt; DATATYPE &gt;" name="fwGdcmIO::writer::ie::InformationEntity&lt; DATATYPE &gt;">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::Equipment \&gt;" alt="" coords="388,5,569,69"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::ModelSeries \&gt;" alt="" coords="383,96,575,160"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::Series \&gt;" alt="" coords="400,191,557,255"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::Study \&gt;" alt="" coords="401,279,556,343"/>
+<area shape="rect" id="node21" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwData::Image \&gt;" alt="" coords="408,392,549,456"/>
+<area shape="rect" id="node29" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::Patient \&gt;" alt="" coords="397,531,560,595"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Equipment.html" title="Equipment Information Entity class. " alt="" coords="628,10,769,57"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Surface.html" title="Surface Information Entity class. " alt="" coords="628,79,769,126"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1writer_1_1ie_1_1FrameOfReference.html" title="Frame Of Reference Information Entity class. " alt="" coords="628,149,769,195"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Series.html" title="Series Information Entity class. " alt="" coords="628,218,769,265"/>
+<area shape="rect" id="node19" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Study.html" title="Study Information Entity class. " alt="" coords="628,287,769,334"/>
+<area shape="rect" id="node23" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Document.html" title="Document Information Entity class. " alt="" coords="628,357,769,403"/>
+<area shape="rect" id="node25" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Image.html" title="Image Information Entity class. " alt="" coords="628,426,769,473"/>
+<area shape="rect" id="node27" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html" title="Spatial Fiducials Information Entity class. " alt="" coords="628,495,769,542"/>
+<area shape="rect" id="node31" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Patient.html" title="Patient Information Entity class. " alt="" coords="628,565,769,611"/>
+</map>

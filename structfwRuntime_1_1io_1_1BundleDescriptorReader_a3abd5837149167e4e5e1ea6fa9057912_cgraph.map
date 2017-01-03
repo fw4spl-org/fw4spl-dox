@@ -1,0 +1,5 @@
+<map id="fwRuntime::io::BundleDescriptorReader::createBundles" name="fwRuntime::io::BundleDescriptorReader::createBundles">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#adf8040cb8edd99814fd17924a27fe749" title="Look for a descriptor at the specified location, reads it and creates a bundle with it..." alt="" coords="264,39,475,86"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="524,5,665,51"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="524,74,665,121"/>
+</map>

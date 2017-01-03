@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::DicomSeries::fillSeries" name="fwGdcmIO::helper::DicomSeries::fillSeries">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a9befa1c20e389e64ad5245e358ea39f0" title="Fill DicomSeries information for series generated using DICOMDIR helper. " alt="" coords="264,5,475,51"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ae13c7c09b91917356f8bd0a71a87abbb" title="Read DicomSeries from paths. " alt="" coords="264,74,475,121"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="524,39,697,86"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="fwServices::IService::updating" name="fwServices::IService::updating">
+<area shape="rect" id="node3" href="$classio_1_1IReader.html#af990cd794ac381ebc7cdf261b6eb74dd" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="199,629,361,675"/>
+<area shape="rect" id="node41" href="$classfwServices_1_1IService.html#a1eb9b44c43e795e7abee1076b8498620" title="Invoke updating() if m_globalState == STARTED. Does nothing otherwise. " alt="" coords="209,1237,351,1283"/>
+<area shape="rect" id="node5" href="$classioTuto_1_1ExternalDataReaderService.html#acb1a00beb738b99a4def085a896a263c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="431,5,615,51"/>
+<area shape="rect" id="node7" href="$classioITK_1_1InrImageReaderService.html#a6cbbdd01a768cbc73e843ab37b0b3653" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="424,74,621,121"/>
+<area shape="rect" id="node9" href="$classioData_1_1MeshReaderService.html#ac655da98febbb27a576dafba79648936" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="429,143,616,190"/>
+<area shape="rect" id="node11" href="$classioData_1_1SAttachmentSeriesReader.html#a7760a4d9dc4028484d1cbaffdbdd3310" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="432,213,613,259"/>
+<area shape="rect" id="node13" href="$classioDcmtk_1_1SDicomSeriesDBReader.html#a9fb67a5e87c1c2fbdf795e5cb78a7ae9" title="Override. " alt="" coords="411,282,635,329"/>
+<area shape="rect" id="node15" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a3e76d239599148e690eeadd92dac7a3b" title="Override. " alt="" coords="413,351,632,398"/>
+<area shape="rect" id="node17" href="$classioDcmtk_1_1SDicomTagSeriesDBReader.html#a816c7c1b0b50be2fff1664f72db995c8" title="Override. " alt="" coords="431,421,615,467"/>
+<area shape="rect" id="node19" href="$classioVTK_1_1SImageReader.html#ad65468ae36be76223fb3523efe322b68" title="Updating method execute the read process. " alt="" coords="447,490,599,537"/>
+<area shape="rect" id="node21" href="$classioITK_1_1SInrSeriesDBReader.html#a52c2b9dee7f52473d803dee1583984e6" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="432,559,613,606"/>
+<area shape="rect" id="node23" href="$classioVTK_1_1SMeshReader.html#a609c7df8d6a22439833b0da36f12cf69" title="Updating method. " alt="" coords="448,629,597,675"/>
+<area shape="rect" id="node25" href="$classioVTK_1_1SModelSeriesReader.html#aeb936d52a411c8b26ba5ed627663aa73" title="Updating method. " alt="" coords="428,698,617,745"/>
+<area shape="rect" id="node27" href="$classioAtoms_1_1SReader.html#a950137d9c33a89cbb6324be4467a61ad" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="429,768,616,797"/>
+<area shape="rect" id="node29" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#abaadf513d8bbdfc53bcc597717dbd585" title="Override. " alt="" coords="429,821,616,867"/>
+<area shape="rect" id="node31" href="$classioDcmtk_1_1SSeriesDBReader.html#ae6fee65943f0e8095a4722e8bccbb79b" title="Override. " alt="" coords="429,890,616,937"/>
+<area shape="rect" id="node33" href="$classioGdcm_1_1SSeriesDBReader.html#aed22a248dfc21938b560b8a4ed64ad1a" title="Override. " alt="" coords="432,959,613,1006"/>
+<area shape="rect" id="node35" href="$classioVTK_1_1SSeriesDBReader.html#aa9825c1912cc55c48e8b674241b6846c" title="Updating method. " alt="" coords="436,1029,609,1075"/>
+<area shape="rect" id="node37" href="$classioVtkGdcm_1_1SSeriesDBReader.html#af069b5c85ce381d498c5960ea0004fef" title="Override. " alt="" coords="421,1098,624,1145"/>
+<area shape="rect" id="node39" href="$classioData_1_1TransformationMatrix3DReaderService.html#a355e46279fd66f3dc62520d01ed45674" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="424,1167,621,1214"/>
+<area shape="rect" id="node43" href="$classfwServices_1_1IService.html#ad540e61677f83ee6d057317da73f3ad9" title="IService constructor. " alt="" coords="452,1237,593,1283"/>
+<area shape="rect" id="node45" href="$classscene2D_1_1adaptor_1_1ViewportRangeSelector.html#a783207c36cce9f642cac900bee3ebc48" title="Interact with the mouse events catched on the IAdaptor (virtual function, its behavior is only define..." alt="" coords="412,1306,633,1353"/>
+</map>

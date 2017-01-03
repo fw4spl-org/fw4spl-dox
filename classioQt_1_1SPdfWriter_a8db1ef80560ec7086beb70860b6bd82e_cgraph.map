@@ -1,0 +1,9 @@
+<map id="ioQt::SPdfWriter::configuring" name="ioQt::SPdfWriter::configuring">
+<area shape="rect" id="node3" href="$classio_1_1IWriter.html#ae079442b16d7bacf5525fa2796c77a99" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="272,52,421,82"/>
+<area shape="rect" id="node16" href="$structfwRuntime_1_1ConfigurationElementContainer.html#ada9c86a62b6a940936827606c264c371" title="Returns the configuration element container. " alt="" coords="244,105,449,152"/>
+<area shape="rect" id="node18" href="$classfwServices_1_1IService.html#ac0ac1a469b4be20ba958fa08996cd662" title="Streaming a service. " alt="" coords="276,174,417,221"/>
+<area shape="rect" id="node5" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="689,52,863,82"/>
+<area shape="rect" id="node7" href="$classio_1_1IWriter.html#ab72fabf86c951e3bcdf42273f27cd576" title="Sets file path. " alt="" coords="507,26,632,55"/>
+<area shape="rect" id="node10" href="$classio_1_1IWriter.html#a87be6dd4f95c43b32384d175de30a9fa" title="Sets file paths. " alt="" coords="503,79,636,108"/>
+<area shape="rect" id="node13" href="$classio_1_1IWriter.html#ab705f4f0deeacacc3cd7c48a077be284" title="Sets folder path. " alt="" coords="499,132,640,162"/>
+</map>

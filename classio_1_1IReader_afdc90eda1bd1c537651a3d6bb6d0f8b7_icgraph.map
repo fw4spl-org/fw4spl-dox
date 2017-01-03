@@ -1,0 +1,10 @@
+<map id="io::IReader::getFile" name="io::IReader::getFile">
+<area shape="rect" id="node3" href="$classioITK_1_1InrImageReaderService.html#a6cbbdd01a768cbc73e843ab37b0b3653" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="188,5,385,51"/>
+<area shape="rect" id="node5" href="$classioVTK_1_1SImageReader.html#ad65468ae36be76223fb3523efe322b68" title="Updating method execute the read process. " alt="" coords="211,74,363,121"/>
+<area shape="rect" id="node7" href="$classioTuto_1_1ExternalDataReaderService.html#acb1a00beb738b99a4def085a896a263c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="195,143,379,190"/>
+<area shape="rect" id="node9" href="$classioData_1_1TransformationMatrix3DReaderService.html#a355e46279fd66f3dc62520d01ed45674" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="188,213,385,259"/>
+<area shape="rect" id="node11" href="$classioVTK_1_1SMeshReader.html#a609c7df8d6a22439833b0da36f12cf69" title="Updating method. " alt="" coords="212,282,361,329"/>
+<area shape="rect" id="node13" href="$classioData_1_1SAttachmentSeriesReader.html#a7760a4d9dc4028484d1cbaffdbdd3310" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="196,351,377,398"/>
+<area shape="rect" id="node15" href="$classioData_1_1MeshReaderService.html#ac655da98febbb27a576dafba79648936" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="193,421,380,467"/>
+<area shape="rect" id="node17" href="$classioAtoms_1_1SReader.html#a950137d9c33a89cbb6324be4467a61ad" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="193,491,380,520"/>
+</map>

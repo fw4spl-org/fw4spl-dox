@@ -1,0 +1,7 @@
+<map id="fwJobs::IJob::cancelRequested" name="fwJobs::IJob::cancelRequested">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#a79ff8e34d2daa46f834a57ae3e0c9393" title="Create DicomSeries from information stored in DICOMDIR. " alt="" coords="272,5,461,51"/>
+<area shape="rect" id="node7" href="$classioAtoms_1_1SWriter.html#aad07c698baa2bee34450ca23ae88c55c" title="Convert fwData to fwAtoms, and apply the writer chosen from file extension. " alt="" coords="277,75,456,104"/>
+<area shape="rect" id="node9" href="$classioAtoms_1_1SReader.html#a950137d9c33a89cbb6324be4467a61ad" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="273,128,460,157"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html#a3cc5610267316fb9a2c61b1f30deef0f" title="Write the image series in DICOM format. " alt="" coords="261,181,472,227"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="521,5,695,51"/>
+</map>

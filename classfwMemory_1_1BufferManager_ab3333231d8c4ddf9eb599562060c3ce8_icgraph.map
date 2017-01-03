@@ -1,0 +1,11 @@
+<map id="fwMemory::BufferManager::getDefault" name="fwMemory::BufferManager::getDefault">
+<area shape="rect" id="node3" href="$classmonitor_1_1DumpEditor.html#a17950710cfcb8f493c2be4c58bf8cdb6" title="This method is called when an item is pressed. " alt="" coords="252,5,393,51"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html#aea59b0189e5f99a8b19254f5e1b339ba" title="Override. " alt="" coords="233,74,412,121"/>
+<area shape="rect" id="node9" href="$structmemory_1_1Plugin.html#a4b1f615f755773c849dcd2e181d069f9" title="Start method. (does nothing) " alt="" coords="249,144,396,173"/>
+<area shape="rect" id="node11" href="$classmemory_1_1SDumpPolicy.html#ad5d8a108268cd474dd8f9c4c47920cce" title="Overrides. " alt="" coords="244,197,401,243"/>
+<area shape="rect" id="node15" href="$classmonitor_1_1DumpEditor.html#adc8a37a7cbe7411ae70d34dcf6c46f1e" title="Install the layout and call updating() method. " alt="" coords="252,266,393,313"/>
+<area shape="rect" id="node17" href="$classmonitor_1_1action_1_1MemoryInfo.html#af66e402262589a5cc9e291fd435ad77e" title="Shows in a message box few memory information. " alt="" coords="231,335,415,382"/>
+<area shape="rect" id="node19" href="$classmonitor_1_1action_1_1SDumpAll.html#a8210d6ee32d65320a401d8a185313728" title="Dump all unlocked array/image etc. " alt="" coords="236,405,409,451"/>
+<area shape="rect" id="node7" href="$classfwDcmtkIO_1_1SeriesDBReader.html#ad13606c2d6d63d6203d7d7b1fbcfb2f6" title="Return true if a dicomdir file can be read. " alt="" coords="464,74,659,121"/>
+<area shape="rect" id="node13" href="$classmemory_1_1SDumpPolicy.html#a7b25a33661cbf1a8942654ea67eafdf2" title="Overrides. " alt="" coords="483,197,640,243"/>
+</map>

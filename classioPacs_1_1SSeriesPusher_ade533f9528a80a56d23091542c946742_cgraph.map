@@ -1,0 +1,10 @@
+<map id="ioPacs::SSeriesPusher::checkSeriesOnPACS" name="ioPacs::SSeriesPusher::checkSeriesOnPACS">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="459,9,653,56"/>
+<area shape="rect" id="node5" href="$classfwPacsIO_1_1helper_1_1Series.html#a04220affc4170cc1a209ae455802f9ba" title="Release the responses. " alt="" coords="225,44,393,91"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#afb5819e4841835e33ecb9df169d8fe92" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="459,173,653,220"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a27e42ac5d51e12ae72a87e62e972bdd2" title="Set the message. " alt="" coords="212,113,407,160"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad71a45fa0e744cd1612241c8b1313620" title="Set the title of the message box. " alt="" coords="212,233,407,280"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="212,303,407,349"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1MessageDialog.html#af3e3451339ec5ddfee1435294fac9ee1" title="Set the default button. " alt="" coords="459,104,653,151"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="456,303,656,349"/>
+</map>

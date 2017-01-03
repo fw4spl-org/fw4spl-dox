@@ -1,0 +1,5 @@
+<map id="uiTF::TransferFunctionEditor::initTransferFunctions" name="uiTF::TransferFunctionEditor::initTransferFunctions">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="267,5,405,51"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ServiceFactory.html#ab289638bd2e06a3d034e83622ab2ae86" title="Return the unique Instance, create it if required at first access. " alt="" coords="243,74,429,121"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="267,143,405,190"/>
+</map>

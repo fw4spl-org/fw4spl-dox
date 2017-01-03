@@ -1,0 +1,5 @@
+<map id="fwCore::fwProfileFrame" name="fwCore::fwProfileFrame">
+<area shape="rect" id="node2" href="$classfwCore_1_1fwProfileFrameTimer.html" title="This class holds a timer. It allows to compute the elapsed time between two profiling scopes..." alt="" coords="5,280,197,309"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1HiResTimer.html" title="This class provide a timer (stopwatch). HiResTimer is able to measure the elapsed time with a few mic..." alt="" coords="31,184,172,213"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="32,104,171,133"/>
+</map>

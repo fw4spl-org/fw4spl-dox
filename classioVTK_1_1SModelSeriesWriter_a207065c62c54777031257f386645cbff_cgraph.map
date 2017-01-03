@@ -1,0 +1,13 @@
+<map id="ioVTK::SModelSeriesWriter::updating" name="ioVTK::SModelSeriesWriter::updating">
+<area shape="rect" id="node3" href="$classfwTools_1_1UUID.html#a472c81a8610b2e6427c0f2079a71d56a" title="Return an uuid to the given object : if no one previously set then generate a new one..." alt="" coords="268,5,404,35"/>
+<area shape="rect" id="node7" href="$classio_1_1IWriter.html#a54a05bddc77382c5d545e94df501c2f7" title="Returns folder path setted by user or setted during service configuration. " alt="" coords="265,59,407,88"/>
+<area shape="rect" id="node11" href="$classio_1_1IWriter.html#a7f364503bcff66b19dec1d2e9cd4c835" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="257,111,415,158"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1Cursor.html#a2123887d218bc28fd5ef4a5519083b9c" title="Set the cursor. " alt="" coords="252,181,420,211"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1Cursor.html#aba3651c51ebf7162b047e0c151630f79" title="Set the default cursor. " alt="" coords="251,234,421,281"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="239,303,433,350"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="483,5,685,35"/>
+<area shape="rect" id="node9" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="497,59,671,88"/>
+<area shape="rect" id="node19" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="487,269,681,315"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="487,338,681,385"/>
+<area shape="rect" id="node23" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="733,338,933,385"/>
+</map>

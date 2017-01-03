@@ -1,0 +1,8 @@
+<map id="fwServices::get" name="fwServices::get">
+<area shape="rect" id="node3" href="$classfwGui_1_1registrar_1_1MenuBarRegistrar.html#a6a385f14d04b81d0730ce9b520d5633d" title="Starting menu bar registrar. All services managed in local menus and with start=&quot;yes&quot; in configuratio..." alt="" coords="187,5,357,51"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1registrar_1_1MenuRegistrar.html#a34388c35e7775ee3ee093470f411aca6" title="manages action service associated with menuItem of menu. " alt="" coords="171,74,373,121"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1registrar_1_1ToolBarRegistrar.html#ac47b54f9af7d670824b6e85e3314daa9" title="manages action service associated with menuItem of toolbar. " alt="" coords="191,143,353,190"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1AppConfigManager.html#a5aa10670fdfbc568d4969722e3038bcc" title="fwServices::AppConfigManager\l::startConnections" alt="" coords="169,213,375,259"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1AppConfigManager.html#a60f0378e26db50b831d089b814291c12" title="Starts services specified in config. " alt="" coords="425,213,631,259"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1AppConfigManager.html#a7c91a03361df06fef993de852251d972" title="Calls methods : create, start then update. " alt="" coords="681,213,887,259"/>
+</map>

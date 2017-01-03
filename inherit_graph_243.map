@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfwGdcmIO_1_1reader_1_1tid_1_1TemplateID.html" title="fwGdcmIO::reader::tid\l::TemplateID\&lt; ::fwData\l::Image \&gt;" alt="" coords="5,65,165,129"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html" title="Fiducial TID. " alt="" coords="215,5,364,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html" title="Measurement TID. " alt="" coords="215,74,364,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html" title="Measurement Report TID &#45; This a root template. " alt="" coords="215,143,364,190"/>
+</map>

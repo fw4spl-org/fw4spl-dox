@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::DicomSeries::fillSeries" name="fwGdcmIO::helper::DicomSeries::fillSeries">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ab6eff84223514a8c0d68df26e3948c64" title="Create an equipment from the dataset and store it in the equipment map. " alt="" coords="264,5,475,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a77ab048200c19f981a046713ba0d5be3" title="Create a patient from the dataset and store it in the patient map. " alt="" coords="264,74,475,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a6d350bb327c3a6667d16173107fa65b1" title="Create a study from the dataset and store it in the study map. " alt="" coords="264,143,475,190"/>
+</map>

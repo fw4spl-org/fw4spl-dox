@@ -1,0 +1,19 @@
+<map id="fwTools::UUID::generateUUID" name="fwTools::UUID::generateUUID">
+<area shape="rect" id="node3" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html#a49ab872a3e016c05b02f8f914f53db1b" title="Applies patch. " alt="" coords="272,5,432,69"/>
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html#aad5ff8244b1512f33079e4a98726239e" title="Applies patch. " alt="" coords="275,93,429,157"/>
+<area shape="rect" id="node7" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html#a422877ba4357eebad6350bcde8db1203" title="Applies patch. " alt="" coords="260,181,444,245"/>
+<area shape="rect" id="node9" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#acdf6ac2779b5f829ae1eb9ecb8e47950" title="Applies patch. " alt="" coords="261,269,443,333"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#a64367de970f3ff45b82dd2019d6e4b79" title="Copy constructor. " alt="" coords="261,357,443,421"/>
+<area shape="rect" id="node13" href="$namespacefwAtomsPatch_1_1helper.html#add721d8f72ff81d766effa9dca8bba46" title="Generates new id for the object (also creates it if it is missing ) " alt="" coords="277,445,427,491"/>
+<area shape="rect" id="node15" href="$classfwTools_1_1UUID.html#a472c81a8610b2e6427c0f2079a71d56a" title="Return an uuid to the given object : if no one previously set then generate a new one..." alt="" coords="284,515,420,544"/>
+<area shape="rect" id="node25" href="$classguiQt_1_1editor_1_1SDynamicView.html#ace0acec50b876241b056dc4f57707c70" title="Write information in a stream. " alt="" coords="257,567,447,614"/>
+<area shape="rect" id="node29" href="$classfwVtkIO_1_1SeriesDBReader.html#a40d19253ad8723564916471bd7c5e829" title="Reading operator. " alt="" coords="264,637,440,683"/>
+<area shape="rect" id="node31" href="$classioITK_1_1SInrSeriesDBReader.html#a52c2b9dee7f52473d803dee1583984e6" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="261,706,443,753"/>
+<area shape="rect" id="node33" href="$classioData_1_1SAttachmentSeriesReader.html#a7760a4d9dc4028484d1cbaffdbdd3310" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="261,775,443,822"/>
+<area shape="rect" id="node35" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#ad5f9fac4869aac1c9d0e58b67ae93228" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="265,845,439,891"/>
+<area shape="rect" id="node17" href="$classfwAtomConversion_1_1DataVisitor.html#a24edc65b5dd21a5a0fff67b25f90ab19" title="Constructor. Initializes atom object and store it in the cache. " alt="" coords="497,367,703,414"/>
+<area shape="rect" id="node19" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a54acf9e0c5f5534e93e4e836e8e60037" title="Writing operator. " alt="" coords="497,437,703,483"/>
+<area shape="rect" id="node21" href="$classctrlSelection_1_1updater_1_1SDrop.html#adbc78740644bacf4db708dd301332c3b" title="Destructor. Do nothing. " alt="" coords="528,506,672,553"/>
+<area shape="rect" id="node23" href="$classioVTK_1_1SModelSeriesWriter.html#a207065c62c54777031257f386645cbff" title="Updating method. " alt="" coords="509,575,691,622"/>
+<area shape="rect" id="node27" href="$classguiQt_1_1editor_1_1SDynamicView.html#af020c54fb220b333a9c16127f860d78b" title="Swap. " alt="" coords="505,645,695,691"/>
+</map>

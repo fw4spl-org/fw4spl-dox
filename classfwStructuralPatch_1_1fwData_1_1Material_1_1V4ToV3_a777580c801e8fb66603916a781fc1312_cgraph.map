@@ -1,0 +1,10 @@
+<map id="fwStructuralPatch::fwData::Material::V4ToV3::apply" name="fwStructuralPatch::fwData::Material::V4ToV3::apply">
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="249,5,399,51"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1Object.html#ab87ab583d9bda222097ce42045b37a6a" title="Returns requested attribute if exists, empty sptr else. " alt="" coords="227,144,421,173"/>
+<area shape="rect" id="node11" href="$classfwAtoms_1_1Boolean.html#a599ffe94152e39127c3ba7b18a649d15" title="Construct an object storing a bool value. " alt="" coords="243,197,405,227"/>
+<area shape="rect" id="node13" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="249,251,399,280"/>
+<area shape="rect" id="node15" href="$classfwAtomsPatch_1_1helper_1_1Object.html#aa5596a46cf7f0d2f5170f86a8fa6a27a" title="Replaces an attribute. " alt="" coords="241,74,407,121"/>
+<area shape="rect" id="node19" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="236,303,412,350"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="471,5,620,51"/>
+<area shape="rect" id="node7" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="471,74,620,121"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwRuntime::ConfigurationElementContainer" name="fwRuntime::ConfigurationElementContainer">
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ConfigurationElement.html" title="Defines the configuration element class. " alt="" coords="9,102,180,149"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Extension.html" title="Defines the extension class. " alt="" coords="204,111,353,140"/>
+<area shape="rect" id="node5" href="$classfwRuntime_1_1EConfigurationElement.html" title="Editable configuration element : allow the self configuration element building, which reading XML str..." alt="" coords="5,198,184,245"/>
+</map>

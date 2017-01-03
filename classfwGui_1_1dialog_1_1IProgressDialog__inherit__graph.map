@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::IProgressDialog" name="fwGui::dialog::IProgressDialog">
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1ProgressDialog.html" title="Defines the generic progress dialog for IHM. Use the Delegate design pattern. The specific implementa..." alt="" coords="5,361,200,391"/>
+<area shape="rect" id="node13" href="$classfwGuiQt_1_1dialog_1_1ProgressDialog.html" title="This class allows us to select an acquisition in a patient data base. " alt="" coords="224,353,395,399"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="61,179,213,208"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="68,101,207,131"/>
+</map>

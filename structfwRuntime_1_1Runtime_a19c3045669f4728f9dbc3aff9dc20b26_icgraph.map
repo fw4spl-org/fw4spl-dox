@@ -1,0 +1,6 @@
+<map id="fwRuntime::Runtime::findExtension" name="fwRuntime::Runtime::findExtension">
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#ad8ae94d8be33a52e98016ae1ac67c64c" title="Retrieves the extension having the specified identifier. " alt="" coords="199,83,369,112"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a8e131eebfe20b61b96b34200e20deb8a" title="Registers a new extension. " alt="" coords="444,5,585,51"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#a09ab28038084fda4571324c6982e2ed2" title="Retrieves all executable objects for the point having the specified identifier. " alt="" coords="420,74,609,121"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1Runtime.html#a01727e9e5f5fb50514855dfc5968fd65" title="Unregister a new extension. " alt="" coords="443,143,587,190"/>
+</map>

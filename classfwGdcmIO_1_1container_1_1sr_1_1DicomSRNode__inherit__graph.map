@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::container::sr::DicomSRNode" name="fwGdcmIO::container::sr::DicomSRNode">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRCodeNode.html" title="This class defines a CODE node in a SR document. " alt="" coords="216,5,384,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRContainerNode.html" title="This class defines a CONTAINER node in a SR document. " alt="" coords="204,74,396,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html" title="This class defines an IMAGE node in a SR document. " alt="" coords="213,143,387,190"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNumNode.html" title="This class defines a NUM node in a SR document. " alt="" coords="217,213,383,259"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html" title="This class defines a SCOORD3D node in a SR document. " alt="" coords="201,282,399,329"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html" title="This class defines a SCOORD node in a SR document. " alt="" coords="209,351,391,398"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRTextNode.html" title="This class defines a TEXT node in a SR document. " alt="" coords="219,421,381,467"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRUIDRefNode.html" title="This class defines a UIDREF node in a SR document. " alt="" coords="209,490,391,537"/>
+</map>

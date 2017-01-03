@@ -1,0 +1,6 @@
+<map id="fwGui::ToolboxLayoutManager" name="fwGui::ToolboxLayoutManager">
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1ToolboxLayoutManagerBase.html" title="Defines the base for line layout manager. " alt="" coords="7,353,201,399"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM. " alt="" coords="28,257,180,303"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="28,179,180,208"/>
+<area shape="rect" id="node8" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="35,101,173,131"/>
+</map>

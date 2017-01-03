@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::reader::tid::Fiducial::addLandmark" name="fwGdcmIO::reader::tid::Fiducial::addLandmark">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html#a1ae5908e2c27608344a2627b6ce07d7e" title="Read a fiducial node. " alt="" coords="217,14,367,61"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html#a5e961cd53fcf137cd30bb64a429e0576" title="Create Measurement Report template root node. " alt="" coords="417,5,572,69"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="621,14,768,61"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read a DICOM File. " alt="" coords="816,14,1013,61"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1reader_1_1Series.html#a6a37a4d62baf8ed22f884c755372dfc0" title="Destructor. " alt="" coords="1063,14,1236,61"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="scene2D::adaptor::TransferFunction::doUpdate" name="scene2D::adaptor::TransferFunction::doUpdate">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#adff256d19625fcbc43d7794689e56e7f" title="Get TF Selection fwID. " alt="" coords="257,5,412,69"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7524e4a2306e8bd84094498cb9d30bbe" title="Set TF Selection fwID. " alt="" coords="235,93,435,157"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="257,181,412,245"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ac135246be2e6b390c294ab87affcc8f5" title="Update the transfer function information. " alt="" coords="252,269,417,333"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="767,53,932,117"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a305d18bc150c6c5dfefb8e5a14c45f13" title="Return minimum and maximum values contained in image. If image min or max value is out of MINMAXTYPE ..." alt="" coords="767,141,932,205"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="780,367,919,414"/>
+<area shape="rect" id="node17" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="780,437,919,483"/>
+<area shape="rect" id="node19" href="$classfwDataTools_1_1helper_1_1Image.html#a87ee6c2f50b84749ba59a2958bd48dfe" title="Create transfer function pool if the pool is not present, NOT GENERATE MESSAGE. " alt="" coords="483,278,717,325"/>
+<area shape="rect" id="node24" href="$classfwDataTools_1_1helper_1_1Field.html#a6be9ec481b7dc86e6d465f7c81955b0a" title="Send the built message. " alt="" coords="780,229,919,275"/>
+<area shape="rect" id="node27" href="$classfwDataTools_1_1helper_1_1Field.html#afe360ae4b1f88d846b7ea891999620cb" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="780,298,919,345"/>
+</map>

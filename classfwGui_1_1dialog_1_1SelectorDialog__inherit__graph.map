@@ -1,0 +1,5 @@
+<map id="fwGui::dialog::SelectorDialog" name="fwGui::dialog::SelectorDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1ISelectorDialog.html" title="ISelectorDialog allows the choice of an element among several (_selections) " alt="" coords="21,257,179,303"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="24,179,176,208"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="31,101,169,131"/>
+</map>

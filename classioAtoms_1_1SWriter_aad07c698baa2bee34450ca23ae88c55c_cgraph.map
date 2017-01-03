@@ -1,0 +1,17 @@
+<map id="ioAtoms::SWriter::updating" name="ioAtoms::SWriter::updating">
+<area shape="rect" id="node3" href="$classfwJobs_1_1IJob.html#a1075e2e4fd7efa124a488e2ed231fd67" title="Returns the job canceling status. " alt="" coords="239,5,444,35"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#acf861aaa937de4e3aaed131f44e2c974" title="Set done work units to total work units. " alt="" coords="275,59,408,88"/>
+<area shape="rect" id="node7" href="$classfwJobs_1_1IJob.html#a595dfbfd3e0884592a9a8e79e2539107" title="Setter on done work units. " alt="" coords="527,84,689,113"/>
+<area shape="rect" id="node10" href="$classio_1_1IWriter.html#a27c7be772bb681b127a81e0654a33ced" title="Returns the file path setted by user or setted during service configuration. " alt="" coords="279,163,404,192"/>
+<area shape="rect" id="node14" href="$classio_1_1IWriter.html#a7f364503bcff66b19dec1d2e9cd4c835" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="263,215,420,262"/>
+<area shape="rect" id="node16" href="$classfwJobs_1_1Job.html#a6c2ae2cbe319f18f1da95a321b74cf73" title="Construct a new job and return a smart pointer of it. " alt="" coords="277,285,405,315"/>
+<area shape="rect" id="node18" href="$classfwJobs_1_1Aggregator.html#a7507d27826d686a4a105bd20741de9cc" title="Create a new Aggregator smart pointer. " alt="" coords="256,339,427,368"/>
+<area shape="rect" id="node20" href="$classfwGui_1_1Cursor.html#a2123887d218bc28fd5ef4a5519083b9c" title="Set the cursor. " alt="" coords="257,392,425,421"/>
+<area shape="rect" id="node22" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="244,445,439,491"/>
+<area shape="rect" id="node30" href="$classfwAtomsPatch_1_1PatchingManager.html#a36a7f7aff75a0504a40a19d74144b9ac" title="Transforms the object to the given version. " alt="" coords="233,514,449,561"/>
+<area shape="rect" id="node12" href="$classio_1_1IWriter.html#a1e024eeeca2c9614a373de74fcb1fa4e" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="521,163,695,192"/>
+<area shape="rect" id="node24" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a7200cf2111a64af4a0c02bfb26fec8dc" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="511,375,705,422"/>
+<area shape="rect" id="node26" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d638d48bf997624e8483616a7e0c3f7" title="Show the message box and return the clicked button. " alt="" coords="511,445,705,491"/>
+<area shape="rect" id="node28" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="765,445,965,491"/>
+<area shape="rect" id="node32" href="$classfwAtomsPatch_1_1VersionsManager.html#a72aa3c22782a01fb88568904c039fcbb" title="Returns the default instance of VersionsManager. " alt="" coords="500,514,716,561"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="fwAtomsPatch::ISemanticPatch" name="fwAtomsPatch::ISemanticPatch">
+<area shape="rect" id="node9" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html" title="Patch an acquisition from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="884,5,1068,51"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html" title="Patch the composite describing a &#39;Medical workspace&#39; from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; c..." alt="" coords="885,74,1067,121"/>
+<area shape="rect" id="node13" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html" title="Patch a patient from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="896,143,1056,190"/>
+<area shape="rect" id="node15" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html" title="Patch a study from version V&#39;1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="899,213,1053,259"/>
+<area shape="rect" id="node17" href="$classfwMDSemanticPatch_1_1V2_1_1V03AGO_1_1fwData_1_1Image.html" title="Patch an image from version &#39;V2&#39; to &#39;V03AGO&#39; within &#39;MedicalData&#39; context. " alt="" coords="880,282,1072,329"/>
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="419,152,573,181"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="231,152,369,181"/>
+</map>

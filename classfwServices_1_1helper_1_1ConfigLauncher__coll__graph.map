@@ -1,0 +1,13 @@
+<map id="fwServices::helper::ConfigLauncher" name="fwServices::helper::ConfigLauncher">
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,372,43"/>
+<area shape="rect" id="node14" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="481,48,671,77"/>
+<area shape="rect" id="node6" href="$classfwCom_1_1helper_1_1SigSlotConnection.html" title="This class provides few tools to ease connect/disconnect between a signal emitter and a slot receiver..." alt="" coords="1817,120,2039,149"/>
+<area shape="rect" id="node10" href="$structfwCom_1_1Connection.html" title="Class managing Signal&#45;Slot connections. " alt="" coords="1300,99,1439,128"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="509,101,643,131"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="735,153,831,183"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="519,205,633,235"/>
+<area shape="rect" id="node24" href="$structfwActivities_1_1registry_1_1ActivityAppConfig.html" title="fwActivities::registry\l::ActivityAppConfig" alt="" coords="1299,231,1440,278"/>
+<area shape="rect" id="node28" href="$structfwActivities_1_1registry_1_1ActivityAppConfigParam.html" title="fwActivities::registry\l::ActivityAppConfigParam" alt="" coords="489,258,663,305"/>
+<area shape="rect" id="node30" title="STL class. " alt="" coords="263,297,343,327"/>
+<area shape="rect" id="node32" title="STL class. " alt="" coords="31,289,156,335"/>
+</map>

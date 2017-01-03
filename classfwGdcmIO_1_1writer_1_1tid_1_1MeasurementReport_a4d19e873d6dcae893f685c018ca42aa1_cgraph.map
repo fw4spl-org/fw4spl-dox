@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::writer::tid::MeasurementReport::createRootNode" name="fwGdcmIO::writer::tid::MeasurementReport::createRootNode">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#ae22f2f6ad4d348879a6b130232873e47" title="Create nodes according to the template. " alt="" coords="228,5,385,51"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a2dfe08ee908e489f8a441117c2b69654" title="Create nodes according to the template. " alt="" coords="212,74,401,121"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#afe595a8c3998b8e06fd4f8ecedb00e64" title="Create a fiducial node. " alt="" coords="485,5,648,51"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a37378b0c8dac3a7c538dd8571ee933b3" title="Add a sub node. " alt="" coords="732,39,951,86"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a8465d20fa1ee5379b38077f01e663122" title="Create a measurement node. " alt="" coords="451,74,683,121"/>
+</map>

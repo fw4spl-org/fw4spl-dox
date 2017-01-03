@@ -1,0 +1,5 @@
+<map id="fwPacsIO::helper::Series::releaseResponses" name="fwPacsIO::helper::Series::releaseResponses">
+<area shape="rect" id="node3" href="$classioPacs_1_1SSeriesPusher.html#ade533f9528a80a56d23091542c946742" title="Check whether some series are already on the PACS. " alt="" coords="221,5,379,51"/>
+<area shape="rect" id="node7" href="$classioPacs_1_1SQueryEditor.html#ac38e40feb691180c7de475b658bf2178" title="Override. " alt="" coords="227,74,373,121"/>
+<area shape="rect" id="node5" href="$classioPacs_1_1SSeriesPusher.html#a17776e89b133a3057f5c698d68ef8b4f" title="Override. " alt="" coords="427,5,584,51"/>
+</map>

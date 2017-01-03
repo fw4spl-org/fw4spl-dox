@@ -1,0 +1,36 @@
+<map id="fwGui::IGuiContainerSrv::initialize" name="fwGui::IGuiContainerSrv::initialize">
+<area shape="rect" id="node3" href="$classbasicRegistration_1_1SImagesSubstract.html#ad7586d493dde8ad60d3712f14638818e" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="227,5,427,51"/>
+<area shape="rect" id="node5" href="$classgui_1_1view_1_1SDefaultView.html#ab0f1d0aeeb9e69e4beee0ab856d75b4a" title="This method is used to configure the class parameters. " alt="" coords="245,74,408,121"/>
+<area shape="rect" id="node7" href="$classuiImage_1_1ImageInfo.html#a1159cad984e853ab90ebcb93bbdbceb0" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="260,143,393,190"/>
+<area shape="rect" id="node9" href="$classuiVisu_1_1BasicFloatEditor.html#ac0c179b7cba050fd0f031698e4313078" title="Configure the editor. Do nothing. " alt="" coords="245,213,408,259"/>
+<area shape="rect" id="node11" href="$classuiReconstruction_1_1OrganMaterialEditor.html#a19bb752300127a6f80e18392a2b10e93" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="223,282,431,329"/>
+<area shape="rect" id="node13" href="$classuiVisu_1_1TransformationMatrixEditor.html#a914eab5dbdb94043ba19194b088f91c8" title="Configure the editor. Do nothing. " alt="" coords="232,351,421,398"/>
+<area shape="rect" id="node15" href="$classuiVisu_1_1PointEditor.html#affd68874489fddaed29cc3438eff7872" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="261,421,392,467"/>
+<area shape="rect" id="node17" href="$classioPacs_1_1SQueryEditor.html#a03e8a64bce7fd67ee2137c9bf731f1d4" title="Configuring method. This method is used to configure the service. " alt="" coords="253,490,400,537"/>
+<area shape="rect" id="node19" href="$classuiImage_1_1ImageTransparency.html#a04cce16deeb358dc50aadddeefc194d0" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="232,559,421,606"/>
+<area shape="rect" id="node21" href="$classgui_1_1editor_1_1DummyEditor.html#a749bb9178ea115000d49a26eba1f90df" title="This method is used to configure the class parameters. Do nothing. " alt="" coords="244,629,409,675"/>
+<area shape="rect" id="node23" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#af824627c621c59c997cfbb6bad416e4e" title="configures the service " alt="" coords="251,699,403,763"/>
+<area shape="rect" id="node25" href="$classmonitor_1_1DumpEditor.html#acdab7e412014d2355154debbd3e6bd66" title="Calls classic IAction methods to configure. " alt="" coords="256,786,397,833"/>
+<area shape="rect" id="node27" href="$classuiVisu_1_1SnapshotEditor.html#a1b2598b604be19be38a065049eb314ac" title="Configure the editor. " alt="" coords="249,855,404,902"/>
+<area shape="rect" id="node29" href="$classuiReconstruction_1_1RepresentationEditor.html#aef76616dfa75d420aff3311d24e94b51" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="219,925,435,971"/>
+<area shape="rect" id="node31" href="$classguiQt_1_1editor_1_1Code.html#ad7ca5c642fdf7a16ad7b900393ec11c1" title="Parses the configuration. " alt="" coords="261,994,392,1041"/>
+<area shape="rect" id="node33" href="$classactivities_1_1editor_1_1SCreateActivity.html#a5989814229b863fb8b5442795e49f8a0" title="Initialize the editor. " alt="" coords="231,1063,423,1110"/>
+<area shape="rect" id="node35" href="$classvtkSimpleNegato_1_1SRenderer.html#a5325e830b0f0630f8bc16ab5e856f344" title="This method is used to configure the service. " alt="" coords="231,1133,423,1179"/>
+<area shape="rect" id="node37" href="$classuiMeasurement_1_1editor_1_1Distance.html#a20a99fb513fecc3227895e11766c4ba1" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="251,1202,403,1249"/>
+<area shape="rect" id="node39" href="$classioDicom_1_1SFilterSelectionEditor.html#a531dfd1b44903273480d915a03966d99" title="Do nothing. " alt="" coords="241,1271,412,1318"/>
+<area shape="rect" id="node41" href="$classioPacs_1_1SPacsConfigurationEditor.html#a306dc10f3794f479e7722bf393216c0c" title="Configuring method. This method is used to configure the service. " alt="" coords="233,1341,420,1387"/>
+<area shape="rect" id="node43" href="$classguiQt_1_1editor_1_1SParameters.html#a4e311e1ec4acf32f73ea84972d696404" title="Configure the editor. " alt="" coords="239,1410,415,1457"/>
+<area shape="rect" id="node45" href="$classguiQt_1_1editor_1_1SSignalButton.html#ab8c06d174ee5b3da53541f8ec6402e4b" title="This method is used to configure the class parameters. " alt="" coords="235,1479,419,1526"/>
+<area shape="rect" id="node47" href="$classuiImage_1_1SliceIndexPositionEditor.html#a17490bea9e6db4a0829bbebbf5fbbb9c" title="Configure the editor. " alt="" coords="235,1549,419,1595"/>
+<area shape="rect" id="node49" href="$classuiMedData_1_1editor_1_1SSeries.html#a53ee6f0731d1fb400cd14b50d8d36f33" title="uiMedData::editor::\lSSeries::configuring" alt="" coords="257,1618,396,1665"/>
+<area shape="rect" id="node51" href="$classguiQt_1_1editor_1_1SSelectionMenuButton.html#a41f327e7bf9bcd8e78a10379b8318f40" title="Configure the editor. " alt="" coords="245,1687,408,1734"/>
+<area shape="rect" id="node53" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a0dc510c65288a73961c646f2692d98c3" title="Configuring method. This method is used to configure the service. " alt="" coords="233,1757,420,1803"/>
+<area shape="rect" id="node55" href="$classuiMedData_1_1editor_1_1SSelector.html#a0c26483e9a9ee8739421795065e60188" title="Configures the service according to the xml tags found. " alt="" coords="252,1826,401,1873"/>
+<area shape="rect" id="node57" href="$classguiQt_1_1editor_1_1SSlider.html#aca8e35c1bdc1600ffaea152b1b5f61bc" title="Configure the service. " alt="" coords="256,1895,397,1942"/>
+<area shape="rect" id="node59" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#acc1fa979d7b38a23c83274c70bf51476" title="Configuring method. This method is used to configure the service. " alt="" coords="237,1965,416,2011"/>
+<area shape="rect" id="node61" href="$classuiMedData_1_1editor_1_1SActivityWizard.html#ad22a8572caec85e6130c229bcfa2b828" title="Initialize the editor. " alt="" coords="233,2034,420,2081"/>
+<area shape="rect" id="node63" href="$classuiImage_1_1WindowLevel.html#afda91c159bfee922dbcedc756e94209c" title="Configure the editor. " alt="" coords="249,2103,404,2150"/>
+<area shape="rect" id="node65" href="$classguiQt_1_1editor_1_1SDynamicView.html#afc98793d940ab087860cb4353d84aaec" title="Configure the view. " alt="" coords="232,2173,421,2219"/>
+<area shape="rect" id="node67" href="$classguiQt_1_1editor_1_1DynamicView.html#a3c3abd024838da25f88ce4b98c447641" title="Configure the view. " alt="" coords="236,2242,417,2289"/>
+<area shape="rect" id="node69" href="$classscene2D_1_1Render.html#a81936158f87f41263c26be432a7dcdd8" title="Configuring the Render service. " alt="" coords="229,2312,424,2341"/>
+</map>

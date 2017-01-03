@@ -1,0 +1,6 @@
+<map id="uiImage::ImageTransparency::swapping" name="uiImage::ImageTransparency::swapping">
+<area shape="rect" id="node3" href="$classuiImage_1_1ImageTransparency.html#afe4ab1b068b4e63455ba30ff9ca4d6cc" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="247,93,436,139"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="499,5,664,69"/>
+<area shape="rect" id="node7" href="$classuiImage_1_1ImageTransparency.html#a0df8faacb020b2aa777f00d1b3eebe98" title="This method is called when the transparency value change moving slider. " alt="" coords="487,93,676,139"/>
+<area shape="rect" id="node9" href="$classuiImage_1_1ImageTransparency.html#aca7729fe236c12f6c639a0b644582f31" title="This method is called when the visibility value change using action shortcut. " alt="" coords="487,162,676,209"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwDcmtkIO::reader::ImageStorageReader::directRead" name="fwDcmtkIO::reader::ImageStorageReader::directRead">
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1reader_1_1main_1_1ImageReader.html#a828376ef219a18dd930be18dce788557" title="Fill the buffer of an image. " alt="" coords="209,5,401,69"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1Array.html#a3ff8a5a8d71b35357b9a694a416fb1ea" title="Getter for the array buffer. " alt="" coords="236,93,375,139"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1Type.html#ac16d07c754ccab3c3b9eb34a54767385" title="Return the sizeof of the type. " alt="" coords="452,23,601,52"/>
+</map>

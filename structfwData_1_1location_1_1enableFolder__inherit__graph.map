@@ -1,0 +1,16 @@
+<map id="fwData::location::enableFolder&lt; RW &gt;" name="fwData::location::enableFolder&lt; RW &gt;">
+<area shape="rect" id="node3" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::reader\l::IObjectReader \&gt;" alt="" coords="341,121,520,185"/>
+<area shape="rect" id="node15" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="344,420,517,484"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1DicomSeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="572,5,804,35"/>
+<area shape="rect" id="node7" href="$classfwDcmtkIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="591,59,785,88"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html" title="This class adds patient(s) from DICOM file(s) to fwData::SeriesDB. " alt="" coords="592,112,784,141"/>
+<area shape="rect" id="node11" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="577,165,799,195"/>
+<area shape="rect" id="node13" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="591,219,785,248"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html" title="fwGdcmIO::helper::DicomSeries\lDBWriter" alt="" coords="583,271,793,318"/>
+<area shape="rect" id="node19" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesWriter.html" title="Write a DicomSeries in DICOM format. " alt="" coords="583,341,793,387"/>
+<area shape="rect" id="node21" href="$classfwGdcmIO_1_1writer_1_1Series.html" title="This class handles DICOM files writing. It defines needs of data storage and delegates writing to app..." alt="" coords="603,411,773,440"/>
+<area shape="rect" id="node23" href="$classfwGdcmIO_1_1writer_1_1SeriesDB.html" title="This class manages patient writing, in DICOM file format. " alt="" coords="593,464,783,493"/>
+<area shape="rect" id="node25" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="605,517,771,547"/>
+<area shape="rect" id="node27" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html" title="Write a fwData::Reconstruction.Write a fwData::Reconstruction as .obj file using the VTK lib and the ..." alt="" coords="585,571,791,600"/>
+<area shape="rect" id="node29" href="$classvtkGdcmIO_1_1ImageSeriesWriter.html" title="Write an ImageSeries in DICOM format. " alt="" coords="585,624,791,653"/>
+</map>

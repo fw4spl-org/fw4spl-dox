@@ -1,0 +1,12 @@
+<map id="fwVtkIO::helper::Mesh::updatePolyDataCellColor" name="fwVtkIO::helper::Mesh::updatePolyDataCellColor">
+<area shape="rect" id="node3" href="$classfwVtkIO_1_1helper_1_1Mesh.html#aa8f409baff52f2a52ec44ed91c21d54e" title="Convert a ::fwData::Mesh::sptr to a vtkPolyData. " alt="" coords="235,247,387,294"/>
+<area shape="rect" id="node21" href="$classvisuVTKAdaptor_1_1Mesh.html#a99dd42ea64d2864412e4586ba37ef515" title="Slot: used to update cell colors. " alt="" coords="232,317,389,363"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a218b2e84b2b5d0b848eeb27664802430" title="Compute the volume of the mesh using MassProperties vtk class. " alt="" coords="492,5,644,51"/>
+<area shape="rect" id="node7" href="$classvtkSimpleMesh_1_1SRenderer.html#adcc2173edd3798b5a768f4054be9c605" title="This method is used to notify that the VTK camera position is updated. " alt="" coords="475,74,661,121"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1MeshesBoxWidget.html#a23d08ba7c328169d2dcee273709bae68" title="Updates map from composite meshes. " alt="" coords="439,143,697,190"/>
+<area shape="rect" id="node11" href="$classvisuVTKAdaptor_1_1Mesh.html#a474502f1e378ab569e3a8288c515a0c3" title="Creates normals adaptor if material has NORMALS, else remove normals adaptor. " alt="" coords="489,213,647,259"/>
+<area shape="rect" id="node13" href="$classvtkCompositeMesh_1_1RendererService.html#a09bd6b48288fab69dd537295a3c06eaf" title="Updating method. " alt="" coords="471,282,665,329"/>
+<area shape="rect" id="node15" href="$classvtkSimpleMesh_1_1SRenderer.html#a3fee3edf43bb3c8ea39759ab42180fd2" title="Updating method. " alt="" coords="477,351,659,398"/>
+<area shape="rect" id="node17" href="$classfwVtkIO_1_1MeshWriter.html#a4b7876221138a425e3d24f1d441478ec" title="Reading operator. " alt="" coords="496,421,640,467"/>
+<area shape="rect" id="node19" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a21ff94e553dd9c4476d4eb3bb08fba7f" title="Destructor. " alt="" coords="465,490,671,537"/>
+</map>

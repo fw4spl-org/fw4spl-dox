@@ -1,0 +1,25 @@
+<map id="fwMedDataTools::helper::SeriesDB::add" name="fwMedDataTools::helper::SeriesDB::add">
+<area shape="rect" id="node3" href="$classioDicom_1_1SFilterSelectionEditor.html#a7f633b26bed8810d4b82b82e8c1ae908" title="Create and add a filter in a specific position. " alt="" coords="251,5,421,51"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SSeriesDBWriter.html#a36b197d6706b5068a4f6ded7204a0785" title="Return path type managed by the service, here FOLDER. " alt="" coords="249,74,423,121"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a347bc7a8c4e85d92c42538c49e93b66c" title="Return true if a dicomdir file can be read. " alt="" coords="249,143,423,190"/>
+<area shape="rect" id="node9" href="$classfwDcmtkIO_1_1DicomSeriesDBReader.html#a995864b3f66937c0a210aab3a54e7c53" title="Return true if a dicomdir file can be read. " alt="" coords="220,213,452,259"/>
+<area shape="rect" id="node11" href="$classfwDcmtkIO_1_1SeriesDBReader.html#ad13606c2d6d63d6203d7d7b1fbcfb2f6" title="Return true if a dicomdir file can be read. " alt="" coords="239,282,433,329"/>
+<area shape="rect" id="node13" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a89bf67701443d36383a21ce18391dc75" title="Merge seriesDBIn all series from seriesDBIn to the SeriesDB. " alt="" coords="255,351,417,398"/>
+<area shape="rect" id="node29" href="$classuiMedData_1_1editor_1_1SSeries.html#a3777ab38e9c4bc950d247b76a6c0f1e1" title="Triggered when export button is clicked. " alt="" coords="251,421,421,467"/>
+<area shape="rect" id="node35" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#ad7e995ff75f40a1c5f82ecbfabed5949" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="249,490,423,537"/>
+<area shape="rect" id="node37" href="$classfwDcmtkIO_1_1SeriesDBReader.html#a40ab66233da1ddd463f5bb277fb025a0" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="239,559,433,606"/>
+<area shape="rect" id="node39" href="$classioGdcm_1_1SSeriesDBWriter.html#ae5400faa50ef125626eefee13ab98859" title="Write the ImageSeries in DICOM format. " alt="" coords="249,629,423,675"/>
+<area shape="rect" id="node41" href="$classuiMedData_1_1action_1_1SInitNewSeries.html#a5d8a50ef892363961e2b719fc46d54ec" title="Adds the fake series in series DB. " alt="" coords="251,698,421,745"/>
+<area shape="rect" id="node43" href="$classioDicom_1_1SSeriesDBMerger.html#a230edfec00728795c73c4f57fb744a91" title="Override. " alt="" coords="245,767,427,814"/>
+<area shape="rect" id="node45" href="$classuiMedData_1_1action_1_1SExportSeries.html#a786ea66c5044ae9a7f2ccb57d7673da2" title="Adds the series specified by m_seriesId in the SeriesDB. " alt="" coords="255,837,417,883"/>
+<area shape="rect" id="node47" href="$classioData_1_1SAttachmentSeriesReader.html#a7760a4d9dc4028484d1cbaffdbdd3310" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="245,906,427,953"/>
+<area shape="rect" id="node15" href="$classioGdcm_1_1SDicomSeriesConverter.html#a8c0cb9d8b6eaf3fdeb9aa013deb21c6a" title="Override. " alt="" coords="504,109,720,155"/>
+<area shape="rect" id="node17" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a3e76d239599148e690eeadd92dac7a3b" title="Override. " alt="" coords="503,178,721,225"/>
+<area shape="rect" id="node19" href="$classioITK_1_1SInrSeriesDBReader.html#a52c2b9dee7f52473d803dee1583984e6" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="521,247,703,294"/>
+<area shape="rect" id="node21" href="$classuiIO_1_1action_1_1SSeriesDBMerger.html#a95f67934cbef28b643299d2b7370a384" title="Show the SeriesDB reader selector, load the new SeriesDB and merge it the the current SeriesDB..." alt="" coords="511,317,713,363"/>
+<area shape="rect" id="node23" href="$classioVTK_1_1SSeriesDBReader.html#aa9825c1912cc55c48e8b674241b6846c" title="Updating method. " alt="" coords="525,386,699,433"/>
+<area shape="rect" id="node25" href="$classioPacs_1_1SSeriesPuller.html#ad6e611feb6c988b57f51098ecef017ac" title="Read local series. " alt="" coords="537,455,687,502"/>
+<area shape="rect" id="node27" href="$classioPacs_1_1SSeriesPuller.html#a3d50255da1b4c50c2d8fb8c67a36faf5" title="Constructor. " alt="" coords="771,455,920,502"/>
+<area shape="rect" id="node31" href="$classuiMedData_1_1editor_1_1SSeries.html#a77f19c5ef6a70711590c4c09d602c0c5" title="Constructor. " alt="" coords="545,525,679,571"/>
+<area shape="rect" id="node33" href="$classuiMedData_1_1editor_1_1SSeries.html#a25f0b7db097423aef43b004979b8aa3c" title="Installs GUI : create container and add selector. " alt="" coords="545,594,679,641"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::getImageOrigin" name="fwDataTools::helper::MedicalImageAdaptor::getImageOrigin">
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aead16d097e8fb6f55f4eee7102177e60" title="Get the slice center. " alt="" coords="212,5,369,69"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aadd37731ecdc88581c498ab54a1fd727" title="Convert from world coordinates system to image coordinates system. " alt="" coords="213,93,368,157"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ac75285b87ba24487807c147e4564c6ec" title="Convert world coordinates to slice index coordinates. " alt="" coords="213,181,368,245"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a9efd816fd8a73d9802196cb7f5388d87" title="Convert coordinates in the world to coordinates in the image. " alt="" coords="419,181,592,245"/>
+</map>

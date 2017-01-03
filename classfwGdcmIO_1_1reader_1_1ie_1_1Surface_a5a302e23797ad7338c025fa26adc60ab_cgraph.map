@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::reader::ie::Surface::readSurfaceMeshModule" name="fwGdcmIO::reader::ie::Surface::readSurfaceMeshModule">
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#aaf845c2cc0ff4f63d8d91f18573e35c6" title="Set a reconstruction from DicomSurface data. " alt="" coords="281,5,487,51"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomData.html#a5cbdc3fe206b2b2a4a37e66c1adb1980" title="Convert a surface recommended presentation type (DICOM) into representation mode (FW4SPL). " alt="" coords="280,74,488,121"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Array.html#a17c77d0c960d6e0cbefd90235f9761f0" title="Returns the begining/end of the buffer interpreted as a char buffer. " alt="" coords="536,5,675,51"/>
+</map>

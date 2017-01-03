@@ -1,0 +1,7 @@
+<map id="uiMeasurement::action::AddLandmark::info" name="uiMeasurement::action::AddLandmark::info">
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1InputDialog.html#ad796b808389c0a85d1af5e3adaf0a813" title="Get the input text in the input field. " alt="" coords="209,5,380,51"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1InputDialog.html#ad809e34918c2fb508ebd7166dba86968" title="Set the input text in the input field. " alt="" coords="209,74,380,121"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1InputDialog.html#af125440497771d09c3d64f267cafcbf4" title="Set the message. " alt="" coords="209,143,380,190"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1InputDialog.html#a1c1bdb5c46fc6bbc44883c55a91364cb" title="Set the title of the input dialog. " alt="" coords="209,213,380,259"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1IInputDialog.html#a4a728de42806e416625e5d1e66c121fb" title="Get the input text in the input field. " alt="" coords="429,5,605,51"/>
+</map>

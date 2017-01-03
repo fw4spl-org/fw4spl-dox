@@ -1,0 +1,10 @@
+<map id="fwDataTools::helper::Composite::remove" name="fwDataTools::helper::Composite::remove">
+<area shape="rect" id="node3" href="$classctrlSelection_1_1updater_1_1SObjFromUid.html#a21b6525c1123f9fc8afab115c1b6c3b8" title="Adds the object from the composite with the key given by config. " alt="" coords="224,5,384,51"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac86b8b1c058097f39af3a8c11a165cae" title="Adds the object from the composite with the key given by config. " alt="" coords="223,74,385,121"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1PlaneSelectionNotifier.html#a9bf3f92758723358ccf0cb3b11e33c7c" title="Slot: adds/swaps the plane is the composite. " alt="" coords="199,143,409,190"/>
+<area shape="rect" id="node9" href="$classctrlCamp_1_1SExtractObj.html#acad5e678051e8c445d2dcb4e4cb08bad" title="Does nothing. " alt="" coords="227,213,381,259"/>
+<area shape="rect" id="node11" href="$classuiTF_1_1TransferFunctionEditor.html#a006c626999f31c5401f66a4984c23e55" title="Stop the TransferFunctionEditor, disconnect Buttons and Combo Box, delete them and clean the containe..." alt="" coords="211,282,397,329"/>
+<area shape="rect" id="node13" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a0fb102781c063dd7454135703bf4c1e8" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="228,352,380,416"/>
+<area shape="rect" id="node15" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a99014a35b9edb854b5d75d6b5224aa4e" title="Initialize the service activity. " alt="" coords="460,308,612,372"/>
+<area shape="rect" id="node17" href="$classuiMedData_1_1editor_1_1SOrganTransformation.html#a936d8a7a5d6a17d230b7148a435b4d51" title="Swap the service from associated object to another object. " alt="" coords="460,396,612,460"/>
+</map>

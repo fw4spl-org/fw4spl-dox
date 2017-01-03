@@ -1,0 +1,21 @@
+<map id="fwGdcmIO::reader::SeriesDB::readDicomSeries" name="fwGdcmIO::reader::SeriesDB::readDicomSeries">
+<area shape="rect" id="node3" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="256,5,419,51"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a9befa1c20e389e64ad5245e358ea39f0" title="Fill DicomSeries information for series generated using DICOMDIR helper. " alt="" coords="232,74,443,121"/>
+<area shape="rect" id="node15" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ad603aefa5d6509142909823233a42c50" title="Create DicomSeries containing a blob. " alt="" coords="232,143,443,190"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#aaadbe708241295a1b610f76f322d0c34" title="Find the DICOMDIR file in the parent arborescence. " alt="" coords="243,213,432,259"/>
+<area shape="rect" id="node19" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html#a05133ad2a2ff0150ece465c441fe1136" title="m_object getter. " alt="" coords="231,283,444,347"/>
+<area shape="rect" id="node21" href="$structfwData_1_1location_1_1enableFolder.html#adf4d9c9df89fffd380cbca3b409546aa" title="Get folder filesystem path. " alt="" coords="244,371,431,435"/>
+<area shape="rect" id="node23" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ae13c7c09b91917356f8bd0a71a87abbb" title="Read DicomSeries from paths. " alt="" coords="232,458,443,505"/>
+<area shape="rect" id="node30" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#a79ff8e34d2daa46f834a57ae3e0c9393" title="Create DicomSeries from information stored in DICOMDIR. " alt="" coords="243,527,432,574"/>
+<area shape="rect" id="node41" href="$classfwGdcmIO_1_1helper_1_1DicomSearch.html#aca3eaf84bdd1bee70f3606f927cf181b" title="Search Dicom files recursively by excluding files with known extensions. " alt="" coords="231,597,444,643"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a89504e1495783d55c26866c5abf797aa" title="Fill series with information contained in first instance. " alt="" coords="493,186,704,233"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#ab6eff84223514a8c0d68df26e3948c64" title="Create an equipment from the dataset and store it in the equipment map. " alt="" coords="752,117,963,163"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a77ab048200c19f981a046713ba0d5be3" title="Create a patient from the dataset and store it in the patient map. " alt="" coords="752,186,963,233"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a6d350bb327c3a6667d16173107fa65b1" title="Create a study from the dataset and store it in the study map. " alt="" coords="752,255,963,302"/>
+<area shape="rect" id="node26" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a732dc7a505d851d023a58b3a87482cd7" title="Create DicomSeries from list of files. Every instance is read in order to retrieve instance informati..." alt="" coords="493,435,704,482"/>
+<area shape="rect" id="node28" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a88f304325f0f30fa7b9790a0134f150b" title="Create a series from the dataset and store it in the series map. " alt="" coords="752,435,963,482"/>
+<area shape="rect" id="node32" href="$classfwJobs_1_1IJob.html#a1075e2e4fd7efa124a488e2ed231fd67" title="Returns the job canceling status. " alt="" coords="496,505,701,535"/>
+<area shape="rect" id="node34" href="$classfwJobs_1_1IJob.html#a595dfbfd3e0884592a9a8e79e2539107" title="Setter on done work units. " alt="" coords="1012,588,1175,617"/>
+<area shape="rect" id="node36" href="$classfwJobs_1_1IJob.html#a79920c2f80cbd6d92ae261c515e27ca3" title="Setter on total work units. " alt="" coords="508,609,689,655"/>
+<area shape="rect" id="node38" href="$classfwJobs_1_1IJob.html#a0d9adb92a5cdb544ba8a34f5d58a223d" title="Setter on total work units. " alt="" coords="767,609,948,655"/>
+</map>

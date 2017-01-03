@@ -1,0 +1,33 @@
+<map id="io::IReader::setFolder" name="io::IReader::setFolder">
+<area shape="rect" id="node3" href="$classioDcmtk_1_1SDicomSeriesDBReader.html#a90c5719434e7fcac05dacfcae908c179" title="Override. " alt="" coords="203,5,427,51"/>
+<area shape="rect" id="node5" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a726e9a05e04538b08b9240738afe7354" title="Override. " alt="" coords="221,74,408,121"/>
+<area shape="rect" id="node7" href="$classioVtkGdcm_1_1SSeriesDBReader.html#ad8fac9273d6e009e035126685d7366fa" title="Override. " alt="" coords="213,143,416,190"/>
+<area shape="rect" id="node9" href="$classioDcmtk_1_1SDicomTagSeriesDBReader.html#a7adaa0f9bfc883551f76fbb41bec3437" title="Override. " alt="" coords="217,213,412,259"/>
+<area shape="rect" id="node11" href="$classioDcmtk_1_1SSeriesDBReader.html#a1fd212f8909b551d92edefb1a4ea23bd" title="Override. " alt="" coords="221,282,408,329"/>
+<area shape="rect" id="node13" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a95f786ee4b6abe92da2607cff1c07838" title="Override. " alt="" coords="205,351,424,398"/>
+<area shape="rect" id="node15" href="$classioGdcm_1_1SSeriesDBReader.html#aeaa15fba6afa36ce95e8a6dd18a78360" title="Override. " alt="" coords="224,421,405,467"/>
+<area shape="rect" id="node17" href="$classio_1_1IReader.html#a9efc14590a7d21aa2ef2453a6b890650" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="236,491,393,520"/>
+<area shape="rect" id="node27" href="$classio_1_1IReader.html#af990cd794ac381ebc7cdf261b6eb74dd" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="233,1159,396,1206"/>
+<area shape="rect" id="node19" href="$classioDcmtk_1_1SSeriesDBReader.html#af486dc96f0dcc4b276625f4088276a64" title="ioDcmtk::SSeriesDBReader\l::configuring" alt="" coords="493,343,680,390"/>
+<area shape="rect" id="node21" href="$classioGdcm_1_1SSeriesDBReader.html#a23adaf1174ce4374beab76d6b3dee63a" title="ioGdcm::SSeriesDBReader\l::configuring" alt="" coords="496,413,677,459"/>
+<area shape="rect" id="node23" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a516d372a59faaf6eee1d61877220908f" title="ioGdcm::SDicomSeriesDBReader\l::configuring" alt="" coords="477,482,696,529"/>
+<area shape="rect" id="node25" href="$classioAtoms_1_1SReader.html#a4e7645353f82a6c00b6566514463e7c0" title="Configures the reader. " alt="" coords="487,552,687,581"/>
+<area shape="rect" id="node29" href="$classioTuto_1_1ExternalDataReaderService.html#acb1a00beb738b99a4def085a896a263c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="495,605,679,651"/>
+<area shape="rect" id="node31" href="$classioITK_1_1InrImageReaderService.html#a6cbbdd01a768cbc73e843ab37b0b3653" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="488,674,685,721"/>
+<area shape="rect" id="node33" href="$classioData_1_1MeshReaderService.html#ac655da98febbb27a576dafba79648936" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="493,743,680,790"/>
+<area shape="rect" id="node35" href="$classioData_1_1SAttachmentSeriesReader.html#a7760a4d9dc4028484d1cbaffdbdd3310" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="496,813,677,859"/>
+<area shape="rect" id="node37" href="$classioDcmtk_1_1SDicomSeriesDBReader.html#a9fb67a5e87c1c2fbdf795e5cb78a7ae9" title="Override. " alt="" coords="475,882,699,929"/>
+<area shape="rect" id="node39" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a3e76d239599148e690eeadd92dac7a3b" title="Override. " alt="" coords="477,951,696,998"/>
+<area shape="rect" id="node41" href="$classioDcmtk_1_1SDicomTagSeriesDBReader.html#a816c7c1b0b50be2fff1664f72db995c8" title="Override. " alt="" coords="495,1021,679,1067"/>
+<area shape="rect" id="node43" href="$classioVTK_1_1SImageReader.html#ad65468ae36be76223fb3523efe322b68" title="Updating method execute the read process. " alt="" coords="511,1090,663,1137"/>
+<area shape="rect" id="node45" href="$classioITK_1_1SInrSeriesDBReader.html#a52c2b9dee7f52473d803dee1583984e6" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="496,1159,677,1206"/>
+<area shape="rect" id="node47" href="$classioVTK_1_1SMeshReader.html#a609c7df8d6a22439833b0da36f12cf69" title="Updating method. " alt="" coords="512,1229,661,1275"/>
+<area shape="rect" id="node49" href="$classioVTK_1_1SModelSeriesReader.html#aeb936d52a411c8b26ba5ed627663aa73" title="Updating method. " alt="" coords="492,1298,681,1345"/>
+<area shape="rect" id="node51" href="$classioAtoms_1_1SReader.html#a950137d9c33a89cbb6324be4467a61ad" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="493,1368,680,1397"/>
+<area shape="rect" id="node53" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#abaadf513d8bbdfc53bcc597717dbd585" title="Override. " alt="" coords="493,1421,680,1467"/>
+<area shape="rect" id="node55" href="$classioDcmtk_1_1SSeriesDBReader.html#ae6fee65943f0e8095a4722e8bccbb79b" title="Override. " alt="" coords="493,1490,680,1537"/>
+<area shape="rect" id="node57" href="$classioGdcm_1_1SSeriesDBReader.html#aed22a248dfc21938b560b8a4ed64ad1a" title="Override. " alt="" coords="496,1559,677,1606"/>
+<area shape="rect" id="node59" href="$classioVTK_1_1SSeriesDBReader.html#aa9825c1912cc55c48e8b674241b6846c" title="Updating method. " alt="" coords="500,1629,673,1675"/>
+<area shape="rect" id="node61" href="$classioVtkGdcm_1_1SSeriesDBReader.html#af069b5c85ce381d498c5960ea0004fef" title="Override. " alt="" coords="485,1698,688,1745"/>
+<area shape="rect" id="node63" href="$classioData_1_1TransformationMatrix3DReaderService.html#a355e46279fd66f3dc62520d01ed45674" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="488,1767,685,1814"/>
+</map>
