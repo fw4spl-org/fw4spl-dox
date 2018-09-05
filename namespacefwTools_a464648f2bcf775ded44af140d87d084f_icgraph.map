@@ -1,0 +1,9 @@
+<map id="fwTools::getDate" name="fwTools::getDate">
+<area shape="rect" id="node2" href="$classfwStructuralPatch_1_1fwData_1_1Patient_1_1V1ToFwMedDataPatientV1.html#a50e97f2729c8aa4458c1bf527aace382" title="Applies patch. " alt="" coords="177,5,372,61"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1view_1_1IActivityView.html#ad703b8b8740532045104e26e943b05d7" title="Create the activity series given in &#39;mainActivity&#39; configuration. " alt="" coords="187,85,363,126"/>
+<area shape="rect" id="node7" href="$classactivities_1_1SActivitySequencer.html#a78861ab377ea77bf2804b3ef0b95857d" title="Analyse the series contained in the current seriesDB. " alt="" coords="176,150,373,191"/>
+<area shape="rect" id="node8" href="$classuiMedDataQt_1_1editor_1_1SActivityWizard.html#a2b13b6a0bf9fb627eeb7aaaa50b73e71" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="184,215,365,257"/>
+<area shape="rect" id="node4" href="$classguiQt_1_1editor_1_1SActivityView.html#ae29426d75dcbb9f510723fe8bd67360e" title="Install the container. " alt="" coords="440,53,595,94"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SDynamicView.html#a3a20a4a5e2a506f7b4e7a1e9d9607df4" title="Called when the current tab selection changed. " alt="" coords="422,118,613,159"/>
+<area shape="rect" id="node6" href="$classguiQt_1_1editor_1_1SDynamicView.html#ac218c8a8b26e9a0fd733d03df3996b14" title="Install the container. " alt="" coords="662,118,853,159"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwActivities::IObjectValidator" name="fwActivities::IObjectValidator">
+<area shape="rect" id="node5" href="$classfwActivities_1_1validator_1_1ImageProperties.html" title="Defines a validator which checks that properties of given images are the same. " alt="" coords="27,321,173,362"/>
+<area shape="rect" id="node2" href="$classfwActivities_1_1IValidator.html" title="Base class for all fwActivities validator&#39;s classes. " alt="" coords="23,171,176,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="30,96,169,123"/>
+</map>

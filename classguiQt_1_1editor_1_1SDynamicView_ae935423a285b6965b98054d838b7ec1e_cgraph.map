@@ -1,0 +1,23 @@
+<map id="guiQt::editor::SDynamicView::swapping" name="guiQt::editor::SDynamicView::swapping">
+<area shape="rect" id="node2" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a0c01ab0255488f5434db4e7d9e83e254" title="Return activity series. " alt="" coords="265,5,471,46"/>
+<area shape="rect" id="node3" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a0bc047e3a73758f396ddc7ee4e5e1179" title="Return appConfig identifier. " alt="" coords="268,70,468,111"/>
+<area shape="rect" id="node4" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a9d1a207ad085134d3644c138b2ec45b9" title="Return activity icon path. " alt="" coords="279,135,457,177"/>
+<area shape="rect" id="node5" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#ac2252b43b9557a1e5471a71b73cb971b" title="Return the map of the string association to replace in config. " alt="" coords="269,201,467,242"/>
+<area shape="rect" id="node6" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a1f88fda694c18ded1def8bcab31f8476" title="Return tab identifier. " alt="" coords="287,266,449,307"/>
+<area shape="rect" id="node7" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a476cf222c130c8acb170829767d14463" title="Return activity title. " alt="" coords="293,331,443,373"/>
+<area shape="rect" id="node8" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a5ee15f9eba5c9201fdac4e31c307f4cb" title="Return tooltip. " alt="" coords="284,397,452,438"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1registry_1_1AppConfig.html#a82fae51e58bd27b63f7307e258f38b70" title="Create an unique identifier. " alt="" coords="264,462,472,503"/>
+<area shape="rect" id="node10" href="$classguiQt_1_1editor_1_1SDynamicView.html#aaceb0d09322ca170e2ea704ad02cae45" title="Write information in a stream. " alt="" coords="273,527,463,569"/>
+<area shape="rect" id="node11" href="$classfwActivities_1_1registry_1_1ActivityMsg.html#a3e5e313aee229a2febe836882ec28aa2" title="Return if the activity can be closed. " alt="" coords="284,593,452,634"/>
+<area shape="rect" id="node12" href="$classfwServices_1_1IAppConfigManager.html#a0ff391f480a5c6edef5aa64e2d7c79f6" title="fwServices::IAppConfigManager::New" alt="" coords="245,659,491,685"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1GuiRegistry.html#a1ceab023d25ec218cd3d8c2dcdc19eb0" title="Registers container associate with window ID. " alt="" coords="290,710,446,751"/>
+<area shape="rect" id="node14" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="539,766,735,807"/>
+<area shape="rect" id="node20" href="$classfwGui_1_1view_1_1IActivityView.html#a07eab537c873f1a3b8ffa26df11c841d" title="Check if the activity is valid by calling the activity validator. " alt="" coords="280,830,456,871"/>
+<area shape="rect" id="node15" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="785,733,981,774"/>
+<area shape="rect" id="node16" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="785,798,981,839"/>
+<area shape="rect" id="node17" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="1029,762,1229,803"/>
+<area shape="rect" id="node18" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="1037,827,1221,883"/>
+<area shape="rect" id="node19" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="1277,834,1461,875"/>
+<area shape="rect" id="node21" href="$classfwActivities_1_1registry_1_1Activities.html#a96b15391d34df7160015ac8654486fad" title="Return the default global instance of Activities. " alt="" coords="561,831,713,873"/>
+<area shape="rect" id="node22" href="$classfwServices_1_1IService.html#af98da4a410587cde1b329546daa4bbff" title="Write information in a stream. " alt="" coords="566,897,709,938"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ioData::STrianMeshReader::updating" name="ioData::STrianMeshReader::updating">
+<area shape="rect" id="node2" href="$classfwIO_1_1IReader.html#ae9237daccc6e0cf46e49b3a3668bf971" title="Returns the file path set by the user or set during service configuration. " alt="" coords="258,12,409,38"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IReader.html#aa7e1cedac01372df2bc48f874fcb88f7" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="242,118,425,159"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="235,254,431,295"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="725,93,925,120"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IReader.html#a96c435e1ac3db3eb513f9f2667ca497a" title="Sets folder path. " alt="" coords="495,34,662,61"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1IService.html#a19f7e6b221251ddc8ff50fd6895a5aca" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="507,86,650,127"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="503,152,654,178"/>
+<area shape="rect" id="node8" href="$classfwIO_1_1IReader.html#ae0257a1f040382abb71da2481d1411b8" title="Sets file paths. " alt="" coords="499,202,658,229"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="481,254,677,295"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="481,319,677,360"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="725,283,925,324"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="733,348,917,404"/>
+<area shape="rect" id="node14" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="973,355,1157,396"/>
+</map>

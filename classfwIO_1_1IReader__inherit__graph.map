@@ -1,0 +1,26 @@
+<map id="fwIO::IReader" name="fwIO::IReader">
+<area shape="rect" id="node10" href="$classioAtoms_1_1SReader.html" title="Atoms reader. Service to load data from Atoms format. " alt="" coords="995,5,1125,32"/>
+<area shape="rect" id="node11" href="$classioData_1_1SAttachmentSeriesReader.html" title="SAttachmentSeries reader service. " alt="" coords="969,57,1151,98"/>
+<area shape="rect" id="node12" href="$classioData_1_1SplineReaderService.html" title="Spline reader service. " alt="" coords="965,123,1155,149"/>
+<area shape="rect" id="node13" href="$classioData_1_1STrianMeshReader.html" title="Mesh reader service. " alt="" coords="970,173,1150,200"/>
+<area shape="rect" id="node14" href="$classioData_1_1TransformationMatrix3DReaderService.html" title="This service read a fwData::TransformationMatrix3D from a .trf file. " alt="" coords="961,225,1159,266"/>
+<area shape="rect" id="node15" href="$classioDcmtk_1_1SSeriesDBReader.html" title="Read ImageSeries from DICOM with dcmtk. " alt="" coords="967,291,1153,317"/>
+<area shape="rect" id="node16" href="$classioGdcm_1_1SDicomSeriesDBReader.html" title="Read DicomSeries from DICOM folder with GDCM reader. " alt="" coords="950,341,1170,368"/>
+<area shape="rect" id="node17" href="$classioGdcm_1_1SSeriesDBReader.html" title="Read DICOM (ImageSeries/ModelSeries) with gdcm reader. " alt="" coords="969,392,1151,419"/>
+<area shape="rect" id="node18" href="$classioITK_1_1InrImageReaderService.html" title="Reader for .inr.gz image. " alt="" coords="961,443,1159,469"/>
+<area shape="rect" id="node19" href="$classioITK_1_1SInrSeriesDBReader.html" title="Reads inr files and pushes them into SeriesDB. " alt="" coords="969,493,1151,520"/>
+<area shape="rect" id="node20" href="$classioTuto_1_1ExternalDataReaderService.html" title="ioTuto::ExternalDataReader\lService" alt="" coords="968,545,1152,586"/>
+<area shape="rect" id="node21" href="$classioVTK_1_1SImageReader.html" title="Service reading a VTK Image using the fwVtkIO lib. " alt="" coords="983,611,1137,637"/>
+<area shape="rect" id="node22" href="$classioVTK_1_1SImageSeriesReader.html" title="VTK ImageSeries Reader. " alt="" coords="965,661,1155,688"/>
+<area shape="rect" id="node23" href="$classioVTK_1_1SMeshReader.html" title="VTK Mesh Reader. " alt="" coords="985,712,1135,739"/>
+<area shape="rect" id="node24" href="$classioVTK_1_1SModelSeriesReader.html" title="VTK Mesh Writer. " alt="" coords="965,763,1155,789"/>
+<area shape="rect" id="node25" href="$classioVTK_1_1SSeriesDBReader.html" title="VTK File Reader. " alt="" coords="973,813,1147,840"/>
+<area shape="rect" id="node26" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html" title="This service reads a dicom dir in lazy mode, and provides a fwMedData::SeriesDB. " alt="" coords="966,865,1154,906"/>
+<area shape="rect" id="node27" href="$classioVtkGdcm_1_1SSeriesDBReader.html" title="This service reads a dicom dir, and provides a fwMedData::SeriesDB. " alt="" coords="959,931,1161,957"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="606,468,749,495"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,417,545,444"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,367,370,393"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,468,352,495"/>
+<area shape="rect" id="node8" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,468,551,495"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,519,557,545"/>
+</map>

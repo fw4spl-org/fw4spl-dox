@@ -1,0 +1,4 @@
+<map id="fwGui::registrar::MenuRegistrar::manage" name="fwGui::registrar::MenuRegistrar::manage">
+<area shape="rect" id="node2" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="259,5,399,32"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1GuiRegistry.html#adb02ea8d53042cb946ac87d498f3e610" title="Registers fwMenu associate with service ID. " alt="" coords="263,57,396,98"/>
+</map>

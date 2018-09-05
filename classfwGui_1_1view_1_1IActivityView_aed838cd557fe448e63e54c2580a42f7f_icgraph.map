@@ -1,0 +1,4 @@
+<map id="fwGui::view::IActivityView::launchActivity" name="fwGui::view::IActivityView::launchActivity">
+<area shape="rect" id="node2" href="$classfwGui_1_1view_1_1IActivityView.html#aaf7fa0a5e1ee1c089868b3ff187793d8" title="Constructor. Do nothing. " alt="" coords="453,5,629,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1view_1_1IActivityView.html#a693fe5f1998d8cf5979d738dfb2900b2" title="Slot: Launch the given activity in a new tab. " alt="" coords="229,34,405,75"/>
+</map>

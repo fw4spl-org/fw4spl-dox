@@ -1,0 +1,5 @@
+<map id="visuVTKAdaptor::SModelSeries::stopping" name="visuVTKAdaptor::SModelSeries::stopping">
+<area shape="rect" id="node2" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="262,5,485,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="286,70,461,111"/>
+<area shape="rect" id="node3" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="533,5,680,46"/>
+</map>

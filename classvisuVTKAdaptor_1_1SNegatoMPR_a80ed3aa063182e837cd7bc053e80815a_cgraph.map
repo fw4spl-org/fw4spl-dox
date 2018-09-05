@@ -1,0 +1,12 @@
+<map id="visuVTKAdaptor::SNegatoMPR::updating" name="visuVTKAdaptor::SNegatoMPR::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="282,5,449,61"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="536,70,675,111"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="525,135,686,177"/>
+<area shape="rect" id="node8" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="284,253,447,294"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#a2fa78325dcc9253129b725a8421847db" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="262,187,469,229"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="742,70,903,111"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="751,135,894,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="742,201,903,242"/>
+<area shape="rect" id="node10" href="$classfwServices_1_1IHasServices.html#a86ee4c6e6d49df91975c4fe2d948210b" title="Get all subservices linked to this service. " alt="" coords="518,201,693,242"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="518,266,693,307"/>
+</map>

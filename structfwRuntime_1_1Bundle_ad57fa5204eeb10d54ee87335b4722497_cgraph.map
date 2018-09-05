@@ -1,0 +1,5 @@
+<map id="fwRuntime::Bundle::getVersion" name="fwRuntime::Bundle::getVersion">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#a9c4da5a51ec7a333c7748286e634aedc" title="Retrieves the enabled bundle for the specified idenfier. " alt="" coords="195,5,338,46"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="195,70,338,111"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Bundle.html#aa75c9a3d5d47df8e4db62dd1d20b4caa" title="Retrieves the bundle identifier. " alt="" coords="196,135,337,177"/>
+</map>

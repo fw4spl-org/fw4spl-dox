@@ -1,0 +1,14 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::setOrCreateTF" name="fwDataTools::helper::MedicalImageAdaptor::setOrCreateTF">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#afc304f47a3b79a9562bdbaf53da82afe" title="Create and set the default transfer function. " alt="" coords="211,149,375,205"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a9cd350f7ccdd8a329c42d27d5e79088d" title="Install connections to listen TF modifications. " alt="" coords="215,321,371,377"/>
+<area shape="rect" id="node10" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#affa9720c3ed5084df60a5e0d3a2c749b" title="Remove the TF connections. " alt="" coords="212,401,375,457"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a2fce35c4b5005348d4916235a59fc7df" title="Set the current TransferFunction. " alt="" coords="215,481,371,537"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="467,5,605,46"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="453,69,619,125"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#abb0d7ac24314c1b1a988f27b8b17354a" title="Return minimum and maximum values contained in image. If image min or max value is out of MINMAXTYPE ..." alt="" coords="453,149,619,205"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="467,229,605,270"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="458,293,614,349"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ab661875b9bbaa37f9f6f4f4c67575bea" title="Add a connection. " alt="" coords="425,373,647,414"/>
+<area shape="rect" id="node11" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="425,438,647,479"/>
+<area shape="rect" id="node12" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="696,438,843,479"/>
+</map>

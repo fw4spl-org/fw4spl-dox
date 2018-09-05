@@ -1,0 +1,18 @@
+<map id="fwIO::IReader::configuring" name="fwIO::IReader::configuring">
+<area shape="rect" id="node2" href="$classioITK_1_1InrImageReaderService.html#acbe8a3d7320b2070e9d9bbbfa92b98ab" title="Override. " alt="" coords="241,5,439,46"/>
+<area shape="rect" id="node3" href="$classioITK_1_1SInrSeriesDBReader.html#afcf73acb1a3ac0e357657a1d09124ee2" title="Calls base class implementation. " alt="" coords="249,70,431,111"/>
+<area shape="rect" id="node4" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a56ef31ffc95d294e8df9232d9bc842da" title="Override. " alt="" coords="246,135,434,177"/>
+<area shape="rect" id="node5" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a6ea82147138fc5896ad72a352471ca67" title="Override. " alt="" coords="239,201,441,242"/>
+<area shape="rect" id="node6" href="$classioDcmtk_1_1SSeriesDBReader.html#a8289305134090a50e20c3a0645bf9061" title="ioDcmtk::SSeriesDBReader\l::configuring" alt="" coords="247,266,433,307"/>
+<area shape="rect" id="node7" href="$classioData_1_1TransformationMatrix3DReaderService.html#aaccf20009b37a5bcb97c1164d37549d8" title="Configuring method : calls implementation from io::IReader " alt="" coords="241,331,439,373"/>
+<area shape="rect" id="node8" href="$classioData_1_1SAttachmentSeriesReader.html#a9ecf392d1666f596389fbd6d7fe84f14" title="Configuring method : calls implementation from io::IReader " alt="" coords="249,397,431,438"/>
+<area shape="rect" id="node9" href="$classioVTK_1_1SImageSeriesReader.html#a00ca8898fb7f2a6a045e88993550e1cc" title="Configuring method. " alt="" coords="245,462,435,503"/>
+<area shape="rect" id="node10" href="$classioVTK_1_1SMeshReader.html#a2fa318b21d6fbb144c747e9161856e0d" title="Configuring method. " alt="" coords="265,527,415,569"/>
+<area shape="rect" id="node11" href="$classioData_1_1STrianMeshReader.html#a1b6035ca2a790640af0dcf1220ce1a31" title="Configuring method : calls implementation from io::IReader " alt="" coords="250,593,430,634"/>
+<area shape="rect" id="node12" href="$classioVTK_1_1SImageReader.html#ab4052d34e12f7505d2eac78d325b78f8" title="Method called when the service is stopped, does nothing. " alt="" coords="263,658,417,699"/>
+<area shape="rect" id="node13" href="$classioVTK_1_1SModelSeriesReader.html#aa582f911c35fe6d7e46ff22cb4324048" title="Configuring method. " alt="" coords="245,723,435,765"/>
+<area shape="rect" id="node14" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a0e216293be3dfdd29a8bb77161c1330d" title="Configuring method. This method is used to configure the service. " alt="" coords="230,789,450,830"/>
+<area shape="rect" id="node15" href="$classioVTK_1_1SSeriesDBReader.html#a51915e9ed974143f3cc7f4133a5319de" title="Configuring method. " alt="" coords="253,854,427,895"/>
+<area shape="rect" id="node16" href="$classioAtoms_1_1SReader.html#aa24e0c0e48d89e8c692678cd7db02977" title="Parse the configuration. " alt="" coords="240,920,440,947"/>
+<area shape="rect" id="node17" href="$classioGdcm_1_1SSeriesDBReader.html#aa9bb0a2e9522d5326d6975dd3f598f7b" title="Configuring method. This method is used to configure the service. " alt="" coords="249,971,431,1013"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fwVtkIO::BitmapImageReader::getAvailableExtensions" name="fwVtkIO::BitmapImageReader::getAvailableExtensions">
+<area shape="rect" id="node2" href="$classfwVtkIO_1_1BitmapImageReader.html#a3c28893fcc0e70b9e501cfacdae0cc9d" title="Constructor. " alt="" coords="251,5,448,46"/>
+<area shape="rect" id="node3" href="$classioVTK_1_1SImageSeriesReader.html#ab295b79ebbce44db3a891ff6ba956f5a" title="Configure the image path. " alt="" coords="254,70,445,111"/>
+<area shape="rect" id="node4" href="$classioVTK_1_1SImageReader.html#a64610b57ca2da396aff847f585ffd958" title="Configure the image path with a dialogBox. " alt="" coords="273,135,426,177"/>
+<area shape="rect" id="node5" href="$classioVTK_1_1SImageReader.html#a3d37bc40a9e8e2033b45d21a82d4abd2" title="This method is used to load an vtk image using a file path. " alt="" coords="273,201,426,242"/>
+<area shape="rect" id="node6" href="$classioVTK_1_1SImageReader.html#afcbc09386d2bff33b89cc473cc23b2ff" title="Updating method execute the read process. " alt="" coords="515,167,669,209"/>
+<area shape="rect" id="node7" href="$classioVTK_1_1SImageSeriesReader.html#a4b42eec6b44b74ae7286255333bf01cb" title="Updating method. " alt="" coords="497,233,687,274"/>
+</map>

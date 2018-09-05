@@ -1,0 +1,26 @@
+<map id="fwTools::UUID::generateUUID" name="fwTools::UUID::generateUUID">
+<area shape="rect" id="node2" href="$classfwMDSemanticPatch_1_1V09ALA_1_1V10_1_1fwData_1_1Image.html#a5bfc697f0691316b00f4229b1da065ef" title="Applies patch. " alt="" coords="277,5,432,61"/>
+<area shape="rect" id="node3" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html#a7e04ebe48e6f457d3833e23279bac2dd" title="Applies patch. " alt="" coords="274,85,435,141"/>
+<area shape="rect" id="node4" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html#a021eddfcab24c50d2809b3dfbb258472" title="Applies patch. " alt="" coords="277,165,432,221"/>
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html#a6c5d51476e5400ca8b0f1b8108e15fd6" title="Applies patch. " alt="" coords="263,245,447,301"/>
+<area shape="rect" id="node6" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#a2b1ec86c62803d6e398f479534dcc8d7" title="Applies patch. " alt="" coords="263,325,446,381"/>
+<area shape="rect" id="node7" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html#a64367de970f3ff45b82dd2019d6e4b79" title="Copy constructor. " alt="" coords="263,405,446,461"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1view_1_1IActivityView.html#ad703b8b8740532045104e26e943b05d7" title="Create the activity series given in &#39;mainActivity&#39; configuration. " alt="" coords="267,485,443,526"/>
+<area shape="rect" id="node12" href="$namespacefwAtomsPatch_1_1helper.html#add721d8f72ff81d766effa9dca8bba46" title="Generates new id for the object (also creates it if it is missing ) " alt="" coords="279,550,430,591"/>
+<area shape="rect" id="node13" href="$classfwTools_1_1UUID.html#a472c81a8610b2e6427c0f2079a71d56a" title="Return an uuid to the given object : if no one previously set then generate a new one..." alt="" coords="287,616,423,643"/>
+<area shape="rect" id="node17" href="$classfwNetworkIO_1_1http_1_1ClientQt.html#a6afc49ab6259e32dcb13aa095139ee24" title="Retrieves data over network. " alt="" coords="286,667,423,709"/>
+<area shape="rect" id="node20" href="$classioVTK_1_1SImageSeriesReader.html#a845786f2bec94b51abbdf85bad562357" title="Info method. " alt="" coords="259,733,450,774"/>
+<area shape="rect" id="node21" href="$classfwVtkIO_1_1SeriesDBReader.html#a75370bdc3050c0fb7d34055788da723a" title="Reading operator. " alt="" coords="267,798,443,839"/>
+<area shape="rect" id="node22" href="$classioITK_1_1SInrSeriesDBReader.html#ac6fbb30c0116b633a344bcbda4adaa9b" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="263,863,446,905"/>
+<area shape="rect" id="node23" href="$classioData_1_1SAttachmentSeriesReader.html#a20166c9d3e9398d066e91ee87259878c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="264,929,445,970"/>
+<area shape="rect" id="node24" href="$classactivities_1_1SActivitySequencer.html#a78861ab377ea77bf2804b3ef0b95857d" title="Analyse the series contained in the current seriesDB. " alt="" coords="256,994,453,1035"/>
+<area shape="rect" id="node25" href="$classuiMedDataQt_1_1editor_1_1SActivityWizard.html#a2b13b6a0bf9fb627eeb7aaaa50b73e71" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="264,1059,445,1101"/>
+<area shape="rect" id="node9" href="$classguiQt_1_1editor_1_1SActivityView.html#ae29426d75dcbb9f510723fe8bd67360e" title="Install the container. " alt="" coords="531,413,685,454"/>
+<area shape="rect" id="node10" href="$classguiQt_1_1editor_1_1SDynamicView.html#a3a20a4a5e2a506f7b4e7a1e9d9607df4" title="Called when the current tab selection changed. " alt="" coords="513,478,703,519"/>
+<area shape="rect" id="node11" href="$classguiQt_1_1editor_1_1SDynamicView.html#ac218c8a8b26e9a0fd733d03df3996b14" title="Install the container. " alt="" coords="763,478,954,519"/>
+<area shape="rect" id="node14" href="$classfwAtomConversion_1_1DataVisitor.html#a24edc65b5dd21a5a0fff67b25f90ab19" title="Constructor. Initializes atom object and store it in the cache. " alt="" coords="505,543,711,585"/>
+<area shape="rect" id="node15" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a8da1b9e332db4c14254cf82709482e90" title="Writing operator. " alt="" coords="505,609,711,650"/>
+<area shape="rect" id="node16" href="$classioVTK_1_1SModelSeriesWriter.html#a3872c9eb9915c99f152a9549b36ec501" title="Updating method. " alt="" coords="517,674,699,715"/>
+<area shape="rect" id="node18" href="$classioDicomWeb_1_1SSeriesPuller.html#a5035d258c7c2aa89248d943869166cbf" title="Checks the configuration and pull the series. " alt="" coords="516,739,700,781"/>
+<area shape="rect" id="node19" href="$classioDicomWeb_1_1SSliceIndexDicomPullerEditor.html#a1cdbb81edd8fbaae757de1f517a7e050" title="Does nothing. " alt="" coords="501,805,715,846"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fwGui::registrar::MenuBarRegistrar::manage" name="fwGui::registrar::MenuBarRegistrar::manage">
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiRegistry.html#a2b332812b07c6718cc8dbed6bf5ac8ef" title="Method called when the action service is stopping. Call parent service actionServiceStopping() method..." alt="" coords="224,5,384,46"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="433,41,573,68"/>
+<area shape="rect" id="node4" href="$namespacefwServices.html#ac1330dd9d5bce7469379218974afd269" title="Get the first service of type serviceType which is attached to obj. " alt="" coords="247,121,361,148"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1GuiRegistry.html#adb02ea8d53042cb946ac87d498f3e610" title="Registers fwMenu associate with service ID. " alt="" coords="237,173,371,214"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::reader::tid::TemplateID&lt; DATATYPE &gt;" name="fwGdcmIO::reader::tid::TemplateID&lt; DATATYPE &gt;">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1tid_1_1TemplateID.html" title="fwGdcmIO::reader::tid\l::TemplateID\&lt; ::fwData\l::Image \&gt;" alt="" coords="371,63,531,119"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html" title="Fiducial TID. " alt="" coords="582,5,733,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html" title="Measurement TID. " alt="" coords="582,70,733,111"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html" title="Measurement Report TID &#45; This a root template. " alt="" coords="582,135,733,177"/>
+</map>

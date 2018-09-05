@@ -1,0 +1,4 @@
+<map id="fwGui::IActionSrv::confirmAction" name="fwGui::IActionSrv::confirmAction">
+<area shape="rect" id="node2" href="$classgui_1_1action_1_1SSlotCaller.html#ad06dd40074cdb17fd9234cd889733eb2" title="This method run the specified slots. " alt="" coords="187,5,343,46"/>
+<area shape="rect" id="node3" href="$classgui_1_1action_1_1SSignal.html#a441394f1e85b3839119ed30ed2b291e9" title="Emit the signal. " alt="" coords="198,70,333,111"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ioVTK::SModelSeriesWriter::updating" name="ioVTK::SModelSeriesWriter::updating">
+<area shape="rect" id="node2" href="$classfwTools_1_1UUID.html#a472c81a8610b2e6427c0f2079a71d56a" title="Return an uuid to the given object : if no one previously set then generate a new one..." alt="" coords="268,5,404,32"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IWriter.html#a1d9aed16ebe0772e153175df8abbdbcd" title="Returns folder path set by the user or set during service configuration. " alt="" coords="257,56,415,83"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IWriter.html#ab941a614378b54582154b7369250a4f0" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="249,107,423,149"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1Cursor.html#a5ae94490f1d7142783205bd4e541ea3a" title="Set the cursor. " alt="" coords="252,173,420,200"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1Cursor.html#aeb413636f5020582ebb507ce61268b10" title="Set the default cursor. " alt="" coords="251,225,421,266"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="238,290,434,331"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="483,5,685,32"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IWriter.html#a3fe9198778ecfd870ad2cf6c657f1b40" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="487,56,681,83"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="486,257,682,298"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="486,322,682,363"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="733,286,933,327"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="741,351,925,407"/>
+<area shape="rect" id="node14" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="981,358,1165,399"/>
+</map>

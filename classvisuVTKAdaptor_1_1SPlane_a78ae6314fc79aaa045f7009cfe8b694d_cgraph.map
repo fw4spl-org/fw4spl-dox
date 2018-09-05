@@ -1,0 +1,7 @@
+<map id="visuVTKAdaptor::SPlane::updating" name="visuVTKAdaptor::SPlane::updating">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="222,70,383,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="221,135,384,177"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="433,5,594,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="442,70,585,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="433,135,594,177"/>
+</map>

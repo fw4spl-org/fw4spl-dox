@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html" title="This class defines a node in a SR document. " alt="" coords="5,234,152,275"/>
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRCodeNode.html" title="This class defines a CODE node in a SR document. " alt="" coords="216,5,384,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRContainerNode.html" title="This class defines a CONTAINER node in a SR document. " alt="" coords="203,70,397,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRImageNode.html" title="This class defines an IMAGE node in a SR document. " alt="" coords="213,135,387,177"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNumNode.html" title="This class defines a NUM node in a SR document. " alt="" coords="217,201,383,242"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoord3DNode.html" title="This class defines a SCOORD3D node in a SR document. " alt="" coords="201,266,399,307"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRSCoordNode.html" title="This class defines a SCOORD node in a SR document. " alt="" coords="209,331,391,373"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRTextNode.html" title="This class defines a TEXT node in a SR document. " alt="" coords="219,397,381,438"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRUIDRefNode.html" title="This class defines a UIDREF node in a SR document. " alt="" coords="209,462,391,503"/>
+</map>

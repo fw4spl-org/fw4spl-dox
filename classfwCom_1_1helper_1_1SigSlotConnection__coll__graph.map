@@ -1,0 +1,7 @@
+<map id="fwCom::helper::SigSlotConnection" name="fwCom::helper::SigSlotConnection">
+<area shape="rect" id="node3" href="$structfwCom_1_1Connection.html" title="Class managing Signal&#45;Slot connections. " alt="" coords="149,397,288,424"/>
+<area shape="rect" id="node5" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="5,189,195,216"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="30,99,169,125"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="220,189,353,216"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="342,240,439,267"/>
+</map>

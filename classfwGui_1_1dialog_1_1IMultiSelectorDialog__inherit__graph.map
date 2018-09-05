@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::IMultiSelectorDialog" name="fwGui::dialog::IMultiSelectorDialog">
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allows the choice of some element among several (_selections) ..." alt="" coords="5,337,187,378"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1dialog_1_1MultiSelectorDialog.html" title="MultiSelectorDialog allowing the choice of an element among severals (_selections) ..." alt="" coords="211,337,407,378"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="127,171,279,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="133,96,272,123"/>
+</map>

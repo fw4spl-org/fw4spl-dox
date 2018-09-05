@@ -1,0 +1,22 @@
+<map id="visuVTKAdaptor::SImageText" name="visuVTKAdaptor::SImageText">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SText.html" title="Displays a text. " alt="" coords="2485,555,2645,581"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html" title="Base class for VTK adaptors. " alt="" coords="2273,361,2434,388"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1947,361,2090,388"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="519,187,633,213"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,144,373,171"/>
+<area shape="rect" id="node27" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="481,112,671,139"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="251,248,355,275"/>
+<area shape="rect" id="node10" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1590,395,1717,421"/>
+<area shape="rect" id="node11" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1330,376,1433,403"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="536,423,616,449"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="239,415,366,457"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="515,299,637,325"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="509,53,643,80"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="734,5,831,32"/>
+<area shape="rect" id="node18" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1584,344,1723,371"/>
+<area shape="rect" id="node19" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1324,319,1439,345"/>
+<area shape="rect" id="node22" href="$classfwServices_1_1IHasServices.html" title="Interface for objects that need to manage services. " alt="" coords="1931,311,2106,337"/>
+<area shape="rect" id="node23" href="$classfwCom_1_1helper_1_1SigSlotConnection.html" title="This class provides few tools to ease connect/disconnect between a signal emitter and a slot receiver..." alt="" coords="1907,191,2130,217"/>
+<area shape="rect" id="node25" href="$structfwCom_1_1Connection.html" title="Class managing Signal&#45;Slot connections. " alt="" coords="1312,95,1451,121"/>
+<area shape="rect" id="node30" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html" title="Helpers for medical image. " alt="" coords="2487,606,2643,647"/>
+</map>

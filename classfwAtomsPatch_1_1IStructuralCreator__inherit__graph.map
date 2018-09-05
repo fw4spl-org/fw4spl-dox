@@ -1,0 +1,12 @@
+<map id="fwAtomsPatch::IStructuralCreator" name="fwAtomsPatch::IStructuralCreator">
+<area shape="rect" id="node4" href="$classfwStructuralPatch_1_1creator_1_1fwData_1_1Landmarks1.html" title="Structural creator for fwData::Landmarks version &#39;1&#39;. " alt="" coords="643,5,834,46"/>
+<area shape="rect" id="node5" href="$classfwStructuralPatch_1_1creator_1_1fwData_1_1PointList1.html" title="Structural creator for fwData::PointList version &#39;1&#39;. " alt="" coords="649,70,828,111"/>
+<area shape="rect" id="node6" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Equipment1.html" title="Structural creator for fwMedData::Equipment version &#39;1&#39;. " alt="" coords="666,135,811,191"/>
+<area shape="rect" id="node7" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Patient1.html" title="Structural creator for fwMedData::Patient version &#39;1&#39;. " alt="" coords="666,215,811,271"/>
+<area shape="rect" id="node8" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Series1.html" title="Structural creator for fwMedData::Series version 1. " alt="" coords="666,295,811,351"/>
+<area shape="rect" id="node12" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1Study1.html" title="Structural creator for fwMedData::Study version &#39;1&#39;. " alt="" coords="666,375,811,431"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,189,370,216"/>
+<area shape="rect" id="node9" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ActivitySeries1.html" title="Structural creator for fwMedData::ActivitySeries version 1. " alt="" coords="883,215,1029,271"/>
+<area shape="rect" id="node10" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html" title="Structural creator for fwMedData::ImageSeries version &#39;1&#39;. " alt="" coords="883,295,1029,351"/>
+<area shape="rect" id="node11" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ModelSeries1.html" title="Structural creator for fwMedData::ModelSeries version &#39;1&#39;. " alt="" coords="883,375,1029,431"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwRuntime::BundleElement::getBundle" name="fwRuntime::BundleElement::getBundle">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1ExtensionPoint.html#a706814884f59add6ef48e891a6631436" title="Retrieves the extension validator. " alt="" coords="259,5,440,46"/>
+<area shape="rect" id="node3" href="$classfwActivities_1_1registry_1_1Activities.html#ac92df7b2f3c63b6ee5018787f529cdc5" title="Parse bundle information to retrieve config parameters declaration. " alt="" coords="235,70,464,111"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Extension.html#af5d7f4b0e830fc62db9d80c438ff3510" title="Validates the extension. " alt="" coords="274,135,425,177"/>
+</map>

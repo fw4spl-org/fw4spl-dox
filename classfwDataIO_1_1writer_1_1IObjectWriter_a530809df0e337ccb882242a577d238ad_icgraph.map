@@ -1,0 +1,7 @@
+<map id="fwDataIO::writer::IObjectWriter::getObject" name="fwDataIO::writer::IObjectWriter::getObject">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html#a770653349766cde424801532b8704f1d" title="m_object getter. " alt="" coords="221,96,416,152"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html#a23cbb482cd7a77a59d397a88b1f6c2a8" title="Read the file with zlib API. " alt="" coords="464,5,643,46"/>
+<area shape="rect" id="node4" href="$classfwVtkIO_1_1ImageWriter.html#a43aa39de25d6513e0cde639c8261b5c0" title="Writing operator. " alt="" coords="479,70,628,111"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1MetaImageWriter.html#a3b3d8e7387de8a9c7758a7720b62c309" title="Writing operator. " alt="" coords="464,135,643,177"/>
+<area shape="rect" id="node6" href="$classfwVtkIO_1_1VtiImageWriter.html#ae2b98926455a57bae91a1e70a7c935c4" title="Writing operator. " alt="" coords="471,201,636,242"/>
+</map>

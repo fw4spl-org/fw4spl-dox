@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::InputDialog::showInputDialog" name="fwGui::dialog::InputDialog::showInputDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1InputDialog.html#ad247cc9073478355cf0544030d449766" title="Get the input text in the input field. " alt="" coords="227,41,399,82"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1IInputDialog.html#a4a728de42806e416625e5d1e66c121fb" title="Get the input text in the input field. " alt="" coords="452,5,628,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="448,69,632,125"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="680,77,864,118"/>
+</map>

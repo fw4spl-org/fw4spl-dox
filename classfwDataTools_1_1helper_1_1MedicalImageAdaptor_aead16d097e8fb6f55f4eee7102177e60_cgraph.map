@@ -1,0 +1,7 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::getCurrentSliceCenter" name="fwDataTools::helper::MedicalImageAdaptor::getCurrentSliceCenter">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa37e3405cfdf002a1e6967b5d3daf05f" title="Return the image. " alt="" coords="625,70,781,126"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a1afbc74845a81ad7a6ac212e6dddbc1f" title="Get the image origin. " alt="" coords="419,37,575,93"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a5fcb61afb3b3cf72cf8073d8f0d41497" title="Get the image size ( = dataSize * spacing ). " alt="" coords="214,102,370,158"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7e86c6ebadbb341c12b45dce752e4826" title="Get the image spacing. " alt="" coords="419,168,575,224"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab067dccf873aac803ab5cb21a092466c" title="Get the slice index. " alt="" coords="214,233,370,289"/>
+</map>

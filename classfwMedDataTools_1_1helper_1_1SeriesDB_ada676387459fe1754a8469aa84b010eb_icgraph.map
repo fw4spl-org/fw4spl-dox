@@ -1,0 +1,27 @@
+<map id="fwMedDataTools::helper::SeriesDB::add" name="fwMedDataTools::helper::SeriesDB::add">
+<area shape="rect" id="node2" href="$classioDicom_1_1SFilterSelectionEditor.html#a7f633b26bed8810d4b82b82e8c1ae908" title="Create and add a filter in a specific position. " alt="" coords="232,5,403,46"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a81203ccd7908594a55b61b9e58bb6d5c" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="239,70,396,111"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1SManage.html#ae27770ebd3b91efc7ffdc57e9f6e5ff9" title="Removes all objects. " alt="" coords="239,135,396,177"/>
+<area shape="rect" id="node6" href="$classioGdcm_1_1SSeriesDBWriter.html#a410764df981b0d1194818c8820d7a05a" title="Return path type managed by the service, here FOLDER. " alt="" coords="230,201,405,242"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a347bc7a8c4e85d92c42538c49e93b66c" title="Return true if a dicomdir file can be read. " alt="" coords="230,266,405,307"/>
+<area shape="rect" id="node8" href="$classfwDcmtkIO_1_1SeriesDBReader.html#ad13606c2d6d63d6203d7d7b1fbcfb2f6" title="Return true if a dicomdir file can be read. " alt="" coords="220,331,415,373"/>
+<area shape="rect" id="node9" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a89bf67701443d36383a21ce18391dc75" title="Merge seriesDBIn all series from seriesDBIn to the SeriesDB. " alt="" coords="235,397,399,438"/>
+<area shape="rect" id="node16" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#a4e57139d67fee2f35bbcfe05ec940c18" title="Triggered when export button is clicked. " alt="" coords="227,462,407,503"/>
+<area shape="rect" id="node19" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#aabe80c25aa9cbd0220173573c7d24634" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="230,527,405,569"/>
+<area shape="rect" id="node20" href="$classfwDcmtkIO_1_1SeriesDBReader.html#a40ab66233da1ddd463f5bb277fb025a0" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="220,593,415,634"/>
+<area shape="rect" id="node21" href="$classuiMedDataQt_1_1action_1_1SInitNewSeries.html#a4d266fd25d50e5220fd9ba7a0221d860" title="Adds the fake series in series DB. " alt="" coords="228,658,407,699"/>
+<area shape="rect" id="node22" href="$classioDicom_1_1SSeriesDBMerger.html#a6b50bf85cb5da67206f6037e6dd41d5b" title="Override. " alt="" coords="226,723,409,765"/>
+<area shape="rect" id="node23" href="$classioGdcm_1_1SSeriesDBWriter.html#a295225add87f7f143d0b7b881c0316ae" title="Write the ImageSeries in DICOM format. " alt="" coords="230,789,405,830"/>
+<area shape="rect" id="node24" href="$classuiMedDataQt_1_1action_1_1SExportSeries.html#ae3ea452ac2deb12a979680b527956f84" title="Adds the series specified by m_seriesId in the SeriesDB. " alt="" coords="232,854,403,895"/>
+<area shape="rect" id="node25" href="$classioData_1_1SAttachmentSeriesReader.html#a20166c9d3e9398d066e91ee87259878c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="227,919,408,961"/>
+<area shape="rect" id="node26" href="$classactivities_1_1SActivitySequencer.html#a78861ab377ea77bf2804b3ef0b95857d" title="Analyse the series contained in the current seriesDB. " alt="" coords="219,985,416,1026"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="493,103,651,145"/>
+<area shape="rect" id="node10" href="$classioGdcm_1_1SDicomSeriesConverter.html#a1241811179c18dc02f9b5ff69328d780" title="Override. " alt="" coords="464,201,680,242"/>
+<area shape="rect" id="node11" href="$classioITK_1_1SInrSeriesDBReader.html#ac6fbb30c0116b633a344bcbda4adaa9b" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="481,266,663,307"/>
+<area shape="rect" id="node12" href="$classuiIO_1_1action_1_1SSeriesDBMerger.html#aad5c0b95c59d2e34d032b8941a8ef475" title="Show the SeriesDB reader selector, load the new SeriesDB and merge it the the current SeriesDB..." alt="" coords="471,331,673,373"/>
+<area shape="rect" id="node13" href="$classioDicomWeb_1_1SSeriesPuller.html#a5035d258c7c2aa89248d943869166cbf" title="Checks the configuration and pull the series. " alt="" coords="480,397,664,438"/>
+<area shape="rect" id="node14" href="$classioPacs_1_1SSeriesPuller.html#ad6e611feb6c988b57f51098ecef017ac" title="Read local series. " alt="" coords="497,462,647,503"/>
+<area shape="rect" id="node15" href="$classioPacs_1_1SSeriesPuller.html#ac27b557ea0465e33b52e3d257d08dc6c" title="Constructor. " alt="" coords="728,462,877,503"/>
+<area shape="rect" id="node17" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#ad4a28a5b09ab220549e4fb2f95b0b7ff" title="Constructor. " alt="" coords="503,527,641,569"/>
+<area shape="rect" id="node18" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#a4edd5e7834510fd9a53433a50c702dd1" title="Installs GUI : create container and add selector. " alt="" coords="503,593,641,634"/>
+</map>

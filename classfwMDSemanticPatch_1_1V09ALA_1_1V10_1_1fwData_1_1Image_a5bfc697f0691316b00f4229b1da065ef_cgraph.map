@@ -1,0 +1,7 @@
+<map id="fwMDSemanticPatch::V09ALA::V10::fwData::Image::apply" name="fwMDSemanticPatch::V09ALA::V10::fwData::Image::apply">
+<area shape="rect" id="node2" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="208,5,411,32"/>
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1StructuralCreatorDB.html#ad8eaf8036d6baca064f5b4d1163c381b" title="Returns the default instance of StructuralCreatorDB. " alt="" coords="223,57,395,98"/>
+<area shape="rect" id="node4" href="$classfwAtoms_1_1Boolean.html#a599ffe94152e39127c3ba7b18a649d15" title="Construct an object storing a bool value. " alt="" coords="227,123,391,149"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1Numeric.html#a5eaa3cb6b8d2370fb5001b662a1073ef" title="Build a new numeric type. " alt="" coords="226,173,393,200"/>
+<area shape="rect" id="node6" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="234,224,385,251"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fwRuntime::dl::Native::getNativeName" name="fwRuntime::dl::Native::getNativeName">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Bundle.html#ad57fa5204eeb10d54ee87335b4722497" title="Retrieves the version of the bundle. " alt="" coords="203,70,344,111"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1Version.html#a3e98610f729f4ea2b061d2ecd0c4ed09" title="String converter. " alt="" coords="205,135,342,177"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#a9c4da5a51ec7a333c7748286e634aedc" title="Retrieves the enabled bundle for the specified idenfier. " alt="" coords="393,5,535,46"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="393,70,535,111"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Bundle.html#aa75c9a3d5d47df8e4db62dd1d20b4caa" title="Retrieves the bundle identifier. " alt="" coords="393,135,535,177"/>
+</map>

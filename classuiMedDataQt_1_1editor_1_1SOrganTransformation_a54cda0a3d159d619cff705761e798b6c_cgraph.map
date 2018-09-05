@@ -1,0 +1,17 @@
+<map id="uiMedDataQt::editor::SOrganTransformation::swapping" name="uiMedDataQt::editor::SOrganTransformation::swapping">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="217,259,378,315"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="459,5,597,46"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1Composite.html#a8ddaeedaa099a7d492efb74eb938747e" title="Replace an object in the composite. " alt="" coords="459,70,597,111"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Composite.html#af5a7791e48cf26e021b21c78c94a1a60" title="Remove an object in the composite. " alt="" coords="456,135,600,177"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="459,201,597,242"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1TransformationMatrix3D.html#a256871106e953e3af3d6263cb201011d" title="Set the matrix to identity. " alt="" coords="433,266,623,307"/>
+<area shape="rect" id="node9" href="$classfwData_1_1Object.html#a31ab9432e327456d6e1e4e7a231f0a28" title="return a copy of the source. if source is a null pointer, return a null pointer. " alt="" coords="455,332,601,359"/>
+<area shape="rect" id="node10" href="$classfwData_1_1TransformationMatrix3D.html#af26a7f7a4209789062fbd564a811db54" title="Defines shallow copy. " alt="" coords="427,383,629,425"/>
+<area shape="rect" id="node14" href="$classfwDataTools_1_1helper_1_1Field.html#afe360ae4b1f88d846b7ea891999620cb" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="459,449,597,490"/>
+<area shape="rect" id="node16" href="$classfwDataTools_1_1helper_1_1Field.html#a6be9ec481b7dc86e6d465f7c81955b0a" title="Send the built message and clear the internal maps. " alt="" coords="459,514,597,555"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1TransformationMatrix3D.html#a9ee61541355c4202837e69d4c26d52e9" title="Multiply two matrices. " alt="" coords="691,266,882,307"/>
+<area shape="rect" id="node11" href="$classfwData_1_1TransformationMatrix3D.html#a8a4f5f6432c9c5e0749928ddad5bdffc" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="685,331,888,373"/>
+<area shape="rect" id="node12" href="$classfwData_1_1Object.html#a2090bd852b5a41b67b474ac45bc18349" title="A shallow copy of fields (objects in m_children) " alt="" coords="677,397,896,424"/>
+<area shape="rect" id="node13" href="$classfwData_1_1Object.html#aee66b43149101a063cb2c0d19ac75e03" title="Replace the field map content. " alt="" coords="944,397,1115,424"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1Field.html#a4d249a15a14e8e86615d95d3de124478" title="Add or replace a field in the object. " alt="" coords="717,449,856,490"/>
+</map>

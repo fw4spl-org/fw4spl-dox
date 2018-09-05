@@ -1,0 +1,7 @@
+<map id="fwDataIO::writer::GzBufferImageWriter::write" name="fwDataIO::writer::GzBufferImageWriter::write">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1ImageGetter.html#ac573ebab09b19188c121b87c79eb5307" title="Returns image buffer. " alt="" coords="248,5,411,46"/>
+<area shape="rect" id="node4" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html#a770653349766cde424801532b8704f1d" title="m_object getter. " alt="" coords="232,69,427,125"/>
+<area shape="rect" id="node6" href="$structfwData_1_1location_1_1enableSingleFile.html#ac40eeea8b09b6dfefa394ec7827449bc" title="Get file system path. " alt="" coords="248,150,411,221"/>
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferObject_1_1LockBase.html#a3b37ecd56065bc4e3a608ef6eacc2394" title="Returns BufferObject&#39;s buffer pointer. " alt="" coords="477,5,641,46"/>
+<area shape="rect" id="node5" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html#a530809df0e337ccb882242a577d238ad" title="m_object getter. " alt="" coords="475,77,643,118"/>
+</map>

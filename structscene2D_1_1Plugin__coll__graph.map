@@ -1,0 +1,5 @@
+<map id="scene2D::Plugin" name="scene2D::Plugin">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Plugin.html" title="Provides a default plugin implementation. " alt="" coords="22,155,151,181"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1IPlugin.html" title="Defines the plugin interface. " alt="" coords="20,80,153,107"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1IExecutable.html" title="Defines the base executable interface.An executable object is an instance created by an extension poi..." alt="" coords="5,5,168,32"/>
+</map>

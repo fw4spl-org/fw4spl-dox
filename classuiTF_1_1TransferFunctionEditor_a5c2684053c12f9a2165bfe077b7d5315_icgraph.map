@@ -1,0 +1,4 @@
+<map id="uiTF::TransferFunctionEditor::initTransferFunctions" name="uiTF::TransferFunctionEditor::initTransferFunctions">
+<area shape="rect" id="node2" href="$classuiTF_1_1TransferFunctionEditor.html#a33d35dc6b46270623df5c8c2c3b834b7" title="Start the TransferFunctionEditor, create Container, place in Buttons, ComboBox, Layout, and connect them. " alt="" coords="243,5,431,46"/>
+<area shape="rect" id="node3" href="$classuiTF_1_1TransferFunctionEditor.html#a22d4128b789c539041b4cd46601e9542" title="Selects the current transfer function. " alt="" coords="243,70,431,111"/>
+</map>

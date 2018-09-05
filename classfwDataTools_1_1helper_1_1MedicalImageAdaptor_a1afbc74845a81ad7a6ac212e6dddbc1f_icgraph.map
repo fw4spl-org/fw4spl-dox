@@ -1,0 +1,11 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::getImageOrigin" name="fwDataTools::helper::MedicalImageAdaptor::getImageOrigin">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aead16d097e8fb6f55f4eee7102177e60" title="Get the slice center. " alt="" coords="211,4,370,60"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SSliceFollowerCamera.html#a4038c48f6b2269db3324e4bb4f2bcacd" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="426,14,638,55"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aadd37731ecdc88581c498ab54a1fd727" title="Convert from world coordinates system to image coordinates system. " alt="" coords="213,135,369,191"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ac75285b87ba24487807c147e4564c6ec" title="Convert world coordinates to slice index coordinates. " alt="" coords="213,215,369,271"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#aabc635e28a7d8ebb4ca117c1872469f3" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="419,81,645,122"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#a62eb3f511da5d0c686e16fd6b5e5be79" title="Swap the service from associated object to another object. " alt="" coords="419,146,645,187"/>
+<area shape="rect" id="node6" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#a66223e50971644071f4053df2fc2f897" title="Initialize the service activity. " alt="" coords="693,81,920,122"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a9efd816fd8a73d9802196cb7f5388d87" title="Convert coordinates in the world to coordinates in the image. " alt="" coords="445,215,619,271"/>
+<area shape="rect" id="node10" href="$classvisuVTKAdaptor_1_1SImagesProbeCursor.html#afd767b5b0ad3e501b8a552a98b63cca4" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="701,222,912,263"/>
+</map>

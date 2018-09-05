@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::SelectorDialog::showSelectorDialog" name="fwGui::dialog::SelectorDialog::showSelectorDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#a456f2f46772371e4f67f6e02834636b1" title="Show the selector and return the selection. " alt="" coords="246,41,437,82"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1ISelectorDialog.html#a85fd94baffc2f03205b9121e91eb29d6" title="Show the selector and return the selection. " alt="" coords="498,5,657,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="485,69,669,125"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="717,77,901,118"/>
+</map>

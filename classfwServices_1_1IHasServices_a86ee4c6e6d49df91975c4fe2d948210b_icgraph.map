@@ -1,0 +1,14 @@
+<map id="fwServices::IHasServices::getRegisteredServices" name="fwServices::IHasServices::getRegisteredServices">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a89e6a20242fb9797c56d131bb0e17306" title="Gets all the vtkProp associated to this adaptor. " alt="" coords="275,5,437,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a38aae80eba6b114ada2180596ed8835e" title="Returns the adaptor associated to the vtkProp. " alt="" coords="275,70,437,111"/>
+<area shape="rect" id="node4" href="$classvisuVTKAdaptor_1_1SPlane.html#a4e76b442191dae860a083d882aa6bf43" title="Changes points color (red is selected, else white) " alt="" coords="273,135,439,177"/>
+<area shape="rect" id="node6" href="$classvisuVTKAdaptor_1_1SModelSeries.html#ae51dc9d5f82106097c4b045d51c354f5" title="Slot: show(or hide) reconstructions. " alt="" coords="253,201,459,242"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1SModelSeries.html#a55a5c2a8a1092331097e7ff6e27ed338" title="Slot: update all reconstructions visibility using &quot;ShowReconstructions&quot; field. " alt="" coords="229,266,483,307"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#a2fa78325dcc9253129b725a8421847db" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="253,331,459,373"/>
+<area shape="rect" id="node11" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#aee26feba974dc91c4c2ecae141f641ba" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="787,390,994,431"/>
+<area shape="rect" id="node12" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#af0e3fdad47a5c1d10c9a35becdaa8fa4" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="251,449,461,490"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1SModelSeries.html#a3c65f5cc02d1f037e64859ec2e088eb9" title="visuVTKAdaptor::SModelSeries\l::updateNormalMode" alt="" coords="253,514,459,555"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SPlane.html#ab66ac23462fafe295421399836a2596f" title="Re&#45;notify &quot;startInteraction&quot; for this service. " alt="" coords="551,135,718,177"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#a80ed3aa063182e837cd7bc053e80815a" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="531,331,738,373"/>
+<area shape="rect" id="node10" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#ae371172e7b4ea0d6369e64a0f8fc0480" title="Initialize the service activity. " alt="" coords="787,325,994,366"/>
+</map>

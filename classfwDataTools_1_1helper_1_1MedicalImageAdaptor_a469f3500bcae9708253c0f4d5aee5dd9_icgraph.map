@@ -1,0 +1,9 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::setOrCreateTF" name="fwDataTools::helper::MedicalImageAdaptor::setOrCreateTF">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SImageText.html#a11ca7fbf337fc32ffe5c6c9e82cfc28a" title="Initialize the service activity. " alt="" coords="211,5,407,46"/>
+<area shape="rect" id="node3" href="$classuiImageQt_1_1WindowLevel.html#a74acc65665951b3a50f0d21e0478a2da" title="Install the layout. " alt="" coords="225,70,393,111"/>
+<area shape="rect" id="node4" href="$classvisuVTKAdaptor_1_1SImage.html#a62e8777bfd9c7bc145551775cca1110b" title="Initialize the service activity. " alt="" coords="224,135,395,177"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SImageText.html#a4715df0a07fdac48f2ebeb4fa962fc4f" title="Select the current tf. " alt="" coords="211,201,407,242"/>
+<area shape="rect" id="node6" href="$classscene2D_1_1adaptor_1_1SNegato.html#aa70da057294d383af400692fdcb6301e" title="Retrives the current transfer function. " alt="" coords="217,266,401,307"/>
+<area shape="rect" id="node7" href="$classuiImageQt_1_1WindowLevel.html#a6ac75a77133901819352587e67e3bff2" title="Select the current tf. " alt="" coords="225,331,393,373"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SImage.html#a4a477146316b387d9f7247bd8c484394" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="224,397,395,438"/>
+</map>

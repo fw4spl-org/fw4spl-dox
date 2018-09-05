@@ -1,0 +1,11 @@
+<map id="fwGdcmIO::writer::Series::write" name="fwGdcmIO::writer::Series::write">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html#a770653349766cde424801532b8704f1d" title="m_object getter. " alt="" coords="225,5,421,61"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Object.html#aae27dde59033498f834b888b0f19488d" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="241,85,405,112"/>
+<area shape="rect" id="node4" href="$structfwData_1_1location_1_1enableFolder.html#adf4d9c9df89fffd380cbca3b409546aa" title="Get folder filesystem path. " alt="" coords="232,136,413,192"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1iod_1_1CTMRImageIOD.html#a63652a07d233a95fc30b1b0b5f06672f" title="Write DICOM file. " alt="" coords="240,295,405,337"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1writer_1_1iod_1_1ComprehensiveSRIOD.html#a0acd610160ee2274d29fcca46c4739bc" title="Write DICOM file. " alt="" coords="241,440,405,496"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SpatialFiducialsIOD.html#a2aa055086d4ab82704607cb5a4b0666d" title="Write DICOM file. " alt="" coords="247,360,398,416"/>
+<area shape="rect" id="node10" href="$classfwGdcmIO_1_1writer_1_1iod_1_1SurfaceSegmentationIOD.html#a82a0173c024516615a2ef4b5ef987748" title="Write DICOM file. " alt="" coords="233,216,412,272"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1writer_1_1ie_1_1FrameOfReference.html#a3cca234acdf37e6f80ba384d0b75a518" title="Write Frame of Reference Module tags. " alt="" coords="470,252,685,308"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1helper_1_1FileWriter.html#a69aabe2ccdb9beeda19dc16818aeccf3" title="Write a file from the dataset. " alt="" coords="481,331,673,373"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="scene2D::adaptor::SViewportInteractor::processInteraction" name="scene2D::adaptor::SViewportInteractor::processInteraction">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="248,49,397,90"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="457,31,601,57"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="445,81,613,108"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="690,5,830,32"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="662,56,858,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwRenderVTK::IAdaptor::removeFromPicker" name="fwRenderVTK::IAdaptor::removeFromPicker">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a78671e17a03523ae5bba126f598dde0b" title="Get the picker. " alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="216,70,379,111"/>
+</map>

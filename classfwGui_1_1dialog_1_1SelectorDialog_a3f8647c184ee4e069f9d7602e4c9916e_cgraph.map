@@ -1,0 +1,5 @@
+<map id="fwGui::dialog::SelectorDialog::SelectorDialog" name="fwGui::dialog::SelectorDialog::SelectorDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#afc6b89b1178b6716ae0867f29b842bba" title="Called by the constructor in the GUI thread. " alt="" coords="246,5,437,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="485,27,669,83"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="717,34,901,75"/>
+</map>

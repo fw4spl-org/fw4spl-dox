@@ -1,0 +1,24 @@
+<map id="visuVTKAdaptor::SImage3DCursor::starting" name="visuVTKAdaptor::SImage3DCursor::starting">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a7b6c941d557b673f8a4d60eb7758fdae" title="Adds the vtkProp to the renderer. " alt="" coords="313,70,474,111"/>
+<area shape="rect" id="node7" href="$classfwData_1_1Object.html#aae27dde59033498f834b888b0f19488d" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="311,136,475,163"/>
+<area shape="rect" id="node8" href="$classfwRenderVTK_1_1IAdaptor.html#a4a85a52776abd43ee0c31f09016287ba" title="Returns the transform used by this adaptor. " alt="" coords="313,187,474,229"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#ac649f6941442433e67d9014ed8d0f6e6" title="Returns the identifier of the transform used by this adaptor. " alt="" coords="313,253,474,294"/>
+<area shape="rect" id="node10" href="$classfwRenderVTK_1_1IAdaptor.html#a6c43120d53bfb1c67e338ec28133371c" title="Initialize the adaptor with the associated render service. (must be call in starting). " alt="" coords="313,318,474,359"/>
+<area shape="rect" id="node14" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#aabc635e28a7d8ebb4ca117c1872469f3" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="280,423,507,465"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a66fd2ef02d0439af2fe4df106f72484a" title="Registers the vtkProp. " alt="" coords="555,5,717,46"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="555,70,717,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="555,135,717,177"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a9651d1bd4a23189e314b28a3ed992efd" title="Get all the vtkProp associated to the inProp (actors, actors2D, volumes) " alt="" coords="783,5,945,46"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="564,305,708,332"/>
+<area shape="rect" id="node12" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="794,255,934,281"/>
+<area shape="rect" id="node13" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="766,305,962,332"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="558,356,714,412"/>
+<area shape="rect" id="node16" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aadd37731ecdc88581c498ab54a1fd727" title="Convert from world coordinates system to image coordinates system. " alt="" coords="558,436,714,492"/>
+<area shape="rect" id="node20" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="555,549,717,590"/>
+<area shape="rect" id="node17" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a1afbc74845a81ad7a6ac212e6dddbc1f" title="Get the image origin. " alt="" coords="786,356,942,412"/>
+<area shape="rect" id="node19" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7e86c6ebadbb341c12b45dce752e4826" title="Get the image spacing. " alt="" coords="786,436,942,492"/>
+<area shape="rect" id="node18" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa37e3405cfdf002a1e6967b5d3daf05f" title="Return the image. " alt="" coords="1011,396,1167,452"/>
+<area shape="rect" id="node21" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="783,515,945,557"/>
+<area shape="rect" id="node22" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="793,581,935,622"/>
+<area shape="rect" id="node23" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="783,646,945,687"/>
+</map>

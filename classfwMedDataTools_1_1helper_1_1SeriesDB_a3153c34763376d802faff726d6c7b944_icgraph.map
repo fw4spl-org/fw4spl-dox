@@ -1,0 +1,5 @@
+<map id="fwMedDataTools::helper::SeriesDB::remove" name="fwMedDataTools::helper::SeriesDB::remove">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a1425e4ef3147419005084b9262f87d2d" title="Removes the object from the composite at the key given by config. " alt="" coords="219,5,376,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#ac27363f7010953aa353b9340457664c8" title="Removes the object from the composite at the key given by config if it is present. " alt="" coords="219,70,376,111"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="424,38,581,79"/>
+</map>

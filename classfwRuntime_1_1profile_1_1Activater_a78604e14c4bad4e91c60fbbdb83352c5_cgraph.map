@@ -1,0 +1,5 @@
+<map id="fwRuntime::profile::Activater::apply" name="fwRuntime::profile::Activater::apply">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#aa7a79fcdb77983835e28ddc61fe822ac" title="Retrieves the bundle for the specified idenfier. " alt="" coords="182,5,325,46"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="182,70,325,111"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Version.html#a3e98610f729f4ea2b061d2ecd0c4ed09" title="String converter. " alt="" coords="185,135,322,177"/>
+</map>

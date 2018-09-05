@@ -1,0 +1,11 @@
+<map id="ioDicom::SFilterSelectorDialog::updating" name="ioDicom::SFilterSelectorDialog::updating">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="466,5,662,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a9dbf39afc43907c712116b7fc5311ec6" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="466,70,662,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d27474cbd9bac68c7103295d0eaa28e" title="Set the message. " alt="" coords="219,129,415,170"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a3cf63b33285399c6249b0f7e087ba935" title="Set the title of the message box. " alt="" coords="219,194,415,235"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="219,259,415,301"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="472,200,656,256"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad415a257e60d23427dbfdd5e151af61b" title="Set the default button. " alt="" coords="466,135,662,177"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="712,207,896,249"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="464,279,664,321"/>
+</map>

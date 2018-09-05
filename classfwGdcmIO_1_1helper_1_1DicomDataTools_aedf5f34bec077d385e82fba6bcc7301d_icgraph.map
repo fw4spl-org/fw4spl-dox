@@ -1,0 +1,12 @@
+<map id="fwGdcmIO::helper::DicomDataTools::convertPointToFrameNumber" name="fwGdcmIO::helper::DicomDataTools::convertPointToFrameNumber">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1Fiducial.html#aa9eaf3f42f99780803291558f4db032a" title="Return true if the series contains at least one image containing 3D distances. " alt="" coords="313,5,495,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a8deda5b60faa5cd934dfd49508890ef5" title="Create a fiducial node. " alt="" coords="322,70,486,111"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#aeea04ac76e75a207338bd2286b8d78e6" title="Create a measurement node. " alt="" coords="288,135,520,177"/>
+<area shape="rect" id="node10" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#a765c836c7e515ee58fedd053d104c1ce" title="Write image landmarks into sequence. " alt="" coords="293,203,515,245"/>
+<area shape="rect" id="node3" href="$classioGdcm_1_1SSeriesDBWriter.html#a410764df981b0d1194818c8820d7a05a" title="Return path type managed by the service, here FOLDER. " alt="" coords="581,5,755,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a765f5b0831c4ca1346c7cc6b91dec5f4" title="Create nodes according to the template. " alt="" coords="589,70,747,111"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1writer_1_1tid_1_1MeasurementReport.html#a4d19e873d6dcae893f685c018ca42aa1" title="Create Measurement Report template root node. " alt="" coords="817,96,973,152"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Document.html#a446e2d2d624adb4dae659f269aac8f21" title="Write SR Document Content Module tags. " alt="" coords="1021,96,1227,152"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a99bd0f78aa1e4acce1c286cc9a2463ac" title="Create nodes according to the template. " alt="" coords="573,135,763,177"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#a7ca3580c322c8a449b399e6ad0e84738" title="Write Spatial Fiducials Module tags. " alt="" coords="569,200,767,256"/>
+</map>

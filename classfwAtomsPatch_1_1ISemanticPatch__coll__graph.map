@@ -1,0 +1,8 @@
+<map id="fwAtomsPatch::ISemanticPatch" name="fwAtomsPatch::ISemanticPatch">
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="567,61,721,88"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,12,373,39"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="263,111,343,137"/>
+<area shape="rect" id="node8" href="$structfwAtomsPatch_1_1ISemanticPatch_1_1Context.html" title="Struct used to store a context and the versions where the patch can be applied. " alt="" coords="539,122,749,163"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="30,103,157,145"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="586,188,702,215"/>
+</map>

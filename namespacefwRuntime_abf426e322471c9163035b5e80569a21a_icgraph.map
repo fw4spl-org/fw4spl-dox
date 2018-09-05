@@ -1,0 +1,7 @@
+<map id="fwRuntime::getBundleResourcePath" name="fwRuntime::getBundleResourcePath">
+<area shape="rect" id="node2" href="$namespacefwRuntime.html#a09ab28038084fda4571324c6982e2ed2" title="Retrieves all executable objects for the point having the specified identifier. " alt="" coords="571,5,762,46"/>
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#ad4b44e7513060eaa1327b8b5e69557a4" title="Retrieve a filesystem valid path for a path relative to the bundle having the specified identifier..." alt="" coords="302,69,509,110"/>
+<area shape="rect" id="node6" href="$namespacefwRuntime.html#abb6774f060e64cd8bd5b17e188fdf050" title="Retrieve a filesystem valid path for a path relative to the specified bundle. " alt="" coords="288,135,523,161"/>
+<area shape="rect" id="node4" href="$classuiImageQt_1_1WindowLevel.html#a74acc65665951b3a50f0d21e0478a2da" title="Install the layout. " alt="" coords="583,70,751,111"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1Plugin.html#a44a876dabca2fdfffa972a874030f625" title="Notifies the plugin about its stop. " alt="" coords="601,136,732,163"/>
+</map>

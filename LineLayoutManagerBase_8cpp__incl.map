@@ -1,0 +1,16 @@
+<map id="LineLayoutManagerBase.cpp" name="LineLayoutManagerBase.cpp">
+<area shape="rect" id="node3" href="$base_8hpp_source.html" title="fwCore/base.hpp" alt="" coords="1037,411,1157,437"/>
+<area shape="rect" id="node44" href="$LineLayoutManagerBase_8hpp_source.html" title="fwGui/layoutManager\l/LineLayoutManagerBase.hpp" alt="" coords="584,81,779,122"/>
+<area shape="rect" id="node4" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="3722,739,3883,765"/>
+<area shape="rect" id="node5" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros. " alt="" coords="1661,813,1796,840"/>
+<area shape="rect" id="node31" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="3164,485,3356,512"/>
+<area shape="rect" id="node36" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="3962,560,4096,587"/>
+<area shape="rect" id="node6" href="$Demangler_8hpp_source.html" title="fwCore/Demangler.hpp" alt="" coords="294,896,449,923"/>
+<area shape="rect" id="node34" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="3438,560,3588,587"/>
+<area shape="rect" id="node41" href="$SpyLogger_8hpp_source.html" title="fwCore/log/SpyLogger.hpp" alt="" coords="4457,649,4633,676"/>
+<area shape="rect" id="node43" href="$ScopedMessage_8hpp_source.html" title="fwCore/log/ScopedMessage.hpp" alt="" coords="3717,649,3927,676"/>
+<area shape="rect" id="node46" href="$IViewLayoutManager_8hpp.html" title="This file defines the interface of the base class for managing a layout geometry. ..." alt="" coords="305,171,479,213"/>
+<area shape="rect" id="node47" href="$ConfigurationElement_8hpp_source.html" title="fwRuntime/ConfigurationElement.hpp" alt="" coords="377,336,615,363"/>
+<area shape="rect" id="node48" href="$GuiBaseObject_8hpp_source.html" title="fwGui/GuiBaseObject.hpp" alt="" coords="179,336,352,363"/>
+<area shape="rect" id="node49" href="$fwContainer_8hpp_source.html" title="fwGui/container/fwContainer.hpp" alt="" coords="143,261,355,288"/>
+</map>

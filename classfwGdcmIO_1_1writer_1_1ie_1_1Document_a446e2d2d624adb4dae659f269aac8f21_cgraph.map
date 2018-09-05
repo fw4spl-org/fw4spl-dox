@@ -1,0 +1,9 @@
+<map id="fwGdcmIO::writer::ie::Document::writeSRDocumentContentModule" name="fwGdcmIO::writer::ie::Document::writeSRDocumentContentModule">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1writer_1_1tid_1_1MeasurementReport.html#a4d19e873d6dcae893f685c018ca42aa1" title="Create Measurement Report template root node. " alt="" coords="259,31,415,87"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a765f5b0831c4ca1346c7cc6b91dec5f4" title="Create nodes according to the template. " alt="" coords="481,5,639,46"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a99bd0f78aa1e4acce1c286cc9a2463ac" title="Create nodes according to the template. " alt="" coords="465,70,655,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a8deda5b60faa5cd934dfd49508890ef5" title="Create a fiducial node. " alt="" coords="738,5,902,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html#a37378b0c8dac3a7c538dd8571ee933b3" title="Add a sub node. " alt="" coords="991,5,1211,46"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1helper_1_1DicomDataTools.html#aedf5f34bec077d385e82fba6bcc7301d" title="Convert a 3D point to the closest frame number index. " alt="" coords="985,70,1218,111"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#aeea04ac76e75a207338bd2286b8d78e6" title="Create a measurement node. " alt="" coords="704,70,936,111"/>
+</map>

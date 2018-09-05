@@ -1,0 +1,14 @@
+<map id="fwGdcmIO::container::sr::DicomSRNode::addSubNode" name="fwGdcmIO::container::sr::DicomSRNode::addSubNode">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a8deda5b60faa5cd934dfd49508890ef5" title="Create a fiducial node. " alt="" coords="309,5,473,46"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#aeea04ac76e75a207338bd2286b8d78e6" title="Create a measurement node. " alt="" coords="275,70,507,111"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#ab75588a691cedb860ea99f70f9259c6c" title="Read a sub node and add it as a child to the parent node. " alt="" coords="293,135,489,177"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Fiducial.html#a765f5b0831c4ca1346c7cc6b91dec5f4" title="Create nodes according to the template. " alt="" coords="579,5,736,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1tid_1_1MeasurementReport.html#a4d19e873d6dcae893f685c018ca42aa1" title="Create Measurement Report template root node. " alt="" coords="829,27,985,83"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Document.html#a446e2d2d624adb4dae659f269aac8f21" title="Write SR Document Content Module tags. " alt="" coords="1053,27,1259,83"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a99bd0f78aa1e4acce1c286cc9a2463ac" title="Create nodes according to the template. " alt="" coords="562,70,753,111"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a57285fa0070c52fb96a0dbe31b44e260" title="Read all sub nodes and add it as children to the parent node. " alt="" coords="555,135,759,177"/>
+<area shape="rect" id="node10" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a657a338a2860638988765197820a3b36" title="Read a Structured Report. " alt="" coords="809,135,1005,177"/>
+<area shape="rect" id="node11" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="1083,135,1229,177"/>
+<area shape="rect" id="node12" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read DICOM file. " alt="" coords="1307,135,1504,177"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1reader_1_1Series.html#aa27422bf5f7c9a5aa53793d0b1223c04" title="Read DICOM series. " alt="" coords="1553,135,1727,177"/>
+</map>

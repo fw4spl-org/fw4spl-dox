@@ -1,0 +1,12 @@
+<map id="ctrlSelection::SManage::addOrSwap" name="ctrlSelection::SManage::addOrSwap">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1Vector.html#ab42a0e8dff82ed5f2327ccc73b0a90de" title="Add an object in the vector. " alt="" coords="224,5,363,46"/>
+<area shape="rect" id="node3" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="211,70,375,111"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="224,135,363,177"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Field.html#a4d249a15a14e8e86615d95d3de124478" title="Add or replace a field in the object. " alt="" coords="224,201,363,242"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1IService.html#a2848377ea9e7e325a56c27f9d6a00505" title="Test if the service is started or not. " alt="" coords="222,266,365,307"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1Vector.html#a74297d2b7d19ea68434109ebda26424d" title="Send the signal of modification. " alt="" coords="224,331,363,373"/>
+<area shape="rect" id="node8" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="211,397,375,438"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="224,462,363,503"/>
+<area shape="rect" id="node10" href="$classfwDataTools_1_1helper_1_1Field.html#a6be9ec481b7dc86e6d465f7c81955b0a" title="Send the built message and clear the internal maps. " alt="" coords="224,527,363,569"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1Composite.html#a8ddaeedaa099a7d492efb74eb938747e" title="Replace an object in the composite. " alt="" coords="224,593,363,634"/>
+</map>

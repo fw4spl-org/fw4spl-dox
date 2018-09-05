@@ -1,0 +1,15 @@
+<map id="fwRenderQt::IAdaptor::configureParams" name="fwRenderQt::IAdaptor::configureParams">
+<area shape="rect" id="node2" href="$classscene2D_1_1adaptor_1_1SSquare.html#aaaaac8f63f8afe74537f2ea21e8025d2" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="213,5,395,46"/>
+<area shape="rect" id="node3" href="$classscene2D_1_1adaptor_1_1SViewportUpdater.html#a4aefe6304ae09c7dd2341da9368ad736" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="207,70,401,111"/>
+<area shape="rect" id="node4" href="$classscene2D_1_1adaptor_1_1SLine.html#a46cf96985b4a46778fc7692f59e014e9" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="221,135,387,177"/>
+<area shape="rect" id="node5" href="$classscene2D_1_1adaptor_1_1SHistogram.html#a2959d084209d0e458fc7946bbdce05b9" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="203,201,405,242"/>
+<area shape="rect" id="node6" href="$classscene2D_1_1adaptor_1_1SAxis.html#ad3dc7f5efae30ba9b96f10cda291398c" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="220,266,388,307"/>
+<area shape="rect" id="node7" href="$classscene2D_1_1adaptor_1_1SHistogramValue.html#acc96ffee949ada42cd13222b8167b644" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="203,331,405,373"/>
+<area shape="rect" id="node8" href="$classscene2D_1_1adaptor_1_1SScaleValues.html#aeac176e6ad38ac18029c9b50b3b4a091" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="217,397,391,438"/>
+<area shape="rect" id="node9" href="$classscene2D_1_1adaptor_1_1SHistogramCursor.html#ae426c8aee04288c136d6a5c7201bd2b8" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="203,462,405,503"/>
+<area shape="rect" id="node10" href="$classscene2D_1_1adaptor_1_1SViewportRangeSelector.html#aea829365171e12fba563f1cc8b64ce38" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="207,527,401,569"/>
+<area shape="rect" id="node11" href="$classscene2D_1_1adaptor_1_1SCurvedHistogram.html#adc759d4bd9f49f9ccee4363b760737bc" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="212,593,396,634"/>
+<area shape="rect" id="node12" href="$classscene2D_1_1adaptor_1_1SGrid2D.html#a15145c97eb968885eec0784b175853fe" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="217,658,391,699"/>
+<area shape="rect" id="node13" href="$classscene2D_1_1adaptor_1_1STransferFunction.html#a4744f61fb1a98d7ba1f3b759b4a814d0" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="209,723,399,765"/>
+<area shape="rect" id="node14" href="$classscene2D_1_1adaptor_1_1SNegato.html#abb3ee8b95a262b9c20c45a2a8c3f6c64" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="212,789,396,830"/>
+</map>

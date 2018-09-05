@@ -1,0 +1,15 @@
+<map id="activities::SActivitySequencer::updating" name="activities::SActivitySequencer::updating">
+<area shape="rect" id="node2" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="270,5,434,46"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="251,71,453,97"/>
+<area shape="rect" id="node4" href="$namespacefwTools.html#a464648f2bcf775ded44af140d87d084f" title="Convert a boost time to a string date. " alt="" coords="291,121,413,148"/>
+<area shape="rect" id="node5" href="$classfwActivities_1_1registry_1_1Activities.html#a96b15391d34df7160015ac8654486fad" title="Return the default global instance of Activities. " alt="" coords="276,173,428,214"/>
+<area shape="rect" id="node6" href="$namespacefwTools.html#afde1178151cad61072353d1fbf2f55e5" title="Convert a boost time to a string time. " alt="" coords="291,239,413,265"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#af98da4a410587cde1b329546daa4bbff" title="Write information in a stream. " alt="" coords="281,290,423,331"/>
+<area shape="rect" id="node8" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="270,355,434,397"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="254,421,450,462"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="502,387,698,429"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="502,453,698,494"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="747,417,947,458"/>
+<area shape="rect" id="node13" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="755,481,939,537"/>
+<area shape="rect" id="node14" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="995,489,1179,530"/>
+</map>

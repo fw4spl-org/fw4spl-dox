@@ -1,0 +1,5 @@
+<map id="fwData::Material::setDiffuseTexture" name="fwData::Material::setDiffuseTexture">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1STexture.html#a5c8fcb034607eb7c649bddae36602126" title="Slot called when a texture must be applied on a material. " alt="" coords="240,38,419,79"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1STexture.html#ad6ea8c3bfc46111426e962d7692a778f" title="Constructor. " alt="" coords="467,5,645,46"/>
+<area shape="rect" id="node4" href="$classvisuVTKAdaptor_1_1STexture.html#a888e92db0dcb12602e012df5664ba75f" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="467,70,645,111"/>
+</map>

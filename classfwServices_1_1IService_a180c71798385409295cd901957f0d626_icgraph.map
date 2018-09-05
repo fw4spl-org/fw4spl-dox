@@ -1,0 +1,7 @@
+<map id="fwServices::IService::getKeyGroupSize" name="fwServices::IService::getKeyGroupSize">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#a03dda20d861622d2abdae5bf3008afcf" title="Return true if images to blend have the same spacing, origin and size. Else show a message dialog and..." alt="" coords="197,5,408,46"/>
+<area shape="rect" id="node3" href="$classioQt_1_1SPdfWriter.html#ad6d9e6502481f318ab0894683ae4caef" title="Starting method : Fills the list of Qt containers as well as the list of images got from the configur..." alt="" coords="218,71,387,97"/>
+<area shape="rect" id="node4" href="$classvisuVTKAdaptor_1_1SImagesProbeCursor.html#afd767b5b0ad3e501b8a552a98b63cca4" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="197,122,408,163"/>
+<area shape="rect" id="node5" href="$classctrlCamp_1_1SExtractObj.html#a5dfe0e9b3aa28efd561f6c6b782b8675" title="Does nothing. " alt="" coords="225,187,380,229"/>
+<area shape="rect" id="node6" href="$classctrlCamp_1_1SExtractMeshByType.html#aba8bb355021c14019bc28bca1aa54c5d" title="Does nothing. " alt="" coords="211,253,394,294"/>
+</map>

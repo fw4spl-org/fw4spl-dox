@@ -1,0 +1,19 @@
+<map id="ioTuto::ExternalDataReaderService::updating" name="ioTuto::ExternalDataReaderService::updating">
+<area shape="rect" id="node2" href="$classioTuto_1_1ExternalDataReaderService.html#aad4df71c7adaa24e88b6c59b48ceec23" title="Configure the image path. " alt="" coords="237,230,421,271"/>
+<area shape="rect" id="node14" href="$classfwIO_1_1IReader.html#ae9237daccc6e0cf46e49b3a3668bf971" title="Returns the file path set by the user or set during service configuration. " alt="" coords="254,384,405,411"/>
+<area shape="rect" id="node15" href="$classfwIO_1_1IReader.html#aa7e1cedac01372df2bc48f874fcb88f7" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="238,478,421,519"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a7b7d0bcd1a3da8e2fa4308174b086fce" title="specify some filtering when browsing files: " alt="" coords="472,201,664,242"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IReader.html#a7b0608560a04500f868efd77f0880e81" title="Clear any location set by the setFile/setFiles/setFolder setter. " alt="" coords="470,267,666,293"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a986099aafc9c39e9af012462828fcfa5" title="Set the initial location for the dialog. " alt="" coords="472,318,664,359"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="493,435,643,461"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a68eb418df1cfd1c66f55a426bca5ca61" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="472,5,664,46"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ab4992d5e26eed223fa5e609bb529179b" title="Set the title for the dialog. " alt="" coords="472,70,664,111"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5553fb764e66431bd740cb35031ee06a" title="Display the dialog. " alt="" coords="472,135,664,177"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="715,460,915,487"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="723,164,907,220"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1ILocationDialog.html#afe365e8bbb4d1aa519e2d003eefe4070" title="fwGui::dialog::ILocation\lDialog::show" alt="" coords="735,99,894,141"/>
+<area shape="rect" id="node12" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="963,171,1147,213"/>
+<area shape="rect" id="node16" href="$classfwIO_1_1IReader.html#a96c435e1ac3db3eb513f9f2667ca497a" title="Sets folder path. " alt="" coords="485,485,651,512"/>
+<area shape="rect" id="node17" href="$classfwServices_1_1IService.html#a19f7e6b221251ddc8ff50fd6895a5aca" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="497,537,639,578"/>
+<area shape="rect" id="node18" href="$classfwIO_1_1IReader.html#ae0257a1f040382abb71da2481d1411b8" title="Sets file paths. " alt="" coords="489,603,647,629"/>
+</map>

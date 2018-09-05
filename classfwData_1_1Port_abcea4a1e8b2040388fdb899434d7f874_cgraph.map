@@ -1,0 +1,5 @@
+<map id="fwData::Port::shallowCopy" name="fwData::Port::shallowCopy">
+<area shape="rect" id="node2" href="$classfwData_1_1Object.html#a2090bd852b5a41b67b474ac45bc18349" title="A shallow copy of fields (objects in m_children) " alt="" coords="232,5,451,32"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Port.html#ae81d331ad29269fc0ca3cec527760184" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="247,56,435,83"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Object.html#aee66b43149101a063cb2c0d19ac75e03" title="Replace the field map content. " alt="" coords="499,5,669,32"/>
+</map>

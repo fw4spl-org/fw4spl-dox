@@ -1,0 +1,4 @@
+<map id="ctrlSelection::updater::SObjFromSlot::addOrSwap" name="ctrlSelection::updater::SObjFromSlot::addOrSwap">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html#a51fb349f84779cf5deff57f7714304a9" title="Register an output object at a given key in the OSR, replacing it if it already exists. " alt="" coords="243,5,386,46"/>
+<area shape="rect" id="node3" href="$namespacefwServices_1_1OSR.html#a317c6679a1d04dd53de7a910e0319009" title="Return true if a key is registered for a given service. " alt="" coords="435,12,640,39"/>
+</map>

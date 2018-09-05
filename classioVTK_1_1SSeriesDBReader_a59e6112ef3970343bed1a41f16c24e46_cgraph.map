@@ -1,0 +1,13 @@
+<map id="ioVTK::SSeriesDBReader::updating" name="ioVTK::SSeriesDBReader::updating">
+<area shape="rect" id="node2" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#aad1953285ba5ac020d126141cb9e9608" title="Clear all series in the SeriesDB. " alt="" coords="237,5,401,46"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IReader.html#a4c55d1f91cf18193530b938e52d1c497" title="Returns file paths set by the user or set during service configuration. " alt="" coords="463,20,622,47"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IReader.html#aa7e1cedac01372df2bc48f874fcb88f7" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="227,122,410,163"/>
+<area shape="rect" id="node10" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="237,187,401,229"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1Cursor.html#a5ae94490f1d7142783205bd4e541ea3a" title="Set the cursor. " alt="" coords="235,253,403,280"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1Cursor.html#aeb413636f5020582ebb507ce61268b10" title="Set the default cursor. " alt="" coords="233,305,404,346"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="675,129,875,156"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IReader.html#a96c435e1ac3db3eb513f9f2667ca497a" title="Sets folder path. " alt="" coords="459,71,626,97"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#a19f7e6b221251ddc8ff50fd6895a5aca" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="471,122,614,163"/>
+<area shape="rect" id="node8" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="467,188,618,215"/>
+<area shape="rect" id="node9" href="$classfwIO_1_1IReader.html#ae0257a1f040382abb71da2481d1411b8" title="Sets file paths. " alt="" coords="463,239,622,265"/>
+</map>

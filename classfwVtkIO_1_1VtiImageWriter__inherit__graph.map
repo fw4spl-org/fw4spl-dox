@@ -1,0 +1,8 @@
+<map id="fwVtkIO::VtiImageWriter" name="fwVtkIO::VtiImageWriter">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="1005,25,1176,81"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="424,5,592,46"/>
+<area shape="rect" id="node6" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="643,41,834,82"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,12,373,39"/>
+<area shape="rect" id="node7" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="1009,105,1172,161"/>
+<area shape="rect" id="node8" href="$structfwData_1_1location_1_1enableSingleFile.html" title="This class is derived by reader/writer. " alt="" coords="657,113,820,154"/>
+</map>

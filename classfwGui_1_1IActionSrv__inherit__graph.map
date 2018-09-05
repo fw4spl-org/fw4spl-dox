@@ -1,0 +1,48 @@
+<map id="fwGui::IActionSrv" name="fwGui::IActionSrv">
+<area shape="rect" id="node10" href="$classactivities_1_1action_1_1SActivityLauncher.html" title="This action launchs an activity according to the selected data. " alt="" coords="1023,5,1159,46"/>
+<area shape="rect" id="node11" href="$classactivities_1_1action_1_1SCreateActivity.html" title="This action launchs an activity according to the given configuration. " alt="" coords="1029,70,1152,111"/>
+<area shape="rect" id="node12" href="$classgui_1_1action_1_1SConfigLauncher.html" title="This action starts/stops a template configuration. " alt="" coords="995,136,1186,163"/>
+<area shape="rect" id="node13" href="$classgui_1_1action_1_1SDefault.html" title="Defines the default action to have a simple action button. " alt="" coords="1020,187,1161,213"/>
+<area shape="rect" id="node14" href="$classgui_1_1action_1_1SDoNothing.html" title="This action does nothing. " alt="" coords="1010,237,1171,264"/>
+<area shape="rect" id="node15" href="$classgui_1_1action_1_1SModifyLayout.html" title="This action is used to modify the layout configuration. " alt="" coords="1002,288,1179,315"/>
+<area shape="rect" id="node16" href="$classgui_1_1action_1_1SPushField.html" title="To add or remove an object in composite with specific key. " alt="" coords="1012,339,1169,365"/>
+<area shape="rect" id="node17" href="$classgui_1_1action_1_1SPushObject.html" title="To add or remove an object in composite with specific key. " alt="" coords="1007,389,1174,416"/>
+<area shape="rect" id="node18" href="$classgui_1_1action_1_1SQuit.html" title="This action tries to close the window and reset root object. " alt="" coords="1029,440,1152,467"/>
+<area shape="rect" id="node19" href="$classgui_1_1action_1_1SSignal.html" title="Action that sends a signal when it is triggered. " alt="" coords="1023,491,1158,517"/>
+<area shape="rect" id="node20" href="$classgui_1_1action_1_1SSlotCaller.html" title="Run a slot given by HasSlot id and slot key. " alt="" coords="1013,541,1169,568"/>
+<area shape="rect" id="node21" href="$classgui_1_1action_1_1SStarter.html" title="Apply an action (start, stop, ...) on a service specify by uid. " alt="" coords="1021,592,1160,619"/>
+<area shape="rect" id="node22" href="$classioDicom_1_1SSeriesDBMerger.html" title="This service is used to merge selected series with a SeriesDB. All the series in the vector are pushe..." alt="" coords="999,643,1182,669"/>
+<area shape="rect" id="node23" href="$classioGdcm_1_1SDicomSeriesConverter.html" title="This service is used to convert DicomSeries from source SeriesDB and push result (ImageSeries, ModelSeries, ...) in target SeriesDB. " alt="" coords="983,693,1199,720"/>
+<area shape="rect" id="node24" href="$classmonitor_1_1action_1_1fwMetrics.html" title="Implements an action for show metrics about f4s factories (number of data, message and service in fac..." alt="" coords="1004,744,1177,771"/>
+<area shape="rect" id="node25" href="$classmonitor_1_1action_1_1MemoryConsumption.html" title="Increase or decrease the memory consumption by storing a new image, use to experiment dump process..." alt="" coords="971,795,1211,821"/>
+<area shape="rect" id="node26" href="$classmonitor_1_1action_1_1MemoryInfo.html" title="Implements an action to show in a message box few memory information. " alt="" coords="998,845,1183,872"/>
+<area shape="rect" id="node27" href="$classmonitor_1_1action_1_1SDumpAll.html" title="Implements an action that dump all buffer (if possible) " alt="" coords="1003,896,1178,923"/>
+<area shape="rect" id="node28" href="$classmonitorQt_1_1action_1_1ClassFactoryRegistryInfo.html" title="Implements an action to show services registered in factory. " alt="" coords="1005,947,1176,989"/>
+<area shape="rect" id="node29" href="$classmonitorQt_1_1action_1_1ComponentsTree.html" title="Implements an action that show bundle information. " alt="" coords="1025,1013,1156,1054"/>
+<area shape="rect" id="node30" href="$classopVTKMesh_1_1action_1_1SMeshCreation.html" title="Action to create a mesh from an image using VTK library. " alt="" coords="1018,1078,1163,1119"/>
+<area shape="rect" id="node31" href="$classTuto14MeshGenerator_1_1SMeshModifier.html" title="This action modifies a mesh using specified functor in configuration. The purpose is to test all poss..." alt="" coords="1015,1143,1166,1185"/>
+<area shape="rect" id="node32" href="$classuiGenericQt_1_1action_1_1LaunchBrowserActionService.html" title="This action launch a browser on the url given in configuration. " alt="" coords="990,1209,1191,1250"/>
+<area shape="rect" id="node33" href="$classuiGenericQt_1_1action_1_1ShowHelpContents.html" title="This action show the help contents. " alt="" coords="1019,1274,1162,1315"/>
+<area shape="rect" id="node34" href="$classuiGenericQt_1_1action_1_1SShowAbout.html" title="This action show the about frame. " alt="" coords="1023,1339,1158,1381"/>
+<area shape="rect" id="node35" href="$classuiIO_1_1action_1_1SExportWithSeriesDB.html" title="This action allows to export the current series using a temporary seriesDB. " alt="" coords="1005,1405,1176,1446"/>
+<area shape="rect" id="node36" href="$classuiIO_1_1action_1_1SFolderSelector.html" title="Raise a pop&#45;up dialog to select a directory, then send it via a signal. " alt="" coords="995,1471,1186,1497"/>
+<area shape="rect" id="node37" href="$classuiIO_1_1action_1_1SSeriesDBMerger.html" title="This action allows to load a new SeriesDB and merge it with the current SeriesDB. ..." alt="" coords="989,1521,1192,1548"/>
+<area shape="rect" id="node38" href="$classuiMeasurement_1_1action_1_1AddDistance.html" title="This action adds distances on an image field. " alt="" coords="1013,1573,1168,1614"/>
+<area shape="rect" id="node39" href="$classuiMeasurement_1_1action_1_1AddLandmark.html" title="This action adds landmaks on image. " alt="" coords="1013,1638,1168,1679"/>
+<area shape="rect" id="node40" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html" title="This action allows to load landmarks from a file. " alt="" coords="1013,1703,1168,1745"/>
+<area shape="rect" id="node41" href="$classuiMeasurement_1_1action_1_1RemoveDistance.html" title="This action removes distances from the image field. " alt="" coords="1013,1769,1168,1810"/>
+<area shape="rect" id="node42" href="$classuiMeasurement_1_1action_1_1RemoveLandmark.html" title="This action removes landmarks from an image. " alt="" coords="1013,1834,1168,1875"/>
+<area shape="rect" id="node43" href="$classuiMeasurement_1_1action_1_1SAddLabeledPoint.html" title="This action adds labeled point into a PointList. " alt="" coords="1013,1899,1168,1941"/>
+<area shape="rect" id="node44" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html" title="This action allows to save the landmarks stored in image. " alt="" coords="1013,1965,1168,2006"/>
+<area shape="rect" id="node45" href="$classuiMeasurement_1_1action_1_1SFocusLandmark.html" title="This action moves the image slice on selected landmark. " alt="" coords="1013,2030,1168,2071"/>
+<area shape="rect" id="node46" href="$classuiMeasurement_1_1action_1_1ShowDistance.html" title="This action allows to show/hide image distances. " alt="" coords="1013,2095,1168,2137"/>
+<area shape="rect" id="node47" href="$classuiMeasurement_1_1action_1_1ShowLandmark.html" title="This action allows to show/hide image landmarks. " alt="" coords="1013,2161,1168,2202"/>
+<area shape="rect" id="node48" href="$classuiMedDataQt_1_1action_1_1SExportSeries.html" title="This action allows to export the series specified in config to the SeriesDB. The export is performed ..." alt="" coords="1019,2226,1162,2267"/>
+<area shape="rect" id="node49" href="$classuiMedDataQt_1_1action_1_1SInitNewSeries.html" title="This action allows to update uiMedDataQt::editor::SSelector UI in order to add new series..." alt="" coords="1019,2291,1162,2333"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="606,1053,749,1080"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,1003,545,1029"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,952,370,979"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,1053,352,1080"/>
+<area shape="rect" id="node8" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,1053,551,1080"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,1104,557,1131"/>
+</map>

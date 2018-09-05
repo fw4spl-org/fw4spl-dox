@@ -1,0 +1,15 @@
+<map id="fwData::Boolean" name="fwData::Boolean">
+<area shape="rect" id="node2" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; bool \&gt;" alt="" coords="2185,81,2330,122"/>
+<area shape="rect" id="node3" href="$classfwData_1_1GenericFieldBase.html" title="GenericFieldBase define common operation on simple data. " alt="" coords="1678,111,1853,137"/>
+<area shape="rect" id="node21" href="$classfwData_1_1GenericField.html" title="Generic &quot;field&quot; object template. " alt="" coords="1905,60,2082,87"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="1515,209,1626,236"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1193,124,1308,151"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="929,159,1069,185"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="947,108,1051,135"/>
+<area shape="rect" id="node10" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1181,263,1320,289"/>
+<area shape="rect" id="node11" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="941,264,1056,291"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="269,255,349,281"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="6,247,133,289"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="248,184,371,211"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="241,117,378,158"/>
+</map>

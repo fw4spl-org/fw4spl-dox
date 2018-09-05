@@ -1,0 +1,5 @@
+<map id="fwJobs::IJob" name="fwJobs::IJob">
+<area shape="rect" id="node2" href="$classfwJobs_1_1Aggregator.html" title="This class manages an aggregation of IJob. " alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$classfwJobs_1_1Job.html" title="This class encapsulate a task that will report it&#39;s progression The embeded task will be run at most ..." alt="" coords="164,80,257,107"/>
+<area shape="rect" id="node4" href="$classfwJobs_1_1Observer.html" title="This class manages a job. " alt="" coords="281,80,407,107"/>
+</map>

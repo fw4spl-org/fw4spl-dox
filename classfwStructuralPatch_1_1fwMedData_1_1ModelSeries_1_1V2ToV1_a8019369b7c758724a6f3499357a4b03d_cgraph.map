@@ -1,0 +1,6 @@
+<map id="fwStructuralPatch::fwMedData::ModelSeries::V2ToV1::apply" name="fwStructuralPatch::fwMedData::ModelSeries::V2ToV1::apply">
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a73ade512c5c20f6dc200b88d417568d7" title="Removes an attribute. " alt="" coords="228,37,396,78"/>
+<area shape="rect" id="node5" href="$classfwAtomsPatch_1_1IStructuralPatch.html#a726107d852575ef665641f0c4ea43209" title="Updates the version of the patched object. " alt="" coords="224,102,400,143"/>
+<area shape="rect" id="node3" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="449,5,599,46"/>
+<area shape="rect" id="node4" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="449,70,599,111"/>
+</map>

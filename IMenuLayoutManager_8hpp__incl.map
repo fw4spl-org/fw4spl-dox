@@ -1,0 +1,19 @@
+<map id="IMenuLayoutManager.hpp" name="IMenuLayoutManager.hpp">
+<area shape="rect" id="node3" href="$fwMenu_8hpp_source.html" title="fwGui/container/fwMenu.hpp" alt="" coords="266,80,454,107"/>
+<area shape="rect" id="node4" href="$GuiBaseObject_8hpp_source.html" title="fwGui/GuiBaseObject.hpp" alt="" coords="380,155,554,181"/>
+<area shape="rect" id="node41" href="$fwMenuItem_8hpp_source.html" title="fwGui/container/fwMenuItem.hpp" alt="" coords="478,80,692,107"/>
+<area shape="rect" id="node42" href="$IMenuItemCallback_8hpp_source.html" title="fwGui/IMenuItemCallback.hpp" alt="" coords="44,80,242,107"/>
+<area shape="rect" id="node43" href="$ConfigurationElement_8hpp_source.html" title="fwRuntime/ConfigurationElement.hpp" alt="" coords="4102,155,4340,181"/>
+<area shape="rect" id="node5" href="$base_8hpp_source.html" title="fwCore/base.hpp" alt="" coords="3780,229,3900,256"/>
+<area shape="rect" id="node36" href="$core_2fwGui_2include_2fwGui_2factory_2new_8hpp_source.html" title="fwGui/factory/new.hpp" alt="" coords="333,229,486,256"/>
+<area shape="rect" id="node37" href="$core_2fwGui_2include_2fwGui_2registry_2detail_8hpp_source.html" title="fwGui/registry/detail.hpp" alt="" coords="438,304,600,331"/>
+<area shape="rect" id="node6" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="3690,304,3851,331"/>
+<area shape="rect" id="node7" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros. " alt="" coords="2056,387,2191,413"/>
+<area shape="rect" id="node31" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="3967,387,4159,413"/>
+<area shape="rect" id="node35" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="3873,477,4007,504"/>
+<area shape="rect" id="node8" href="$Demangler_8hpp_source.html" title="fwCore/Demangler.hpp" alt="" coords="3570,477,3726,504"/>
+<area shape="rect" id="node34" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="4550,477,4700,504"/>
+<area shape="rect" id="node38" href="$FactoryRegistry_8hpp_source.html" title="fwCore/util/FactoryRegistry.hpp" alt="" coords="3441,387,3647,413"/>
+<area shape="rect" id="node45" href="$ConfigurationElementContainer_8hpp_source.html" title="fwRuntime/ConfigurationElement\lContainer.hpp" alt="" coords="4285,379,4499,421"/>
+<area shape="rect" id="node47" href="$RuntimeException_8hpp_source.html" title="fwRuntime/RuntimeException.hpp" alt="" coords="4524,387,4746,413"/>
+</map>

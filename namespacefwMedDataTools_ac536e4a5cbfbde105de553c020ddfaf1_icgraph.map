@@ -1,0 +1,6 @@
+<map id="fwMedDataTools::generateStudyInstanceUid" name="fwMedDataTools::generateStudyInstanceUid">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1widget_1_1StudyEditor.html#a7ac0573562e01fce3fa1511974815ca6" title="Returns the study object created by this editor. " alt="" coords="243,5,402,46"/>
+<area shape="rect" id="node3" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#a4e57139d67fee2f35bbcfe05ec940c18" title="Triggered when export button is clicked. " alt="" coords="233,70,413,111"/>
+<area shape="rect" id="node4" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#ad4a28a5b09ab220549e4fb2f95b0b7ff" title="Constructor. " alt="" coords="461,37,600,78"/>
+<area shape="rect" id="node5" href="$classuiMedDataQt_1_1editor_1_1SSeries.html#a4edd5e7834510fd9a53433a50c702dd1" title="Installs GUI : create container and add selector. " alt="" coords="461,102,600,143"/>
+</map>

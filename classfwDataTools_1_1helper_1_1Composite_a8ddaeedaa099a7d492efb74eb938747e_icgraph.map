@@ -1,0 +1,8 @@
+<map id="fwDataTools::helper::Composite::swap" name="fwDataTools::helper::Composite::swap">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a81203ccd7908594a55b61b9e58bb6d5c" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="195,5,352,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#a82717b3f2537949420592fb4abc5afc5" title="Swaps the object into the composite with the key given by config. " alt="" coords="195,70,352,111"/>
+<area shape="rect" id="node5" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="193,135,354,191"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="405,37,563,78"/>
+<area shape="rect" id="node6" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#ad5ae3fca60d26cabff8a1b500d0f27e7" title="Initialize the service activity. " alt="" coords="403,117,565,173"/>
+<area shape="rect" id="node7" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a54cda0a3d159d619cff705761e798b6c" title="Swap the service from associated object to another object. " alt="" coords="403,197,565,253"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::helper::Encoding::convertString" name="fwGdcmIO::helper::Encoding::convertString">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomDataReader.html#a0bb325ce45384c396ec1d44b7db1941e" title="Return a string from a tag found in dataset. An empty string returned means the tag is not found or e..." alt="" coords="245,38,448,79"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#aaadbe708241295a1b610f76f322d0c34" title="Find the DICOMDIR file in the parent arborescence. " alt="" coords="497,38,687,79"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a347bc7a8c4e85d92c42538c49e93b66c" title="Return true if a dicomdir file can be read. " alt="" coords="737,5,911,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#aabe80c25aa9cbd0220173573c7d24634" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="737,70,911,111"/>
+</map>

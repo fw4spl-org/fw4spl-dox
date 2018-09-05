@@ -1,0 +1,6 @@
+<map id="fwRuntime::Runtime::addExtension" name="fwRuntime::Runtime::addExtension">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#a05bb6b1b92cc6441eb936907ce1de6db" title="Adds a new bundle instance to the runtime system. " alt="" coords="198,34,341,75"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#adfd7ac9087797b44b84746183d00c62a" title="Adds all bundle found in the given path. " alt="" coords="390,34,533,75"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#a7cec72a200e8e69975768eae49709d65" title="Adds all bundle found at the default location. " alt="" coords="627,5,770,46"/>
+<area shape="rect" id="node5" href="$namespacefwRuntime.html#a2b24dde67b11c7bb1de980ae77664887" title="Retrieve a filesystem valid path for a path relative to the specified executable instance. " alt="" coords="581,71,816,97"/>
+</map>

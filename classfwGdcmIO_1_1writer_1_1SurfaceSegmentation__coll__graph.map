@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::writer::SurfaceSegmentation" name="fwGdcmIO::writer::SurfaceSegmentation">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ModelSeries \&gt;" alt="" coords="1145,61,1327,117"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="501,41,669,82"/>
+<area shape="rect" id="node8" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="721,77,911,118"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,373,40"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="263,73,343,100"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="30,70,157,111"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="1155,141,1317,197"/>
+<area shape="rect" id="node10" href="$structfwData_1_1location_1_1enableSingleFile.html" title="This class is derived by reader/writer. " alt="" coords="735,149,897,190"/>
+</map>

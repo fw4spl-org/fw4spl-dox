@@ -1,0 +1,8 @@
+<map id="uiMedDataQt::InsertSeries" name="uiMedDataQt::InsertSeries">
+<area shape="rect" id="node2" href="$classfwMedData_1_1Series.html" title="Holds series information. " alt="" coords="241,320,375,347"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="253,245,363,272"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="176,171,291,197"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="305,96,409,123"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="315,171,453,197"/>
+</map>

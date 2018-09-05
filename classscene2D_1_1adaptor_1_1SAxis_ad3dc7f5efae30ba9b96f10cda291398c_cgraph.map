@@ -1,0 +1,11 @@
+<map id="scene2D::adaptor::SAxis::configuring" name="scene2D::adaptor::SAxis::configuring">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#abf7a27283ed8b08c6a54221c52ad4b84" title="Parse the xml configuration for Axis, z value and opacity. " alt="" coords="229,50,379,91"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="438,5,581,46"/>
+<area shape="rect" id="node5" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="435,105,584,146"/>
+<area shape="rect" id="node10" href="$classfwRenderQt_1_1data_1_1InitQtPen.html#a74cb0245a793100b5c2492129b19646c" title="Set a pen a color. " alt="" coords="221,167,387,209"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="645,5,787,46"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="644,83,788,109"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="632,133,800,160"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="877,57,1017,84"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="849,108,1045,135"/>
+</map>

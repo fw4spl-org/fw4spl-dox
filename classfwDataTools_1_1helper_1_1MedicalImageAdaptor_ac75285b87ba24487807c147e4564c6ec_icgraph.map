@@ -1,0 +1,4 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::worldToSliceIndex" name="fwDataTools::helper::MedicalImageAdaptor::worldToSliceIndex">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a9efd816fd8a73d9802196cb7f5388d87" title="Convert coordinates in the world to coordinates in the image. " alt="" coords="211,4,384,60"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SImagesProbeCursor.html#afd767b5b0ad3e501b8a552a98b63cca4" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="432,11,643,53"/>
+</map>

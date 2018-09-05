@@ -1,0 +1,5 @@
+<map id="fwNetworkIO::http::ClientQt::getFile" name="fwNetworkIO::http::ClientQt::getFile">
+<area shape="rect" id="node2" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="196,5,399,32"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1System.html#a1f236bd911a10a1295198903ad3aa426" title="Returns a unique per&#45;process temporary folder. The top level temporary folder will be automatically d..." alt="" coords="193,57,402,98"/>
+<area shape="rect" id="node4" href="$classfwNetworkIO_1_1http_1_1ClientQt.html#a43aaac08d05202db1e4105569caeffc3" title="Slot triggered when an error occurs. " alt="" coords="221,122,373,163"/>
+</map>

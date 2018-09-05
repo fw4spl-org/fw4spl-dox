@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfwMemory_1_1BufferAllocationPolicy.html" title="fwMemory::BufferAllocation\lPolicy" alt="" coords="6,49,189,90"/>
+<area shape="rect" id="node2" href="$classfwMemory_1_1BufferMallocPolicy.html" title="fwMemory::BufferMallocPolicy" alt="" coords="241,5,441,32"/>
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferNewPolicy.html" title="fwMemory::BufferNewPolicy" alt="" coords="247,56,436,83"/>
+<area shape="rect" id="node4" href="$classfwMemory_1_1BufferNoAllocPolicy.html" title="fwMemory::BufferNoAllocPolicy" alt="" coords="237,107,445,133"/>
+</map>

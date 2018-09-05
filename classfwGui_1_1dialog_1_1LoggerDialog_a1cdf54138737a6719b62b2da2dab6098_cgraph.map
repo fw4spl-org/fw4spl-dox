@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::LoggerDialog::showLoggerDialog" name="fwGui::dialog::LoggerDialog::showLoggerDialog">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1LoggerDialog.html#a2de7e4e725d499631672a3cdce2b20a9" title="Show the dialog and return whether the user has selected the Ok or Cancel button. ..." alt="" coords="238,41,421,82"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1ILoggerDialog.html#a016e8ba5d870d1589b2739b2fe1269e6" title="Show the dialog and return whether the user has selected the Ok or Cancel button. ..." alt="" coords="469,5,656,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="471,69,655,125"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="704,77,888,118"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="fwGdcmIO::reader::SeriesDB" name="fwGdcmIO::reader::SeriesDB">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="1392,31,1581,87"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers. " alt="" coords="673,5,845,46"/>
+<area shape="rect" id="node6" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="generic class for all object readers. " alt="" coords="979,46,1176,87"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="289,12,429,39"/>
+<area shape="rect" id="node7" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::reader\l::IObjectReader \&gt;" alt="" coords="1397,111,1576,167"/>
+<area shape="rect" id="node8" href="$structfwData_1_1location_1_1enableFolder.html" title="This class is derived by reader/writer. " alt="" coords="996,118,1159,159"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enable\lMultiFiles\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="1401,191,1572,247"/>
+<area shape="rect" id="node10" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="This class is derived by reader/writer. " alt="" coords="996,198,1159,239"/>
+<area shape="rect" id="node11" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1417,271,1556,297"/>
+<area shape="rect" id="node12" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1020,271,1135,297"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="319,240,399,267"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="30,233,157,274"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="297,300,420,327"/>
+</map>

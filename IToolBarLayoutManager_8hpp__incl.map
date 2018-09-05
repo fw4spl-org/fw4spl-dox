@@ -1,0 +1,21 @@
+<map id="IToolBarLayoutManager.hpp" name="IToolBarLayoutManager.hpp">
+<area shape="rect" id="node3" href="$fwContainer_8hpp_source.html" title="fwGui/container/fwContainer.hpp" alt="" coords="283,80,495,107"/>
+<area shape="rect" id="node4" href="$GuiBaseObject_8hpp_source.html" title="fwGui/GuiBaseObject.hpp" alt="" coords="528,155,701,181"/>
+<area shape="rect" id="node39" href="$fwMenu_8hpp_source.html" title="fwGui/container/fwMenu.hpp" alt="" coords="519,80,707,107"/>
+<area shape="rect" id="node40" href="$fwMenuItem_8hpp_source.html" title="fwGui/container/fwMenuItem.hpp" alt="" coords="45,80,259,107"/>
+<area shape="rect" id="node41" href="$fwToolBar_8hpp_source.html" title="fwGui/container/fwToolBar.hpp" alt="" coords="731,80,932,107"/>
+<area shape="rect" id="node42" href="$IMenuItemCallback_8hpp_source.html" title="fwGui/IMenuItemCallback.hpp" alt="" coords="1007,80,1205,107"/>
+<area shape="rect" id="node43" href="$ConfigurationElement_8hpp_source.html" title="fwRuntime/ConfigurationElement.hpp" alt="" coords="4085,155,4323,181"/>
+<area shape="rect" id="node5" href="$base_8hpp_source.html" title="fwCore/base.hpp" alt="" coords="3742,229,3863,256"/>
+<area shape="rect" id="node34" href="$core_2fwGui_2include_2fwGui_2factory_2new_8hpp_source.html" title="fwGui/factory/new.hpp" alt="" coords="630,229,783,256"/>
+<area shape="rect" id="node35" href="$core_2fwGui_2include_2fwGui_2registry_2detail_8hpp_source.html" title="fwGui/registry/detail.hpp" alt="" coords="735,304,897,331"/>
+<area shape="rect" id="node6" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="3653,304,3813,331"/>
+<area shape="rect" id="node7" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros. " alt="" coords="2352,387,2487,413"/>
+<area shape="rect" id="node29" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="3949,387,4141,413"/>
+<area shape="rect" id="node33" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="3855,477,3989,504"/>
+<area shape="rect" id="node8" href="$Demangler_8hpp_source.html" title="fwCore/Demangler.hpp" alt="" coords="3553,477,3708,504"/>
+<area shape="rect" id="node32" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="4533,477,4683,504"/>
+<area shape="rect" id="node36" href="$FactoryRegistry_8hpp_source.html" title="fwCore/util/FactoryRegistry.hpp" alt="" coords="3423,387,3629,413"/>
+<area shape="rect" id="node45" href="$ConfigurationElementContainer_8hpp_source.html" title="fwRuntime/ConfigurationElement\lContainer.hpp" alt="" coords="4267,379,4481,421"/>
+<area shape="rect" id="node47" href="$RuntimeException_8hpp_source.html" title="fwRuntime/RuntimeException.hpp" alt="" coords="4507,387,4728,413"/>
+</map>

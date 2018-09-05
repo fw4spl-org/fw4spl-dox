@@ -1,0 +1,9 @@
+<map id="ioVTK::SSeriesDBReader::configuring" name="ioVTK::SSeriesDBReader::configuring">
+<area shape="rect" id="node2" href="$classfwIO_1_1IReader.html#ad80f423d4b9760b528827c37c4c2e4af" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="227,121,402,148"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="463,5,606,46"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="667,147,867,173"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="459,121,610,148"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#ae0257a1f040382abb71da2481d1411b8" title="Sets file paths. " alt="" coords="455,172,614,199"/>
+<area shape="rect" id="node8" href="$classfwIO_1_1IReader.html#a96c435e1ac3db3eb513f9f2667ca497a" title="Sets folder path. " alt="" coords="451,223,618,249"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="695,5,838,46"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="visuVTKAdaptor::SImage::configuring" name="visuVTKAdaptor::SImage::configuring">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#abf451ddaeae9fad7eca28360d271e4a4" title="Parse the xml configuration for renderer, picker and transform. " alt="" coords="237,70,398,111"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="469,5,611,46"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="239,135,395,191"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="236,214,399,255"/>
+<area shape="rect" id="node10" href="$classfwVtkIO_1_1helper_1_1TransferFunction.html#a26cd39cac4ea22f499a1628b9bb91234" title="Convert a fwData::TransferFunction to a vtkLookupTable. " alt="" coords="225,279,410,321"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="239,344,395,400"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a5d9b171d416c78dc0d28d20fa042b9d5" title="Sets the identifier of the picker used by this adaptor. " alt="" coords="459,70,621,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#abe92b6474f5e78b46749b976869cc272" title="Sets the renderer identifier. " alt="" coords="459,135,621,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#ab071873fa3b3836f5b0d16bd02160da1" title="Sets the identifier of the transform used by this adaptor. " alt="" coords="459,201,621,242"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="670,5,813,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::container::sr::DicomSRSCoord3DNode" name="fwGdcmIO::container::sr::DicomSRSCoord3DNode">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1container_1_1sr_1_1DicomSRNode.html" title="This class defines a node in a SR document. " alt="" coords="796,87,943,129"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1DicomCodedAttribute.html" title="This class represents a DICOM basic coded entry. It stores the four mains attributes : Code Value..." alt="" coords="452,82,607,123"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="489,23,569,49"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="153,15,279,57"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="158,184,274,211"/>
+</map>

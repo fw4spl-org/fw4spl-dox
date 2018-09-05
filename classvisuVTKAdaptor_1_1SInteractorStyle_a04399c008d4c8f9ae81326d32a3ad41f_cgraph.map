@@ -1,0 +1,7 @@
+<map id="visuVTKAdaptor::SInteractorStyle::stopping" name="visuVTKAdaptor::SInteractorStyle::stopping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="247,5,409,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#aa18436bf7d438b32f7842265419d54e0" title="Returns the render interactor. " alt="" coords="247,70,409,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IInteractorStyle.html#ada554cb026c596d599e622ece5e9e710" title="Set the autorender flag. " alt="" coords="243,135,413,177"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="247,201,409,242"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="462,70,623,111"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="fwGui::dialog::LocationDialog::show" name="fwGui::dialog::LocationDialog::show">
+<area shape="rect" id="node2" href="$classioData_1_1TransformationMatrix3DReaderService.html#a51914cfd29d9d55b2332e5cebfa10739" title="Configure the image path. " alt="" coords="246,5,477,46"/>
+<area shape="rect" id="node3" href="$classioData_1_1TransformationMatrix3DWriterService.html#a51b6f045e8fccdedab2293bfbb537cbc" title="Configure the matrix path. " alt="" coords="249,70,473,111"/>
+<area shape="rect" id="node4" href="$classioData_1_1SAttachmentSeriesReader.html#a3e927735c102e43906cac6a1b3b100b0" title="Configure the attachment path. " alt="" coords="271,135,452,177"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SSeriesDBWriter.html#a293eb4b7c8b3ad63863c008c67fdd193" title="Propose a directory selection where to save the DICOM files. " alt="" coords="274,201,449,242"/>
+<area shape="rect" id="node6" href="$classioGdcm_1_1SSurfaceSegmentationWriter.html#a2fe057e1b25cb3fc597d242c78221890" title="Propose a directory selection where to save the DICOM files. " alt="" coords="257,266,466,307"/>
+<area shape="rect" id="node7" href="$classioData_1_1STrianMeshReader.html#a9a6c53b6609f28d0f82b487623ac6247" title="Configure the mesh path. " alt="" coords="271,331,451,373"/>
+<area shape="rect" id="node8" href="$classioITK_1_1SImageSeriesWriter.html#aafd1a733319ebbd4e726e64c2da1d876" title="Override. " alt="" coords="272,397,451,438"/>
+<area shape="rect" id="node9" href="$classioGdcm_1_1SDicomSeriesWriter.html#ab7efc3215c635da2cba31a7416b0b556" title="Propose select a directory where to save the DICOM files. " alt="" coords="264,462,459,503"/>
+<area shape="rect" id="node10" href="$classioVTK_1_1SMeshReader.html#a218f6464f0d4e16ba8e58f1bfc985516" title="Configure the image path. " alt="" coords="287,527,436,569"/>
+<area shape="rect" id="node11" href="$classioVTK_1_1SImageSeriesReader.html#ab295b79ebbce44db3a891ff6ba956f5a" title="Configure the image path. " alt="" coords="266,593,457,634"/>
+<area shape="rect" id="node12" href="$classioITK_1_1SJpgImageSeriesWriter.html#a6117d940bbc953950d1860b030b88cf5" title="Override. " alt="" coords="262,658,461,699"/>
+<area shape="rect" id="node13" href="$classioVtkGdcm_1_1SImageSeriesWriter.html#aa0f6aa4e39cb7128c3df9da1757baace" title="Propose select a directory where to save the DICOM files. " alt="" coords="255,723,467,765"/>
+<area shape="rect" id="node14" href="$classioITK_1_1InrImageWriterService.html#abb343496da0f21ca34205ac663796c40" title="Override. " alt="" coords="266,789,457,830"/>
+<area shape="rect" id="node15" href="$classioVTK_1_1SImageReader.html#a64610b57ca2da396aff847f585ffd958" title="Configure the image path with a dialogBox. " alt="" coords="285,854,438,895"/>
+<area shape="rect" id="node16" href="$classioITK_1_1InrImageReaderService.html#a775edd656c6bae5eaee8ba6f58fd6fe5" title="Override. " alt="" coords="262,919,461,961"/>
+<area shape="rect" id="node17" href="$classioITK_1_1JpgImageWriterService.html#a407f1f0dc2c2c12ca120501a23290f95" title="Override. " alt="" coords="263,985,460,1026"/>
+<area shape="rect" id="node18" href="$classioVTK_1_1SModelSeriesReader.html#ae83ac548ee61b6d1c8aadfc4481ccf37" title="Configure the mesh path. " alt="" coords="267,1050,456,1091"/>
+<area shape="rect" id="node19" href="$classioVTK_1_1SImageSeriesWriter.html#acc815ffcb428d242d33b39ef8be80494" title="Configure the image path. " alt="" coords="270,1115,453,1157"/>
+<area shape="rect" id="node20" href="$classioVTK_1_1SMeshWriter.html#af91b7576cc4e180cd8ae01568b13ea19" title="Configure the mesh path. " alt="" coords="290,1181,433,1222"/>
+<area shape="rect" id="node21" href="$classioVTK_1_1SImageWriter.html#ad36eb0b11e89c2a91a698273474dfb12" title="Configure the image path. " alt="" coords="288,1246,435,1287"/>
+<area shape="rect" id="node22" href="$classioData_1_1MeshWriterService.html#a3b01f38286d494654d742549db95d10c" title="Configure the mesh path. " alt="" coords="272,1311,451,1353"/>
+<area shape="rect" id="node23" href="$classioVTK_1_1SModelSeriesWriter.html#a9767a068d3d1c15a6ab2847f73e20382" title="Configure the mesh path. " alt="" coords="270,1377,453,1418"/>
+<area shape="rect" id="node24" href="$classioVTK_1_1SModelSeriesObjWriter.html#a426a87f3da9d575aa55f81c3277f2145" title="Configure the mesh path. " alt="" coords="260,1442,463,1483"/>
+<area shape="rect" id="node25" href="$classioVTK_1_1SSeriesDBReader.html#a6c0961dd70dd22180f193c2b233c1b4a" title="Configure the vtk file path. " alt="" coords="275,1507,448,1549"/>
+<area shape="rect" id="node26" href="$classioTuto_1_1ExternalDataReaderService.html#aad4df71c7adaa24e88b6c59b48ceec23" title="Configure the image path. " alt="" coords="269,1573,453,1614"/>
+<area shape="rect" id="node28" href="$classioITK_1_1SInrSeriesDBReader.html#a586c1de76f71571b49e915730e035f53" title="Configure the inr files path. " alt="" coords="270,1638,453,1679"/>
+<area shape="rect" id="node29" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a6dcc4c019bf254bbe3d9b89117f3ee76" title="Override. " alt="" coords="267,1703,455,1745"/>
+<area shape="rect" id="node30" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a43f3cb28401868bb2d2d81f4dfc91bd0" title="Override. " alt="" coords="260,1769,463,1810"/>
+<area shape="rect" id="node31" href="$classioAtoms_1_1SWriter.html#a1ba1c2daea9078a8e0512f1e012d280a" title="Propose to create a medical data file. " alt="" coords="270,1834,453,1875"/>
+<area shape="rect" id="node32" href="$classioDcmtk_1_1SSeriesDBReader.html#a9acf591ba77e475373c74e4dfa31acf9" title="Override. " alt="" coords="268,1899,455,1941"/>
+<area shape="rect" id="node33" href="$classioGdcm_1_1SDicomSeriesDBReader.html#ad59c95af0876067104d63ed6f0c5df5e" title="Override. " alt="" coords="251,1965,471,2006"/>
+<area shape="rect" id="node34" href="$classioAtoms_1_1SReader.html#ab17fcb079a049399e4380bfe2d115fdc" title="Propose to choose a medical data file (*.json,*.jsonz,*.xml or *.xmlz) " alt="" coords="266,2030,457,2071"/>
+<area shape="rect" id="node35" href="$classioQt_1_1SPdfWriter.html#afeda479edb94288918089649ec290bfc" title="Configure the image path. " alt="" coords="272,2095,451,2137"/>
+<area shape="rect" id="node37" href="$classioGdcm_1_1SSeriesDBReader.html#ab7396f5e977e7f789ecb87911241e667" title="Override. " alt="" coords="270,2161,453,2202"/>
+<area shape="rect" id="node38" href="$classuiVisu_1_1action_1_1SSnapshot.html#a9004cc1fb364bed3608eda7e3a90bae2" title="Write information in a stream. " alt="" coords="275,2226,448,2267"/>
+<area shape="rect" id="node39" href="$classuiVisuQt_1_1SnapshotEditor.html#a99aa67697e104a08b0e397bf9dc532c6" title="Show a file dialog and notify the scene must be printed. " alt="" coords="277,2291,446,2333"/>
+<area shape="rect" id="node41" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html#a2e7afe9d6df98c607ff4df0ce58c48c0" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="275,2357,447,2398"/>
+<area shape="rect" id="node42" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html#ab3b113c1ff0407131500636fe9ab59ae" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="274,2422,449,2463"/>
+<area shape="rect" id="node43" href="$classuiIO_1_1action_1_1SFolderSelector.html#a54b54170a491b941db4bd152c22ff4dc" title="Show the dialog and send the signal with the chosen directory. " alt="" coords="266,2487,457,2529"/>
+<area shape="rect" id="node44" href="$classuiPreferences_1_1action_1_1SPreferencesConfiguration.html#afea16032cc5bc5c535233646bfbda77d" title="Shows a dialog to configure preferences declared in xml. " alt="" coords="268,2552,455,2608"/>
+<area shape="rect" id="node27" href="$classioTuto_1_1ExternalDataReaderService.html#ac3550101d66e01de163925748b9637ed" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="525,1573,709,1614"/>
+<area shape="rect" id="node36" href="$classioQt_1_1SPdfWriter.html#afa3b9b49011fb9941fd74acb6e997158" title="Updating method. Creates a new PDF. " alt="" coords="530,2103,705,2129"/>
+<area shape="rect" id="node40" href="$classuiVisuQt_1_1SnapshotEditor.html#a39abf1134cec6e659703ce47057a3e8f" title="Install the layout. " alt="" coords="533,2291,702,2333"/>
+</map>

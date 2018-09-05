@@ -1,0 +1,9 @@
+<map id="fwDataTools::helper::Image::createTransferFunctionPool" name="fwDataTools::helper::Image::createTransferFunctionPool">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="303,5,441,46"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="289,69,455,125"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#abb0d7ac24314c1b1a988f27b8b17354a" title="Return minimum and maximum values contained in image. If image min or max value is out of MINMAXTYPE ..." alt="" coords="289,149,455,205"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="303,229,441,270"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Field.html#a6be9ec481b7dc86e6d465f7c81955b0a" title="Send the built message and clear the internal maps. " alt="" coords="303,294,441,335"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1Field.html#afe360ae4b1f88d846b7ea891999620cb" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="303,359,441,401"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1Field.html#a4d249a15a14e8e86615d95d3de124478" title="Add or replace a field in the object. " alt="" coords="504,359,643,401"/>
+</map>

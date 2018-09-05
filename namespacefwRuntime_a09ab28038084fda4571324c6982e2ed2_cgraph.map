@@ -1,0 +1,18 @@
+<map id="fwRuntime::getAllExecutableForPoint" name="fwRuntime::getAllExecutableForPoint">
+<area shape="rect" id="node2" href="$namespacefwRuntime.html#ac3ad56e80e701530f9e225733f416421" title="Loads all bundles that can be found in the specified directory. " alt="" coords="273,5,434,32"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ConfigurationElementContainer.html#a43a74fe91df5225af83bea15fc55082e" title="Retrieves the iterator on the first managed configuration element. " alt="" coords="268,57,439,98"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1ConfigurationElementContainer.html#ad1a2f324ec5b0d1f8c3b387f986653b2" title="Retrieves the iterator on the end of the configuration element container. " alt="" coords="268,122,439,163"/>
+<area shape="rect" id="node5" href="$namespacefwRuntime.html#ac022de955feb48232a328a5adb881261" title="Retrieves the bundle with the given identifier and version. " alt="" coords="549,352,704,379"/>
+<area shape="rect" id="node8" href="$namespacefwRuntime.html#a3dca242a8c0119d1eef5966b3d8d969b" title="Retrieve the configuation element with the given identifier for the given extension point..." alt="" coords="258,523,449,565"/>
+<area shape="rect" id="node9" href="$namespacefwRuntime.html#ad8ae94d8be33a52e98016ae1ac67c64c" title="Retrieve the extension having the specified identifier. " alt="" coords="267,407,439,433"/>
+<area shape="rect" id="node11" href="$namespacefwRuntime.html#ad4b44e7513060eaa1327b8b5e69557a4" title="Retrieve a filesystem valid path for a path relative to the bundle having the specified identifier..." alt="" coords="250,239,457,281"/>
+<area shape="rect" id="node12" href="$namespacefwRuntime.html#abf426e322471c9163035b5e80569a21a" title="Retrieve the filesystem valid path of resources of a bundle. " alt="" coords="509,301,744,328"/>
+<area shape="rect" id="node13" href="$namespacefwRuntime.html#a8fc7aa924444e87a78a8599cfe347d35" title="Retrieve a filesystem valid path for a resource path whose first element is a library identifier..." alt="" coords="250,458,457,499"/>
+<area shape="rect" id="node15" href="$namespacefwRuntime.html#a392bb1bae0d13804648cc776e9bf6a70" title="Retrieve a filesystem valid path for a resource path whose first element is a library or a bundle ide..." alt="" coords="246,589,461,616"/>
+<area shape="rect" id="node16" href="$namespacefwRuntime.html#a79b4705481ad5db3caa908f16a03edbc" title="Starts the bundle specified by the given identifier. " alt="" coords="547,149,706,176"/>
+<area shape="rect" id="node17" href="$namespacefwRuntime.html#a0c1d7b9c7ef1220c048171a8f1f2042a" title="Starts the given bundle set profile. " alt="" coords="275,640,431,667"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1Runtime.html#aa7a79fcdb77983835e28ddc61fe822ac" title="Retrieves the bundle for the specified idenfier. " alt="" coords="793,215,935,257"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="793,323,935,365"/>
+<area shape="rect" id="node10" href="$structfwRuntime_1_1Runtime.html#a19c3045669f4728f9dbc3aff9dc20b26" title="Retrieves the extension instance matching the specified identifier. " alt="" coords="555,454,698,495"/>
+<area shape="rect" id="node14" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="555,519,698,561"/>
+</map>

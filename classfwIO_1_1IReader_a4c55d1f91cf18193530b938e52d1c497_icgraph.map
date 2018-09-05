@@ -1,0 +1,5 @@
+<map id="fwIO::IReader::getFiles" name="fwIO::IReader::getFiles">
+<area shape="rect" id="node2" href="$classioITK_1_1SInrSeriesDBReader.html#ac6fbb30c0116b633a344bcbda4adaa9b" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="217,5,399,46"/>
+<area shape="rect" id="node3" href="$classioVTK_1_1SModelSeriesReader.html#a5036b8aa51e398bea0a771ca1103e91f" title="Updating method. " alt="" coords="213,70,403,111"/>
+<area shape="rect" id="node4" href="$classioVTK_1_1SSeriesDBReader.html#a59e6112ef3970343bed1a41f16c24e46" title="Updating method. " alt="" coords="221,135,395,177"/>
+</map>

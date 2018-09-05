@@ -1,0 +1,9 @@
+<map id="fwDataTools::helper::Composite::remove" name="fwDataTools::helper::Composite::remove">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a1425e4ef3147419005084b9262f87d2d" title="Removes the object from the composite at the key given by config. " alt="" coords="213,5,371,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#ac27363f7010953aa353b9340457664c8" title="Removes the object from the composite at the key given by config if it is present. " alt="" coords="213,70,371,111"/>
+<area shape="rect" id="node5" href="$classuiTF_1_1TransferFunctionEditor.html#a22d4128b789c539041b4cd46601e9542" title="Selects the current transfer function. " alt="" coords="198,135,386,177"/>
+<area shape="rect" id="node6" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="211,200,373,256"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="437,34,595,75"/>
+<area shape="rect" id="node7" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#ad5ae3fca60d26cabff8a1b500d0f27e7" title="Initialize the service activity. " alt="" coords="435,127,597,183"/>
+<area shape="rect" id="node8" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a54cda0a3d159d619cff705761e798b6c" title="Swap the service from associated object to another object. " alt="" coords="435,207,597,263"/>
+</map>

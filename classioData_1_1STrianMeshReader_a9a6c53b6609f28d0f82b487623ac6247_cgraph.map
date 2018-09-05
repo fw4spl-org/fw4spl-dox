@@ -1,0 +1,14 @@
+<map id="ioData::STrianMeshReader::configureWithIHM" name="ioData::STrianMeshReader::configureWithIHM">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a7b7d0bcd1a3da8e2fa4308174b086fce" title="specify some filtering when browsing files: " alt="" coords="237,5,429,46"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IReader.html#a7b0608560a04500f868efd77f0880e81" title="Clear any location set by the setFile/setFiles/setFolder setter. " alt="" coords="235,71,431,97"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a158eba419684eb19372c9ff1ddea5f57" title="Save the specified default location for the dialog in preferences (if available) " alt="" coords="237,122,429,163"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a986099aafc9c39e9af012462828fcfa5" title="Set the initial location for the dialog. " alt="" coords="237,187,429,229"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="258,253,409,280"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a68eb418df1cfd1c66f55a426bca5ca61" title="allow to set option to the file dialog mode=READ/WRITE, check=FILE_MUST_EXIST " alt="" coords="237,305,429,346"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1LocationDialog.html#ab4992d5e26eed223fa5e609bb529179b" title="Set the title for the dialog. " alt="" coords="237,370,429,411"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1LocationDialog.html#a5553fb764e66431bd740cb35031ee06a" title="Display the dialog. " alt="" coords="237,435,429,477"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="480,253,680,280"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="488,392,672,448"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1ILocationDialog.html#afe365e8bbb4d1aa519e2d003eefe4070" title="fwGui::dialog::ILocation\lDialog::show" alt="" coords="501,471,659,513"/>
+<area shape="rect" id="node12" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="728,399,912,441"/>
+</map>

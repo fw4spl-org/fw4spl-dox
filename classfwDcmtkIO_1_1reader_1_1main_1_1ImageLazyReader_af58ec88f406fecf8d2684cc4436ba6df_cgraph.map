@@ -1,0 +1,5 @@
+<map id="fwDcmtkIO::reader::main::ImageLazyReader::createInstanceBuffer" name="fwDcmtkIO::reader::main::ImageLazyReader::createInstanceBuffer">
+<area shape="rect" id="node2" href="$classfwDcmtkIO_1_1helper_1_1Codec.html#abf6abcb8c5fdcf224a77bffaa55ff6eb" title="Clean up codec register. " alt="" coords="231,5,371,46"/>
+<area shape="rect" id="node3" href="$classfwMemory_1_1BufferObject_1_1LockBase.html#a3b37ecd56065bc4e3a608ef6eacc2394" title="Returns BufferObject&#39;s buffer pointer. " alt="" coords="219,70,383,111"/>
+<area shape="rect" id="node4" href="$classfwDcmtkIO_1_1helper_1_1Codec.html#ada2d1daf18f5410aaad834e77608fd26" title="Load DICOM codec. " alt="" coords="223,135,379,177"/>
+</map>

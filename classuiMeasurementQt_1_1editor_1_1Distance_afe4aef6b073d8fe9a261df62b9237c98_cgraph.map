@@ -1,0 +1,6 @@
+<map id="uiMeasurementQt::editor::Distance::stopping" name="uiMeasurementQt::editor::Distance::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IGuiContainerSrv.html#a7f9bdbb8b884d1fe3fd42a3ebfcd4184" title="Stops sub&#45;views and toobar services. Destroys view, sub&#45;views and toolbar containers. " alt="" coords="234,13,398,54"/>
+<area shape="rect" id="node5" href="$classuiMeasurementQt_1_1editor_1_1Distance.html#a8905a2fda2e494561179766449be2289" title="Notify the scene that a distance is added. " alt="" coords="219,78,413,119"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="461,5,645,61"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="693,13,877,54"/>
+</map>

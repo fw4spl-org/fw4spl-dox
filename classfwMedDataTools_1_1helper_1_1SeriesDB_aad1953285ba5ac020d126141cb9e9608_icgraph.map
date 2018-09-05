@@ -1,0 +1,19 @@
+<map id="fwMedDataTools::helper::SeriesDB::clear" name="fwMedDataTools::helper::SeriesDB::clear">
+<area shape="rect" id="node2" href="$classioDicom_1_1SFilterSelectionEditor.html#a7f633b26bed8810d4b82b82e8c1ae908" title="Create and add a filter in a specific position. " alt="" coords="244,5,415,46"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#ae27770ebd3b91efc7ffdc57e9f6e5ff9" title="Removes all objects. " alt="" coords="251,70,408,111"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a9e8ffab05b95a76e2bca0e318f375acc" title="Override. " alt="" coords="219,135,439,177"/>
+<area shape="rect" id="node7" href="$classioGdcm_1_1SSeriesDBReader.html#a00cf95e73639ca04670c6db4f40d4ef9" title="Override. " alt="" coords="238,201,421,242"/>
+<area shape="rect" id="node9" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a797bc2567cb2db3bd0b3f1b04df9f9bc" title="Read the selected image. " alt="" coords="236,266,423,307"/>
+<area shape="rect" id="node11" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a5e895f9ec74048319f9d38d73652d13d" title="Read the selected image. " alt="" coords="240,331,419,373"/>
+<area shape="rect" id="node16" href="$classioGdcm_1_1SDicomSeriesConverter.html#a1241811179c18dc02f9b5ff69328d780" title="Override. " alt="" coords="221,397,437,438"/>
+<area shape="rect" id="node17" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a09382810c413f4d27fa237bc1964a469" title="Override. " alt="" coords="219,462,439,503"/>
+<area shape="rect" id="node18" href="$classioVTK_1_1SSeriesDBReader.html#a59e6112ef3970343bed1a41f16c24e46" title="Updating method. " alt="" coords="243,527,416,569"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="520,70,677,111"/>
+<area shape="rect" id="node6" href="$classioGdcm_1_1SDicomSeriesDBReader.html#ad59c95af0876067104d63ed6f0c5df5e" title="Override. " alt="" coords="489,135,709,177"/>
+<area shape="rect" id="node8" href="$classioGdcm_1_1SSeriesDBReader.html#ab7396f5e977e7f789ecb87911241e667" title="Override. " alt="" coords="507,201,690,242"/>
+<area shape="rect" id="node10" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a13688f96f0279893bdfed0694b3f9133" title="Constructor. " alt="" coords="495,266,702,307"/>
+<area shape="rect" id="node12" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a77916f1066b5301265a46f75498319b2" title="Constructor. " alt="" coords="496,331,701,387"/>
+<area shape="rect" id="node13" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a90f429052001bd0eaf1ba52d22a05b2d" title="Function called when a new slice must be displayed. " alt="" coords="757,433,947,474"/>
+<area shape="rect" id="node15" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#ae2a730173f17518ff7ea72eb9cbff5bb" title="Pull the selected slice from the pacs. " alt="" coords="509,462,688,503"/>
+<area shape="rect" id="node14" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#aa18f2044085e94fb47d57f1aaf263c1d" title="Override. " alt="" coords="995,433,1173,474"/>
+</map>

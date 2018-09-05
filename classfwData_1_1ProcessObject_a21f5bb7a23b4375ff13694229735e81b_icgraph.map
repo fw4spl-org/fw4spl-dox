@@ -1,0 +1,4 @@
+<map id="fwData::ProcessObject::getValue" name="fwData::ProcessObject::getValue">
+<area shape="rect" id="node2" href="$classfwData_1_1ProcessObject.html#acfb4c8d1afa099d5fd45a6a1a710834d" title="Retrieves the input data associated with specified name (null if non exist). " alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classfwData_1_1ProcessObject.html#a712e4412bda557dc68d2fe71cdae1e86" title="Retrieves the output data associated with specified name (null if non exist). " alt="" coords="214,70,373,111"/>
+</map>

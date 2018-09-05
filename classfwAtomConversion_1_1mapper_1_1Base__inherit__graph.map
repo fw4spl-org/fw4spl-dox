@@ -1,0 +1,5 @@
+<map id="fwAtomConversion::mapper::Base" name="fwAtomConversion::mapper::Base">
+<area shape="rect" id="node2" href="$classfwAtomConversion_1_1mapper_1_1AttachmentSeries.html" title="Specific mapper used to convert a fwMedData::AttachmentSeries. " alt="" coords="237,5,421,46"/>
+<area shape="rect" id="node3" href="$classfwAtomConversion_1_1mapper_1_1Graph.html" title="Specific mapper used to convert a fwData::Graph. " alt="" coords="237,70,421,111"/>
+<area shape="rect" id="node4" href="$classfwAtomConversion_1_1mapper_1_1Landmarks.html" title="Specific mapper used to convert a fwData::Landmarks. " alt="" coords="237,135,421,177"/>
+</map>

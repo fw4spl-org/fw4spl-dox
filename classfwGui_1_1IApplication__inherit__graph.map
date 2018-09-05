@@ -1,0 +1,6 @@
+<map id="fwGui::IApplication" name="fwGui::IApplication">
+<area shape="rect" id="node5" href="$classfwGui_1_1Application.html" title="Gives access to the underlayed application part. " alt="" coords="28,320,156,347"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="16,171,168,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1Application.html" title="Gives access to the qt application part. " alt="" coords="21,395,163,421"/>
+</map>

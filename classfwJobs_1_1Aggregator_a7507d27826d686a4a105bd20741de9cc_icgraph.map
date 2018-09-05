@@ -1,0 +1,4 @@
+<map id="fwJobs::Aggregator::New" name="fwJobs::Aggregator::New">
+<area shape="rect" id="node2" href="$classioAtoms_1_1SWriter.html#a36efcf66d41eb44f40337fee663238dc" title="Convert fwData to fwAtoms, and apply the writer chosen from file extension. " alt="" coords="228,5,407,32"/>
+<area shape="rect" id="node3" href="$classioAtoms_1_1SReader.html#a994e648bfb71466f74412518de6b9ca0" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="224,56,411,83"/>
+</map>

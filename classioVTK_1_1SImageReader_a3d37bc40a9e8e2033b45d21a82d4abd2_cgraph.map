@@ -1,0 +1,9 @@
+<map id="ioVTK::SImageReader::loadImage" name="ioVTK::SImageReader::loadImage">
+<area shape="rect" id="node2" href="$classfwVtkIO_1_1BitmapImageReader.html#ad4583653113a25aacaa96944e2888cc6" title="fwVtkIO::BitmapImageReader\l::getAvailableExtensions" alt="" coords="208,5,405,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="209,70,405,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="454,37,650,78"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="454,102,650,143"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="699,66,899,107"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="707,131,891,187"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="947,138,1131,179"/>
+</map>

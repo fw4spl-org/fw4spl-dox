@@ -1,0 +1,8 @@
+<map id="fwGui::layoutManager::MenuBarLayoutManager" name="fwGui::layoutManager::MenuBarLayoutManager">
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1IMenuBarLayoutManager.html" title="Defines the menu bar layout manager for IHM. " alt="" coords="923,131,1098,173"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="605,43,757,69"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="289,13,429,40"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="301,156,417,183"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="319,73,399,100"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="30,70,157,111"/>
+</map>

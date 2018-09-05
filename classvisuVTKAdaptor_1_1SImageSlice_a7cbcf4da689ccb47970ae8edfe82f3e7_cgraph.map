@@ -1,0 +1,8 @@
+<map id="visuVTKAdaptor::SImageSlice::stopping" name="visuVTKAdaptor::SImageSlice::stopping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a5bbe666037150a88a1de17bd59dc4bce" title="Removes all the vtkProp from the renderer. " alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a15b7b71a75c2737660d6a1ee1350287f" title="Removes the vtkProp to the picking list. " alt="" coords="273,135,434,177"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="502,5,663,46"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a414e3539b8536e37e0c5cc05e7435e97" title="Unregisters all the vtkProp. " alt="" coords="502,70,663,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="501,135,664,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#a78671e17a03523ae5bba126f598dde0b" title="Get the picker. " alt="" coords="502,201,663,242"/>
+</map>

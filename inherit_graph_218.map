@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classfwDicomIOFilterQt_1_1widget_1_1QTagSelectorWidget.html" title="Widget used to select a dicom tag. " alt="" coords="136,5,325,46"/>
+<area shape="rect" id="node3" href="$classfwGuiQt_1_1SliceSelector.html" title="A qt panel used to control a VTK 2D Negatoscope view. " alt="" coords="153,71,308,97"/>
+<area shape="rect" id="node4" href="$classfwGuiQt_1_1widget_1_1QRangeSlider.html" title="fwGuiQt::widget::QRangeSlider" alt="" coords="128,121,333,148"/>
+<area shape="rect" id="node5" href="$classuiMedDataQt_1_1widget_1_1EquipmentEditor.html" title="Widget to edit fwMedData::Equipment information. " alt="" coords="158,173,303,214"/>
+<area shape="rect" id="node6" href="$classuiMedDataQt_1_1widget_1_1ListInput.html" title="Simple list widget where items can be added/removed from an input widget with add/remove buttons..." alt="" coords="158,238,303,279"/>
+<area shape="rect" id="node7" href="$classuiMedDataQt_1_1widget_1_1PatientEditor.html" title="Widget to edit fwMedData::Patient information. " alt="" coords="158,303,303,345"/>
+<area shape="rect" id="node8" href="$classuiMedDataQt_1_1widget_1_1SeriesEditor.html" title="Widget to edit fwMedData::Series information. " alt="" coords="158,369,303,410"/>
+<area shape="rect" id="node9" href="$classuiMedDataQt_1_1widget_1_1StudyEditor.html" title="Widget to edit fwMedData::Study information. " alt="" coords="158,434,303,475"/>
+</map>

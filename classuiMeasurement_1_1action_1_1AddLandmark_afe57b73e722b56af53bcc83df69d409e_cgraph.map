@@ -1,0 +1,13 @@
+<map id="uiMeasurement::action::AddLandmark::updating" name="uiMeasurement::action::AddLandmark::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="237,5,403,61"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a315c7656877930a35628ecb2ccee83ad" title="Check if the image has a landmark field. " alt="" coords="237,85,403,141"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#abac9755ba40b0218f4a7f7d158ae9b51" title="Get the X,Y,Z slice position. " alt="" coords="237,165,403,221"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="222,245,418,286"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a79b9d580bb99d0061a1f2d5f44947aa6" title="Check if the image has slice index fields. " alt="" coords="482,165,649,221"/>
+<area shape="rect" id="node6" href="$classfwData_1_1Object.html#aae27dde59033498f834b888b0f19488d" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="730,180,894,207"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="467,245,663,286"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="467,310,663,351"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="712,274,912,315"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="720,339,904,395"/>
+<area shape="rect" id="node12" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="960,346,1144,387"/>
+</map>

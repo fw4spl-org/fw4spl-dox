@@ -1,0 +1,5 @@
+<map id="uiMeasurement::action::ShowDistance::updating" name="uiMeasurement::action::ShowDistance::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="227,5,394,61"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1IActionSrv.html#aa1c3c97d41b4726d41dfef68538a2a08" title="Set the action service is active/inactive. " alt="" coords="244,85,377,126"/>
+<area shape="rect" id="node4" href="$classfwData_1_1GenericField.html#a7ca06b2ebf80da331c86e564fc89fbb7" title="Get the value (mutable version). " alt="" coords="238,150,383,191"/>
+</map>

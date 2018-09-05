@@ -1,0 +1,5 @@
+<map id="fwAtomConversion::AtomVisitor::IReadPolicy" name="fwAtomConversion::AtomVisitor::IReadPolicy">
+<area shape="rect" id="node2" href="$structfwAtomConversion_1_1AtomVisitor_1_1ChangePolicy.html" title="This policy changes data&#39;s uuid if it already exists. " alt="" coords="265,5,474,46"/>
+<area shape="rect" id="node3" href="$structfwAtomConversion_1_1AtomVisitor_1_1ReusePolicy.html" title="This policy reuses the data associated with an existing uuid. " alt="" coords="265,70,474,111"/>
+<area shape="rect" id="node4" href="$structfwAtomConversion_1_1AtomVisitor_1_1StrictPolicy.html" title="This policy throws an exception if the loaded uuid is not available. " alt="" coords="265,135,474,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::writer::ie::Surface" name="fwGdcmIO::writer::ie::Surface">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="fwGdcmIO::writer::ie\l::InformationEntity\&lt;\l ::fwMedData::ModelSeries \&gt;" alt="" coords="386,4,579,60"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1ie_1_1InformationEntity.html" title="InformationEntity base class used to write modules. " alt="" coords="6,4,149,60"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1helper_1_1SegmentedPropertyRegistry.html" title="Registry of Segment Properties. This class defines a registry which links a structure type to an entr..." alt="" coords="381,83,584,125"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::StructuredReport::readSR" name="fwGdcmIO::helper::StructuredReport::readSR">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="251,5,397,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read DICOM file. " alt="" coords="445,5,643,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1Series.html#aa27422bf5f7c9a5aa53793d0b1223c04" title="Read DICOM series. " alt="" coords="691,5,866,46"/>
+</map>

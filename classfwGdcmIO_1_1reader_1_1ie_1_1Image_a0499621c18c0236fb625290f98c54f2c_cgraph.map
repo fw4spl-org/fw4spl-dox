@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::reader::ie::Image::readImagePixelModule" name="fwGdcmIO::reader::ie::Image::readImagePixelModule">
+<area shape="rect" id="node2" href="$classfwDicomTools_1_1Image.html#aad0fd186e096b215d754b4e521d6f4e0" title="Find Image Type. " alt="" coords="261,37,493,78"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomDataTools.html#ad9e54f4cdac780d9d057c30abe003c27" title="Return the pixel type of a fwData Image. " alt="" coords="276,102,479,143"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Array.html#a032c3e563087cf54a2e4e23550a77867" title="Setter for the array buffer. " alt="" coords="308,167,447,209"/>
+<area shape="rect" id="node3" href="$classfwDicomTools_1_1Image.html#a07a8a0e94d2b9e826b070379e42e4dcd" title="Return minimum possible value of the pixel. " alt="" coords="542,5,693,46"/>
+<area shape="rect" id="node4" href="$classfwDicomTools_1_1Image.html#a9153248376daea937d009439c63e5145" title="Return maximum possible value of the pixel. " alt="" coords="542,70,693,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwPacsIO::SeriesRetriever::initialize" name="fwPacsIO::SeriesRetriever::initialize">
+<area shape="rect" id="node2" href="$classfwTools_1_1System.html#a1f236bd911a10a1295198903ad3aa426" title="Returns a unique per&#45;process temporary folder. The top level temporary folder will be automatically d..." alt="" coords="233,5,442,46"/>
+<area shape="rect" id="node3" href="$classfwDcmtkTools_1_1Dictionary.html#a2cf8820584c8d623b528cb3e6317ab0a" title="Load the DICOM dictionary. " alt="" coords="250,70,425,111"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ToolboxLayoutManagerBase.cpp" name="ToolboxLayoutManagerBase.cpp">
+<area shape="rect" id="node2" href="$ToolboxLayoutManagerBase_8hpp_source.html" title="fwGui/layoutManager\l/ToolboxLayoutManagerBase.hpp" alt="" coords="513,81,729,122"/>
+<area shape="rect" id="node14" href="$base_8hpp_source.html" title="fwCore/base.hpp" alt="" coords="851,419,972,445"/>
+<area shape="rect" id="node4" href="$IViewLayoutManager_8hpp.html" title="This file defines the interface of the base class for managing a layout geometry. ..." alt="" coords="331,171,504,213"/>
+<area shape="rect" id="node5" href="$ConfigurationElement_8hpp_source.html" title="fwRuntime/ConfigurationElement.hpp" alt="" coords="402,336,640,363"/>
+<area shape="rect" id="node47" href="$GuiBaseObject_8hpp_source.html" title="fwGui/GuiBaseObject.hpp" alt="" coords="204,336,377,363"/>
+<area shape="rect" id="node48" href="$fwContainer_8hpp_source.html" title="fwGui/container/fwContainer.hpp" alt="" coords="169,261,380,288"/>
+<area shape="rect" id="node7" href="$ConfigurationElementContainer_8hpp_source.html" title="fwRuntime/ConfigurationElement\lContainer.hpp" alt="" coords="201,411,415,453"/>
+<area shape="rect" id="node9" href="$RuntimeException_8hpp_source.html" title="fwRuntime/RuntimeException.hpp" alt="" coords="491,419,712,445"/>
+<area shape="rect" id="node11" href="$core_2fwCore_2include_2fwCore_2Exception_8hpp_source.html" title="fwCore/Exception.hpp" alt="" coords="653,576,803,603"/>
+<area shape="rect" id="node15" href="$BaseObject_8hpp_source.html" title="fwCore/BaseObject.hpp" alt="" coords="1921,755,2081,781"/>
+<area shape="rect" id="node16" href="$core_2fwCore_2include_2fwCore_2macros_8hpp.html" title="This file defines fwCore base macros. " alt="" coords="2299,829,2433,856"/>
+<area shape="rect" id="node38" href="$exceptionmacros_8hpp_source.html" title="fwCore/exceptionmacros.hpp" alt="" coords="840,501,1032,528"/>
+<area shape="rect" id="node40" href="$spyLog_8hpp.html" title="This file defines SpyLog macros. These macros are used to log messages to a file or to the console du..." alt="" coords="1299,576,1433,603"/>
+<area shape="rect" id="node17" href="$Demangler_8hpp_source.html" title="fwCore/Demangler.hpp" alt="" coords="866,912,1021,939"/>
+<area shape="rect" id="node45" href="$SpyLogger_8hpp_source.html" title="fwCore/log/SpyLogger.hpp" alt="" coords="1369,665,1545,692"/>
+<area shape="rect" id="node46" href="$ScopedMessage_8hpp_source.html" title="fwCore/log/ScopedMessage.hpp" alt="" coords="1753,665,1963,692"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fwIO::IWriter::configuring" name="fwIO::IWriter::configuring">
+<area shape="rect" id="node2" href="$classfwIO_1_1IWriter.html#a3fe9198778ecfd870ad2cf6c657f1b40" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="430,52,623,79"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IWriter.html#a759ceb013ed71cd601eb7fcecf2d35c3" title="Sets file path. " alt="" coords="229,27,373,53"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IWriter.html#acd4ff805b5d059ac7080ffc8fe5e2090" title="Sets file paths. " alt="" coords="226,77,377,104"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IWriter.html#aeacdb89bb13c1a492270ccd60d96b6d5" title="Sets folder path. " alt="" coords="222,128,381,155"/>
+</map>

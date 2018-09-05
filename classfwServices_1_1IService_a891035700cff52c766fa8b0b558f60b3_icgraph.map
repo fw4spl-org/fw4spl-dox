@@ -1,0 +1,4 @@
+<map id="fwServices::IService::starting" name="fwServices::IService::starting">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html#a540ebeabae5ee08620853d911d63ad42" title="Returns proposals to connect service slots to associated objects signals, this method is used for obj..." alt="" coords="211,5,359,46"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1IManagerSrv.html#ad06e792016cf6e3407bad730300e701f" title="Swaps the service from associated object to another object. Stops and starts this service..." alt="" coords="197,70,373,111"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="fwData::Object" name="fwData::Object">
+<area shape="rect" id="node8" href="$classfwData_1_1Array.html" title="Provides a way to manage a view on a multidimentionnal array. " alt="" coords="839,5,942,32"/>
+<area shape="rect" id="node9" href="$classfwData_1_1Color.html" title="This class defines color object. " alt="" coords="839,56,942,83"/>
+<area shape="rect" id="node10" href="$classfwData_1_1Composite.html" title="This class defines a composite object. " alt="" coords="823,107,958,133"/>
+<area shape="rect" id="node11" href="$classfwData_1_1Edge.html" title="This class defines an edge object. " alt="" coords="839,157,942,184"/>
+<area shape="rect" id="node12" href="$classfwData_1_1GenericFieldBase.html" title="GenericFieldBase define common operation on simple data. " alt="" coords="803,208,978,235"/>
+<area shape="rect" id="node15" href="$classfwData_1_1Graph.html" title="This class defines a graph object. " alt="" coords="837,259,944,285"/>
+<area shape="rect" id="node16" href="$classfwData_1_1Histogram.html" title="This class defines the histogram of an image. " alt="" coords="825,309,957,336"/>
+<area shape="rect" id="node17" href="$classfwData_1_1Image.html" title="This class defines an image. " alt="" coords="837,360,945,387"/>
+<area shape="rect" id="node18" href="$classfwData_1_1Landmarks.html" title="This class defines a list of 3D points inside groups. " alt="" coords="823,411,959,437"/>
+<area shape="rect" id="node19" href="$classfwData_1_1Line.html" title="This class defines a Line defined by two points. " alt="" coords="843,461,939,488"/>
+<area shape="rect" id="node20" href="$classfwData_1_1List.html" title="This class defines a list of objects. " alt="" coords="844,512,937,539"/>
+<area shape="rect" id="node21" href="$classfwData_1_1location_1_1ILocation.html" title="Abstract class to define a location ( fileSystem, directory(IES) etc.... ) " alt="" coords="801,563,980,589"/>
+<area shape="rect" id="node22" href="$classfwData_1_1Material.html" title="This class defines a material. A material is represented by an ambient color and a diffuse color..." alt="" coords="831,613,950,640"/>
+<area shape="rect" id="node23" href="$classfwData_1_1Mesh.html" title="Data holding a geometric structure composed of points, lines, triangles, quads or polygons..." alt="" coords="839,664,943,691"/>
+<area shape="rect" id="node24" href="$classfwData_1_1Node.html" title="This class defines a node. A node is represented by input and output ports. " alt="" coords="839,715,942,741"/>
+<area shape="rect" id="node25" href="$classfwData_1_1Plane.html" title="This class defines a plane defined by tree points. " alt="" coords="838,765,943,792"/>
+<area shape="rect" id="node26" href="$classfwData_1_1PlaneList.html" title="This class defines a list of planes. " alt="" coords="827,816,954,843"/>
+<area shape="rect" id="node27" href="$classfwData_1_1Point.html" title="This class define a 3D point. " alt="" coords="839,867,942,893"/>
+<area shape="rect" id="node28" href="$classfwData_1_1PointList.html" title="This class defines a list of points. " alt="" coords="829,917,952,944"/>
+<area shape="rect" id="node29" href="$classfwData_1_1Port.html" title="A port is defined by an identifier and a type. " alt="" coords="843,968,939,995"/>
+<area shape="rect" id="node30" href="$classfwData_1_1ProcessObject.html" title="Provides the notion of Process Object: object having inputs and outputs. " alt="" coords="811,1019,970,1045"/>
+<area shape="rect" id="node31" href="$classfwData_1_1Reconstruction.html" title="This class defines a reconstruction object. " alt="" coords="811,1069,971,1096"/>
+<area shape="rect" id="node32" href="$classfwData_1_1ReconstructionTraits.html" title="This class defines Reconstruction traits. " alt="" coords="794,1120,987,1147"/>
+<area shape="rect" id="node33" href="$classfwData_1_1Resection.html" title="This class defines a resection. " alt="" coords="825,1171,956,1197"/>
+<area shape="rect" id="node34" href="$classfwData_1_1ResectionDB.html" title="This class defines a resection container. " alt="" coords="815,1221,966,1248"/>
+<area shape="rect" id="node35" href="$classfwData_1_1ROITraits.html" title="This class defines ROI traits. " alt="" coords="826,1272,955,1299"/>
+<area shape="rect" id="node36" href="$classfwData_1_1Spline.html" title="This class defines a spline object. " alt="" coords="837,1323,945,1349"/>
+<area shape="rect" id="node37" href="$classfwData_1_1StructureTraits.html" title="This class defines structure traits. " alt="" coords="811,1373,970,1400"/>
+<area shape="rect" id="node38" href="$classfwData_1_1StructureTraitsDictionary.html" title="This class defines a dictionary of structure traits. " alt="" coords="782,1424,999,1451"/>
+<area shape="rect" id="node39" href="$classfwData_1_1Tag.html" title="This class represent a tag. A tag contains a list of points. " alt="" coords="843,1475,938,1501"/>
+<area shape="rect" id="node40" href="$classfwData_1_1TransferFunction.html" title="This class defines a transfer function. " alt="" coords="805,1525,976,1552"/>
+<area shape="rect" id="node41" href="$classfwData_1_1TransformationMatrix3D.html" title="This class represents a 3D transformation matrix (4x4). " alt="" coords="785,1576,997,1603"/>
+<area shape="rect" id="node42" href="$classfwData_1_1Vector.html" title="This class defines a vector of objects. " alt="" coords="835,1627,946,1653"/>
+<area shape="rect" id="node43" href="$classfwMedData_1_1Equipment.html" title="Holds equipment information. " alt="" coords="811,1677,970,1704"/>
+<area shape="rect" id="node44" href="$classfwMedData_1_1Patient.html" title="Holds patient information. " alt="" coords="821,1728,960,1755"/>
+<area shape="rect" id="node45" href="$classfwMedData_1_1Series.html" title="Holds series information. " alt="" coords="823,1779,958,1805"/>
+<area shape="rect" id="node46" href="$classfwMedData_1_1SeriesDB.html" title="Holds series data. " alt="" coords="814,1829,967,1856"/>
+<area shape="rect" id="node47" href="$classfwMedData_1_1Study.html" title="Holds study information. " alt="" coords="825,1880,956,1907"/>
+<area shape="rect" id="node48" href="$classfwPacsIO_1_1data_1_1PacsConfiguration.html" title="This class defines a Pacs configuration. " alt="" coords="777,1931,1005,1957"/>
+<area shape="rect" id="node49" href="$classfwRenderQt_1_1data_1_1Viewport.html" title="Manage the current viewport of the fwRenderQt. " alt="" coords="799,1981,983,2008"/>
+<area shape="rect" id="node2" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="436,963,551,989"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,912,373,939"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="251,1013,355,1040"/>
+<area shape="rect" id="node7" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="424,1013,563,1040"/>
+<area shape="rect" id="node13" href="$classfwData_1_1GenericField.html" title="Generic &quot;field&quot; object template. " alt="" coords="1057,183,1234,209"/>
+<area shape="rect" id="node14" href="$classfwData_1_1GenericField.html" title="fwData::GenericField\l\&lt; bool \&gt;" alt="" coords="1337,203,1482,245"/>
+</map>

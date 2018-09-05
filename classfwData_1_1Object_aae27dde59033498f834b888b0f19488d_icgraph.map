@@ -1,0 +1,9 @@
+<map id="fwData::Object::getField" name="fwData::Object::getField">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a79b9d580bb99d0061a1f2d5f44947aa6" title="Check if the image has slice index fields. " alt="" coords="249,5,415,61"/>
+<area shape="rect" id="node5" href="$classfwData_1_1Object.html#af8967041e03434f85c5d0ba8bf64ef59" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="247,85,417,126"/>
+<area shape="rect" id="node6" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#a66223e50971644071f4053df2fc2f897" title="Initialize the service activity. " alt="" coords="219,150,445,191"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1SImageMultiDistances.html#aea5730c3c319cdc43d23b0d95a72e2c7" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="233,215,431,257"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1writer_1_1Series.html#aac90f98a7dc75eac44506ecd4a0310cd" title="Load and start appropriate writing tools. In addition, it creates an adapted folder tree where DICOM ..." alt="" coords="247,281,417,322"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#abac9755ba40b0218f4a7f7d158ae9b51" title="Get the X,Y,Z slice position. " alt="" coords="494,5,661,61"/>
+<area shape="rect" id="node4" href="$classuiMeasurement_1_1action_1_1AddLandmark.html#afe57b73e722b56af53bcc83df69d409e" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="710,13,877,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="uiMeasurement::action::LoadLandmark::stopping" name="uiMeasurement::action::LoadLandmark::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html#a79632a626732067ae9d92644107b9799" title="Method called when the action service is stopping. " alt="" coords="273,5,425,46"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a315c7656877930a35628ecb2ccee83ad" title="Check if the image has a landmark field. " alt="" coords="266,69,433,125"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1AppConfig.html#a23ba7bd1c2f7d6212d1a223ea523041c" title="Return an instance of AppConfig. " alt="" coords="270,149,429,190"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1AppConfig.html#a82fae51e58bd27b63f7307e258f38b70" title="Create an unique identifier. " alt="" coords="245,214,453,255"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1IAppConfigManager.html#a0ff391f480a5c6edef5aa64e2d7c79f6" title="fwServices::IAppConfigManager::New" alt="" coords="227,280,472,307"/>
+</map>

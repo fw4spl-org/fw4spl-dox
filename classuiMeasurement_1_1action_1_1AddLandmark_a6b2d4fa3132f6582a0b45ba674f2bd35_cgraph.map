@@ -1,0 +1,9 @@
+<map id="uiMeasurement::action::AddLandmark::info" name="uiMeasurement::action::AddLandmark::info">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1InputDialog.html#ad247cc9073478355cf0544030d449766" title="Get the input text in the input field. " alt="" coords="209,5,381,46"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1InputDialog.html#a3afb3f037c4bb602582f0bb625b706c8" title="Set the input text in the input field. " alt="" coords="209,70,381,111"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1InputDialog.html#a810a866e6c82e6dce7575db6c00c658d" title="Set the message. " alt="" coords="209,135,381,177"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1InputDialog.html#ab8d93292338018baa4db8a57738bac5b" title="Set the title of the input dialog. " alt="" coords="209,201,381,242"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1IInputDialog.html#a4a728de42806e416625e5d1e66c121fb" title="Get the input text in the input field. " alt="" coords="433,5,609,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="429,99,613,155"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="661,106,845,147"/>
+</map>

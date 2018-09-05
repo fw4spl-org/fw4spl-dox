@@ -1,0 +1,30 @@
+<map id="fwData::location::enableSingleFile&lt; RW &gt;" name="fwData::location::enableSingleFile&lt; RW &gt;">
+<area shape="rect" id="node2" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="349,143,520,199"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; IObjectReader \&gt;" alt="" coords="341,491,528,533"/>
+<area shape="rect" id="node17" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; ::fwDataIO\l::writer::IObjectWriter \&gt;" alt="" coords="353,1017,516,1073"/>
+<area shape="rect" id="node3" href="$classfwItkIO_1_1ImageReader.html" title="fwItkIO::ImageReader" alt="" coords="613,5,763,32"/>
+<area shape="rect" id="node4" href="$classfwVtkIO_1_1BitmapImageReader.html" title="Read a bitmap image. " alt="" coords="589,56,787,83"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1ImageReader.html" title="Read an image. " alt="" coords="610,107,766,133"/>
+<area shape="rect" id="node6" href="$classfwVtkIO_1_1MeshReader.html" title="Read a mesh. " alt="" coords="612,157,764,184"/>
+<area shape="rect" id="node7" href="$classfwVtkIO_1_1MetaImageReader.html" title="Read a MetaImage. " alt="" coords="595,208,781,235"/>
+<area shape="rect" id="node8" href="$classfwVtkIO_1_1VtiImageReader.html" title="Read an image. " alt="" coords="602,259,774,285"/>
+<area shape="rect" id="node10" href="$classfwDataIO_1_1reader_1_1ArrayReader.html" title="Array Reader. Read file format .raw. " alt="" coords="587,309,789,336"/>
+<area shape="rect" id="node11" href="$classfwDataIO_1_1reader_1_1DictionaryReader.html" title="Dictionary reader. Read file with .dic extension. " alt="" coords="593,361,783,402"/>
+<area shape="rect" id="node12" href="$classfwDataIO_1_1reader_1_1GzArrayReader.html" title="Array Reader. Read file format .raw.gz. " alt="" coords="599,426,777,467"/>
+<area shape="rect" id="node13" href="$classfwDataIO_1_1reader_1_1GzBufferImageReader.html" title="Image Reader. Read file format .raw.gz. " alt="" coords="597,491,779,533"/>
+<area shape="rect" id="node14" href="$classfwDataIO_1_1reader_1_1MeshReader.html" title="Mesh reader. Read file format .trian. " alt="" coords="586,557,790,584"/>
+<area shape="rect" id="node15" href="$classfwDataIO_1_1reader_1_1TagReader.html" title="Tag Reader. Read file format .tag. " alt="" coords="591,608,785,635"/>
+<area shape="rect" id="node16" href="$classfwDataIO_1_1reader_1_1TransformationMatrix3DReader.html" title="Reader for transformation of 3D Matrix. Read file format .trf. " alt="" coords="579,659,797,701"/>
+<area shape="rect" id="node18" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html" title="Array Writer. Write file format .raw. " alt="" coords="592,725,784,752"/>
+<area shape="rect" id="node19" href="$classfwDataIO_1_1writer_1_1GzArrayWriter.html" title="Array Writer. Write file format .raw.gz. " alt="" coords="601,777,775,818"/>
+<area shape="rect" id="node20" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html" title="Image Writer. Write file format .raw.gz. " alt="" coords="599,842,777,883"/>
+<area shape="rect" id="node21" href="$classfwDataIO_1_1writer_1_1MeshWriter.html" title="Mesh writer. Write file format .trian. " alt="" coords="591,908,785,935"/>
+<area shape="rect" id="node22" href="$classfwDataIO_1_1writer_1_1TransformationMatrix3DWriter.html" title="Writer for transformation of 3D Matrix. Write file format .trf. " alt="" coords="581,959,795,1001"/>
+<area shape="rect" id="node23" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html" title="fwGdcmIO::helper::DicomSeries\lDBWriter" alt="" coords="583,1025,793,1066"/>
+<area shape="rect" id="node24" href="$classfwGdcmIO_1_1writer_1_1SurfaceSegmentation.html" title="This class handles DICOM Surface Segmentation files writing. " alt="" coords="599,1090,777,1131"/>
+<area shape="rect" id="node25" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="616,1156,760,1183"/>
+<area shape="rect" id="node26" href="$classfwVtkIO_1_1ImageWriter.html" title="Write an image. " alt="" coords="613,1207,763,1233"/>
+<area shape="rect" id="node27" href="$classfwVtkIO_1_1MeshWriter.html" title="Write a mesh. " alt="" coords="615,1257,761,1284"/>
+<area shape="rect" id="node28" href="$classfwVtkIO_1_1MetaImageWriter.html" title="Write a MetaImage. " alt="" coords="599,1308,777,1335"/>
+<area shape="rect" id="node29" href="$classfwVtkIO_1_1VtiImageWriter.html" title="Write an image. " alt="" coords="605,1359,771,1385"/>
+</map>

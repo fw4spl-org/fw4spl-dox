@@ -1,0 +1,6 @@
+<map id="fwGui::layoutManager::TabLayoutManagerBase" name="fwGui::layoutManager::TabLayoutManagerBase">
+<area shape="rect" id="node6" href="$classfwGui_1_1TabLayoutManager.html" title="Defines the tab layout manager. " alt="" coords="5,427,179,453"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1IViewLayoutManager.html" title="Defines the generic layout manager for IHM. " alt="" coords="16,246,168,287"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="16,171,168,197"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+</map>

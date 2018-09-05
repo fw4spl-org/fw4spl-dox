@@ -1,0 +1,8 @@
+<map id="fwJobs::Aggregator::add" name="fwJobs::Aggregator::add">
+<area shape="rect" id="node2" href="$classfwJobs_1_1IJob.html#ac82043e5df5dce195b5e62aabcf1e383" title="Add job cancel callback to sequence without mutex lock for cancel hook. " alt="" coords="219,5,418,46"/>
+<area shape="rect" id="node3" href="$classfwJobs_1_1IJob.html#a595dfbfd3e0884592a9a8e79e2539107" title="Setter on done work units. " alt="" coords="469,133,633,160"/>
+<area shape="rect" id="node4" href="$classfwJobs_1_1IJob.html#afffcceb9d34db9568a003e74984237c2" title="Getter on the total number of work units. " alt="" coords="227,122,410,163"/>
+<area shape="rect" id="node5" href="$classfwJobs_1_1IJob.html#aa31af4e38b39b1f28de9345e1951dcc6" title="Log a message. " alt="" coords="257,253,380,280"/>
+<area shape="rect" id="node6" href="$classfwJobs_1_1IJob.html#ad61442ff1ee86ee49ff07d5d16d9555e" title="Add a message to thelog sequence. " alt="" coords="467,279,634,305"/>
+<area shape="rect" id="node7" href="$classfwJobs_1_1IJob.html#a0d9adb92a5cdb544ba8a34f5d58a223d" title="Setter on total work units. " alt="" coords="227,187,410,229"/>
+</map>

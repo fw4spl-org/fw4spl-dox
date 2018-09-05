@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::helper::DicomDataTools::convertFrameNumberToZCoordinate" name="fwGdcmIO::helper::DicomDataTools::convertFrameNumberToZCoordinate">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1ie_1_1SpatialFiducials.html#a8aa42b47e32eb77b55ce5d8bae7c567c" title="Read image landmarks from dataset. " alt="" coords="329,5,541,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Fiducial.html#a0f6c52a253f6cd8dbadbf334250fb092" title="Read a fiducial node. " alt="" coords="359,70,510,111"/>
+<area shape="rect" id="node9" href="$classfwGdcmIO_1_1reader_1_1tid_1_1Measurement.html#a06eb2a2e74386bc4026faf285cb329f8" title="Read a measurement node. " alt="" coords="348,135,521,177"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1iod_1_1SpatialFiducialsIOD.html#aba256d5dde38264932234d6cadaf85e7" title="Read a DICOM File. " alt="" coords="795,5,973,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1Series.html#aa27422bf5f7c9a5aa53793d0b1223c04" title="Read DICOM series. " alt="" coords="1267,38,1442,79"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html#a3a0661680b11eefdcd75220d1a687117" title="Create Measurement Report template root node. " alt="" coords="590,63,746,119"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="811,70,957,111"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read DICOM file. " alt="" coords="1021,67,1219,109"/>
+</map>

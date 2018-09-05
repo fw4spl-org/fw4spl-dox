@@ -1,0 +1,12 @@
+<map id="scene2D::adaptor::SNegato::configuring" name="scene2D::adaptor::SNegato::configuring">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="238,5,405,61"/>
+<area shape="rect" id="node3" href="$classfwRenderQt_1_1IAdaptor.html#abf7a27283ed8b08c6a54221c52ad4b84" title="Parse the xml configuration for Axis, z value and opacity. " alt="" coords="247,137,396,178"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="457,91,599,133"/>
+<area shape="rect" id="node6" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="453,191,603,233"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="243,253,399,309"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="663,91,806,133"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="663,169,807,196"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="651,220,819,247"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="895,144,1035,171"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="867,195,1063,221"/>
+</map>

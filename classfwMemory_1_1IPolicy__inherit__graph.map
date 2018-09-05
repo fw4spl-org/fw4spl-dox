@@ -1,0 +1,7 @@
+<map id="fwMemory::IPolicy" name="fwMemory::IPolicy">
+<area shape="rect" id="node4" href="$classfwMemory_1_1policy_1_1AlwaysDump.html" title="Always dump policy. " alt="" coords="597,5,808,32"/>
+<area shape="rect" id="node5" href="$classfwMemory_1_1policy_1_1BarrierDump.html" title="Barrier dump policy. " alt="" coords="599,56,806,83"/>
+<area shape="rect" id="node6" href="$classfwMemory_1_1policy_1_1NeverDump.html" title="Never dump policy. " alt="" coords="601,107,804,133"/>
+<area shape="rect" id="node7" href="$classfwMemory_1_1policy_1_1ValveDump.html" title="Valve dump policy. " alt="" coords="602,157,803,184"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,81,370,108"/>
+</map>

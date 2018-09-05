@@ -1,0 +1,5 @@
+<map id="uiMedDataQt::SSeriesViewer::info" name="uiMedDataQt::SSeriesViewer::info">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1SSeriesViewer.html#a5c8ef265e210d034144cbc745f151c79" title="Configures the service. " alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classuiMedDataQt_1_1SSeriesViewer.html#ab2e055186a7ae04a743fb5c908341ac0" title="Launch the config on the object if possible. " alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classuiMedDataQt_1_1SSeriesViewer.html#ae7a1981c87c2053582cf82fa908e9471" title="Calls updating on starting. " alt="" coords="491,70,685,111"/>
+</map>

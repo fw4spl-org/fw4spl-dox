@@ -1,0 +1,5 @@
+<map id="fwGui::view::IActivityView::translateParameters" name="fwGui::view::IActivityView::translateParameters">
+<area shape="rect" id="node2" href="$classguiQt_1_1editor_1_1SDynamicView.html#a3a20a4a5e2a506f7b4e7a1e9d9607df4" title="Called when the current tab selection changed. " alt="" coords="230,5,421,46"/>
+<area shape="rect" id="node4" href="$classguiQt_1_1editor_1_1SActivityView.html#a1d75e6157ac2cb013d4b45b3673100fe" title="Do nothing. " alt="" coords="248,70,403,111"/>
+<area shape="rect" id="node3" href="$classguiQt_1_1editor_1_1SDynamicView.html#ac218c8a8b26e9a0fd733d03df3996b14" title="Install the container. " alt="" coords="470,5,661,46"/>
+</map>

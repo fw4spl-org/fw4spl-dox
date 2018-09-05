@@ -1,0 +1,6 @@
+<map id="fwRenderVTK::IAdaptor::getPicker" name="fwRenderVTK::IAdaptor::getPicker">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a6c3b537d4ce8e27f4419518de6e780ee" title="Adds the vtkProp to the picking list. " alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a15b7b71a75c2737660d6a1ee1350287f" title="Removes the vtkProp to the picking list. " alt="" coords="217,70,378,111"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SImageSlice.html#a72a1ae581271edfd100c6d16dca77161" title="Initialize the service activity. " alt="" coords="427,5,626,46"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SImageSlice.html#a7cbcf4da689ccb47970ae8edfe82f3e7" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="427,70,626,111"/>
+</map>

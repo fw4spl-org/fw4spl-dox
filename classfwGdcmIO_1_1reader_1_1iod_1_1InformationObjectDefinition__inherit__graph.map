@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::reader::iod::InformationObjectDefinition" name="fwGdcmIO::reader::iod::InformationObjectDefinition">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html" title="ComprehensiveSRIOD class used to read landmarks and distances stored in Enhanced Structured Report IO..." alt="" coords="250,5,414,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1iod_1_1CTMRImageIOD.html" title="CTMRImageIOD class used to read CT &amp; MR Image IODs. " alt="" coords="255,70,409,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1iod_1_1SpatialFiducialsIOD.html" title="SpatialFiducialsIOD class used to read Spatial Fiducials IODs. " alt="" coords="255,135,409,177"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1iod_1_1SurfaceSegmentationIOD.html" title="SurfaceSegmentationIOD class used to read Surface Segmentation IODs. " alt="" coords="243,201,421,242"/>
+</map>

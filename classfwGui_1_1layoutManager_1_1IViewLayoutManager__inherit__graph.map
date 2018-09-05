@@ -1,0 +1,12 @@
+<map id="fwGui::layoutManager::IViewLayoutManager" name="fwGui::layoutManager::IViewLayoutManager">
+<area shape="rect" id="node5" href="$classfwGui_1_1layoutManager_1_1CardinalLayoutManagerBase.html" title="Defines the base for cardinal layout manager. " alt="" coords="819,5,1016,46"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1layoutManager_1_1LineLayoutManagerBase.html" title="Defines the base for line layout manager. " alt="" coords="831,70,1004,111"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1layoutManager_1_1TabLayoutManagerBase.html" title="Defines the base for cardinal layout manager. " alt="" coords="832,135,1003,177"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1layoutManager_1_1ToolboxLayoutManagerBase.html" title="Defines the base for line layout manager. " alt="" coords="820,201,1015,242"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="419,111,571,137"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,111,370,137"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1CardinalLayoutManager.html" title="Defines the cardinal layout manager. " alt="" coords="1065,12,1266,39"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1LineLayoutManager.html" title="Defines the line layout manager. " alt="" coords="1077,77,1254,104"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1TabLayoutManager.html" title="Defines the tab layout manager. " alt="" coords="1078,143,1253,169"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1ToolboxLayoutManager.html" title="Defines the toolbox layout manager. " alt="" coords="1066,208,1265,235"/>
+</map>

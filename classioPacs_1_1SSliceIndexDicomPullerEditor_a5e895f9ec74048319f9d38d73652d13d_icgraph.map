@@ -1,0 +1,6 @@
+<map id="ioPacs::SSliceIndexDicomPullerEditor::readImage" name="ioPacs::SSliceIndexDicomPullerEditor::readImage">
+<area shape="rect" id="node2" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#ae2a730173f17518ff7ea72eb9cbff5bb" title="Pull the selected slice from the pacs. " alt="" coords="245,5,424,46"/>
+<area shape="rect" id="node3" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a90f429052001bd0eaf1ba52d22a05b2d" title="Function called when a new slice must be displayed. " alt="" coords="485,34,675,75"/>
+<area shape="rect" id="node5" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a77916f1066b5301265a46f75498319b2" title="Constructor. " alt="" coords="232,121,437,177"/>
+<area shape="rect" id="node4" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#aa18f2044085e94fb47d57f1aaf263c1d" title="Override. " alt="" coords="723,34,901,75"/>
+</map>

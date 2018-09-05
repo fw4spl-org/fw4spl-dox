@@ -1,0 +1,4 @@
+<map id="fwCore::HiResTimer::reset" name="fwCore::HiResTimer::reset">
+<area shape="rect" id="node2" href="$classfwCore_1_1HiResTimer.html#a3b9bec5cb149f2e5848629f30e3b8b00" title="Start the timer. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1HiResTimer.html#a99577539107c53cd7fee643f4c8e1e54" title="Stop the timer. stop() will not reset the timer. " alt="" coords="198,70,341,111"/>
+</map>

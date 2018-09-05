@@ -1,0 +1,5 @@
+<map id="fwServices::get" name="fwServices::get">
+<area shape="rect" id="node2" href="$classfwGui_1_1registrar_1_1MenuBarRegistrar.html#a6a385f14d04b81d0730ce9b520d5633d" title="Starting menu bar registrar. All services managed in local menus and with start=&quot;yes&quot; in configuratio..." alt="" coords="185,5,356,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1registrar_1_1MenuRegistrar.html#a34388c35e7775ee3ee093470f411aca6" title="manages action service associated with menuItem of menu. " alt="" coords="169,70,373,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1registrar_1_1ToolBarRegistrar.html#ac47b54f9af7d670824b6e85e3314daa9" title="manages action service associated with menuItem of toolbar. " alt="" coords="189,135,353,177"/>
+</map>

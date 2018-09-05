@@ -1,0 +1,4 @@
+<map id="fwGui::dialog::MessageDialog::MessageDialog" name="fwGui::dialog::MessageDialog::MessageDialog">
+<area shape="rect" id="node2" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="251,4,435,60"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="483,11,667,53"/>
+</map>

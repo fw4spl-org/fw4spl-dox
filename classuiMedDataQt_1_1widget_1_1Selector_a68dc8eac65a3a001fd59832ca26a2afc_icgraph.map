@@ -1,0 +1,4 @@
+<map id="uiMedDataQt::widget::Selector::removeSeries" name="uiMedDataQt::widget::Selector::removeSeries">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1widget_1_1Selector.html#aea7d3cda5f1e7c1e1c295e25d760434a" title="Deletes the selected items and notify the deleted series. " alt="" coords="222,5,397,46"/>
+<area shape="rect" id="node3" href="$classuiMedDataQt_1_1widget_1_1Selector.html#a9497c20b855e53c95a39e7f2b805bacd" title="Catch the delete key event and remove the selected items. " alt="" coords="446,5,621,46"/>
+</map>

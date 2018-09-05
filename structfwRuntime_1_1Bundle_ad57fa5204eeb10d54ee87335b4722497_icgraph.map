@@ -1,0 +1,6 @@
+<map id="fwRuntime::Bundle::getVersion" name="fwRuntime::Bundle::getVersion">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1dl_1_1Native.html#aab2a36f818026169194a966ad1714092" title="Retrieves the pattern of the dynamic library file name given the host OS. " alt="" coords="195,5,344,46"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Bundle.html#a9c8c84e67da50b6867f0cb8b2c0ddc50" title="Starts the bundle. " alt="" coords="199,70,340,111"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1dl_1_1Native.html#a5cc924b3b33febd9ae65a3c801d93a9c" title="Retrieves the file path of the native library. " alt="" coords="392,5,541,46"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1dl_1_1Native.html#a323024f5a26c8526c284f0c81caa7d05" title="Retrieves the file path of the library including the owning bundle&#39;s path. " alt="" coords="589,5,739,46"/>
+</map>

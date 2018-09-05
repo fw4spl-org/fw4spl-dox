@@ -1,0 +1,8 @@
+<map id="visuVTKAdaptor::STexture::configuring" name="visuVTKAdaptor::STexture::configuring">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#abf451ddaeae9fad7eca28360d271e4a4" title="Parse the xml configuration for renderer, picker and transform. " alt="" coords="233,70,394,111"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="453,5,595,46"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a5d9b171d416c78dc0d28d20fa042b9d5" title="Sets the identifier of the picker used by this adaptor. " alt="" coords="443,70,605,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#abe92b6474f5e78b46749b976869cc272" title="Sets the renderer identifier. " alt="" coords="443,135,605,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#ab071873fa3b3836f5b0d16bd02160da1" title="Sets the identifier of the transform used by this adaptor. " alt="" coords="443,201,605,242"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="654,5,797,46"/>
+</map>

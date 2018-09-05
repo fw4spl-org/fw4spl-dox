@@ -1,0 +1,6 @@
+<map id="fwServices::IService::getObject" name="fwServices::IService::getObject">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html#a44d6cd8276936262208cdf04e0cc161a" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="197,71,341,97"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="390,45,586,72"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="418,96,558,123"/>
+</map>

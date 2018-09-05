@@ -1,0 +1,8 @@
+<map id="fwTools::getTime" name="fwTools::getTime">
+<area shape="rect" id="node2" href="$classfwGui_1_1view_1_1IActivityView.html#ad703b8b8740532045104e26e943b05d7" title="Create the activity series given in &#39;mainActivity&#39; configuration. " alt="" coords="187,37,363,78"/>
+<area shape="rect" id="node6" href="$classactivities_1_1SActivitySequencer.html#a78861ab377ea77bf2804b3ef0b95857d" title="Analyse the series contained in the current seriesDB. " alt="" coords="176,102,373,143"/>
+<area shape="rect" id="node7" href="$classuiMedDataQt_1_1editor_1_1SActivityWizard.html#a2b13b6a0bf9fb627eeb7aaaa50b73e71" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="184,167,365,209"/>
+<area shape="rect" id="node3" href="$classguiQt_1_1editor_1_1SActivityView.html#ae29426d75dcbb9f510723fe8bd67360e" title="Install the container. " alt="" coords="440,5,595,46"/>
+<area shape="rect" id="node4" href="$classguiQt_1_1editor_1_1SDynamicView.html#a3a20a4a5e2a506f7b4e7a1e9d9607df4" title="Called when the current tab selection changed. " alt="" coords="422,70,613,111"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SDynamicView.html#ac218c8a8b26e9a0fd733d03df3996b14" title="Install the container. " alt="" coords="662,70,853,111"/>
+</map>

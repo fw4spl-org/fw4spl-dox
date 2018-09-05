@@ -1,0 +1,6 @@
+<map id="ioPacs::SSliceIndexDicomPullerEditor::readImage" name="ioPacs::SSliceIndexDicomPullerEditor::readImage">
+<area shape="rect" id="node2" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#aad1953285ba5ac020d126141cb9e9608" title="Clear all series in the SeriesDB. " alt="" coords="255,5,419,46"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1System.html#a1f236bd911a10a1295198903ad3aa426" title="Returns a unique per&#45;process temporary folder. The top level temporary folder will be automatically d..." alt="" coords="233,70,442,111"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a51fb349f84779cf5deff57f7714304a9" title="Register an output object at a given key in the OSR, replacing it if it already exists. " alt="" coords="266,135,409,177"/>
+<area shape="rect" id="node5" href="$namespacefwServices_1_1OSR.html#a317c6679a1d04dd53de7a910e0319009" title="Return true if a key is registered for a given service. " alt="" coords="491,143,696,169"/>
+</map>

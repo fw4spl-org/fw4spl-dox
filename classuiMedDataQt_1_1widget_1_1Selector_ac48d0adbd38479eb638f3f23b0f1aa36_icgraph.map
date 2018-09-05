@@ -1,0 +1,5 @@
+<map id="uiMedDataQt::widget::Selector::getSeries" name="uiMedDataQt::widget::Selector::getSeries">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1widget_1_1Selector.html#aea7d3cda5f1e7c1e1c295e25d760434a" title="Deletes the selected items and notify the deleted series. " alt="" coords="209,5,383,46"/>
+<area shape="rect" id="node4" href="$classuiMedDataQt_1_1widget_1_1Selector.html#a4ba7fd6a12528da27759c4d8624e7ce8" title="Slot called when the selection changed. Emits a signal containing the new selected/deselected series..." alt="" coords="201,70,391,111"/>
+<area shape="rect" id="node3" href="$classuiMedDataQt_1_1widget_1_1Selector.html#a9497c20b855e53c95a39e7f2b805bacd" title="Catch the delete key event and remove the selected items. " alt="" coords="441,5,615,46"/>
+</map>

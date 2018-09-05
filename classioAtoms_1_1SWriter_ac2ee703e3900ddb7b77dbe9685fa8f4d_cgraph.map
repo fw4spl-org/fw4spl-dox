@@ -1,0 +1,11 @@
+<map id="ioAtoms::SWriter::versionSelection" name="ioAtoms::SWriter::versionSelection">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#a8408ae7ce1c8ac7c44ff0839e22c9e17" title="Add a custom button to this dialog. " alt="" coords="241,5,431,46"/>
+<area shape="rect" id="node5" href="$classfwAtomsPatch_1_1VersionsManager.html#a72aa3c22782a01fb88568904c039fcbb" title="Returns the default instance of VersionsManager. " alt="" coords="227,70,445,111"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#ae737f0ad783fe123901d6c8d3299fe97" title="Set the message. " alt="" coords="241,135,431,177"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#a29c3ee3c71cfcfeb3587545b1eb19316" title="Set the string list that can be chosen by the selector. " alt="" coords="241,201,431,242"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#ace3c92fbdc36905d6431b45c617d4d0c" title="Sets the selector title. " alt="" coords="241,266,431,307"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1SelectorDialog.html#a456f2f46772371e4f67f6e02834636b1" title="Show the selector and return the selection. " alt="" coords="241,331,431,373"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="493,193,677,249"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="725,201,909,242"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1ISelectorDialog.html#a85fd94baffc2f03205b9121e91eb29d6" title="Show the selector and return the selection. " alt="" coords="506,331,665,373"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gui::aspect::SDefaultMenu::stopping" name="gui::aspect::SDefaultMenu::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IMenuSrv.html#abd7f9567a0cdf55d9713c09e0334d376" title="Destroy the layout and stop the managed services. " alt="" coords="232,19,403,45"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="451,4,635,60"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="683,11,867,53"/>
+</map>

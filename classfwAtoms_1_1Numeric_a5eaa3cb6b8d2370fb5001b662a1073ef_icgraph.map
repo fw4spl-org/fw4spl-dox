@@ -1,0 +1,13 @@
+<map id="fwAtoms::Numeric::New" name="fwAtoms::Numeric::New">
+<area shape="rect" id="node2" href="$classfwMDSemanticPatch_1_1V09ALA_1_1V10_1_1fwData_1_1Image.html#a5bfc697f0691316b00f4229b1da065ef" title="Applies patch. " alt="" coords="248,5,403,61"/>
+<area shape="rect" id="node3" href="$classfwMDSemanticPatch_1_1V10_1_1V09ALA_1_1fwData_1_1Image.html#ac96b9ef873870046b4bdb86f3c42e554" title="Applies patch. " alt="" coords="248,85,403,141"/>
+<area shape="rect" id="node4" href="$classfwStructuralPatch_1_1fwData_1_1Image_1_1V1ToV2.html#a51b63dd1632a02a63a0641a56d327893" title="Applies patch. " alt="" coords="244,165,407,221"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1Numeric.html#a96062a871530f6741b99d4022be12d04" title="Returns a clone object. " alt="" coords="240,245,411,272"/>
+<area shape="rect" id="node6" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a6c0626726a1a7ea6d86e93509886bb8d" title="Process atom base. " alt="" coords="225,297,426,338"/>
+<area shape="rect" id="node12" href="$classfwAtomConversion_1_1DataVisitor.html#ab63b9c3f0b4a51e308950a27777fbd13" title="Visit simple property. " alt="" coords="222,362,429,403"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a513ee60f7c2943947f77d71214a3577b" title="Process structural atom object. " alt="" coords="481,173,708,229"/>
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a33dbe235559ece16106c531558646257" title="Process contextual atom object. " alt="" coords="477,253,712,309"/>
+<area shape="rect" id="node10" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad8ced6b1e5871b12510de5d93de38e7c" title="Process atom mapping. " alt="" coords="485,333,705,374"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a81996b6b891e6815401d5eebeb0121be" title="Process atom sequence. " alt="" coords="480,398,709,439"/>
+<area shape="rect" id="node8" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad57aee3bc74dab163987646af744f521" title="Apply the patch to the specified object. " alt="" coords="761,213,941,269"/>
+</map>

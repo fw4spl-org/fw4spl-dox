@@ -1,0 +1,7 @@
+<map id="fwMath::intersect" name="fwMath::intersect">
+<area shape="rect" id="node2" href="$namespacefwMath.html#a124fe65f63dd8006721709f91c7ba0ef" title="Compute the Cross product between two vectors. " alt="" coords="190,5,295,32"/>
+<area shape="rect" id="node3" href="$namespacefwMath.html#a7f12cbb390399dc3458dc17c1a7d6a3f" title="Compute the Dot product between two vectors. " alt="" coords="197,56,288,83"/>
+<area shape="rect" id="node4" href="$namespacefwMath.html#a53fedaee695a3d6a7a16ecb52860bc45" title="Return the normal of the given plane _plane. " alt="" coords="176,107,309,133"/>
+<area shape="rect" id="node5" href="$namespacefwMath.html#aee9022699af75e137a51a8b55398ab2e" title="Compute the projection of a point in a given direction and test if this intersection is inside a give..." alt="" coords="181,157,304,184"/>
+<area shape="rect" id="node6" href="$namespacefwMath.html#a4e882b31be83a916fecd520fb7d96404" title="Compute the projection of a point in a given direction. " alt="" coords="358,157,525,184"/>
+</map>
