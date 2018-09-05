@@ -1,0 +1,11 @@
+<map id="fwItkIO::JpgImageWriter" name="fwItkIO::JpgImageWriter">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="1085,61,1256,117"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="501,41,669,82"/>
+<area shape="rect" id="node8" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="721,77,911,118"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,13,373,40"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="263,73,343,100"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="30,70,157,111"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="1083,141,1258,197"/>
+<area shape="rect" id="node10" href="$structfwData_1_1location_1_1enableFolder.html" title="This class is derived by reader/writer. " alt="" coords="735,149,897,190"/>
+<area shape="rect" id="node11" href="$classfwTools_1_1ProgressAdviser.html" title="Subclasses Inherited from ProgressAdviser can notify progression This class is used as base class to ..." alt="" coords="1085,221,1257,248"/>
+</map>

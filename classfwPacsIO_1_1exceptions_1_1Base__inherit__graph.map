@@ -1,0 +1,10 @@
+<map id="fwPacsIO::exceptions::Base" name="fwPacsIO::exceptions::Base">
+<area shape="rect" id="node5" href="$classfwPacsIO_1_1exceptions_1_1NegociateAssociationFailure.html" title="NegociateAssociationFailure Exceptions. " alt="" coords="710,5,906,46"/>
+<area shape="rect" id="node6" href="$classfwPacsIO_1_1exceptions_1_1NetworkInitializationFailure.html" title="NetworkInitializationFailure Exceptions. " alt="" coords="715,70,901,111"/>
+<area shape="rect" id="node7" href="$classfwPacsIO_1_1exceptions_1_1PresentationContextMissing.html" title="PresentationContextMissing Exceptions. " alt="" coords="711,135,905,177"/>
+<area shape="rect" id="node8" href="$classfwPacsIO_1_1exceptions_1_1RequestFailure.html" title="RequestFailure Exceptions. " alt="" coords="733,201,883,242"/>
+<area shape="rect" id="node9" href="$classfwPacsIO_1_1exceptions_1_1TagMissing.html" title="TagMissing Exceptions. " alt="" coords="733,266,883,307"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1Exception.html" title="fwCore::Exception" alt="" coords="331,143,461,169"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="158,143,282,169"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,143,109,169"/>
+</map>

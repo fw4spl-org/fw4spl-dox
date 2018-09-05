@@ -1,0 +1,42 @@
+<map id="fwIO::IReader::setFolder" name="fwIO::IReader::setFolder">
+<area shape="rect" id="node2" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a6dcc4c019bf254bbe3d9b89117f3ee76" title="Override. " alt="" coords="238,207,426,249"/>
+<area shape="rect" id="node3" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a43f3cb28401868bb2d2d81f4dfc91bd0" title="Override. " alt="" coords="231,273,433,314"/>
+<area shape="rect" id="node4" href="$classioDcmtk_1_1SSeriesDBReader.html#a9acf591ba77e475373c74e4dfa31acf9" title="Override. " alt="" coords="239,338,425,379"/>
+<area shape="rect" id="node5" href="$classioGdcm_1_1SDicomSeriesDBReader.html#ad59c95af0876067104d63ed6f0c5df5e" title="Override. " alt="" coords="222,403,442,445"/>
+<area shape="rect" id="node6" href="$classioGdcm_1_1SSeriesDBReader.html#ab7396f5e977e7f789ecb87911241e667" title="Override. " alt="" coords="241,469,423,510"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#ad80f423d4b9760b528827c37c4c2e4af" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="245,535,419,561"/>
+<area shape="rect" id="node24" href="$classfwIO_1_1IReader.html#aa7e1cedac01372df2bc48f874fcb88f7" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="241,1526,423,1567"/>
+<area shape="rect" id="node8" href="$classioITK_1_1InrImageReaderService.html#acbe8a3d7320b2070e9d9bbbfa92b98ab" title="Override. " alt="" coords="502,5,701,46"/>
+<area shape="rect" id="node9" href="$classioITK_1_1SInrSeriesDBReader.html#afcf73acb1a3ac0e357657a1d09124ee2" title="Calls base class implementation. " alt="" coords="510,70,693,111"/>
+<area shape="rect" id="node10" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a56ef31ffc95d294e8df9232d9bc842da" title="Override. " alt="" coords="507,135,695,177"/>
+<area shape="rect" id="node11" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a6ea82147138fc5896ad72a352471ca67" title="Override. " alt="" coords="500,201,703,242"/>
+<area shape="rect" id="node12" href="$classioDcmtk_1_1SSeriesDBReader.html#a8289305134090a50e20c3a0645bf9061" title="ioDcmtk::SSeriesDBReader\l::configuring" alt="" coords="508,266,695,307"/>
+<area shape="rect" id="node13" href="$classioData_1_1TransformationMatrix3DReaderService.html#aaccf20009b37a5bcb97c1164d37549d8" title="Configuring method : calls implementation from io::IReader " alt="" coords="502,331,701,373"/>
+<area shape="rect" id="node14" href="$classioData_1_1SAttachmentSeriesReader.html#a9ecf392d1666f596389fbd6d7fe84f14" title="Configuring method : calls implementation from io::IReader " alt="" coords="511,397,692,438"/>
+<area shape="rect" id="node15" href="$classioVTK_1_1SImageSeriesReader.html#a00ca8898fb7f2a6a045e88993550e1cc" title="Configuring method. " alt="" coords="506,462,697,503"/>
+<area shape="rect" id="node16" href="$classioVTK_1_1SMeshReader.html#a2fa318b21d6fbb144c747e9161856e0d" title="Configuring method. " alt="" coords="527,527,676,569"/>
+<area shape="rect" id="node17" href="$classioData_1_1STrianMeshReader.html#a1b6035ca2a790640af0dcf1220ce1a31" title="Configuring method : calls implementation from io::IReader " alt="" coords="511,593,691,634"/>
+<area shape="rect" id="node18" href="$classioVTK_1_1SImageReader.html#ab4052d34e12f7505d2eac78d325b78f8" title="Method called when the service is stopped, does nothing. " alt="" coords="525,658,678,699"/>
+<area shape="rect" id="node19" href="$classioVTK_1_1SModelSeriesReader.html#aa582f911c35fe6d7e46ff22cb4324048" title="Configuring method. " alt="" coords="507,723,696,765"/>
+<area shape="rect" id="node20" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a0e216293be3dfdd29a8bb77161c1330d" title="Configuring method. This method is used to configure the service. " alt="" coords="491,789,711,830"/>
+<area shape="rect" id="node21" href="$classioVTK_1_1SSeriesDBReader.html#a51915e9ed974143f3cc7f4133a5319de" title="Configuring method. " alt="" coords="515,854,688,895"/>
+<area shape="rect" id="node22" href="$classioAtoms_1_1SReader.html#aa24e0c0e48d89e8c692678cd7db02977" title="Parse the configuration. " alt="" coords="501,920,701,947"/>
+<area shape="rect" id="node23" href="$classioGdcm_1_1SSeriesDBReader.html#aa9bb0a2e9522d5326d6975dd3f598f7b" title="Configuring method. This method is used to configure the service. " alt="" coords="510,971,693,1013"/>
+<area shape="rect" id="node25" href="$classioTuto_1_1ExternalDataReaderService.html#ac3550101d66e01de163925748b9637ed" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="509,1037,693,1078"/>
+<area shape="rect" id="node26" href="$classioITK_1_1InrImageReaderService.html#a62e14b7e3c6cd34e40b504754ad7beb2" title="Override. " alt="" coords="502,1102,701,1143"/>
+<area shape="rect" id="node27" href="$classioData_1_1SAttachmentSeriesReader.html#a20166c9d3e9398d066e91ee87259878c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="511,1167,692,1209"/>
+<area shape="rect" id="node28" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a09382810c413f4d27fa237bc1964a469" title="Override. " alt="" coords="491,1233,711,1274"/>
+<area shape="rect" id="node29" href="$classioVTK_1_1SImageReader.html#afcbc09386d2bff33b89cc473cc23b2ff" title="Updating method execute the read process. " alt="" coords="525,1298,678,1339"/>
+<area shape="rect" id="node30" href="$classioVTK_1_1SImageSeriesReader.html#a4b42eec6b44b74ae7286255333bf01cb" title="Updating method. " alt="" coords="506,1363,697,1405"/>
+<area shape="rect" id="node31" href="$classioITK_1_1SInrSeriesDBReader.html#ac6fbb30c0116b633a344bcbda4adaa9b" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="510,1429,693,1470"/>
+<area shape="rect" id="node32" href="$classioVTK_1_1SMeshReader.html#a9a4981473454592747506098f7098111" title="Updating method. " alt="" coords="527,1494,676,1535"/>
+<area shape="rect" id="node33" href="$classioVTK_1_1SModelSeriesReader.html#a5036b8aa51e398bea0a771ca1103e91f" title="Updating method. " alt="" coords="507,1559,696,1601"/>
+<area shape="rect" id="node34" href="$classioAtoms_1_1SReader.html#a994e648bfb71466f74412518de6b9ca0" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="508,1625,695,1652"/>
+<area shape="rect" id="node35" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a43b22e9281f551063586de8bb34ad5a8" title="Override. " alt="" coords="507,1677,695,1718"/>
+<area shape="rect" id="node36" href="$classioDcmtk_1_1SSeriesDBReader.html#a2b45f7be9c1a58d88b6c4a35af6e2b6c" title="Override. " alt="" coords="508,1742,695,1783"/>
+<area shape="rect" id="node37" href="$classioGdcm_1_1SSeriesDBReader.html#a3a2970a132e43763b51c69c167f34451" title="Override. " alt="" coords="510,1807,693,1849"/>
+<area shape="rect" id="node38" href="$classioVTK_1_1SSeriesDBReader.html#a59e6112ef3970343bed1a41f16c24e46" title="Updating method. " alt="" coords="515,1873,688,1914"/>
+<area shape="rect" id="node39" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a34f02578522cd7333ceb0a4a8407152d" title="Override. " alt="" coords="500,1938,703,1979"/>
+<area shape="rect" id="node40" href="$classioData_1_1STrianMeshReader.html#a246185ef50b8966c770d4a7ebd24ea54" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="511,2003,691,2045"/>
+<area shape="rect" id="node41" href="$classioData_1_1TransformationMatrix3DReaderService.html#ae6aeebc67e64891b57a091aa749c7c76" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="502,2069,701,2110"/>
+</map>

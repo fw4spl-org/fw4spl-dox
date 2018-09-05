@@ -1,0 +1,10 @@
+<map id="visuVTKAdaptor::SAxis::stopping" name="visuVTKAdaptor::SAxis::stopping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="462,5,623,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a5bbe666037150a88a1de17bd59dc4bce" title="Removes all the vtkProp from the renderer. " alt="" coords="214,70,413,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="233,233,394,274"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a414e3539b8536e37e0c5cc05e7435e97" title="Unregisters all the vtkProp. " alt="" coords="462,70,623,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="461,135,624,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="462,201,623,242"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="471,266,614,307"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="462,331,623,373"/>
+</map>

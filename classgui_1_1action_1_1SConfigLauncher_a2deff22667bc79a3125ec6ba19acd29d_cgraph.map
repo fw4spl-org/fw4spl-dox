@@ -1,0 +1,5 @@
+<map id="gui::action::SConfigLauncher::configuring" name="gui::action::SConfigLauncher::configuring">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="246,5,389,46"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1IActionSrv.html#aff17458150297ada203c39103fab6464" title="Initialize the action. " alt="" coords="251,70,384,111"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="438,5,581,46"/>
+</map>

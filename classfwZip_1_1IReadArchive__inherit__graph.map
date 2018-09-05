@@ -1,0 +1,4 @@
+<map id="fwZip::IReadArchive" name="fwZip::IReadArchive">
+<area shape="rect" id="node2" href="$classfwZip_1_1ReadDirArchive.html" title="This class defines functions to read a file in a file system archive. " alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$classfwZip_1_1ReadZipArchive.html" title="This class defines functions to read a file in a zip archive. " alt="" coords="184,80,337,107"/>
+</map>

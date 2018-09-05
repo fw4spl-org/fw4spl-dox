@@ -1,0 +1,31 @@
+<map id="fwDataIO::writer::GenericObjectWriter&lt; DATATYPE &gt;" name="fwDataIO::writer::GenericObjectWriter&lt; DATATYPE &gt;">
+<area shape="rect" id="node5" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ModelSeries \&gt;" alt="" coords="1070,57,1253,113"/>
+<area shape="rect" id="node8" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Mesh \&gt;" alt="" coords="1076,148,1247,204"/>
+<area shape="rect" id="node11" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::SeriesDB \&gt;" alt="" coords="1070,228,1253,284"/>
+<area shape="rect" id="node14" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::ImageSeries \&gt;" alt="" coords="1070,308,1253,364"/>
+<area shape="rect" id="node16" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::Series \&gt;" alt="" coords="1070,388,1253,444"/>
+<area shape="rect" id="node18" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::DicomSeries \&gt;" alt="" coords="1070,468,1253,524"/>
+<area shape="rect" id="node20" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="1070,548,1253,604"/>
+<area shape="rect" id="node22" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Array \&gt;" alt="" coords="1076,628,1247,684"/>
+<area shape="rect" id="node25" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwData\l::Image \&gt;" alt="" coords="1076,832,1247,888"/>
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="424,395,592,437"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,403,373,429"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1writer_1_1SurfaceSegmentation.html" title="This class handles DICOM Surface Segmentation files writing. " alt="" coords="1321,6,1500,47"/>
+<area shape="rect" id="node7" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html" title="Write a fwData::Reconstruction. " alt="" coords="1308,72,1513,99"/>
+<area shape="rect" id="node9" href="$classfwDataIO_1_1writer_1_1MeshWriter.html" title="Mesh writer. Write file format .trian. " alt="" coords="1314,123,1507,149"/>
+<area shape="rect" id="node10" href="$classfwVtkIO_1_1MeshWriter.html" title="Write a mesh. " alt="" coords="1338,173,1483,200"/>
+<area shape="rect" id="node12" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html" title="fwGdcmIO::helper::DicomSeries\lDBWriter" alt="" coords="1305,225,1516,266"/>
+<area shape="rect" id="node13" href="$classfwGdcmIO_1_1writer_1_1SeriesDB.html" title="This class manages patient writing, in DICOM file format. " alt="" coords="1316,291,1505,317"/>
+<area shape="rect" id="node15" href="$classvtkGdcmIO_1_1ImageSeriesWriter.html" title="Write an ImageSeries in DICOM format. " alt="" coords="1308,341,1513,368"/>
+<area shape="rect" id="node17" href="$classfwGdcmIO_1_1writer_1_1Series.html" title="This class handles DICOM files writing. It defines needs of data storage and delegates writing to app..." alt="" coords="1325,403,1496,429"/>
+<area shape="rect" id="node19" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesWriter.html" title="Write a DicomSeries in DICOM format. " alt="" coords="1305,475,1516,517"/>
+<area shape="rect" id="node21" href="$classfwDataIO_1_1writer_1_1TransformationMatrix3DWriter.html" title="Writer for transformation of 3D Matrix. Write file format .trf. " alt="" coords="1304,547,1517,589"/>
+<area shape="rect" id="node23" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html" title="Array Writer. Write file format .raw. " alt="" coords="1315,613,1507,640"/>
+<area shape="rect" id="node24" href="$classfwDataIO_1_1writer_1_1GzArrayWriter.html" title="Array Writer. Write file format .raw.gz. " alt="" coords="1323,665,1498,706"/>
+<area shape="rect" id="node26" href="$classfwDataIO_1_1writer_1_1GzBufferImageWriter.html" title="Image Writer. Write file format .raw.gz. " alt="" coords="1321,730,1500,771"/>
+<area shape="rect" id="node27" href="$classfwItkIO_1_1ImageWriter.html" title="fwItkIO::ImageWriter" alt="" coords="1339,796,1483,823"/>
+<area shape="rect" id="node28" href="$classfwItkIO_1_1JpgImageWriter.html" title="fwItkIO::JpgImageWriter" alt="" coords="1328,847,1493,873"/>
+<area shape="rect" id="node29" href="$classfwVtkIO_1_1ImageWriter.html" title="Write an image. " alt="" coords="1336,897,1485,924"/>
+<area shape="rect" id="node30" href="$classfwVtkIO_1_1MetaImageWriter.html" title="Write a MetaImage. " alt="" coords="1321,948,1500,975"/>
+<area shape="rect" id="node31" href="$classfwVtkIO_1_1VtiImageWriter.html" title="Write an image. " alt="" coords="1328,999,1493,1025"/>
+</map>

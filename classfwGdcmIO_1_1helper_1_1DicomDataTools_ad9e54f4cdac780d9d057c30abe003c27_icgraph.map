@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::DicomDataTools::getPixelType" name="fwGdcmIO::helper::DicomDataTools::getPixelType">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Image.html#ac092c469d77aeb24cbda028077009600" title="Read image buffer. " alt="" coords="276,5,447,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Image.html#a0499621c18c0236fb625290f98c54f2c" title="Read Image Pixel Module tags. " alt="" coords="258,70,465,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Image.html#ac381dfedfddeabaef675129a7cf3f34b" title="Write Image Pixel Module tags. " alt="" coords="257,135,466,177"/>
+</map>

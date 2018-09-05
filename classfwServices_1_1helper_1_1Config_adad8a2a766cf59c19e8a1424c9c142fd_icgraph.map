@@ -1,0 +1,4 @@
+<map id="fwServices::helper::Config::createConnections" name="fwServices::helper::Config::createConnections">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1IManagerSrv.html#a92562887e5aec0200c62d1fb34149f8b" title="Manages a connection define in config associated to object. " alt="" coords="240,5,416,46"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1IManagerSrv.html#a134430b00f73cd5761699cda237e24a2" title="Manages all connections define in config associated to object. Call manageConnection() ..." alt="" coords="464,5,640,46"/>
+</map>

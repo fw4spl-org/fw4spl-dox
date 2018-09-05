@@ -1,0 +1,6 @@
+<map id="fwRuntime::getBundleResourceFilePath" name="fwRuntime::getBundleResourceFilePath">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#aa7a79fcdb77983835e28ddc61fe822ac" title="Retrieves the bundle for the specified idenfier. " alt="" coords="545,5,687,46"/>
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#abf426e322471c9163035b5e80569a21a" title="Retrieve the filesystem valid path of resources of a bundle. " alt="" coords="261,53,496,80"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="545,79,687,121"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Version.html#a3e98610f729f4ea2b061d2ecd0c4ed09" title="String converter. " alt="" coords="310,155,447,197"/>
+</map>

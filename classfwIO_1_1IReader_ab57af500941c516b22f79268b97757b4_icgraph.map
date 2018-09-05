@@ -1,0 +1,7 @@
+<map id="fwIO::IReader::getFolder" name="fwIO::IReader::getFolder">
+<area shape="rect" id="node2" href="$classioVtkGdcm_1_1SSeriesDBLazyReader.html#a43b22e9281f551063586de8bb34ad5a8" title="Override. " alt="" coords="238,5,426,46"/>
+<area shape="rect" id="node3" href="$classioVtkGdcm_1_1SSeriesDBReader.html#a34f02578522cd7333ceb0a4a8407152d" title="Override. " alt="" coords="231,70,433,111"/>
+<area shape="rect" id="node4" href="$classioGdcm_1_1SDicomSeriesDBReader.html#a09382810c413f4d27fa237bc1964a469" title="Override. " alt="" coords="222,135,442,177"/>
+<area shape="rect" id="node5" href="$classioDcmtk_1_1SSeriesDBReader.html#a2b45f7be9c1a58d88b6c4a35af6e2b6c" title="Override. " alt="" coords="239,201,425,242"/>
+<area shape="rect" id="node6" href="$classioGdcm_1_1SSeriesDBReader.html#a3a2970a132e43763b51c69c167f34451" title="Override. " alt="" coords="241,266,423,307"/>
+</map>

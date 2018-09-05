@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::helper::DicomDir::findDicomDir" name="fwGdcmIO::helper::DicomDir::findDicomDir">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomDataReader.html#a0bb325ce45384c396ec1d44b7db1941e" title="Return a string from a tag found in dataset. An empty string returned means the tag is not found or e..." alt="" coords="245,5,448,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1Encoding.html#a17cafd7d84616cc12f93c00b5d41ac67" title="Convert a DICOM string from the specified charset to utf&#45;8. " alt="" coords="497,5,687,46"/>
+</map>

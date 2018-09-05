@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::writer::ie::SpatialFiducials::writeSpatialFiducialsModule" name="fwGdcmIO::writer::ie::SpatialFiducials::writeSpatialFiducialsModule">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#a765c836c7e515ee58fedd053d104c1ce" title="Write image landmarks into sequence. " alt="" coords="254,41,477,82"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomDataTools.html#aedf5f34bec077d385e82fba6bcc7301d" title="Convert a 3D point to the closest frame number index. " alt="" coords="526,5,759,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1ie_1_1SpatialFiducials.html#ae5dcc121fb2ad7d96072eae929f7fc79" title="Add a frame number to the referenced image sequence. " alt="" coords="533,69,752,125"/>
+</map>

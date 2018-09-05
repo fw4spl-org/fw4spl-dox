@@ -1,0 +1,9 @@
+<map id="fwGui::layoutManager::ToolBarLayoutManager" name="fwGui::layoutManager::ToolBarLayoutManager">
+<area shape="rect" id="node2" href="$classfwGui_1_1layoutManager_1_1IToolBarLayoutManager.html" title="Defines the toolBar layout manager for IHM. " alt="" coords="1243,242,1411,283"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="904,17,1056,44"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="491,12,631,39"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="503,269,619,296"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1layoutManager_1_1IToolBarLayoutManager_1_1ActionInfo.html" title="fwGui::layoutManager\l::IToolBarLayoutManager\l::ActionInfo" alt="" coords="477,63,645,119"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="232,77,312,104"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="6,70,133,111"/>
+</map>

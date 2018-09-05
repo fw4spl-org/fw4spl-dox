@@ -1,0 +1,12 @@
+<map id="ioPacs::SSeriesPusher::progressCallback" name="ioPacs::SSeriesPusher::progressCallback">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="458,5,654,46"/>
+<area shape="rect" id="node3" href="$classioPacs_1_1SSeriesPusher.html#aeae3859591e3096b17f652a37192d7de" title="Display a message. " alt="" coords="231,325,388,366"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a9dbf39afc43907c712116b7fc5311ec6" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="458,70,654,111"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d27474cbd9bac68c7103295d0eaa28e" title="Set the message. " alt="" coords="211,129,407,170"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a3cf63b33285399c6249b0f7e087ba935" title="Set the title of the message box. " alt="" coords="211,194,407,235"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="211,259,407,301"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="464,200,648,256"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad415a257e60d23427dbfdd5e151af61b" title="Set the default button. " alt="" coords="458,135,654,177"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="704,207,888,249"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="456,279,656,321"/>
+</map>

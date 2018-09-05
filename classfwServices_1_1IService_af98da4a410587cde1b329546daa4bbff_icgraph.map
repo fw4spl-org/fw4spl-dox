@@ -1,0 +1,23 @@
+<map id="fwServices::IService::info" name="fwServices::IService::info">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#a03dda20d861622d2abdae5bf3008afcf" title="Return true if images to blend have the same spacing, origin and size. Else show a message dialog and..." alt="" coords="208,5,419,46"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#ab3258f99b9d892804adf8ff7c35e164b" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="208,70,419,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1view_1_1IActivityView.html#ad703b8b8740532045104e26e943b05d7" title="Create the activity series given in &#39;mainActivity&#39; configuration. " alt="" coords="225,135,401,177"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#a9268c51e781b8069737ea0c370a6070b" title="Returns proposals to connect service slots to associated object signals, this method is used for obj/..." alt="" coords="208,201,419,242"/>
+<area shape="rect" id="node9" href="$classioTuto_1_1ExternalDataReaderService.html#abe42c327af554e5377af659bbe02f7a8" title="Info method. " alt="" coords="221,266,405,307"/>
+<area shape="rect" id="node10" href="$classioData_1_1TransformationMatrix3DReaderService.html#ae90e42350e798e05b597a61e40c189ca" title="Info method. " alt="" coords="214,331,413,373"/>
+<area shape="rect" id="node11" href="$classioData_1_1SAttachmentSeriesReader.html#a89a95ab5759d4a4e49b97f9e6ed3cfe0" title="Info method. " alt="" coords="223,397,404,438"/>
+<area shape="rect" id="node12" href="$classioData_1_1STrianMeshReader.html#aa2edeb3fc250ece0b559446d9e473c1f" title="Info method. " alt="" coords="223,462,403,503"/>
+<area shape="rect" id="node13" href="$classioQt_1_1SPdfWriter.html#a00c1a45d4f8d238b724773a8ecd0d5ff" title="Info method. " alt="" coords="240,528,387,555"/>
+<area shape="rect" id="node14" href="$classioData_1_1SplineReaderService.html#af8a57aed42abfd1bc71c402ff035be04" title="Info method. " alt="" coords="218,579,409,621"/>
+<area shape="rect" id="node15" href="$classioData_1_1MeshWriterService.html#ae9f8d4e6f9c3982798d03e4e07ed195e" title="Info method. " alt="" coords="224,645,403,686"/>
+<area shape="rect" id="node16" href="$namespacefwServices.html#a8ed57f8ef4debdad583edebcf89d3c57" title="Streaming a service. " alt="" coords="234,711,393,737"/>
+<area shape="rect" id="node17" href="$classuiMeasurement_1_1SManageLandmark.html#a8d949d0386228dcafb09d56e5f69c910" title="Does nothing. " alt="" coords="198,762,429,803"/>
+<area shape="rect" id="node18" href="$classguiQt_1_1editor_1_1SActivityView.html#a1d75e6157ac2cb013d4b45b3673100fe" title="Do nothing. " alt="" coords="496,882,651,923"/>
+<area shape="rect" id="node19" href="$classactivities_1_1SActivitySequencer.html#a78861ab377ea77bf2804b3ef0b95857d" title="Analyse the series contained in the current seriesDB. " alt="" coords="215,879,412,921"/>
+<area shape="rect" id="node20" href="$classuiMedDataQt_1_1editor_1_1SActivityWizard.html#a2b13b6a0bf9fb627eeb7aaaa50b73e71" title="Update the activity if it is defined in the configuration, else does nothing. " alt="" coords="223,945,404,986"/>
+<area shape="rect" id="node21" href="$classfwGui_1_1view_1_1IActivityView.html#a07eab537c873f1a3b8ffa26df11c841d" title="Check if the activity is valid by calling the activity validator. " alt="" coords="225,1010,401,1051"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SActivityView.html#ae29426d75dcbb9f510723fe8bd67360e" title="Install the container. " alt="" coords="496,103,651,145"/>
+<area shape="rect" id="node6" href="$classguiQt_1_1editor_1_1SDynamicView.html#a3a20a4a5e2a506f7b4e7a1e9d9607df4" title="Called when the current tab selection changed. " alt="" coords="478,169,669,210"/>
+<area shape="rect" id="node7" href="$classguiQt_1_1editor_1_1SDynamicView.html#ac218c8a8b26e9a0fd733d03df3996b14" title="Install the container. " alt="" coords="718,169,909,210"/>
+<area shape="rect" id="node22" href="$classguiQt_1_1editor_1_1SDynamicView.html#ae935423a285b6965b98054d838b7ec1e" title="Swap. " alt="" coords="478,1010,669,1051"/>
+</map>

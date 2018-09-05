@@ -1,0 +1,12 @@
+<map id="uiMeasurement::action::SaveLandmark::stopping" name="uiMeasurement::action::SaveLandmark::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html#a79632a626732067ae9d92644107b9799" title="Method called when the action service is stopping. " alt="" coords="276,5,428,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1AppConfig.html#a23ba7bd1c2f7d6212d1a223ea523041c" title="Return an instance of AppConfig. " alt="" coords="273,70,431,111"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1AppConfig.html#a82fae51e58bd27b63f7307e258f38b70" title="Create an unique identifier. " alt="" coords="248,135,456,177"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IAppConfigManager.html#a0ff391f480a5c6edef5aa64e2d7c79f6" title="fwServices::IAppConfigManager::New" alt="" coords="229,201,475,228"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="254,253,450,294"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="523,219,719,261"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="523,285,719,326"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="768,249,968,290"/>
+<area shape="rect" id="node10" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="776,313,960,369"/>
+<area shape="rect" id="node11" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="1016,321,1200,362"/>
+</map>

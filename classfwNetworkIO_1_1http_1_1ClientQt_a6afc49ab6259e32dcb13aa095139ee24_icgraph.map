@@ -1,0 +1,4 @@
+<map id="fwNetworkIO::http::ClientQt::getFile" name="fwNetworkIO::http::ClientQt::getFile">
+<area shape="rect" id="node2" href="$classioDicomWeb_1_1SSeriesPuller.html#a5035d258c7c2aa89248d943869166cbf" title="Checks the configuration and pull the series. " alt="" coords="207,5,391,46"/>
+<area shape="rect" id="node3" href="$classioDicomWeb_1_1SSliceIndexDicomPullerEditor.html#a1cdbb81edd8fbaae757de1f517a7e050" title="Does nothing. " alt="" coords="192,70,405,111"/>
+</map>

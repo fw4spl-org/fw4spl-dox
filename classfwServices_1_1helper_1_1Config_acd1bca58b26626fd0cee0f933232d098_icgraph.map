@@ -1,0 +1,5 @@
+<map id="fwServices::helper::Config::parseConnections" name="fwServices::helper::Config::parseConnections">
+<area shape="rect" id="node2" href="$classfwServices_1_1helper_1_1Config.html#adad8a2a766cf59c19e8a1424c9c142fd" title="Parses &quot;&lt;connect&gt;&quot; tags from given configuration to connect signals and slots using given helper..." alt="" coords="235,5,421,46"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1IManagerSrv.html#a92562887e5aec0200c62d1fb34149f8b" title="Manages a connection define in config associated to object. " alt="" coords="469,5,645,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1IManagerSrv.html#a134430b00f73cd5761699cda237e24a2" title="Manages all connections define in config associated to object. Call manageConnection() ..." alt="" coords="693,5,869,46"/>
+</map>

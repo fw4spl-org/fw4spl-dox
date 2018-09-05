@@ -1,0 +1,4 @@
+<map id="visuVTKAdaptor::SText::stopping" name="visuVTKAdaptor::SText::stopping">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SPointLabel.html#a943e458557be3833e8bbf5aa000de9a8" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="215,5,409,46"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SImageText.html#aa61dee7acb7a27f42896f1f56f9eb063" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="214,70,410,111"/>
+</map>

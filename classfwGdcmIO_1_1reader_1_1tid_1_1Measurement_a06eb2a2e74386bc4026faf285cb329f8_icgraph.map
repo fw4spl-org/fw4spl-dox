@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::reader::tid::Measurement::readNode" name="fwGdcmIO::reader::tid::Measurement::readNode">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1tid_1_1MeasurementReport.html#a3a0661680b11eefdcd75220d1a687117" title="Create Measurement Report template root node. " alt="" coords="227,4,383,60"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="432,11,579,53"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read DICOM file. " alt="" coords="627,11,824,53"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1Series.html#aa27422bf5f7c9a5aa53793d0b1223c04" title="Read DICOM series. " alt="" coords="873,11,1047,53"/>
+</map>

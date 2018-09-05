@@ -1,0 +1,8 @@
+<map id="fwData::location::enableMultiFiles&lt; RW &gt;" name="fwData::location::enableMultiFiles&lt; RW &gt;">
+<area shape="rect" id="node2" href="$structfwData_1_1location_1_1enableMultiFiles.html" title="fwData::location::enable\lMultiFiles\&lt; ::fwDataIO\l::reader::IObjectReader \&gt;" alt="" coords="341,92,512,148"/>
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="577,5,772,32"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html" title="This class adds patient(s) from DICOM file(s) to fwData::SeriesDB. " alt="" coords="578,56,771,83"/>
+<area shape="rect" id="node5" href="$classfwVtkIO_1_1SeriesDBReader.html" title="Read a SeriesDB. " alt="" coords="587,107,763,133"/>
+<area shape="rect" id="node6" href="$classvtkGdcmIO_1_1SeriesDBLazyReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object in lazy mode..." alt="" coords="563,157,786,184"/>
+<area shape="rect" id="node7" href="$classvtkGdcmIO_1_1SeriesDBReader.html" title="Reads DICOM data from a directory path in order to create a SeriesDB object. " alt="" coords="577,208,772,235"/>
+</map>

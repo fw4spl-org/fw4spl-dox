@@ -1,0 +1,6 @@
+<map id="fwRuntime::Extension::validate" name="fwRuntime::Extension::validate">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#a27bf9d08addb51435e096654c099da53" title="Retrieves the extension point instance matching the specified identifier. " alt="" coords="225,5,367,46"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1BundleElement.html#a0a7c2665fab3d400e2d663e2508cc847" title="Retrieves the bundle that owns the extension. " alt="" coords="205,70,387,111"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="225,135,367,177"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Extension.html#a5ccae16aaa3947130841b94a5d6ff815" title="Retrieves the extension identifier. " alt="" coords="221,201,371,242"/>
+</map>

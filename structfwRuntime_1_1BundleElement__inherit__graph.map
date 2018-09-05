@@ -1,0 +1,6 @@
+<map id="fwRuntime::BundleElement" name="fwRuntime::BundleElement">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1ExecutableFactory.html" title="Defines the abstract executable factory class. " alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Extension.html" title="Defines the extension class. " alt="" coords="233,80,383,107"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1ExtensionPoint.html" title="Defines the extension point class. " alt="" coords="408,80,589,107"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1utils_1_1GenericExecutableFactory.html" title="Defines a generic template executable factory class. " alt="" coords="21,155,192,197"/>
+</map>

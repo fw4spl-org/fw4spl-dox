@@ -1,0 +1,4 @@
+<map id="fwDataTools::fieldHelper::MedicalImageHelpers::getImageSliceIndices" name="fwDataTools::fieldHelper::MedicalImageHelpers::getImageSliceIndices">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a79b9d580bb99d0061a1f2d5f44947aa6" title="Check if the image has slice index fields. " alt="" coords="222,4,389,60"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Object.html#aae27dde59033498f834b888b0f19488d" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="438,19,602,45"/>
+</map>

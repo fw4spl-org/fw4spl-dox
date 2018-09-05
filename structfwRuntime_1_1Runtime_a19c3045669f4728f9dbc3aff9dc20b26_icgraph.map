@@ -1,0 +1,10 @@
+<map id="fwRuntime::Runtime::findExtension" name="fwRuntime::Runtime::findExtension">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#a8e131eebfe20b61b96b34200e20deb8a" title="Registers a new extension. " alt="" coords="213,37,355,78"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#ad8ae94d8be33a52e98016ae1ac67c64c" title="Retrieve the extension having the specified identifier. " alt="" coords="198,104,370,131"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1Runtime.html#a01727e9e5f5fb50514855dfc5968fd65" title="Unregister a new extension. " alt="" coords="211,155,357,197"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#a05bb6b1b92cc6441eb936907ce1de6db" title="Adds a new bundle instance to the runtime system. " alt="" coords="443,34,586,75"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#adfd7ac9087797b44b84746183d00c62a" title="Adds all bundle found in the given path. " alt="" coords="659,34,802,75"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a7cec72a200e8e69975768eae49709d65" title="Adds all bundle found at the default location. " alt="" coords="897,5,1039,46"/>
+<area shape="rect" id="node6" href="$namespacefwRuntime.html#a2b24dde67b11c7bb1de980ae77664887" title="Retrieve a filesystem valid path for a path relative to the specified executable instance. " alt="" coords="851,71,1085,97"/>
+<area shape="rect" id="node8" href="$namespacefwRuntime.html#a09ab28038084fda4571324c6982e2ed2" title="Retrieves all executable objects for the point having the specified identifier. " alt="" coords="419,99,610,141"/>
+</map>

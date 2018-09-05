@@ -1,0 +1,5 @@
+<map id="Tuto02DataServiceBasicCtrl::Plugin" name="Tuto02DataServiceBasicCtrl::Plugin">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Plugin.html" title="Provides a default plugin implementation. " alt="" coords="34,155,163,181"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1IPlugin.html" title="Defines the plugin interface. " alt="" coords="32,80,165,107"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1IExecutable.html" title="Defines the base executable interface.An executable object is an instance created by an extension poi..." alt="" coords="17,5,180,32"/>
+</map>

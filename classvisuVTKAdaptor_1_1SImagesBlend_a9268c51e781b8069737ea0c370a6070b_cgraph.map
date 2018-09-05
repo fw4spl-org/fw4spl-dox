@@ -1,0 +1,9 @@
+<map id="visuVTKAdaptor::SImagesBlend::getAutoConnections" name="visuVTKAdaptor::SImagesBlend::getAutoConnections">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a27fd889b800232cbc05ac782f32e393a" title="Gets the identifier of the picker used by this adaptor. " alt="" coords="289,5,450,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#ab88a04a11f130a8226450e4a3c7cbaf9" title="Returns the renderer identifier. " alt="" coords="289,70,450,111"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="289,135,450,177"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#ac649f6941442433e67d9014ed8d0f6e6" title="Returns the identifier of the transform used by this adaptor. " alt="" coords="289,201,450,242"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a3ea5e8fefdd2b365ad909174dc3df005" title="Returns the vtk object defined by &#39;objectId&#39; in the vtk scene. " alt="" coords="289,266,450,307"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1IService.html#af98da4a410587cde1b329546daa4bbff" title="Write information in a stream. " alt="" coords="298,331,441,373"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#a47e2cbf56b9c32b8ad1c6031d64d99e3" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="264,397,475,438"/>
+</map>

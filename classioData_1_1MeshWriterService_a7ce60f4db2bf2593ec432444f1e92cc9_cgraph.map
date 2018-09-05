@@ -1,0 +1,11 @@
+<map id="ioData::MeshWriterService::updating" name="ioData::MeshWriterService::updating">
+<area shape="rect" id="node2" href="$classfwIO_1_1IWriter.html#a983f69118f4bd8ae2ecbb1b6762a5a5d" title="Returns the file path set by the user or set during service configuration. " alt="" coords="259,5,403,32"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IWriter.html#ab941a614378b54582154b7369250a4f0" title="Returns if a location has been defined ( by the configuration process or directly by user ) ..." alt="" coords="243,57,418,98"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="233,122,429,163"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IWriter.html#a3fe9198778ecfd870ad2cf6c657f1b40" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="479,5,673,32"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="478,89,674,130"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="478,154,674,195"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="723,118,923,159"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="731,183,915,239"/>
+<area shape="rect" id="node10" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="971,190,1155,231"/>
+</map>

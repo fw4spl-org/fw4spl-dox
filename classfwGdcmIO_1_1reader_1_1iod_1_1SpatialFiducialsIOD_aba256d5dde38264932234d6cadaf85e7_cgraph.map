@@ -1,0 +1,4 @@
+<map id="fwGdcmIO::reader::iod::SpatialFiducialsIOD::read" name="fwGdcmIO::reader::iod::SpatialFiducialsIOD::read">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1reader_1_1ie_1_1SpatialFiducials.html#a8aa42b47e32eb77b55ce5d8bae7c567c" title="Read image landmarks from dataset. " alt="" coords="233,5,445,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomDataTools.html#a20d749ac6e3024a9e939a3395d0828fa" title="Convert a frame number to a Z coordinate. " alt="" coords="493,5,768,46"/>
+</map>

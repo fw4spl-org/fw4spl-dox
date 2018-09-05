@@ -1,0 +1,11 @@
+<map id="visuVTKAdaptor::SImageText::updating" name="visuVTKAdaptor::SImageText::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="253,5,419,61"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Image.html#a40da5696c10795768e685dccc73a2b17" title="Helpers for 3D images. " alt="" coords="251,85,421,126"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ad1ec2a62bf03c940d20ca8ebe74ae762" title="Get the current transfer function. " alt="" coords="258,149,414,205"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="255,229,417,270"/>
+<area shape="rect" id="node10" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="255,294,417,335"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1Image.html#abc97b00fa2ac09bcc51914a45a5ea091" title="Helpers for 3D images. " alt="" coords="473,85,629,126"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="470,163,631,205"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="479,229,622,270"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="470,294,631,335"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwRuntime::Extension" name="fwRuntime::Extension">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1BundleElement.html" title="Implements the base class for all element managed by a bundle. " alt="" coords="5,13,187,40"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1ConfigurationElementContainer.html" title="Defines the generic configuration element container class. " alt="" coords="211,6,381,47"/>
+</map>

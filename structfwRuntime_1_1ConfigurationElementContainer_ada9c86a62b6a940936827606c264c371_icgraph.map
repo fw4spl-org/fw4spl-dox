@@ -1,0 +1,6 @@
+<map id="fwRuntime::ConfigurationElementContainer::getElements" name="fwRuntime::ConfigurationElementContainer::getElements">
+<area shape="rect" id="node2" href="$classgui_1_1action_1_1SSlotCaller.html#afc5ab013ca87a65ec8b22d27bf1cc453" title="This method is used to configure the service parameters: specifies which slots must be called..." alt="" coords="277,5,433,46"/>
+<area shape="rect" id="node3" href="$classuiPreferences_1_1action_1_1SPreferencesConfiguration.html#a09a0072614dedb60b549108768d6b127" title="Configures the service. " alt="" coords="261,69,448,125"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1helper_1_1Config.html#a69b941e2a568b8072896c3070ce3a5d9" title="Parses &quot;&lt;proxy&gt;&quot; tags from given configuration to connect signals and slots using proxies..." alt="" coords="281,149,428,190"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1IManagerSrv.html#a2781e12bad21503672958e3e4c59f0c6" title="Manages all proxies connections define in config associated to object Call manageProxy() ..." alt="" coords="496,149,672,190"/>
+</map>

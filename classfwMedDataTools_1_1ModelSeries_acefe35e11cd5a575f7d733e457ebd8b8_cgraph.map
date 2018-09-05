@@ -1,0 +1,4 @@
+<map id="fwMedDataTools::ModelSeries::addMesh" name="fwMedDataTools::ModelSeries::addMesh">
+<area shape="rect" id="node2" href="$classfwMedDataTools_1_1ModelSeries.html#af2466333fee0eaa81d7c6f8313b31304" title="Add a mesh into a model series. A reconstruction for this mesh will be created. " alt="" coords="263,5,465,46"/>
+<area shape="rect" id="node3" href="$classfwMedDataTools_1_1ModelSeries.html#a7a386a69655fca8d9194766b0e1e3fca" title="Create a reconstruction from a mesh. " alt="" coords="256,70,472,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="visuVTKAdaptor::SSnapshot::stopping" name="visuVTKAdaptor::SSnapshot::stopping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="243,5,405,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a51fb349f84779cf5deff57f7714304a9" title="Register an output object at a given key in the OSR, replacing it if it already exists. " alt="" coords="253,70,395,111"/>
+<area shape="rect" id="node4" href="$namespacefwServices_1_1OSR.html#a317c6679a1d04dd53de7a910e0319009" title="Return true if a key is registered for a given service. " alt="" coords="453,77,659,104"/>
+</map>

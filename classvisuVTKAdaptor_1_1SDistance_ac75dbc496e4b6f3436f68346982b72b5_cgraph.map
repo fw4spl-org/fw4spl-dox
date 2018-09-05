@@ -1,0 +1,7 @@
+<map id="visuVTKAdaptor::SDistance::stopping" name="visuVTKAdaptor::SDistance::stopping">
+<area shape="rect" id="node2" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="267,5,413,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a5bbe666037150a88a1de17bd59dc4bce" title="Removes all the vtkProp from the renderer. " alt="" coords="241,70,439,111"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="489,5,650,46"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a414e3539b8536e37e0c5cc05e7435e97" title="Unregisters all the vtkProp. " alt="" coords="489,70,650,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="488,135,651,177"/>
+</map>

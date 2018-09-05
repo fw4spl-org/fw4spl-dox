@@ -1,0 +1,7 @@
+<map id="fwGdcmIO::helper::StructuredReport::readSubNode" name="fwGdcmIO::helper::StructuredReport::readSubNode">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a57285fa0070c52fb96a0dbe31b44e260" title="Read all sub nodes and add it as children to the parent node. " alt="" coords="251,5,455,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1StructuredReport.html#a657a338a2860638988765197820a3b36" title="Read a Structured Report. " alt="" coords="505,5,701,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1ie_1_1Document.html#ae6da9916273eb44ed3e2373ae9afcd35" title="Read the Structured Report. " alt="" coords="749,5,896,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1reader_1_1iod_1_1ComprehensiveSRIOD.html#a748271e420dd95c9547a223b0e7a3568" title="Read DICOM file. " alt="" coords="944,5,1141,46"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1reader_1_1Series.html#aa27422bf5f7c9a5aa53793d0b1223c04" title="Read DICOM series. " alt="" coords="1190,5,1365,46"/>
+</map>

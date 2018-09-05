@@ -1,0 +1,12 @@
+<map id="fwCom::Signal&lt; R(A...) &gt;" name="fwCom::Signal&lt; R(A...) &gt;">
+<area shape="rect" id="node2" href="$structfwCom_1_1SignalBase.html" title="Signal base class. " alt="" coords="1133,5,1272,32"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="583,28,723,55"/>
+<area shape="rect" id="node7" href="$structfwCom_1_1SlotConnectionBase.html" title="Base class for Slot connection implementation. This class is for internal use purpose. " alt="" coords="913,47,1103,73"/>
+<area shape="rect" id="node11" href="$structfwCom_1_1SlotBase.html" title="Base class for Slot implementations. " alt="" coords="945,97,1071,124"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="941,188,1075,215"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="947,252,1069,279"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="959,323,1057,349"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="167,147,265,173"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="613,84,693,111"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="153,79,279,121"/>
+</map>

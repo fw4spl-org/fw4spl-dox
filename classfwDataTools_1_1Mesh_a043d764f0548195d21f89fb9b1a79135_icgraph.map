@@ -1,0 +1,11 @@
+<map id="fwDataTools::Mesh::colorizeMeshPoints" name="fwDataTools::Mesh::colorizeMeshPoints">
+<area shape="rect" id="node2" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="205,35,349,77"/>
+<area shape="rect" id="node8" href="$classTuto14MeshGenerator_1_1AlgoMeshDeformation.html#a35a9c6bebd652ae21695e114bffddbe3" title="Initialize the simulated acquisition. " alt="" coords="198,100,357,156"/>
+<area shape="rect" id="node10" href="$classTuto14MeshGenerator_1_1SMeshModifier.html#abc97cb7e49350c44bc5ed4f0a18d5dbf" title="Process the action: modifies the mesh using the selected functor. " alt="" coords="687,138,862,179"/>
+<area shape="rect" id="node3" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="405,35,629,77"/>
+<area shape="rect" id="node4" href="$classfwTest_1_1generator_1_1Object.html#a3bd0ae3313d9d8c4de1dbc9239327d2c" title="Creates a Resection with 2 planes, 1 input Reconstruction and 1 output Reconstruction. " alt="" coords="686,5,863,46"/>
+<area shape="rect" id="node6" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0ee07722d0f1c74347d0966dc85049ac" title="Returns a ModelSeries containing random Reconstructions. " alt="" coords="677,70,872,111"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Object.html#aec8448030a011689b1c3832dd325d401" title="Creates a ResectionDB containing one Resection. " alt="" coords="921,5,1117,46"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0de89a71e6ef0a53ebdfa94e71a1f4a0" title="Creates a SeriesDB. " alt="" coords="929,70,1108,111"/>
+<area shape="rect" id="node9" href="$classTuto14MeshGenerator_1_1AlgoMeshDeformation.html#a6fb31fa301325bb526792370ab4dc17b" title="Compute deformation or init algo if necessary. " alt="" coords="438,100,597,156"/>
+</map>

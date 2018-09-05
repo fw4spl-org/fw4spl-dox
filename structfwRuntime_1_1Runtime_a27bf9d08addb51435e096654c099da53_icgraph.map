@@ -1,0 +1,14 @@
+<map id="fwRuntime::Runtime::findExtensionPoint" name="fwRuntime::Runtime::findExtensionPoint">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#aa5a5a08171483605b6957c25938522b4" title="Registers a new extension point. " alt="" coords="214,66,357,107"/>
+<area shape="rect" id="node7" href="$namespacefwRuntime.html#a4e8c51fcedecc056867d28ffc974f088" title="Retrieves the extension point having the specified identifier. " alt="" coords="199,147,371,189"/>
+<area shape="rect" id="node12" href="$structfwRuntime_1_1Runtime.html#a846630c053b019b485d642b94f41ba63" title="Unregister a new extension point. " alt="" coords="198,213,373,254"/>
+<area shape="rect" id="node13" href="$structfwRuntime_1_1Extension.html#af5d7f4b0e830fc62db9d80c438ff3510" title="Validates the extension. " alt="" coords="210,278,361,319"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#a05bb6b1b92cc6441eb936907ce1de6db" title="Adds a new bundle instance to the runtime system. " alt="" coords="451,34,594,75"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#adfd7ac9087797b44b84746183d00c62a" title="Adds all bundle found in the given path. " alt="" coords="702,34,845,75"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a7cec72a200e8e69975768eae49709d65" title="Adds all bundle found at the default location. " alt="" coords="969,5,1111,46"/>
+<area shape="rect" id="node6" href="$namespacefwRuntime.html#a2b24dde67b11c7bb1de980ae77664887" title="Retrieve a filesystem valid path for a path relative to the specified executable instance. " alt="" coords="923,71,1157,97"/>
+<area shape="rect" id="node8" href="$namespacefwRuntime.html#ac4fd0055e73698aab71fb859aac1d01d" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="421,99,624,141"/>
+<area shape="rect" id="node10" href="$namespacefwRuntime.html#aae3562a1767fcae09be2942404cd3f68" title="Retrieves all extensions for the point having the specified identifier. " alt="" coords="427,165,618,206"/>
+<area shape="rect" id="node11" href="$namespacefwRuntime.html#a5e781482e84f1c0a382d3491d5be7cc6" title="Get information for the point. " alt="" coords="431,231,614,257"/>
+<area shape="rect" id="node9" href="$namespacefwRuntime.html#a414afe8d935fb9850db10e3f185b664f" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="672,99,875,141"/>
+</map>

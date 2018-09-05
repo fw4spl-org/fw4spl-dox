@@ -1,0 +1,7 @@
+<map id="uiTF::TransferFunctionEditor::initTransferFunctions" name="uiTF::TransferFunctionEditor::initTransferFunctions">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1Composite.html#a154193c5093752bec503b38219ef1da3" title="Add an object in the composite. " alt="" coords="276,5,415,46"/>
+<area shape="rect" id="node3" href="$classuiTF_1_1TransferFunctionEditor.html#ab8f6c8ed9d7f6380f7b82744e0329671" title="uiTF::TransferFunctionEditor\l::createTransferFunctionName" alt="" coords="246,70,445,111"/>
+<area shape="rect" id="node4" href="$classuiTF_1_1TransferFunctionEditor.html#af875b788086224c01a85fa3da6c5f4f8" title="Check if the image contain the specified TF. " alt="" coords="497,99,685,141"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Composite.html#a97bee6deceafbd7a45f1907f9c183b2b" title="Send the message of modification. " alt="" coords="276,187,415,229"/>
+<area shape="rect" id="node6" href="$classuiTF_1_1TransferFunctionEditor.html#a8135602aa27bbb5b9bfe23536c1392ef" title="Update the TF preset from the TF pool. " alt="" coords="243,253,448,294"/>
+</map>

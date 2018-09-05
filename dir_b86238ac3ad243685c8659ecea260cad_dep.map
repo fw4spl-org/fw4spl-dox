@@ -1,0 +1,24 @@
+<map id="io" name="io">
+<area shape="rect" id="node2" href="dir_bef0477cff7449497039d7748bcc7c85.html" title="fwAtomsBoostIO" alt="" coords="1067,63,1189,111"/>
+<area shape="rect" id="node12" href="dir_4b27a3ee21cd820803ead0a49ff3b161.html" title="core" alt="" coords="577,159,649,207"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000866_000062.html" title="2" alt="" coords="664,184,672,198"/>
+<area shape="rect" id="node3" href="dir_bd8c6ab1f0427604e8a04dbc2102959f.html" title="fwDcmtkIO" alt="" coords="953,63,1041,111"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000374_000062.html" title="1" alt="" coords="664,182,672,197"/>
+<area shape="rect" id="node4" href="dir_4a1285a9f16c54c618bb8b88115730d1.html" title="fwDcmtkTools" alt="" coords="821,63,928,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000493_000062.html" title="1" alt="" coords="665,174,673,188"/>
+<area shape="rect" id="node5" href="dir_a8960ef1f02343c45c4abb4c47289bef.html" title="fwDicomIOFilter" alt="" coords="680,63,796,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000083_000062.html" title="1" alt="" coords="660,147,668,162"/>
+<area shape="rect" id="node6" href="dir_cad329ddaa9327d494a7b0ad07b374d8.html" title="fwGdcmIO" alt="" coords="571,63,656,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000402_000062.html" title="17" alt="" coords="614,133,629,148"/>
+<area shape="rect" id="node7" href="dir_aa3fc251eddd344df00ac32f5be32082.html" title="fwItkIO" alt="" coords="475,63,547,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000667_000062.html" title="1" alt="" coords="576,133,584,147"/>
+<area shape="rect" id="node8" href="dir_60c9ec432625266499925ff2fdc62ea2.html" title="fwNetworkIO" alt="" coords="352,63,451,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000277_000062.html" title="1" alt="" coords="557,153,565,167"/>
+<area shape="rect" id="node9" href="dir_5d5503e4aa716e0717f58b05e30f49ab.html" title="fwPacsIO" alt="" coords="248,63,327,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000281_000062.html" title="2" alt="" coords="555,164,563,179"/>
+<area shape="rect" id="node10" href="dir_8639e7f33bf0af19f05546f0bff98ace.html" title="fwVtkIO" alt="" coords="152,63,224,111"/>
+<area shape="rect" id="node11" href="dir_fe6623813886e237ef666e431bc8c4f1.html" title="vtkGdcmIO" alt="" coords="38,63,127,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000612_000062.html" title="1" alt="" coords="555,164,563,178"/>
+<area shape="rect" id="clust2" href="dir_b86238ac3ad243685c8659ecea260cad.html" alt="" coords="27,52,1296,121"/>
+<area shape="rect" id="clust1" href="dir_36c79fd5fccc0faf954b7c20b3e2467b.html" title="SrcLib" alt="" coords="16,16,1307,132"/>
+</map>

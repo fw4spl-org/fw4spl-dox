@@ -1,0 +1,4 @@
+<map id="fwMDSemanticPatch::V1::V2::MedicalWorkspacePatcher::transformObject" name="fwMDSemanticPatch::V1::V2::MedicalWorkspacePatcher::transformObject">
+<area shape="rect" id="node2" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1MedicalWorkspacePatcher.html#a91db341a7f16f78caa82b524069f71e4" title="Adds a meta info &quot;compositeType&quot; if the object is a composite with a special type. " alt="" coords="280,4,507,60"/>
+<area shape="rect" id="node3" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="555,11,706,53"/>
+</map>

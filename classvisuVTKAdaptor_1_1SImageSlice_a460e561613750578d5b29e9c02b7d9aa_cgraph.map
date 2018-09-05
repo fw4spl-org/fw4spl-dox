@@ -1,0 +1,8 @@
+<map id="visuVTKAdaptor::SImageSlice::updating" name="visuVTKAdaptor::SImageSlice::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="254,5,421,61"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="257,85,418,126"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a2f7517555c684a7e64eb1aa16df5fffb" title="Set the image orientation. " alt="" coords="259,149,415,205"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="470,19,631,61"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="479,85,622,126"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="470,150,631,191"/>
+</map>

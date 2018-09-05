@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfwCore_1_1Demangler.html" title="typeid, string or object name demangler. " alt="" coords="6,5,141,32"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1TypeDemangler.html" title="Type demangler. Use Demangler class to get a demangled string for the type T. " alt="" coords="190,5,386,32"/>
+</map>

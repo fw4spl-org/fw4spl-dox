@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::ILocationDialog" name="fwGui::dialog::ILocationDialog">
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder selector dialog for IHM. " alt="" coords="5,344,197,371"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1dialog_1_1LocationDialog.html" title="Defines the generic file/folder dialog for IHM. " alt="" coords="222,337,391,378"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="128,171,280,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="134,96,273,123"/>
+</map>

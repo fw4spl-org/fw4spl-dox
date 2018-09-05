@@ -1,0 +1,13 @@
+<map id="fwData::Landmarks::getGroup" name="fwData::Landmarks::getGroup">
+<area shape="rect" id="node2" href="$classfwData_1_1Landmarks.html#a01ced39dca00ba6b15801d1eb44c9b41" title="Add a point to the group. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Landmarks.html#adf1ff70dc85ab858bcc96a30d7b3390d" title="Remove all the group&#39;s points. " alt="" coords="197,70,341,111"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Landmarks.html#ac98a696728b39cd4f7ba39eced3c39ec" title="Return the number of points in the group. " alt="" coords="197,135,341,177"/>
+<area shape="rect" id="node5" href="$classfwData_1_1Landmarks.html#a4d42c7f6a136e16e8e3ac3bdf47d4db1" title="Get the point at the given index. " alt="" coords="197,201,341,242"/>
+<area shape="rect" id="node6" href="$classfwData_1_1Landmarks.html#abe035faeaa866c7f7af6f6a14da93ff1" title="Get all group&#39;s points. " alt="" coords="197,266,341,307"/>
+<area shape="rect" id="node7" href="$classfwData_1_1Landmarks.html#a315d8e08b0c8410f690babe2e2d4bc1d" title="Insert a point to the group at the given index. " alt="" coords="197,331,341,373"/>
+<area shape="rect" id="node8" href="$classfwData_1_1Landmarks.html#afa59664751f7d50fb1d0dc03ff2e183f" title="Remove the point at the given index. " alt="" coords="197,397,341,438"/>
+<area shape="rect" id="node9" href="$classfwData_1_1Landmarks.html#a0a3defebc1b5e0cf705457ea69a2cede" title="Set the group&#39;s color. " alt="" coords="197,462,341,503"/>
+<area shape="rect" id="node10" href="$classfwData_1_1Landmarks.html#a73dee42bf8e4f32199baa2be14422a4d" title="Set the group&#39;s shape (SPHERE or CUBE) " alt="" coords="197,527,341,569"/>
+<area shape="rect" id="node11" href="$classfwData_1_1Landmarks.html#a6025cbf653afe85be0f4ec41b5e3799e" title="Set the group&#39;s landmark size. " alt="" coords="197,593,341,634"/>
+<area shape="rect" id="node12" href="$classfwData_1_1Landmarks.html#ae51c76865d1b6f5889940fcd367fd744" title="Set the group&#39;s visibility. " alt="" coords="197,658,341,699"/>
+</map>

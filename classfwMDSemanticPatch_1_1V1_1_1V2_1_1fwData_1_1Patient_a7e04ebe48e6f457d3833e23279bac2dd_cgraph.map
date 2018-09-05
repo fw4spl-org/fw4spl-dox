@@ -1,0 +1,7 @@
+<map id="fwMDSemanticPatch::V1::V2::fwData::Patient::apply" name="fwMDSemanticPatch::V1::V2::fwData::Patient::apply">
+<area shape="rect" id="node2" href="$classfwTools_1_1UUID.html#a1dc0d3db04daaf5671d0012d9d716cee" title="Return a new extended UUID;. " alt="" coords="216,5,419,32"/>
+<area shape="rect" id="node3" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="242,56,393,83"/>
+<area shape="rect" id="node4" href="$classfwAtomsPatch_1_1helper_1_1Object.html#aa5596a46cf7f0d2f5170f86a8fa6a27a" title="Replaces an attribute. " alt="" coords="234,107,401,149"/>
+<area shape="rect" id="node5" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="467,74,618,115"/>
+<area shape="rect" id="node6" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="467,139,618,181"/>
+</map>

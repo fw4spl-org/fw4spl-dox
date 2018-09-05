@@ -1,0 +1,4 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::installTFSlots" name="fwDataTools::helper::MedicalImageAdaptor::installTFSlots">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aaf785fe1298b3e1ad449ef1450a666c3" title="Slot: called when transfer function points are modified. " alt="" coords="211,5,367,61"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7d9b4baceeffed0e54dca20355413705" title="Slot: called when transfer function windowing is modified. " alt="" coords="211,85,367,141"/>
+</map>

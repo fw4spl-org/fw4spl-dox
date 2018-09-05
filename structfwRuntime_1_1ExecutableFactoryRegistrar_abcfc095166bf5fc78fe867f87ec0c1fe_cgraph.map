@@ -1,0 +1,6 @@
+<map id="fwRuntime::ExecutableFactoryRegistrar::ExecutableFactoryRegistrar" name="fwRuntime::ExecutableFactoryRegistrar::ExecutableFactoryRegistrar">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#aa34aae40d9a17530df20e96b80a6dc04" title="Adds a new executable factory instance to the runtime system. " alt="" coords="299,5,459,46"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="307,70,450,111"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Bundle.html#a27763e3e76238efe39cbcfbbc31db287" title="Retrieves the pointer to the bundle that is currently loading its dynamic libraries. " alt="" coords="308,135,449,177"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#ac87984cd98e286a26f71a0212bea158d" title="Retrieves the executable factory for the given identifier. " alt="" coords="507,5,667,46"/>
+</map>

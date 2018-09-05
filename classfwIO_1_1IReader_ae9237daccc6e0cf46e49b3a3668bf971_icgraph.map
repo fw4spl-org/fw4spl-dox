@@ -1,0 +1,11 @@
+<map id="fwIO::IReader::getFile" name="fwIO::IReader::getFile">
+<area shape="rect" id="node2" href="$classioITK_1_1InrImageReaderService.html#a62e14b7e3c6cd34e40b504754ad7beb2" title="Override. " alt="" coords="206,5,405,46"/>
+<area shape="rect" id="node3" href="$classioTuto_1_1ExternalDataReaderService.html#ac3550101d66e01de163925748b9637ed" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="213,70,397,111"/>
+<area shape="rect" id="node4" href="$classioData_1_1TransformationMatrix3DReaderService.html#ae6aeebc67e64891b57a091aa749c7c76" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="206,135,405,177"/>
+<area shape="rect" id="node5" href="$classioData_1_1SAttachmentSeriesReader.html#a20166c9d3e9398d066e91ee87259878c" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="215,201,396,242"/>
+<area shape="rect" id="node6" href="$classioVTK_1_1SImageSeriesReader.html#a4b42eec6b44b74ae7286255333bf01cb" title="Updating method. " alt="" coords="210,266,401,307"/>
+<area shape="rect" id="node7" href="$classioVTK_1_1SMeshReader.html#a9a4981473454592747506098f7098111" title="Updating method. " alt="" coords="231,331,380,373"/>
+<area shape="rect" id="node8" href="$classioData_1_1STrianMeshReader.html#a246185ef50b8966c770d4a7ebd24ea54" title="Updating method. This method is called by update() from base service ( fwServices::IService ) ..." alt="" coords="215,397,395,438"/>
+<area shape="rect" id="node9" href="$classioVTK_1_1SImageReader.html#afcbc09386d2bff33b89cc473cc23b2ff" title="Updating method execute the read process. " alt="" coords="229,462,382,503"/>
+<area shape="rect" id="node10" href="$classioAtoms_1_1SReader.html#a994e648bfb71466f74412518de6b9ca0" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="212,528,399,555"/>
+</map>

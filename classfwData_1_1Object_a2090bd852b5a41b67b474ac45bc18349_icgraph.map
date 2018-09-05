@@ -1,0 +1,50 @@
+<map id="fwData::Object::fieldShallowCopy" name="fwData::Object::fieldShallowCopy">
+<area shape="rect" id="node2" href="$classfwData_1_1Graph.html#af85b750c57865854120bc24149e04f7c" title="Get the connection container. " alt="" coords="283,5,490,32"/>
+<area shape="rect" id="node3" href="$classfwMedData_1_1Study.html#a1fa6c29210291c1360531648cf609c09" title="Defines shallow copy. " alt="" coords="279,56,494,83"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Material.html#ad506d5b3bc5cdb5846a0493145fa4619" title="Defines shallow copy. " alt="" coords="286,107,487,133"/>
+<area shape="rect" id="node5" href="$classfwMedData_1_1Equipment.html#a966eebc8291e26890a8693f1fbeba600" title="Defines shallow copy. " alt="" coords="307,158,466,199"/>
+<area shape="rect" id="node6" href="$classfwData_1_1Histogram.html#a0f19f873cfa8b0a972eb2380401d9300" title="Defines shallow copy. " alt="" coords="317,223,457,265"/>
+<area shape="rect" id="node7" href="$classfwMedData_1_1Patient.html#a32050914fd3da103827516345bbde8b3" title="Defines shallow copy. " alt="" coords="317,289,456,330"/>
+<area shape="rect" id="node8" href="$classfwRenderQt_1_1data_1_1Viewport.html#a4b140520e6c982849316f98d8e42692e" title="Defines shallow copy. " alt="" coords="295,354,479,395"/>
+<area shape="rect" id="node9" href="$classfwData_1_1Boolean.html#a6d644c638241034d28ca92f415e1cc5b" title="Defines shallow copy. " alt="" coords="285,420,488,447"/>
+<area shape="rect" id="node10" href="$classfwData_1_1String.html#aa76b440b77ade4bcd10e27a3418df5e2" title="Defines shallow copy. " alt="" coords="292,471,481,497"/>
+<area shape="rect" id="node11" href="$classfwPacsIO_1_1data_1_1PacsConfiguration.html#aafb40d0d30c0fa61f642dd3c992a50ab" title="Defines shallow copy. " alt="" coords="273,522,501,563"/>
+<area shape="rect" id="node12" href="$classfwData_1_1Edge.html#a20bf52b12d4b306cb0ab417fbc9f9c99" title="do a shallow copy of edge " alt="" coords="294,588,479,615"/>
+<area shape="rect" id="node13" href="$classfwData_1_1Integer.html#a322ef40f620fe2c1f7d067b2c3e63346" title="Defines shallow copy. " alt="" coords="289,639,484,665"/>
+<area shape="rect" id="node14" href="$classfwData_1_1Line.html#a82124431f7a94e1eebea2985da7eda3c" title="Defines shallow copy. " alt="" coords="297,689,476,716"/>
+<area shape="rect" id="node15" href="$classfwData_1_1ResectionDB.html#a1a1829e201c6f419a5c4e8323ebffdce" title="Defines shallow copy. " alt="" coords="311,741,462,782"/>
+<area shape="rect" id="node16" href="$classfwData_1_1location_1_1SingleFile.html#af024ceb714ec2be0b448b4c38d283620" title="Defines shallow copy. " alt="" coords="306,806,467,847"/>
+<area shape="rect" id="node17" href="$classfwData_1_1location_1_1Folder.html#a4896811a56335f7ae6a926e1a3567f35" title="Defines shallow copy. " alt="" coords="306,871,467,913"/>
+<area shape="rect" id="node18" href="$classfwData_1_1TransformationMatrix3D.html#af26a7f7a4209789062fbd564a811db54" title="Defines shallow copy. " alt="" coords="285,937,488,978"/>
+<area shape="rect" id="node22" href="$classfwData_1_1Plane.html#a2377a1103da37d1ece661c4c2a532030" title="Defines shallow copy. " alt="" coords="293,1003,481,1029"/>
+<area shape="rect" id="node23" href="$classfwData_1_1Float.html#a1ceb02e10add0087f6cca36aa6cf422a" title="Defines shallow copy. " alt="" coords="295,1053,479,1080"/>
+<area shape="rect" id="node24" href="$classfwData_1_1PlaneList.html#a393aaf128a93d5ee4982e72dd718da35" title="Defines shallow copy. " alt="" coords="319,1105,454,1146"/>
+<area shape="rect" id="node25" href="$classfwMedData_1_1Series.html#a8177de448aee1268714533dd14e25054" title="Defines shallow copy. " alt="" coords="315,1170,458,1211"/>
+<area shape="rect" id="node32" href="$classfwData_1_1Resection.html#a45082a2f631000024d48a2ecb2d78494" title="Defines shallow copy. " alt="" coords="317,1235,456,1277"/>
+<area shape="rect" id="node33" href="$classfwData_1_1Color.html#a9e4cdbe722e7bfa0d9783282c93f87e4" title="Defines shallow copy. " alt="" coords="293,1301,480,1328"/>
+<area shape="rect" id="node34" href="$classfwData_1_1PointList.html#ac2f0877d6175dbf7026f79c85fd7219b" title="Defines shallow copy. " alt="" coords="321,1353,452,1394"/>
+<area shape="rect" id="node35" href="$classfwData_1_1Point.html#a96d2b2830187a39515f9185cf67d9db3" title="Defines shallow copy. " alt="" coords="294,1419,479,1445"/>
+<area shape="rect" id="node36" href="$classfwData_1_1Reconstruction.html#a1de89680e9b126a78b2d29f814637048" title="Defines shallow copy. " alt="" coords="307,1470,467,1511"/>
+<area shape="rect" id="node37" href="$classfwData_1_1Port.html#abcea4a1e8b2040388fdb899434d7f874" title="Retrieve the input data. " alt="" coords="297,1536,476,1563"/>
+<area shape="rect" id="node38" href="$classfwData_1_1StructureTraitsDictionary.html#accc2b36f915cdd2baa083cbf53371a74" title="Defines shallow copy. " alt="" coords="278,1587,495,1629"/>
+<area shape="rect" id="node39" href="$classfwData_1_1Tag.html#a99b94a967f923d16bf37c323e2987195" title="Defines shallow copy. " alt="" coords="298,1653,475,1680"/>
+<area shape="rect" id="node40" href="$classfwData_1_1Landmarks.html#a4813f87d94523637b49beda283750aa7" title="Defines shallow copy. " alt="" coords="315,1705,459,1746"/>
+<area shape="rect" id="node41" href="$classfwData_1_1Node.html#a7f904af2fa7661aac201ce4dfa1bf534" title="Defines shallow copy. " alt="" coords="293,1771,480,1797"/>
+<area shape="rect" id="node42" href="$classfwData_1_1Image.html#a70457c2e04186b3ef3d3aeaaf966f696" title="Defines shallow copy. " alt="" coords="291,1821,482,1848"/>
+<area shape="rect" id="node43" href="$classfwMedData_1_1SeriesDB.html#a1f0d218150466f83a587db8f95fc102e" title="Defines shallow copy. " alt="" coords="310,1873,463,1914"/>
+<area shape="rect" id="node44" href="$classfwData_1_1List.html#a3ce8d4b2b6565cb8adc111c725a63a9a" title="Defines shallow copy. " alt="" coords="299,1939,475,1965"/>
+<area shape="rect" id="node45" href="$classfwData_1_1Composite.html#a87a307dc43ee3d9fe358ad88448a93cd" title="Defines shallow copy. " alt="" coords="315,1990,458,2031"/>
+<area shape="rect" id="node46" href="$classfwData_1_1Vector.html#af1c8d72cb65cec877f12d21e621f91ee" title="Defines shallow copy. " alt="" coords="290,2056,483,2083"/>
+<area shape="rect" id="node47" href="$classfwData_1_1TransferFunction.html#ab7cddbcd0df6dca5845e8c81026d71d3" title="Shallow copy method. " alt="" coords="301,2107,472,2149"/>
+<area shape="rect" id="node48" href="$classfwData_1_1ProcessObject.html#a9d1d6bea655be5fa4dcecc6ffc8d4bf4" title="Defines shallow copy. " alt="" coords="307,2173,466,2214"/>
+<area shape="rect" id="node49" href="$classfwData_1_1Mesh.html#a33d8ddf3f07abd869c32dbbde700bc00" title="Defines shallow copy. " alt="" coords="293,2239,480,2265"/>
+<area shape="rect" id="node19" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="567,929,729,985"/>
+<area shape="rect" id="node20" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#ad5ae3fca60d26cabff8a1b500d0f27e7" title="Initialize the service activity. " alt="" coords="795,889,957,945"/>
+<area shape="rect" id="node21" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a54cda0a3d159d619cff705761e798b6c" title="Swap the service from associated object to another object. " alt="" coords="795,969,957,1025"/>
+<area shape="rect" id="node26" href="$classfwMedData_1_1ActivitySeries.html#a57ae43821492db0ce679dc5502dee77a" title="Defines shallow copy. " alt="" coords="559,1025,737,1066"/>
+<area shape="rect" id="node27" href="$classfwMedData_1_1DicomSeries.html#aa2ef88807698cbc57d64241325d1b15b" title="Defines shallow copy. " alt="" coords="562,1090,734,1131"/>
+<area shape="rect" id="node28" href="$classfwMedData_1_1ImageSeries.html#ac2582f6cafcc560e6ed8a847238c2ba4" title="Defines shallow copy. " alt="" coords="563,1155,733,1197"/>
+<area shape="rect" id="node29" href="$classuiMedDataQt_1_1InsertSeries.html#a02caa495b173f78199de774fecd2079a" title="Defines shallow copy. " alt="" coords="559,1221,737,1262"/>
+<area shape="rect" id="node30" href="$classfwMedData_1_1ModelSeries.html#ac804e4a6a3ca59a3e4437a94a21f4078" title="Defines shallow copy. " alt="" coords="563,1286,733,1327"/>
+<area shape="rect" id="node31" href="$classfwMedData_1_1NavigationSeries.html#a6c1b1bea708c07f182ed7747ef175b49" title="Defines shallow copy. " alt="" coords="550,1351,746,1393"/>
+</map>

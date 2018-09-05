@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::DicomSeries::createSeries" name="fwGdcmIO::helper::DicomSeries::createSeries">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a732dc7a505d851d023a58b3a87482cd7" title="Create DicomSeries from list of files. Every instance is read in order to retrieve instance informati..." alt="" coords="264,5,475,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a83626af6e5f6ad535b6a4220990bbac4" title="Read DicomSeries from paths. " alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#aabe80c25aa9cbd0220173573c7d24634" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="782,5,957,46"/>
+</map>

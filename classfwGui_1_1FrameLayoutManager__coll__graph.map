@@ -1,0 +1,5 @@
+<map id="fwGui::FrameLayoutManager" name="fwGui::FrameLayoutManager">
+<area shape="rect" id="node3" href="$classfwGui_1_1layoutManager_1_1IFrameLayoutManager.html" title="Defines an interface for managing a frame. " alt="" coords="116,355,275,397"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="35,176,187,203"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="41,99,180,125"/>
+</map>

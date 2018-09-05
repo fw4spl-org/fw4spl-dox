@@ -1,0 +1,11 @@
+<map id="visuVTKAdaptor::SPointList::updating" name="visuVTKAdaptor::SPointList::updating">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="253,70,414,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="252,135,415,177"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1SPointList.html#ad6f9219694ebd9a5963c3d9c33cecb7d" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="241,201,426,242"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="482,135,643,177"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="491,5,634,46"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="482,70,643,111"/>
+<area shape="rect" id="node8" href="$classfwRenderVTK_1_1IAdaptor.html#a27fd889b800232cbc05ac782f32e393a" title="Gets the identifier of the picker used by this adaptor. " alt="" coords="482,201,643,242"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#ab88a04a11f130a8226450e4a3c7cbaf9" title="Returns the renderer identifier. " alt="" coords="482,266,643,307"/>
+<area shape="rect" id="node10" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="475,331,650,373"/>
+</map>

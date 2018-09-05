@@ -1,0 +1,10 @@
+<map id="fwMDSemanticPatch::V1::V2::MedicalWorkspacePatcher" name="fwMDSemanticPatch::V1::V2::MedicalWorkspacePatcher">
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html" title="Default patcher. " alt="" coords="1110,150,1269,191"/>
+<area shape="rect" id="node3" href="$classfwAtomsPatch_1_1patcher_1_1IPatcher.html" title="Base class of all patchers. " alt="" coords="798,62,957,103"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="484,64,599,91"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,12,373,39"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="251,113,355,140"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="480,279,603,305"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="501,165,581,192"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="239,165,366,206"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fwMedDataTools::helper::SeriesDB::merge" name="fwMedDataTools::helper::SeriesDB::merge">
+<area shape="rect" id="node2" href="$classioPacs_1_1SSeriesPuller.html#ad6e611feb6c988b57f51098ecef017ac" title="Read local series. " alt="" coords="252,5,401,46"/>
+<area shape="rect" id="node4" href="$classioGdcm_1_1SDicomSeriesConverter.html#a1241811179c18dc02f9b5ff69328d780" title="Override. " alt="" coords="219,70,435,111"/>
+<area shape="rect" id="node5" href="$classioITK_1_1SInrSeriesDBReader.html#ac6fbb30c0116b633a344bcbda4adaa9b" title="Reads inr files specified by user (configure or configureWithIHM) and pushes them into SeriesDB..." alt="" coords="235,135,418,177"/>
+<area shape="rect" id="node6" href="$classioDicomWeb_1_1SSeriesPuller.html#a5035d258c7c2aa89248d943869166cbf" title="Checks the configuration and pull the series. " alt="" coords="235,201,419,242"/>
+<area shape="rect" id="node7" href="$classuiIO_1_1action_1_1SSeriesDBMerger.html#aad5c0b95c59d2e34d032b8941a8ef475" title="Show the SeriesDB reader selector, load the new SeriesDB and merge it the the current SeriesDB..." alt="" coords="225,266,428,307"/>
+<area shape="rect" id="node3" href="$classioPacs_1_1SSeriesPuller.html#ac27b557ea0465e33b52e3d257d08dc6c" title="Constructor. " alt="" coords="483,5,632,46"/>
+</map>

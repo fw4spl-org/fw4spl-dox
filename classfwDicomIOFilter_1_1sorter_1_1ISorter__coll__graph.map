@@ -1,0 +1,6 @@
+<map id="fwDicomIOFilter::sorter::ISorter" name="fwDicomIOFilter::sorter::ISorter">
+<area shape="rect" id="node2" href="$classfwDicomIOFilter_1_1IFilter.html" title="Base class for Dicom instance filter. " alt="" coords="154,245,312,272"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="176,171,291,197"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="305,96,409,123"/>
+</map>

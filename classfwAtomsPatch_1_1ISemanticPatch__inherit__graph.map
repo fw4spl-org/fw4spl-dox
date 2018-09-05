@@ -1,0 +1,11 @@
+<map id="fwAtomsPatch::ISemanticPatch" name="fwAtomsPatch::ISemanticPatch">
+<area shape="rect" id="node5" href="$classfwMDSemanticPatch_1_1V09ALA_1_1V10_1_1fwData_1_1Image.html" title="Patch the &#39;landmarks&#39; field of an image from version &#39;V9ALA&#39; to &#39;V10&#39; within &#39;MedicalData&#39; context..." alt="" coords="899,5,1053,61"/>
+<area shape="rect" id="node6" href="$classfwMDSemanticPatch_1_1V10_1_1V09ALA_1_1fwData_1_1Image.html" title="Patch the &#39;landmarks&#39; field of an image from version &#39;V10&#39; to &#39;V09ALA&#39; within &#39;MedicalData&#39; context..." alt="" coords="899,85,1053,141"/>
+<area shape="rect" id="node7" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Acquisition.html" title="Patch an acquisition from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="884,165,1068,206"/>
+<area shape="rect" id="node8" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Composite.html" title="Patch the composite describing a &#39;Medical workspace&#39; from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; c..." alt="" coords="885,230,1067,271"/>
+<area shape="rect" id="node9" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Patient.html" title="Patch a patient from version &#39;V1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="895,295,1057,337"/>
+<area shape="rect" id="node10" href="$classfwMDSemanticPatch_1_1V1_1_1V2_1_1fwData_1_1Study.html" title="Patch a study from version V&#39;1&#39; to &#39;V2&#39; within &#39;MedicalData&#39; context. " alt="" coords="899,361,1053,402"/>
+<area shape="rect" id="node11" href="$classfwMDSemanticPatch_1_1V2_1_1V03AGO_1_1fwData_1_1Image.html" title="Patch an image from version &#39;V2&#39; to &#39;V03AGO&#39; within &#39;MedicalData&#39; context. " alt="" coords="880,426,1072,467"/>
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1IPatch.html" title="Base class of all patches. " alt="" coords="419,237,573,264"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,237,370,264"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="scene2D::adaptor::STransferFunction::configuring" name="scene2D::adaptor::STransferFunction::configuring">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#abf7a27283ed8b08c6a54221c52ad4b84" title="Parse the xml configuration for Axis, z value and opacity. " alt="" coords="253,61,403,102"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="465,5,607,46"/>
+<area shape="rect" id="node5" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="661,199,811,241"/>
+<area shape="rect" id="node10" href="$classfwRenderQt_1_1IAdaptor.html#abe055b9b42bfda51d60c0ad15da1557d" title="Return the ratio between viewport&#39;s initial size and its current size. " alt="" coords="250,178,406,219"/>
+<area shape="rect" id="node12" href="$classfwRenderQt_1_1IAdaptor.html#a16726e36cb8f38f0ae09f383cf09222b" title="Initialize the source values used for computing viewport&#39;s size ratio. " alt="" coords="459,294,613,335"/>
+<area shape="rect" id="node13" href="$classfwRenderQt_1_1IAdaptor.html#a2d931ce6543f5948fe585d59c651a019" title="Initialize the source values used for computing view&#39;s size ratio. " alt="" coords="461,359,611,401"/>
+<area shape="rect" id="node14" href="$classfwRenderQt_1_1IAdaptor.html#aafb0b1479c046c3bedf55291c2226019" title="fwRenderQt::IAdaptor\l::mapAdaptorToScene" alt="" coords="252,346,404,387"/>
+<area shape="rect" id="node15" href="$classfwRenderQt_1_1data_1_1InitQtPen.html#a74cb0245a793100b5c2492129b19646c" title="Set a pen a color. " alt="" coords="245,411,411,453"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="665,5,807,46"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="871,181,1015,208"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="859,232,1027,259"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="1103,156,1243,183"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="1075,207,1271,233"/>
+<area shape="rect" id="node11" href="$classfwRenderQt_1_1IAdaptor.html#a489e1d1df4aa733f5db3380f85809ebb" title="Return the ratio between view&#39;s initial size and its current size. " alt="" coords="461,229,611,270"/>
+</map>

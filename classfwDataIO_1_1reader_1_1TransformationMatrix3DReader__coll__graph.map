@@ -1,0 +1,8 @@
+<map id="fwDataIO::reader::TransformationMatrix3DReader" name="fwDataIO::reader::TransformationMatrix3DReader">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="fwDataIO::reader::Generic\lObjectReader\&lt; ::fwData\l::TransformationMatrix3D \&gt;" alt="" coords="1058,29,1241,85"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1reader_1_1IObjectReader.html" title="Base class for all object readers. " alt="" coords="425,5,597,46"/>
+<area shape="rect" id="node6" href="$classfwDataIO_1_1reader_1_1GenericObjectReader.html" title="generic class for all object readers. " alt="" coords="648,41,845,82"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,12,373,39"/>
+<area shape="rect" id="node7" href="$structfwData_1_1location_1_1enableSingleFile.html" title="fwData::location::enable\lSingleFile\&lt; IObjectReader \&gt;" alt="" coords="1056,109,1243,150"/>
+<area shape="rect" id="node8" href="$structfwData_1_1location_1_1enableSingleFile.html" title="This class is derived by reader/writer. " alt="" coords="665,109,828,150"/>
+</map>

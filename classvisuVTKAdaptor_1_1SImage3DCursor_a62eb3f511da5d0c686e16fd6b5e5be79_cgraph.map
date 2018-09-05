@@ -1,0 +1,12 @@
+<map id="visuVTKAdaptor::SImage3DCursor::swapping" name="visuVTKAdaptor::SImage3DCursor::swapping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="281,70,442,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="280,135,443,177"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aadd37731ecdc88581c498ab54a1fd727" title="Convert from world coordinates system to image coordinates system. " alt="" coords="283,200,439,256"/>
+<area shape="rect" id="node11" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="283,280,439,336"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="491,5,653,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="501,70,643,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="491,135,653,177"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a1afbc74845a81ad7a6ac212e6dddbc1f" title="Get the image origin. " alt="" coords="494,200,650,256"/>
+<area shape="rect" id="node10" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7e86c6ebadbb341c12b45dce752e4826" title="Get the image spacing. " alt="" coords="494,280,650,336"/>
+<area shape="rect" id="node9" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa37e3405cfdf002a1e6967b5d3daf05f" title="Return the image. " alt="" coords="702,240,858,296"/>
+</map>

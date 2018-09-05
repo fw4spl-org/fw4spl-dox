@@ -1,0 +1,7 @@
+<map id="fwDicomIOFilter::helper::Filter::applyFilter" name="fwDicomIOFilter::helper::Filter::applyFilter">
+<area shape="rect" id="node2" href="$classioDicom_1_1SFilterSelectionEditor.html#a7f633b26bed8810d4b82b82e8c1ae908" title="Create and add a filter in a specific position. " alt="" coords="236,5,407,46"/>
+<area shape="rect" id="node3" href="$classfwDicomIOFilter_1_1splitter_1_1ImageDimensionsSplitter.html#a398dfec54de8d6a0df7ce43afec31269" title="Override. " alt="" coords="214,70,429,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a73c65ee066d612cd20e7bbbddee7bf85" title="Reads DICOM data from configured path and fills SeriesDB object. " alt="" coords="234,135,409,177"/>
+<area shape="rect" id="node5" href="$classfwDcmtkIO_1_1SeriesDBReader.html#a9817ed6e5a2e897ac89eb328d0c0874f" title="Reads DICOM data from configured path and fills SeriesDB object. " alt="" coords="224,201,419,242"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a5cc6d722906a02534a4365dc658de744" title="Reads DICOM data from DicomSeries and fills SeriesDB object. " alt="" coords="222,266,421,307"/>
+</map>

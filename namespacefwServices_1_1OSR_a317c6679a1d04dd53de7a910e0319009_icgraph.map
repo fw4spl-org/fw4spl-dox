@@ -1,0 +1,36 @@
+<map id="fwServices::OSR::isRegistered" name="fwServices::OSR::isRegistered">
+<area shape="rect" id="node2" href="$classfwServices_1_1AppConfigManager.html#af59d511268a4242b650f890bf5ff04bd" title="Get config root. " alt="" coords="261,631,467,673"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a51fb349f84779cf5deff57f7714304a9" title="Register an output object at a given key in the OSR, replacing it if it already exists. " alt="" coords="293,697,435,738"/>
+<area shape="rect" id="node25" href="$classgui_1_1action_1_1SPushObject.html#a7037a2f226bac07102de92ed1278b09e" title="Extract the object. " alt="" coords="542,1337,709,1378"/>
+<area shape="rect" id="node32" href="$classvisuVTKAdaptor_1_1SNegatoOneSlice.html#a268db63901399c43e2cd7fc9f91692af" title="Select the current tf. " alt="" coords="264,814,464,855"/>
+<area shape="rect" id="node33" href="$classvisuVTKAdaptor_1_1SImagesBlend.html#af0e3fdad47a5c1d10c9a35becdaa8fa4" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="259,879,469,921"/>
+<area shape="rect" id="node34" href="$classvisuVTKAdaptor_1_1SNegatoMPR.html#aee26feba974dc91c4c2ecae141f641ba" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="261,945,467,986"/>
+<area shape="rect" id="node35" href="$namespacefwServices_1_1OSR.html#ab241baf939623dcad70e3e2d9b13e84c" title="Remove the service (service) from the m_container. " alt="" coords="269,1010,459,1051"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ab281575b2c08ceec265acafe6892cff4" title="Registers the given object in the OSR. " alt="" coords="553,5,698,46"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#af95e3f4c5ba7cd447b5cefa5dbe7fe40" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="531,70,719,111"/>
+<area shape="rect" id="node6" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a797bc2567cb2db3bd0b3f1b04df9f9bc" title="Read the selected image. " alt="" coords="532,135,719,177"/>
+<area shape="rect" id="node8" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a5e895f9ec74048319f9d38d73652d13d" title="Read the selected image. " alt="" coords="536,201,715,242"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac86b8b1c058097f39af3a8c11a165cae" title="Adds the object from the composite with the key given by config. " alt="" coords="544,266,707,307"/>
+<area shape="rect" id="node14" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#a5b4777d924227812d7ebff8b5e347797" title="Unregisters the object in the OSR. " alt="" coords="517,331,733,373"/>
+<area shape="rect" id="node15" href="$classvisuVTKAdaptor_1_1SSnapshot.html#a3b37718946ec969ad17461023a14c1fd" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="531,397,720,438"/>
+<area shape="rect" id="node16" href="$classctrlCamp_1_1SExtractObj.html#a5dfe0e9b3aa28efd561f6c6b782b8675" title="Does nothing. " alt="" coords="548,462,703,503"/>
+<area shape="rect" id="node17" href="$classctrlCamp_1_1SCopy.html#a495737c2df5939494b461b49290c3beb" title="Does nothing. " alt="" coords="535,528,715,555"/>
+<area shape="rect" id="node18" href="$classctrlCamp_1_1SExtractMeshByType.html#aba8bb355021c14019bc28bca1aa54c5d" title="Does nothing. " alt="" coords="534,579,717,621"/>
+<area shape="rect" id="node19" href="$classioAtoms_1_1SReader.html#af98e4790081d14389c87078023a36269" title="Does nothing. " alt="" coords="532,645,719,672"/>
+<area shape="rect" id="node20" href="$classctrlSelection_1_1updater_1_1SObjFromSlot.html#ac2f4a0dfd4e39c489a2cc5027a7bc1aa" title="Swaps the object into the composite with the key given by config. " alt="" coords="550,697,701,738"/>
+<area shape="rect" id="node21" href="$classuiTF_1_1TransferFunctionEditor.html#a28ecadc4c98da6ebd9f68380452798a9" title="Update the output transferFunction with the selected TF in the ComboBox. " alt="" coords="531,762,719,803"/>
+<area shape="rect" id="node23" href="$classopVTKMesh_1_1SVTKMesher.html#a2a3bca664580c8a4acc0be62a59507db" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="535,827,715,869"/>
+<area shape="rect" id="node24" href="$classopImageFilter_1_1SThreshold.html#af42ca2f2b5507e597a0ab05252711f0c" title="Apply the threshold. " alt="" coords="538,893,713,934"/>
+<area shape="rect" id="node26" href="$classgui_1_1action_1_1SPushField.html#a73fae2310d156e9ed605341046ab8173" title="Extract the object. " alt="" coords="547,958,704,999"/>
+<area shape="rect" id="node27" href="$classctrlCamp_1_1SExtractObj.html#a4cebfddfd7f3d2978a358af6bb00c511" title="Extract the object(s) " alt="" coords="548,1023,703,1065"/>
+<area shape="rect" id="node28" href="$classctrlCamp_1_1SExtractMeshByType.html#a4f9bcebd5f7dc322c0469be54c953c88" title="Does nothing. " alt="" coords="534,1089,717,1130"/>
+<area shape="rect" id="node29" href="$classioDicomWeb_1_1SSliceIndexDicomPullerEditor.html#a1cdbb81edd8fbaae757de1f517a7e050" title="Does nothing. " alt="" coords="519,1154,732,1195"/>
+<area shape="rect" id="node30" href="$classuiIO_1_1editor_1_1SIOSelector.html#aac4d661248b968e8d8d6304e36733839" title="Create a dialogue box to provide the user different available readers (writer) for the IOSelector ass..." alt="" coords="543,1219,708,1261"/>
+<area shape="rect" id="node31" href="$classioAtoms_1_1SReader.html#a994e648bfb71466f74412518de6b9ca0" title="Tests file extension, applies the good atom reader, and converts atom in fwData::Composite. " alt="" coords="532,1285,719,1312"/>
+<area shape="rect" id="node7" href="$classioDicom_1_1SSliceIndexDicomEditor.html#a13688f96f0279893bdfed0694b3f9133" title="Constructor. " alt="" coords="782,97,989,138"/>
+<area shape="rect" id="node9" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a77916f1066b5301265a46f75498319b2" title="Constructor. " alt="" coords="783,161,988,217"/>
+<area shape="rect" id="node10" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#a90f429052001bd0eaf1ba52d22a05b2d" title="Function called when a new slice must be displayed. " alt="" coords="1037,263,1227,305"/>
+<area shape="rect" id="node12" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#ae2a730173f17518ff7ea72eb9cbff5bb" title="Pull the selected slice from the pacs. " alt="" coords="796,293,975,334"/>
+<area shape="rect" id="node11" href="$classioPacs_1_1SSliceIndexDicomPullerEditor.html#aa18f2044085e94fb47d57f1aaf263c1d" title="Override. " alt="" coords="1275,263,1453,305"/>
+<area shape="rect" id="node22" href="$classuiTF_1_1TransferFunctionEditor.html#a22d4128b789c539041b4cd46601e9542" title="Selects the current transfer function. " alt="" coords="791,762,979,803"/>
+</map>

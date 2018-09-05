@@ -1,0 +1,6 @@
+<map id="fwGui::ActionCallbackBase" name="fwGui::ActionCallbackBase">
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1ActionCallback.html" title="Defines the menu item callback. " alt="" coords="13,395,179,421"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1IMenuItemCallback.html" title="Defines the menu item callback. " alt="" coords="7,245,184,272"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="20,171,172,197"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="26,96,165,123"/>
+</map>

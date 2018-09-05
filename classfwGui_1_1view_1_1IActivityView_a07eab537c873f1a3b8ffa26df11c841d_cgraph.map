@@ -1,0 +1,10 @@
+<map id="fwGui::view::IActivityView::validateActivity" name="fwGui::view::IActivityView::validateActivity">
+<area shape="rect" id="node2" href="$classfwActivities_1_1registry_1_1Activities.html#a96b15391d34df7160015ac8654486fad" title="Return the default global instance of Activities. " alt="" coords="252,5,404,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#af98da4a410587cde1b329546daa4bbff" title="Write information in a stream. " alt="" coords="257,70,399,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="230,135,426,177"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="475,102,671,143"/>
+<area shape="rect" id="node6" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="475,167,671,209"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="720,131,920,173"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="728,196,912,252"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="968,203,1152,245"/>
+</map>

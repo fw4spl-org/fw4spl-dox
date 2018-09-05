@@ -1,0 +1,3 @@
+<map id="gui::action::SQuit::starting" name="gui::action::SQuit::starting">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html#a20b100e05fdb519b1619466924a2ee48" title="Method called when the action service is starting. " alt="" coords="176,5,323,46"/>
+</map>

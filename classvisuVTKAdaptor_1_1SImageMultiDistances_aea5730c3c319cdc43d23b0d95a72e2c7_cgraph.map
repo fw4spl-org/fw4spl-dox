@@ -1,0 +1,5 @@
+<map id="visuVTKAdaptor::SImageMultiDistances::updating" name="visuVTKAdaptor::SImageMultiDistances::updating">
+<area shape="rect" id="node2" href="$classfwData_1_1Vector.html#a8985b2750c2031bd011be4f60d97fe12" title="get/set the vector of fwData::Object " alt="" coords="253,5,445,32"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Object.html#aae27dde59033498f834b888b0f19488d" title="Returns a pointer of corresponding field (null if non exist). " alt="" coords="267,56,431,83"/>
+<area shape="rect" id="node4" href="$classfwData_1_1GenericField.html#a7ca06b2ebf80da331c86e564fc89fbb7" title="Get the value (mutable version). " alt="" coords="277,107,422,149"/>
+</map>

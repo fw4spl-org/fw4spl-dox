@@ -1,0 +1,11 @@
+<map id="fwDataTools::helper::Field::addOrSwap" name="fwDataTools::helper::Field::addOrSwap">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a81203ccd7908594a55b61b9e58bb6d5c" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="192,5,349,46"/>
+<area shape="rect" id="node4" href="$classuiMedDataQt_1_1editor_1_1SModelSeriesList.html#a5091a0238a911ff0c20c90bbccb1f126" title="Slot called when new current item is setted in m_organChoice. " alt="" coords="192,69,349,125"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1Field.html#afe360ae4b1f88d846b7ea891999620cb" title="Register field with specified name. If the name does already exist, the matching field will be replac..." alt="" coords="201,149,340,190"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="436,5,593,46"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Image.html#a87ee6c2f50b84749ba59a2958bd48dfe" title="Create transfer function pool if the pool is not present, NOT GENERATE MESSAGE. " alt="" coords="397,83,632,125"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1SAddField.html#a2ad208dcf0e153479c5b15877833b5bd" title="Add the source object as fields of the target object. " alt="" coords="433,149,596,190"/>
+<area shape="rect" id="node8" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="434,213,595,269"/>
+<area shape="rect" id="node9" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#ad5ae3fca60d26cabff8a1b500d0f27e7" title="Initialize the service activity. " alt="" coords="681,173,842,229"/>
+<area shape="rect" id="node10" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a54cda0a3d159d619cff705761e798b6c" title="Swap the service from associated object to another object. " alt="" coords="681,253,842,309"/>
+</map>

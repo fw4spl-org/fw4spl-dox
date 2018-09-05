@@ -1,0 +1,9 @@
+<map id="visuVTKAdaptor::SNegatoMPR::stopping" name="visuVTKAdaptor::SNegatoMPR::stopping">
+<area shape="rect" id="node2" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="280,5,419,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IHasServices.html#a86ee4c6e6d49df91975c4fe2d948210b" title="Get all subservices linked to this service. " alt="" coords="262,70,437,111"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="269,135,430,177"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="262,201,437,242"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="486,70,647,111"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="495,135,638,177"/>
+<area shape="rect" id="node7" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="486,201,647,242"/>
+</map>

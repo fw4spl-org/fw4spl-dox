@@ -1,0 +1,9 @@
+<map id="fwGdcmIO::writer::ie::Surface::writeSurfaceSequence" name="fwGdcmIO::writer::ie::Surface::writeSurfaceSequence">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomDataTools.html#a0b027b8b8f0ebe37bf58cdd38a5fb3be" title="Convert a surface representation mode (FW4SPL) into recommended presentation type (DICOM)..." alt="" coords="279,5,502,46"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#a0b9d5d0c91105383ab6f1968e469e9e2" title="Return cell buffer. " alt="" coords="292,70,489,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#a7754890f49e3f1747a825c7aac97bdd1" title="Return cell buffer size. " alt="" coords="279,135,502,177"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#a81628448031e9f66c14e0d89298b3c66" title="Return normal buffer. " alt="" coords="283,201,499,242"/>
+<area shape="rect" id="node6" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#a9ea0d6e60b4d81b6fec4deaed86a71cb" title="Return normal buffer size. " alt="" coords="269,266,512,307"/>
+<area shape="rect" id="node7" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#a027a36040d65dc0049488ffbe0b22e0e" title="Return point coordinates buffer. " alt="" coords="289,331,493,373"/>
+<area shape="rect" id="node8" href="$classfwGdcmIO_1_1container_1_1DicomSurface.html#af581a0b0a9ff0c114ef7800bd536cbaa" title="Return point coordinates buffer size. " alt="" coords="275,397,506,438"/>
+</map>

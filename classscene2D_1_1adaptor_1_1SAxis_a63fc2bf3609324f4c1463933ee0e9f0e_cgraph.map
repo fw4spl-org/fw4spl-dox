@@ -1,0 +1,12 @@
+<map id="scene2D::adaptor::SAxis::updating" name="scene2D::adaptor::SAxis::updating">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="629,62,779,103"/>
+<area shape="rect" id="node7" href="$classfwRenderQt_1_1IAdaptor.html#abe055b9b42bfda51d60c0ad15da1557d" title="Return the ratio between viewport&#39;s initial size and its current size. " alt="" coords="222,62,378,103"/>
+<area shape="rect" id="node9" href="$classfwRenderQt_1_1IAdaptor.html#a16726e36cb8f38f0ae09f383cf09222b" title="Initialize the source values used for computing viewport&#39;s size ratio. " alt="" coords="427,127,581,169"/>
+<area shape="rect" id="node10" href="$classfwRenderQt_1_1IAdaptor.html#a2d931ce6543f5948fe585d59c651a019" title="Initialize the source values used for computing view&#39;s size ratio. " alt="" coords="429,193,579,234"/>
+<area shape="rect" id="node11" href="$classfwRenderQt_1_1IAdaptor.html#aafb0b1479c046c3bedf55291c2226019" title="fwRenderQt::IAdaptor\l::mapAdaptorToScene" alt="" coords="224,233,376,274"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="839,44,983,71"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="827,95,995,121"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="1071,19,1211,45"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="1043,69,1239,96"/>
+<area shape="rect" id="node8" href="$classfwRenderQt_1_1IAdaptor.html#a489e1d1df4aa733f5db3380f85809ebb" title="Return the ratio between view&#39;s initial size and its current size. " alt="" coords="429,62,579,103"/>
+</map>

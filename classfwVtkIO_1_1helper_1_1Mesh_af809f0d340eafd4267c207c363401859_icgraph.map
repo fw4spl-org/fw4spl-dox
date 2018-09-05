@@ -1,0 +1,15 @@
+<map id="fwVtkIO::helper::Mesh::updatePolyDataCellNormals" name="fwVtkIO::helper::Mesh::updatePolyDataCellNormals">
+<area shape="rect" id="node2" href="$classfwVtkIO_1_1helper_1_1Mesh.html#aa8f409baff52f2a52ec44ed91c21d54e" title="Convert a ::fwData::Mesh::csptr to a vtkPolyData. " alt="" coords="279,298,433,339"/>
+<area shape="rect" id="node10" href="$classvtkSimpleMesh_1_1SRenderer.html#a1cdf4eaf2b2991fc9ea72282cd77840b" title="Updating method. " alt="" coords="551,527,734,569"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1SMeshNormals.html#a53213a9cec0c9e48d9738282aaa611aa" title="Slot: used to update cell normals. " alt="" coords="249,517,463,558"/>
+<area shape="rect" id="node14" href="$classvisuVTKAdaptor_1_1SMesh.html#a8a74e6868290acef99b06325a83eef64" title="Slot: used to update cell normals. " alt="" coords="273,582,439,623"/>
+<area shape="rect" id="node3" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a218b2e84b2b5d0b848eeb27664802430" title="Compute the volume of the mesh using MassProperties vtk class. " alt="" coords="566,5,719,46"/>
+<area shape="rect" id="node4" href="$classvtkSimpleMesh_1_1SRenderer.html#adcc2173edd3798b5a768f4054be9c605" title="This method is used to notify that the VTK camera position is updated. " alt="" coords="549,70,736,111"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SMeshesBoxWidget.html#a9fa568865aeee70d139fc9299928519c" title="Updates map from composite meshes. " alt="" coords="513,135,773,177"/>
+<area shape="rect" id="node6" href="$classvisuVTKAdaptor_1_1SMesh.html#afa30a4116249cb3436ccef9a90917005" title="Creates normals adaptor if material has NORMALS, else remove normals adaptor. " alt="" coords="559,201,726,242"/>
+<area shape="rect" id="node7" href="$classvtkCompositeMesh_1_1RendererService.html#a5d2cfe551a042579b3a1c7a0c251d6e5" title="Updating method. " alt="" coords="545,266,741,307"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SMeshNormals.html#aeff92f62995db8c6eec18f8654d64b83" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="535,331,750,373"/>
+<area shape="rect" id="node11" href="$classfwVtkIO_1_1MeshWriter.html#a1e418f7423a0fff0e17ff13d3ed9b322" title="Reading operator. " alt="" coords="570,397,715,438"/>
+<area shape="rect" id="node12" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a21ff94e553dd9c4476d4eb3bb08fba7f" title="Destructor. " alt="" coords="540,462,745,503"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1SMeshNormals.html#a0ff346ed8a40435425baac50a2262154" title="Initialize the service activity. " alt="" coords="822,331,1037,373"/>
+</map>

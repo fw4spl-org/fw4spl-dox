@@ -1,0 +1,10 @@
+<map id="scene2D::adaptor::SNegato::stopping" name="scene2D::adaptor::SNegato::stopping">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="244,67,393,109"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#affa9720c3ed5084df60a5e0d3a2c749b" title="Remove the TF connections. " alt="" coords="237,132,400,188"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="488,31,632,57"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="476,81,644,108"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="749,5,889,32"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="721,56,917,83"/>
+<area shape="rect" id="node8" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="449,139,671,181"/>
+<area shape="rect" id="node9" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="745,139,892,181"/>
+</map>

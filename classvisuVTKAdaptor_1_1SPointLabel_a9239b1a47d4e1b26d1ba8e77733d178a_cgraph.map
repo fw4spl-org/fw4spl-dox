@@ -1,0 +1,8 @@
+<map id="visuVTKAdaptor::SPointLabel::updating" name="visuVTKAdaptor::SPointLabel::updating">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="249,70,410,111"/>
+<area shape="rect" id="node6" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="248,135,411,177"/>
+<area shape="rect" id="node7" href="$classfwData_1_1GenericField.html#a7ca06b2ebf80da331c86e564fc89fbb7" title="Get the value (mutable version). " alt="" coords="257,201,402,242"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="459,5,621,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="469,70,611,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="459,135,621,177"/>
+</map>

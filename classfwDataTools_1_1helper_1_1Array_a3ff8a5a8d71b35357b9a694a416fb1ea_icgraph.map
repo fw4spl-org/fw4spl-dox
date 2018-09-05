@@ -1,0 +1,26 @@
+<map id="fwDataTools::helper::Array::getBuffer" name="fwDataTools::helper::Array::getBuffer">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1ArrayGetter.html#ac17ef2cfba12b247621eb7b9cd309e9d" title="Returns the begining/end of the buffer interpreted as a char buffer. " alt="" coords="216,70,355,111"/>
+<area shape="rect" id="node12" href="$classfwDataTools_1_1Mesh.html#ac4da49cdf04c975e964c15f92887ac16" title="Colorize the mesh points associated to the triangle in _vectorNumTriangle. " alt="" coords="451,135,595,177"/>
+<area shape="rect" id="node13" href="$classfwDataTools_1_1Mesh.html#a93ef435a2b38b86e348e1fc20356c856" title="Colorize the mesh cells with the given rgb color. " alt="" coords="213,187,357,229"/>
+<area shape="rect" id="node14" href="$classTuto14MeshGenerator_1_1AlgoMeshDeformation.html#a523724ffc22ebe59b0a715231f98ab69" title="Compute the simulated acquisition for the given step between inspiration and expiration. " alt="" coords="206,252,365,308"/>
+<area shape="rect" id="node16" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html#a6a89059baf5fd605526bb965bbeb428c" title="Read an image using direct mode. " alt="" coords="209,332,362,388"/>
+<area shape="rect" id="node19" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html#aac20241bccfba74aa4eaa2d4a5c448d7" title="Read an image using direct mode and perform a RGB lookup. " alt="" coords="207,412,363,468"/>
+<area shape="rect" id="node20" href="$classfwDataTools_1_1helper_1_1ArrayGetter.html#acbf2d128f2f72736473d93ed870f0c63" title="Get a pointer to the value described by given parameters. " alt="" coords="198,491,373,533"/>
+<area shape="rect" id="node21" href="$classfwDataIO_1_1reader_1_1GzArrayReader.html#a9a2b2c4d120d1d98cb81e20e1508117e" title="Read the file with zlib API. " alt="" coords="196,557,375,598"/>
+<area shape="rect" id="node22" href="$classfwDataTools_1_1Mesh.html#a0057bf2242a2e80e3dc05390576a7787" title="Shake Array of Normals. " alt="" coords="213,622,357,663"/>
+<area shape="rect" id="node23" href="$classTuto16MultithreadConsole_1_1SReadArray.html#ab76014e917b7f591f25c550be983bd68" title="Initialize the current fwData::Array with 10 values (0 to 9). " alt="" coords="198,687,373,729"/>
+<area shape="rect" id="node24" href="$classTuto16MultithreadConsole_1_1SIncrementArray.html#a920a3d213a3bcfaa2d56cc98a4b03bf8" title="Increment all the values of the current array. " alt="" coords="193,753,378,794"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1ArrayWriter.html#a011cf9bbbccc720877f96bd0814bf997" title="Read the file with zlib API. " alt="" coords="427,5,619,46"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1Mesh.html#a2db3fd91a3506c3e1c33df68bed250b9" title="Shake points of the mesh. " alt="" coords="451,70,595,111"/>
+<area shape="rect" id="node5" href="$classfwTest_1_1generator_1_1Mesh.html#ae5d79650e93f60cbd24c0401274aa507" title="Generate a mesh. " alt="" coords="692,70,836,111"/>
+<area shape="rect" id="node11" href="$classTuto14MeshGenerator_1_1SMeshModifier.html#abc97cb7e49350c44bc5ed4f0a18d5dbf" title="Process the action: modifies the mesh using the selected functor. " alt="" coords="677,185,851,226"/>
+<area shape="rect" id="node6" href="$classfwTest_1_1generator_1_1SeriesDB.html#adf39c6a1621bbd47984fa653c503a587" title="Generate a reconstruction. " alt="" coords="909,70,1133,111"/>
+<area shape="rect" id="node7" href="$classfwTest_1_1generator_1_1Object.html#a3bd0ae3313d9d8c4de1dbc9239327d2c" title="Creates a Resection with 2 planes, 1 input Reconstruction and 1 output Reconstruction. " alt="" coords="1190,37,1367,78"/>
+<area shape="rect" id="node9" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0ee07722d0f1c74347d0966dc85049ac" title="Returns a ModelSeries containing random Reconstructions. " alt="" coords="1181,102,1376,143"/>
+<area shape="rect" id="node8" href="$classfwTest_1_1generator_1_1Object.html#aec8448030a011689b1c3832dd325d401" title="Creates a ResectionDB containing one Resection. " alt="" coords="1425,37,1621,78"/>
+<area shape="rect" id="node10" href="$classfwTest_1_1generator_1_1SeriesDB.html#a0de89a71e6ef0a53ebdfa94e71a1f4a0" title="Creates a SeriesDB. " alt="" coords="1433,102,1612,143"/>
+<area shape="rect" id="node15" href="$classTuto14MeshGenerator_1_1AlgoMeshDeformation.html#a6fb31fa301325bb526792370ab4dc17b" title="Compute deformation or init algo if necessary. " alt="" coords="443,225,602,281"/>
+<area shape="rect" id="node17" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html#ae85d7b4f14cd9553ada7a5020a3f5936" title="Override. " alt="" coords="433,379,612,421"/>
+<area shape="rect" id="node18" href="$classfwDcmtkIO_1_1SeriesDBReader.html#ad13606c2d6d63d6203d7d7b1fbcfb2f6" title="Return true if a dicomdir file can be read. " alt="" coords="667,379,861,421"/>
+<area shape="rect" id="node25" href="$classTuto16MultithreadConsole_1_1SIncrementArray.html#ad1c993f1048871e56938a5c7c32b0b27" title="Initialize the timer. " alt="" coords="433,753,612,794"/>
+</map>

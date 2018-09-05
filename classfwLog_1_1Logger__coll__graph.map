@@ -1,0 +1,9 @@
+<map id="fwLog::Logger" name="fwLog::Logger">
+<area shape="rect" id="node2" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="320,189,435,216"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="177,99,316,125"/>
+<area shape="rect" id="node8" href="$classfwLog_1_1Log.html" title="Log. " alt="" coords="175,189,261,216"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="460,99,564,125"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="72,99,151,125"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="29,6,155,47"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="5,189,120,216"/>
+</map>

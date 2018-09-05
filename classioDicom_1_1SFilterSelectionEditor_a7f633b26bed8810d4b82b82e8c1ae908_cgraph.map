@@ -1,0 +1,15 @@
+<map id="ioDicom::SFilterSelectionEditor::addFilter" name="ioDicom::SFilterSelectionEditor::addFilter">
+<area shape="rect" id="node2" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#ada676387459fe1754a8469aa84b010eb" title="Add a Series in the SeriesDB. " alt="" coords="241,5,405,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="471,49,667,90"/>
+<area shape="rect" id="node4" href="$classfwDicomIOFilter_1_1helper_1_1Filter.html#aeb588168c62c2a708af6d67c35486243" title="Apply a filter to the DicomSeries. " alt="" coords="243,369,403,410"/>
+<area shape="rect" id="node5" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#aad1953285ba5ac020d126141cb9e9608" title="Clear all series in the SeriesDB. " alt="" coords="241,434,405,475"/>
+<area shape="rect" id="node6" href="$classfwMedDataTools_1_1helper_1_1SeriesDB.html#a2d229c0d36e69cb48045ed4513c74269" title="Send the signal of modification. " alt="" coords="241,499,405,541"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a9dbf39afc43907c712116b7fc5311ec6" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="471,114,667,155"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d27474cbd9bac68c7103295d0eaa28e" title="Set the message. " alt="" coords="225,173,421,214"/>
+<area shape="rect" id="node12" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a3cf63b33285399c6249b0f7e087ba935" title="Set the title of the message box. " alt="" coords="225,238,421,279"/>
+<area shape="rect" id="node13" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="225,303,421,345"/>
+<area shape="rect" id="node9" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="477,244,661,300"/>
+<area shape="rect" id="node11" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad415a257e60d23427dbfdd5e151af61b" title="Set the default button. " alt="" coords="471,179,667,221"/>
+<area shape="rect" id="node10" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="717,251,901,293"/>
+<area shape="rect" id="node14" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="469,323,669,365"/>
+</map>

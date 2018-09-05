@@ -1,0 +1,5 @@
+<map id="fwActivities::IActivityValidator" name="fwActivities::IActivityValidator">
+<area shape="rect" id="node5" href="$classfwActivities_1_1validator_1_1DefaultActivity.html" title="Defines a validator which checks that activity requirements are valid. " alt="" coords="31,321,177,362"/>
+<area shape="rect" id="node2" href="$classfwActivities_1_1IValidator.html" title="Base class for all fwActivities validator&#39;s classes. " alt="" coords="27,171,180,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="34,96,173,123"/>
+</map>

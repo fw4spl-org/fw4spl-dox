@@ -1,0 +1,4 @@
+<map id="fwDcmtkIO::reader::ImageStorageReader::directRead" name="fwDcmtkIO::reader::ImageStorageReader::directRead">
+<area shape="rect" id="node2" href="$classfwDcmtkIO_1_1reader_1_1ImageStorageReader.html#ae85d7b4f14cd9553ada7a5020a3f5936" title="Override. " alt="" coords="208,11,387,53"/>
+<area shape="rect" id="node3" href="$classfwDcmtkIO_1_1SeriesDBReader.html#ad13606c2d6d63d6203d7d7b1fbcfb2f6" title="Return true if a dicomdir file can be read. " alt="" coords="435,11,629,53"/>
+</map>

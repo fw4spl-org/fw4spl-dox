@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::helper::DicomDataReader::getTagValue" name="fwGdcmIO::helper::DicomDataReader::getTagValue">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomDir.html#aaadbe708241295a1b610f76f322d0c34" title="Find the DICOMDIR file in the parent arborescence. " alt="" coords="257,38,447,79"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#aabe80c25aa9cbd0220173573c7d24634" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="497,5,671,46"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#a347bc7a8c4e85d92c42538c49e93b66c" title="Return true if a dicomdir file can be read. " alt="" coords="497,70,671,111"/>
+</map>

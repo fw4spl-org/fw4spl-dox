@@ -1,0 +1,8 @@
+<map id="fwDicomIOFilter::splitter::SOPClassUIDSplitter" name="fwDicomIOFilter::splitter::SOPClassUIDSplitter">
+<area shape="rect" id="node2" href="$classfwDicomIOFilter_1_1splitter_1_1TagValueSplitter.html" title="Filter that uses a tag to split the instances. " alt="" coords="195,451,359,493"/>
+<area shape="rect" id="node3" href="$classfwDicomIOFilter_1_1splitter_1_1ISplitter.html" title="Base class for Dicom instance splitter. " alt="" coords="151,331,315,373"/>
+<area shape="rect" id="node4" href="$classfwDicomIOFilter_1_1IFilter.html" title="Base class for Dicom instance filter. " alt="" coords="154,253,312,280"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="176,176,291,203"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,99,161,125"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="305,99,409,125"/>
+</map>

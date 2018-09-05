@@ -1,0 +1,15 @@
+<map id="fwPacsIO::SeriesEnquirer::findUncompressedPC" name="fwPacsIO::SeriesEnquirer::findUncompressedPC">
+<area shape="rect" id="node2" href="$classfwPacsIO_1_1SeriesEnquirer.html#a80382078e2e6b9dd5dd04d4c437fb1c7" title="Send Find Request. " alt="" coords="227,135,400,177"/>
+<area shape="rect" id="node7" href="$classfwPacsIO_1_1SeriesEnquirer.html#adaaaca4c0a254e3376dcc9066f33fa9a" title="Send Get Request. " alt="" coords="227,338,400,379"/>
+<area shape="rect" id="node10" href="$classfwPacsIO_1_1SeriesEnquirer.html#a4978c9b081cf9234c1af385be88492f7" title="Send Move Request. " alt="" coords="227,410,400,451"/>
+<area shape="rect" id="node13" href="$classfwPacsIO_1_1SeriesEnquirer.html#ab00aaea775196ccd9a04fcee5f9485cc" title="Send Store Request. " alt="" coords="227,514,400,555"/>
+<area shape="rect" id="node3" href="$classfwPacsIO_1_1SeriesEnquirer.html#a07f02feceab826a749ae534fc4dde34e" title="Find series by patient name. " alt="" coords="481,5,661,46"/>
+<area shape="rect" id="node4" href="$classfwPacsIO_1_1SeriesEnquirer.html#a102b3b39a7c090f86e1877aee8c89e13" title="Find series by study date. " alt="" coords="484,70,657,111"/>
+<area shape="rect" id="node5" href="$classfwPacsIO_1_1SeriesEnquirer.html#a8a70ee36f76b3f0f7ad7ca05722f4712" title="Find series by series UID. " alt="" coords="484,135,657,177"/>
+<area shape="rect" id="node6" href="$classfwPacsIO_1_1SeriesEnquirer.html#af73bf25b39437a5808bf7641f50d68be" title="Find SOPInstanceUID of the specified instance. " alt="" coords="484,201,657,242"/>
+<area shape="rect" id="node8" href="$classfwPacsIO_1_1SeriesEnquirer.html#a0d1f85cd37e435c8c33e31bb5b2aec47" title="Pull series using C&#45;GET requests. " alt="" coords="453,266,688,307"/>
+<area shape="rect" id="node9" href="$classfwPacsIO_1_1SeriesEnquirer.html#a6e654852da1ad953e2e2b379b501f28a" title="Pull instance using C&#45;GET requests. " alt="" coords="469,331,673,387"/>
+<area shape="rect" id="node11" href="$classfwPacsIO_1_1SeriesEnquirer.html#a200b70914dad89db16c1112780ae8d32" title="Pull series using C&#45;MOVE requests. " alt="" coords="448,410,693,451"/>
+<area shape="rect" id="node12" href="$classfwPacsIO_1_1SeriesEnquirer.html#abce937f0ebcd7d35935f243ecb61bece" title="Pull instance using C&#45;MOVE requests. " alt="" coords="463,475,678,531"/>
+<area shape="rect" id="node14" href="$classfwPacsIO_1_1SeriesEnquirer.html#a227b16260dc397d2be9b7b914e30ae5b" title="Push instances using C&#45;STORE requests. " alt="" coords="484,554,657,595"/>
+</map>

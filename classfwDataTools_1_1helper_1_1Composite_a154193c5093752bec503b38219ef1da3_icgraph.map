@@ -1,0 +1,22 @@
+<map id="fwDataTools::helper::Composite::add" name="fwDataTools::helper::Composite::add">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a81203ccd7908594a55b61b9e58bb6d5c" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="231,101,388,142"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#ae27770ebd3b91efc7ffdc57e9f6e5ff9" title="Removes all objects. " alt="" coords="231,166,388,207"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#afc304f47a3b79a9562bdbaf53da82afe" title="Create and set the default transfer function. " alt="" coords="227,231,391,287"/>
+<area shape="rect" id="node15" href="$classfwDataTools_1_1helper_1_1Image.html#a87ee6c2f50b84749ba59a2958bd48dfe" title="Create transfer function pool if the pool is not present, NOT GENERATE MESSAGE. " alt="" coords="192,310,427,351"/>
+<area shape="rect" id="node16" href="$classuiTF_1_1TransferFunctionEditor.html#a5c2684053c12f9a2165bfe077b7d5315" title="Initialize the transfer functions. " alt="" coords="215,375,403,417"/>
+<area shape="rect" id="node18" href="$classuiTF_1_1TransferFunctionEditor.html#a22d4128b789c539041b4cd46601e9542" title="Selects the current transfer function. " alt="" coords="475,430,663,471"/>
+<area shape="rect" id="node19" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a75b41e9dabce930f6352c48fdeec0fbf" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="229,495,390,551"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="491,115,648,157"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a469f3500bcae9708253c0f4d5aee5dd9" title="Sets the transfer function, creates one if _tf is null (. " alt="" coords="491,193,647,249"/>
+<area shape="rect" id="node14" href="$classscene2D_1_1adaptor_1_1SNegato.html#a903f9a0a150f9c32578ef2032158bff9" title="Initialize the service activity. " alt="" coords="477,273,661,314"/>
+<area shape="rect" id="node7" href="$classvisuVTKAdaptor_1_1SImage.html#a62e8777bfd9c7bc145551775cca1110b" title="Initialize the service activity. " alt="" coords="725,5,896,46"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SImage.html#a4a477146316b387d9f7247bd8c484394" title="Swap the service from an associated object to another object. The key in parameter indicates allows t..." alt="" coords="725,70,896,111"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1SImageText.html#a11ca7fbf337fc32ffe5c6c9e82cfc28a" title="Initialize the service activity. " alt="" coords="713,135,909,177"/>
+<area shape="rect" id="node10" href="$classvisuVTKAdaptor_1_1SImageText.html#a4715df0a07fdac48f2ebeb4fa962fc4f" title="Select the current tf. " alt="" coords="713,201,909,242"/>
+<area shape="rect" id="node11" href="$classscene2D_1_1adaptor_1_1SNegato.html#aa70da057294d383af400692fdcb6301e" title="Retrives the current transfer function. " alt="" coords="719,266,903,307"/>
+<area shape="rect" id="node12" href="$classuiImageQt_1_1WindowLevel.html#a74acc65665951b3a50f0d21e0478a2da" title="Install the layout. " alt="" coords="727,331,895,373"/>
+<area shape="rect" id="node13" href="$classuiImageQt_1_1WindowLevel.html#a6ac75a77133901819352587e67e3bff2" title="Select the current tf. " alt="" coords="727,397,895,438"/>
+<area shape="rect" id="node17" href="$classuiTF_1_1TransferFunctionEditor.html#a33d35dc6b46270623df5c8c2c3b834b7" title="Start the TransferFunctionEditor, create Container, place in Buttons, ComboBox, Layout, and connect them. " alt="" coords="475,365,663,406"/>
+<area shape="rect" id="node20" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#ad5ae3fca60d26cabff8a1b500d0f27e7" title="Initialize the service activity. " alt="" coords="489,495,650,551"/>
+<area shape="rect" id="node21" href="$classuiMedDataQt_1_1editor_1_1SOrganTransformation.html#a54cda0a3d159d619cff705761e798b6c" title="Swap the service from associated object to another object. " alt="" coords="489,575,650,631"/>
+</map>

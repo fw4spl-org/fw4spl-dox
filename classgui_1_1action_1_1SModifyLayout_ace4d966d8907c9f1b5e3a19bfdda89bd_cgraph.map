@@ -1,0 +1,3 @@
+<map id="gui::action::SModifyLayout::stopping" name="gui::action::SModifyLayout::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html#a79632a626732067ae9d92644107b9799" title="Method called when the action service is stopping. " alt="" coords="232,5,384,46"/>
+</map>

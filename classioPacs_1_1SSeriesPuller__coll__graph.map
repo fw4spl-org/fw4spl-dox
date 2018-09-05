@@ -1,0 +1,21 @@
+<map id="ioPacs::SSeriesPuller" name="ioPacs::SSeriesPuller">
+<area shape="rect" id="node2" href="$classfwServices_1_1IController.html" title="This interface defines control service API. Does nothing particularly, can be considered as a default..." alt="" coords="2264,928,2419,955"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1755,983,1898,1009"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1368,704,1483,731"/>
+<area shape="rect" id="node28" href="$classfwData_1_1Object.html" title="Base class for each data object. " alt="" coords="1771,552,1882,579"/>
+<area shape="rect" id="node5" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="1051,755,1191,781"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="1069,704,1173,731"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1362,992,1489,1019"/>
+<area shape="rect" id="node10" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1070,877,1173,904"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="269,289,349,316"/>
+<area shape="rect" id="node27" href="$classfwMedData_1_1Series.html" title="Holds series information. " alt="" coords="2105,317,2239,344"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="6,282,133,323"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="248,733,371,760"/>
+<area shape="rect" id="node30" title="STL class. " alt="" coords="241,535,378,577"/>
+<area shape="rect" id="node34" title="STL class. " alt="" coords="260,601,359,628"/>
+<area shape="rect" id="node23" title="STL class. " alt="" coords="251,37,367,64"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="423,931,556,957"/>
+<area shape="rect" id="node17" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1356,552,1495,579"/>
+<area shape="rect" id="node18" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1064,548,1179,575"/>
+<area shape="rect" id="node26" href="$classfwMedData_1_1DicomSeries.html" title="Holds DICOM data. " alt="" coords="2443,527,2615,553"/>
+</map>

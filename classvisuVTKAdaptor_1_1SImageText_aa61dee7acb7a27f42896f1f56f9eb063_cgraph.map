@@ -1,0 +1,6 @@
+<map id="visuVTKAdaptor::SImageText::stopping" name="visuVTKAdaptor::SImageText::stopping">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#affa9720c3ed5084df60a5e0d3a2c749b" title="Remove the TF connections. " alt="" coords="251,5,413,61"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SText.html#ac5f2063899a9d44616e0d1c74fd7647e" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="252,85,412,126"/>
+<area shape="rect" id="node3" href="$classfwCom_1_1helper_1_1SigSlotConnection.html#ad5d185818b5e00f5eb631d971be5b3d1" title="Disconnect all registered connections and clear m_connections. " alt="" coords="462,13,685,54"/>
+<area shape="rect" id="node4" href="$structfwCom_1_1Connection.html#a754cdafafcd72795d48157614d0e5d63" title="Disconnect related Connection. " alt="" coords="733,13,880,54"/>
+</map>

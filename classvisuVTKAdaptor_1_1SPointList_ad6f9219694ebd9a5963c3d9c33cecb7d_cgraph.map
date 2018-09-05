@@ -1,0 +1,6 @@
+<map id="visuVTKAdaptor::SPointList::stopping" name="visuVTKAdaptor::SPointList::stopping">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a27fd889b800232cbc05ac782f32e393a" title="Gets the identifier of the picker used by this adaptor. " alt="" coords="247,5,409,46"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#ab88a04a11f130a8226450e4a3c7cbaf9" title="Returns the renderer identifier. " alt="" coords="247,70,409,111"/>
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="247,135,409,177"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="241,201,415,242"/>
+</map>

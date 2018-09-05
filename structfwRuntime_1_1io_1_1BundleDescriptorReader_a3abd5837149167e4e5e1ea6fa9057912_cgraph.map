@@ -1,0 +1,8 @@
+<map id="fwRuntime::io::BundleDescriptorReader::createBundles" name="fwRuntime::io::BundleDescriptorReader::createBundles">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1io_1_1BundleDescriptorReader.html#adf8040cb8edd99814fd17924a27fe749" title="Look for a descriptor at the specified location, reads it and creates a bundle with it..." alt="" coords="264,93,475,134"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="533,5,675,46"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1io_1_1Validator.html#a04bcd4f8582df72c082c98cd2c9897fd" title="Retrieves the error log content. " alt="" coords="733,93,896,134"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="533,122,675,163"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1io_1_1Validator.html#ac08cd63967b5c42493fa68d17c094eee" title="Validates the given file. " alt="" coords="523,187,685,229"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1io_1_1Validator.html#a4b807cf66f04d219463a80e5c52b9194" title="Returns the xsd content in string format. " alt="" coords="733,187,896,229"/>
+</map>

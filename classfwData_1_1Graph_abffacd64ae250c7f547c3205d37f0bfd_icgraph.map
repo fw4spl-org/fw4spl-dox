@@ -1,0 +1,5 @@
+<map id="fwData::Graph::getEdges" name="fwData::Graph::getEdges">
+<area shape="rect" id="node2" href="$classfwData_1_1Graph.html#a57ba33bf8f159d677e9e7264e3f87bb8" title="Get input edges. " alt="" coords="225,5,423,32"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Graph.html#a18ec67612448aa0c9134180634cd1ea8" title="Get a vector of nodes. " alt="" coords="239,56,409,83"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Graph.html#a389614ee13fa19b50c4854f6ebd1b694" title="Get output edges. " alt="" coords="238,107,410,149"/>
+</map>

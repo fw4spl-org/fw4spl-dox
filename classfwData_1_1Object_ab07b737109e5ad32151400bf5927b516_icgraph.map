@@ -1,0 +1,51 @@
+<map id="fwData::Object::fieldDeepCopy" name="fwData::Object::fieldDeepCopy">
+<area shape="rect" id="node2" href="$classfwData_1_1location_1_1MultiFiles.html#aa8122aafe92cd70fca46d382139745e0" title="Defines deep copy. " alt="" coords="284,5,465,46"/>
+<area shape="rect" id="node3" href="$classfwData_1_1Material.html#afb6c3cb09453f94ed1260f67390db2cd" title="Defines deep copy. " alt="" coords="291,70,459,111"/>
+<area shape="rect" id="node4" href="$classfwMedData_1_1Study.html#a8d1529a4dea2effbf388abd0422cede0" title="Defines deep copy. " alt="" coords="284,135,465,177"/>
+<area shape="rect" id="node5" href="$classfwMedData_1_1Equipment.html#ad04c600668ba94e0a423c183913a3843" title="Defines deep copy. " alt="" coords="295,201,454,242"/>
+<area shape="rect" id="node6" href="$classfwData_1_1Histogram.html#ade62700d7a78f1957c74e7780f7b3c90" title="Defines deep copy. " alt="" coords="305,266,445,307"/>
+<area shape="rect" id="node7" href="$classfwMedData_1_1Patient.html#a23ed926d79f27f57e15b313d6b9382ce" title="Defines deep copy. " alt="" coords="305,331,444,373"/>
+<area shape="rect" id="node8" href="$classfwRenderQt_1_1data_1_1Viewport.html#ac4730f745a2e726d98614da438fdcf45" title="Defines deep copy. " alt="" coords="283,397,467,438"/>
+<area shape="rect" id="node9" href="$classfwData_1_1location_1_1SingleFile.html#a23296465371979923ac00b43ba7f206d" title="Defines deep copy. " alt="" coords="294,462,455,503"/>
+<area shape="rect" id="node10" href="$classfwData_1_1String.html#a496663ba2f7bd911800418792814881a" title="Defines deep copy. " alt="" coords="265,528,484,555"/>
+<area shape="rect" id="node11" href="$classfwData_1_1Edge.html#adf6c175101dca86eabad2fec4e2569dc" title="do a deep copy of edge " alt="" coords="267,579,482,605"/>
+<area shape="rect" id="node12" href="$classfwPacsIO_1_1data_1_1PacsConfiguration.html#a22d5170ccde6fa9b1044d2f2a0b75e76" title="Defines deep copy. " alt="" coords="261,630,489,671"/>
+<area shape="rect" id="node13" href="$classfwData_1_1Boolean.html#ac8ec93bfbcc16638efaa15b1f0fc9191" title="Defines deep copy. " alt="" coords="259,696,490,723"/>
+<area shape="rect" id="node14" href="$classfwData_1_1Integer.html#af3db4799651f552459aaff89b3c8ad08" title="Defines deep copy. " alt="" coords="263,747,487,773"/>
+<area shape="rect" id="node15" href="$classfwData_1_1Line.html#a2bae4e2a89f01dcf72daa729fddee3ba" title="Defines deep copy. " alt="" coords="271,797,479,824"/>
+<area shape="rect" id="node16" href="$classfwData_1_1ResectionDB.html#a0bdac3cf64570fd00f7e5c275a86cd0d" title="Defines deep copy. " alt="" coords="299,849,450,890"/>
+<area shape="rect" id="node17" href="$classfwData_1_1location_1_1Folder.html#ae64eae0a4d97e5cc418c84a7c04e205f" title="Defines deep copy. " alt="" coords="294,914,455,955"/>
+<area shape="rect" id="node18" href="$classfwData_1_1TransformationMatrix3D.html#a6fb5379d5b3c6a99b5242b0957825eac" title="Defines deep copy. " alt="" coords="273,979,476,1021"/>
+<area shape="rect" id="node19" href="$classfwData_1_1Plane.html#ad1042f8aee1cf85db0f62bb74a850c4c" title="Defines deep copy. " alt="" coords="266,1045,483,1072"/>
+<area shape="rect" id="node20" href="$classfwData_1_1Float.html#a479a2d287d4720a96b21185b2dd4f5db" title="Defines deep copy. " alt="" coords="268,1096,481,1123"/>
+<area shape="rect" id="node21" href="$classfwMedData_1_1Series.html#aed1f53fed35cdbb3b886e50fe466b9ad" title="Defines deep copy. " alt="" coords="303,1147,446,1189"/>
+<area shape="rect" id="node26" href="$classfwData_1_1PlaneList.html#af5a2823c0727713c3010b7fcc8092459" title="Defines deep copy. " alt="" coords="307,1213,442,1254"/>
+<area shape="rect" id="node27" href="$classfwData_1_1Resection.html#a43d4608df3c8848ccfbddd7f2b53bb4b" title="Defines deep copy. " alt="" coords="305,1278,444,1319"/>
+<area shape="rect" id="node28" href="$classfwData_1_1Color.html#a6009792e1036afbc08db1fbe01eea0d7" title="Defines deep copy. " alt="" coords="267,1344,482,1371"/>
+<area shape="rect" id="node29" href="$classfwData_1_1Point.html#a235da1e2dd455e699b20e95d2970b3a4" title="Defines deep copy. " alt="" coords="267,1395,482,1421"/>
+<area shape="rect" id="node30" href="$classfwData_1_1Reconstruction.html#ac0851bc0a01f9a2c5edfb223a8632c90" title="Defines deep copy. " alt="" coords="295,1446,455,1487"/>
+<area shape="rect" id="node31" href="$classfwData_1_1PointList.html#a66b37086237f160fedc7c1915dc4d10c" title="Defines deep copy. " alt="" coords="309,1511,440,1553"/>
+<area shape="rect" id="node32" href="$classfwData_1_1Port.html#a39dd2e69ddfa722a39c1023a55b4be0f" title="Defines deep copy. " alt="" coords="271,1577,479,1604"/>
+<area shape="rect" id="node33" href="$classfwData_1_1StructureTraitsDictionary.html#a22e7fc7bd873a9a6a0775b2803f45491" title="Defines deep copy. " alt="" coords="266,1629,483,1670"/>
+<area shape="rect" id="node34" href="$classfwData_1_1Array.html#ab15a523fff0d5e7c7a44bee1ff04f141" title="Defines deep copy. " alt="" coords="267,1695,482,1721"/>
+<area shape="rect" id="node35" href="$classfwData_1_1Tag.html#a86d8c2958df67a0d95915bbf26061fa2" title="Defines deep copy. " alt="" coords="271,1745,478,1772"/>
+<area shape="rect" id="node36" href="$classfwData_1_1ReconstructionTraits.html#aac084b96cbf3bb6918c8282ea189a12a" title="Defines deep copy. " alt="" coords="278,1797,471,1838"/>
+<area shape="rect" id="node37" href="$classfwData_1_1Landmarks.html#a6b7c0ef6c0be50a3c05e3fcf94332a35" title="Defines deep copy. " alt="" coords="303,1862,447,1903"/>
+<area shape="rect" id="node38" href="$classfwData_1_1ROITraits.html#a2258f407ce19bef8045f431c9da32f2e" title="Defines deep copy. " alt="" coords="306,1927,443,1969"/>
+<area shape="rect" id="node39" href="$classfwData_1_1Node.html#af911621dfdf4dc371feb0f4501514a55" title="Defines deep copy. " alt="" coords="267,1993,482,2020"/>
+<area shape="rect" id="node40" href="$classfwData_1_1Image.html#a9837963ed7361d2b8b2d650c0b81240e" title="Defines deep copy. " alt="" coords="265,2044,485,2071"/>
+<area shape="rect" id="node41" href="$classfwMedData_1_1SeriesDB.html#af088e7f55f4baab436b4aed5148e41e8" title="Defines deep copy. " alt="" coords="298,2095,451,2137"/>
+<area shape="rect" id="node42" href="$classfwData_1_1List.html#aa3fdee0e8e99f1863b1507818ab77979" title="Defines deep copy. " alt="" coords="272,2161,477,2188"/>
+<area shape="rect" id="node43" href="$classfwData_1_1Composite.html#acc177e4f05c944cbc03302d2e8ca571f" title="Defines deep copy. " alt="" coords="303,2213,446,2254"/>
+<area shape="rect" id="node44" href="$classfwData_1_1Spline.html#ab50070d454f7d34bc80b525f3aa7dfae" title="Defines deep copy. " alt="" coords="265,2279,485,2305"/>
+<area shape="rect" id="node45" href="$classfwData_1_1Vector.html#a84d842eb0ca33682e795ba160ae6297e" title="Defines deep copy. " alt="" coords="263,2329,486,2356"/>
+<area shape="rect" id="node46" href="$classfwData_1_1TransferFunction.html#a8550e7eaddffa6bd935badba53eb8703" title="Deep copy method. " alt="" coords="289,2381,460,2422"/>
+<area shape="rect" id="node47" href="$classfwData_1_1ProcessObject.html#a6c173728353e1b177b61f146268f0366" title="Defines deep copy. " alt="" coords="295,2446,454,2487"/>
+<area shape="rect" id="node48" href="$classfwData_1_1Mesh.html#a60c13295cbf3a4cba251d97e5cab5a4d" title="Defines deep copy. " alt="" coords="267,2512,483,2539"/>
+<area shape="rect" id="node49" href="$classfwData_1_1StructureTraits.html#a1f87b9e4fa776300fd2e6689b6847398" title="Defines deep copy. " alt="" coords="295,2563,454,2605"/>
+<area shape="rect" id="node50" href="$classfwData_1_1Graph.html#af85b750c57865854120bc24149e04f7c" title="Get the connection container. " alt="" coords="271,2629,478,2656"/>
+<area shape="rect" id="node22" href="$classfwMedData_1_1ActivitySeries.html#a571a0ea2356d9afb722c94f8c7a36ff0" title="Defines deep copy. " alt="" coords="551,1050,729,1091"/>
+<area shape="rect" id="node23" href="$classfwMedData_1_1AttachmentSeries.html#a9a7b7eef283b2c22379e3f7d959ed12c" title="Defines deep copy. " alt="" coords="539,1115,741,1157"/>
+<area shape="rect" id="node24" href="$classfwMedData_1_1DicomSeries.html#a65203430acecba1edf2501224bb24607" title="Defines deep copy. " alt="" coords="554,1181,726,1222"/>
+<area shape="rect" id="node25" href="$classfwMedData_1_1ImageSeries.html#aa02472a03232fd0beb847fa0dcd7f4cb" title="Defines deep copy. " alt="" coords="555,1246,725,1287"/>
+</map>

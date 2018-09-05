@@ -1,0 +1,12 @@
+<map id="scene2D::adaptor::SViewportRangeSelector::processInteraction" name="scene2D::adaptor::SViewportRangeSelector::processInteraction">
+<area shape="rect" id="node2" href="$classfwRenderQt_1_1IAdaptor.html#a19c26b1617582f56cb477d6c26bdb2b9" title="Get the render that manages the IAdaptor. " alt="" coords="587,49,736,90"/>
+<area shape="rect" id="node7" href="$classfwRenderQt_1_1IAdaptor.html#aafb0b1479c046c3bedf55291c2226019" title="fwRenderQt::IAdaptor\l::mapAdaptorToScene" alt="" coords="585,179,737,221"/>
+<area shape="rect" id="node8" href="$classfwServices_1_1IService.html#a1eb9b44c43e795e7abee1076b8498620" title="Invoke updating() if m_globalState == STARTED. Does nothing otherwise. " alt="" coords="325,238,467,279"/>
+<area shape="rect" id="node10" href="$classscene2D_1_1adaptor_1_1SViewportRangeSelector.html#adbeb4447cbbc11e12f0e2505868f83f0" title="scene2D::adaptor::SViewport\lRangeSelector::updateViewportFrom\lShutter" alt="" coords="278,107,514,163"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="820,31,964,57"/>
+<area shape="rect" id="node6" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="808,81,976,108"/>
+<area shape="rect" id="node4" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="1053,5,1193,32"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="1025,56,1221,83"/>
+<area shape="rect" id="node9" href="$namespacefwThread.html#aaf7b51e7215e6034e76893de2ace31e2" title="Returns the current thread id. " alt="" coords="563,245,759,272"/>
+<area shape="rect" id="node11" href="$classfwRenderQt_1_1IAdaptor.html#a26ecbf727f6351329041a3e17eb44065" title="fwRenderQt::IAdaptor\l::mapSceneToAdaptor" alt="" coords="585,114,737,155"/>
+</map>

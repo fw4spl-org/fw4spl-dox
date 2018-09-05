@@ -1,0 +1,8 @@
+<map id="visuVTKAdaptor::STexture::updating" name="visuVTKAdaptor::STexture::updating">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1STexture.html#a5c8fcb034607eb7c649bddae36602126" title="Slot called when a texture must be applied on a material. " alt="" coords="232,143,411,185"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="487,5,654,61"/>
+<area shape="rect" id="node4" href="$classfwData_1_1Material.html#a3a647ac18c3ad069a105936a96d6c5bd" title="Setter for diffuse texture. " alt="" coords="477,85,664,126"/>
+<area shape="rect" id="node5" href="$classfwData_1_1Material.html#abf4d6b218a088972f00697254e42216a" title="get/set the shading models(flat, gouraud, phong) " alt="" coords="459,151,682,177"/>
+<area shape="rect" id="node6" href="$classfwData_1_1Material.html#a79573bfa30ae9ab699b7472e5fd1a895" title="get/set the texture filtering " alt="" coords="477,202,664,243"/>
+<area shape="rect" id="node7" href="$classfwData_1_1Material.html#a4d52e4518b7e7f93ee98b95554ac474a" title="get/set the texture wrapping " alt="" coords="477,267,664,309"/>
+</map>

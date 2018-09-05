@@ -1,0 +1,8 @@
+<map id="fwDataTools::Mesh::shakePoint" name="fwDataTools::Mesh::shakePoint">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1helper_1_1ArrayGetter.html#ac17ef2cfba12b247621eb7b9cd309e9d" title="Returns the begining/end of the buffer interpreted as a char buffer. " alt="" coords="228,5,367,46"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1Array.html#a17c77d0c960d6e0cbefd90235f9761f0" title="Returns the begining/end of the buffer interpreted as a char buffer. " alt="" coords="228,70,367,111"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1TransformationMatrix3D.html#a3cb8fbf75613406d7251dc9455eb042d" title="Convert a fwData::TransformationMatrix3D into a GLM matrix. " alt="" coords="197,135,397,177"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1Mesh.html#ad46ba236520f015a3bdd16f350b9702d" title="Returns the internal corresponding array as a boost::multi_array_ref. " alt="" coords="228,201,367,242"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1Mesh.html#a8fd41e726e11d3638db909b79bfd36ad" title="Apply a transformation 4x4 from an input mesh to an output mesh. " alt="" coords="225,266,369,307"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1Array.html#a3ff8a5a8d71b35357b9a694a416fb1ea" title="Getter for the array buffer. " alt="" coords="445,5,584,46"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="fwServices::IAppConfigManager::New" name="fwServices::IAppConfigManager::New">
+<area shape="rect" id="node2" href="$classappXml_1_1Plugin.html#aeb86049b7bc7444ebdeaf3b055270d2e" title="Notifies the plugin about its initialisation. " alt="" coords="313,5,479,32"/>
+<area shape="rect" id="node3" href="$classguiQt_1_1editor_1_1DynamicView.html#a0a666f969a52e7de0fa72d6eab5fd13d" title="Launch tab. " alt="" coords="305,57,487,98"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1helper_1_1ConfigLauncher.html#aee4b5998807a69fee45d7fc68b5fd67f" title="Launch Appconfig. " alt="" coords="299,122,493,163"/>
+<area shape="rect" id="node5" href="$classguiQt_1_1editor_1_1SActivityView.html#ae29426d75dcbb9f510723fe8bd67360e" title="Install the container. " alt="" coords="319,187,473,229"/>
+<area shape="rect" id="node6" href="$classuiMeasurement_1_1action_1_1LoadLandmark.html#a3f2073c7ac07a59403b894b61b6716a2" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="310,253,482,294"/>
+<area shape="rect" id="node7" href="$classuiMeasurement_1_1action_1_1SaveLandmark.html#a90f75b983edab5119fc62e7b6ef05a81" title="Uninitialize the service activity. The stop() method is always invoked before destroying a service..." alt="" coords="309,318,483,359"/>
+<area shape="rect" id="node8" href="$classguiQt_1_1editor_1_1SDynamicView.html#ae935423a285b6965b98054d838b7ec1e" title="Swap. " alt="" coords="301,383,491,425"/>
+<area shape="rect" id="node9" href="$classdataReg_1_1parser_1_1Object.html#a0a4d5cbd78a594b517c83f10cb5ddb14" title="Parse the XML configuration. " alt="" coords="315,449,477,490"/>
+<area shape="rect" id="node10" href="$classdataReg_1_1parser_1_1List.html#a6328f39b6434a9b9e2a27833310a2fc3" title="Updating method : create List object. " alt="" coords="324,514,468,555"/>
+<area shape="rect" id="node11" href="$classdataReg_1_1parser_1_1Composite.html#a515f83fcae6f79a96c9884b77b049fc3" title="Updating method : create composite object. " alt="" coords="303,579,489,621"/>
+<area shape="rect" id="node12" href="$classuiMedDataQt_1_1SSeriesViewer.html#ab2e055186a7ae04a743fb5c908341ac0" title="Launch the config on the object if possible. " alt="" coords="299,645,493,686"/>
+<area shape="rect" id="node14" href="$classactivities_1_1action_1_1SActivityLauncher.html#accf37ac04dac5bc634285428f84e46d5" title="Show activity selector. " alt="" coords="328,709,464,765"/>
+<area shape="rect" id="node13" href="$classuiMedDataQt_1_1SSeriesViewer.html#ae7a1981c87c2053582cf82fa908e9471" title="Calls updating on starting. " alt="" coords="542,645,735,686"/>
+</map>

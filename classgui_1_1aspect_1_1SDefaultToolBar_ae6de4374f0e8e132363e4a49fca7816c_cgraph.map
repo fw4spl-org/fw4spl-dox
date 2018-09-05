@@ -1,0 +1,5 @@
+<map id="gui::aspect::SDefaultToolBar::stopping" name="gui::aspect::SDefaultToolBar::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IToolBarSrv.html#aeb17e8a32300e9cacf069fccead39350" title="Destroy the layout and stop the managed services. " alt="" coords="224,11,357,53"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="405,4,589,60"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="637,11,821,53"/>
+</map>

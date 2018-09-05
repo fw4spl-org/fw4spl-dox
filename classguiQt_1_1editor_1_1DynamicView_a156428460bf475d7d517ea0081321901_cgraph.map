@@ -1,0 +1,9 @@
+<map id="guiQt::editor::DynamicView::info" name="guiQt::editor::DynamicView::info">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a8c59f4f1a8cd0319757d9207af8105bf" title="fwGui::dialog::MessageDialog\l::showMessageDialog" alt="" coords="238,37,434,78"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1GuiRegistry.html#a7058eeb4b8cb900cf8d24063b452083c" title="Unregisters container associate with window ID. " alt="" coords="251,102,421,143"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="483,5,679,46"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="483,70,679,111"/>
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="728,34,928,75"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="736,99,920,155"/>
+<area shape="rect" id="node7" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="976,106,1160,147"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fwRuntime::findExtension" name="fwRuntime::findExtension">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#a19c3045669f4728f9dbc3aff9dc20b26" title="Retrieves the extension instance matching the specified identifier. " alt="" coords="227,5,370,46"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="227,70,370,111"/>
+</map>

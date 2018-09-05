@@ -1,0 +1,5 @@
+<map id="fwServices::IService::getObject" name="fwServices::IService::getObject">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1BookmarkSrv.html#ab0aab9afad252e889bf88033501068e0" title="Adds the object in bookmark. " alt="" coords="197,5,379,46"/>
+<area shape="rect" id="node3" href="$classctrlMemory_1_1LockDumpSrv.html#a6a39e74eb1d674f44422fd130dc7b87c" title="Uses fwData::ObjectLock to dump lock the associated data. " alt="" coords="199,70,377,111"/>
+<area shape="rect" id="node4" href="$classuiIO_1_1editor_1_1SIOSelector.html#aac4d661248b968e8d8d6304e36733839" title="Create a dialogue box to provide the user different available readers (writer) for the IOSelector ass..." alt="" coords="205,135,371,177"/>
+</map>

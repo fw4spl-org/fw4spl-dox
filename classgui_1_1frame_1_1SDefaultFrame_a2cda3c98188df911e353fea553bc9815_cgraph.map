@@ -1,0 +1,5 @@
+<map id="gui::frame::SDefaultFrame::starting" name="gui::frame::SDefaultFrame::starting">
+<area shape="rect" id="node2" href="$classfwGui_1_1IFrameSrv.html#a1bb3080dd55b18398089f424cf8e1079" title="Creates frame, sub&#45;view, menubar and toolbar containers. Manages sub&#45;view, menubar and toobar service..." alt="" coords="230,19,399,45"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="448,4,632,60"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="680,11,864,53"/>
+</map>

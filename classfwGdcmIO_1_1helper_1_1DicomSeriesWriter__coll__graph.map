@@ -1,0 +1,10 @@
+<map id="fwGdcmIO::helper::DicomSeriesWriter" name="fwGdcmIO::helper::DicomSeriesWriter">
+<area shape="rect" id="node2" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="fwDataIO::writer::Generic\lObjectWriter\&lt; ::fwMedData\l::DicomSeries \&gt;" alt="" coords="1147,15,1330,71"/>
+<area shape="rect" id="node3" href="$classfwDataIO_1_1writer_1_1IObjectWriter.html" title="Base class for all object writers. " alt="" coords="501,13,669,54"/>
+<area shape="rect" id="node8" href="$classfwDataIO_1_1writer_1_1GenericObjectWriter.html" title="generic class for all object writers. " alt="" coords="721,25,911,66"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="233,16,373,43"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="263,88,343,115"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="30,81,157,122"/>
+<area shape="rect" id="node9" href="$structfwData_1_1location_1_1enableFolder.html" title="fwData::location::enable\lFolder\&lt; ::fwDataIO::writer\l::IObjectWriter \&gt;" alt="" coords="1151,147,1326,203"/>
+<area shape="rect" id="node10" href="$structfwData_1_1location_1_1enableFolder.html" title="This class is derived by reader/writer. " alt="" coords="735,157,897,198"/>
+</map>

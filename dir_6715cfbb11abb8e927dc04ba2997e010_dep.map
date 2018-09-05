@@ -1,0 +1,15 @@
+<map id="fwDicomIOFilter" name="fwDicomIOFilter">
+<area shape="rect" id="node2" href="dir_e783f81b34fff25a8007b8feef6a8e1c.html" title="composite" alt="" coords="819,63,900,111"/>
+<area shape="rect" id="node3" href="dir_3f283d793d8f8f7ba0bb7e5b998dbfb9.html" title="custom" alt="" coords="723,63,795,111"/>
+<area shape="rect" id="node4" href="dir_7d6148aa7cc40003b35d38721f69e6fb.html" title="exceptions" alt="" coords="613,63,699,111"/>
+<area shape="rect" id="node5" href="dir_3235d2c1749ebe560c1b33468c988bcb.html" title="factory" alt="" coords="517,63,589,111"/>
+<area shape="rect" id="node6" href="dir_3e5a9c5555c024d1a095f6cf78ecb636.html" title="helper" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="node7" href="dir_82feb45981684bdcf4bc9cda26765790.html" title="modifier" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="node8" href="dir_ea0b3b0942c9b86575845da484ece318.html" title="registry" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node11" href="dir_4b27a3ee21cd820803ead0a49ff3b161.html" title="core" alt="" coords="229,159,301,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000488_000062.html" title="1" alt="" coords="270,133,278,148"/>
+<area shape="rect" id="node9" href="dir_2f48d889b827df1c4d29891a5f4f762f.html" title="sorter" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="node10" href="dir_281969a418ceebc14ce761ec705585ab.html" title="splitter" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_6715cfbb11abb8e927dc04ba2997e010.html" alt="" coords="27,52,1053,121"/>
+<area shape="rect" id="clust1" href="dir_95e446628e42e2f41e21628a4ec904a0.html" title="include" alt="" coords="16,16,1064,132"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="visuVTKAdaptor::SImagesProbeCursor::updating" name="visuVTKAdaptor::SImagesProbeCursor::updating">
+<area shape="rect" id="node2" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="265,70,426,111"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab456f6d3803860781414b260ae4ce6b8" title="Update the image information (slice index, min/max,...) " alt="" coords="267,135,423,191"/>
+<area shape="rect" id="node3" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="475,5,637,46"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="485,70,627,111"/>
+<area shape="rect" id="node5" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="475,135,637,177"/>
+</map>

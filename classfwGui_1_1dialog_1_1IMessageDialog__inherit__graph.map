@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::IMessageDialog" name="fwGui::dialog::IMessageDialog">
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. Use the Delegate design pattern. " alt="" coords="5,328,200,355"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1dialog_1_1MessageDialog.html" title="Defines the generic message box for IHM. " alt="" coords="225,321,399,362"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="131,171,283,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="137,96,276,123"/>
+</map>

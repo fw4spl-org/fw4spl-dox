@@ -1,0 +1,8 @@
+<map id="fwMDSemanticPatch::V10::V09ALA::fwData::Image::apply" name="fwMDSemanticPatch::V10::V09ALA::fwData::Image::apply">
+<area shape="rect" id="node2" href="$classfwAtomsPatch_1_1helper_1_1Object.html#a22c79fb36d0b05c4146c99084f4e29df" title="Adds a new attribute in the current object. " alt="" coords="219,37,370,78"/>
+<area shape="rect" id="node5" href="$classfwAtomsPatch_1_1StructuralCreatorDB.html#ad8eaf8036d6baca064f5b4d1163c381b" title="Returns the default instance of StructuralCreatorDB. " alt="" coords="209,102,381,143"/>
+<area shape="rect" id="node6" href="$classfwAtoms_1_1Numeric.html#a5eaa3cb6b8d2370fb5001b662a1073ef" title="Build a new numeric type. " alt="" coords="211,168,378,195"/>
+<area shape="rect" id="node7" href="$classfwAtoms_1_1String.html#a5e58c24f782dcaf06b0e7fc8d3fc689d" title="Construct a new Object represented a string. " alt="" coords="219,219,370,245"/>
+<area shape="rect" id="node3" href="$namespacefwAtomsPatch_1_1helper.html#a49db7036b323f4c23effd6ca3e020996" title="Get classname of an object. " alt="" coords="430,5,581,46"/>
+<area shape="rect" id="node4" href="$namespacefwAtomsPatch_1_1helper.html#a87463944cf2233827a11abde6cad8635" title="Get version of an object. " alt="" coords="430,70,581,111"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="fwServices::IController" name="fwServices::IController">
+<area shape="rect" id="node10" href="$classactivities_1_1SActivitySequencer.html" title="This service allows to launch activities sequentially. " alt="" coords="1017,5,1215,32"/>
+<area shape="rect" id="node11" href="$classactivities_1_1SSeriesSignal.html" title="This service emits a signal for each added series (the signal contains the added series) ..." alt="" coords="1034,56,1198,83"/>
+<area shape="rect" id="node12" href="$classctrlMemory_1_1LockDumpSrv.html" title="This services dump lock object. Unlock it on stopping. " alt="" coords="1027,107,1205,133"/>
+<area shape="rect" id="node13" href="$classctrlSelection_1_1BookmarkSrv.html" title="This service bookmark its object with the name given in configuration. " alt="" coords="1025,157,1207,184"/>
+<area shape="rect" id="node14" href="$classctrlSelection_1_1ImageUpdateAxis.html" title="This service updates a fwData::Float given in configuration with the image axis. " alt="" coords="1013,208,1219,235"/>
+<area shape="rect" id="node15" href="$classctrlSelection_1_1MedicalImageSrv.html" title="This service convert its attached image to a medical image by adding specific fields. " alt="" coords="1015,259,1217,285"/>
+<area shape="rect" id="node16" href="$classctrlSelection_1_1SAddField.html" title="Add one or several fields to an object. " alt="" coords="1035,309,1197,336"/>
+<area shape="rect" id="node17" href="$classctrlSelection_1_1SManage.html" title="This service manages an object (add/swap/remove) into a container object (composite, vector, seriesDB). " alt="" coords="1037,360,1195,387"/>
+<area shape="rect" id="node18" href="$classfwServices_1_1SConfigController.html" title="This service starts/stops a template configuration. " alt="" coords="1017,411,1215,437"/>
+<area shape="rect" id="node19" href="$classioDicomWeb_1_1SSeriesPuller.html" title="This service is used to pull series from a PACS (Orthanc). " alt="" coords="1024,461,1208,488"/>
+<area shape="rect" id="node20" href="$classioDicomWeb_1_1SSeriesPusher.html" title="This service is used to push a DICOM series to a PACS. " alt="" coords="1020,512,1212,539"/>
+<area shape="rect" id="node21" href="$classioGdcm_1_1SDicomSeriesAnonymizer.html" title="Service to anonymize a DicomSeries. " alt="" coords="1002,563,1230,589"/>
+<area shape="rect" id="node22" href="$classioPacs_1_1SPacsConfigurationInitializer.html" title="This service is used to initialize a Pacs Configuration data. " alt="" coords="1023,614,1209,655"/>
+<area shape="rect" id="node23" href="$classioPacs_1_1SProgressBarController.html" title="This editor service is used to display a progress bar. " alt="" coords="1013,680,1219,707"/>
+<area shape="rect" id="node24" href="$classioPacs_1_1SSeriesPuller.html" title="This service is used to pull series from a PACS. " alt="" coords="1041,731,1191,757"/>
+<area shape="rect" id="node25" href="$classioPacs_1_1SSeriesPusher.html" title="This service is used to push a DICOM series to a PACS. " alt="" coords="1037,781,1195,808"/>
+<area shape="rect" id="node26" href="$classmemory_1_1SDumpPolicy.html" title="memory::SDumpPolicy" alt="" coords="1037,832,1195,859"/>
+<area shape="rect" id="node27" href="$classscene2D_1_1processing_1_1SComputeHistogram.html" title="The SComputeHistogram service computes the histogram of the image. " alt="" coords="1040,883,1192,925"/>
+<area shape="rect" id="node28" href="$classTuto16MultithreadConsole_1_1SIncrementArray.html" title="This service increments all the values of a fwData::Array. " alt="" coords="1029,949,1203,990"/>
+<area shape="rect" id="node29" href="$classTuto16MultithreadConsole_1_1SReadArray.html" title="This service initializes a fwData::Array with 10 values (0 to 9). " alt="" coords="1029,1014,1203,1055"/>
+<area shape="rect" id="node30" href="$classTuto16MultithreadConsole_1_1SShowArray.html" title="This service displays the array values in the log. " alt="" coords="1029,1079,1203,1121"/>
+<area shape="rect" id="node31" href="$classuiMeasurement_1_1SManageLandmark.html" title="SManageLandmark adds a point into a pointlist on ctrl&#45;left click. " alt="" coords="1001,1145,1231,1172"/>
+<area shape="rect" id="node32" href="$classuiMedDataQt_1_1SSeriesViewer.html" title="This Service allows to preview the selected series in the Vector. For the moment, it works only on a ..." alt="" coords="1019,1196,1213,1223"/>
+<area shape="rect" id="node33" href="$classvtkSimpleMesh_1_1SSimpleMeshDeformation.html" title="Service used to demonstrate how to deform a mesh. " alt="" coords="1015,1247,1217,1289"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="606,592,749,619"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,541,545,568"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,491,370,517"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,592,352,619"/>
+<area shape="rect" id="node8" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,592,551,619"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,643,557,669"/>
+</map>

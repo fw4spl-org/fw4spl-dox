@@ -1,0 +1,5 @@
+<map id="fwDataTools::helper::MedicalImageAdaptor::sliceIndexToWorld" name="fwDataTools::helper::MedicalImageAdaptor::sliceIndexToWorld">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#a62eb3f511da5d0c686e16fd6b5e5be79" title="Swap the service from associated object to another object. " alt="" coords="211,5,437,46"/>
+<area shape="rect" id="node3" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#aabc635e28a7d8ebb4ca117c1872469f3" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="211,70,437,111"/>
+<area shape="rect" id="node4" href="$classvisuVTKAdaptor_1_1SImage3DCursor.html#a66223e50971644071f4053df2fc2f897" title="Initialize the service activity. " alt="" coords="485,70,712,111"/>
+</map>

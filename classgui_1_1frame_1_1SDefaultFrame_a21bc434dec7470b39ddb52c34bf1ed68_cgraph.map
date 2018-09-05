@@ -1,0 +1,5 @@
+<map id="gui::frame::SDefaultFrame::stopping" name="gui::frame::SDefaultFrame::stopping">
+<area shape="rect" id="node2" href="$classfwGui_1_1IFrameSrv.html#aceb87998135760aa6afe150b846f02b6" title="Stops sub&#45;view, menubar and toobar services. Destroys frame, sub&#45;view, menubar and toolbar containers..." alt="" coords="229,19,405,45"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="453,4,637,60"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="685,11,869,53"/>
+</map>

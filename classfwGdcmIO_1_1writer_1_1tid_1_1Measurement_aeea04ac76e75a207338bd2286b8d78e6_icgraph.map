@@ -1,0 +1,5 @@
+<map id="fwGdcmIO::writer::tid::Measurement::createMeasurement" name="fwGdcmIO::writer::tid::Measurement::createMeasurement">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1writer_1_1tid_1_1Measurement.html#a99bd0f78aa1e4acce1c286cc9a2463ac" title="Create nodes according to the template. " alt="" coords="286,11,477,53"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1writer_1_1tid_1_1MeasurementReport.html#a4d19e873d6dcae893f685c018ca42aa1" title="Create Measurement Report template root node. " alt="" coords="526,4,682,60"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1writer_1_1ie_1_1Document.html#a446e2d2d624adb4dae659f269aac8f21" title="Write SR Document Content Module tags. " alt="" coords="731,4,936,60"/>
+</map>

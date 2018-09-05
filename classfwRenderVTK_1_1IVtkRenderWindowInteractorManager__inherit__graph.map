@@ -1,0 +1,5 @@
+<map id="fwRenderVTK::IVtkRenderWindowInteractorManager" name="fwRenderVTK::IVtkRenderWindowInteractorManager">
+<area shape="rect" id="node4" href="$classfwRenderVTK_1_1OffScreenInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a off screen window. " alt="" coords="693,5,920,46"/>
+<area shape="rect" id="node5" href="$classvisuVTKQt_1_1VtkRenderWindowInteractorManager.html" title="Defines a class to manage vtkRenderWindowInteractor in a window. " alt="" coords="705,70,908,111"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,45,370,72"/>
+</map>

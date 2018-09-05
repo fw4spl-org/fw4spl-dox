@@ -1,0 +1,25 @@
+var classfwGui_1_1registrar_1_1MenuRegistrar =
+[
+    [ "CallbacksType", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a80a777d7c49ee4f493e2d97522a14467", null ],
+    [ "ConfigurationType", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a337e4346626911afa9091bc558359795", null ],
+    [ "SIDMenuMapType", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a55cb4e0c101d8694b17f575e6288f94a", null ],
+    [ "MenuRegistrar", "classfwGui_1_1registrar_1_1MenuRegistrar.html#aa0aeddde8a4f3051e59934ef7322234d", null ],
+    [ "~MenuRegistrar", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a37f83ff87bd6347699571dc482e61dbf", null ],
+    [ "getCallbacks", "classfwGui_1_1registrar_1_1MenuRegistrar.html#aac77128ce0905bd65f6535418b1e9b8e", null ],
+    [ "getClassname", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a7cfcfe5e7e145dd034bd5ca4659bdd8d", null ],
+    [ "getFwMenuItem", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a1159b866d82258af828d6898c9f8768d", null ],
+    [ "getLeafClassname", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a95f8c79169ae09dd521b5253c443d793", null ],
+    [ "getParent", "classfwGui_1_1registrar_1_1MenuRegistrar.html#ae17387609c0c9deba57c597f318e58c6", null ],
+    [ "initialize", "classfwGui_1_1registrar_1_1MenuRegistrar.html#ad2f32915a98c93a48659fe5694225fde", null ],
+    [ "isA", "classfwGui_1_1registrar_1_1MenuRegistrar.html#ae4fdc5c0a228d7b15f24c16defbce4a4", null ],
+    [ "manage", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a34388c35e7775ee3ee093470f411aca6", null ],
+    [ "manage", "classfwGui_1_1registrar_1_1MenuRegistrar.html#adb07bf6ddeaa15158f5b69aeb2e06f21", null ],
+    [ "onItemAction", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a5da7052f6bb0b0142a713f780d2dde9f", null ],
+    [ "unmanage", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a278f864360a0d439620cacad39be5c5d", null ],
+    [ "::fwTools::ClassFactory", "classfwGui_1_1registrar_1_1MenuRegistrar.html#af4437949615e4a65bcdfa6c1aaa22d79", null ],
+    [ "::fwTools::Factory", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a4d73becc8bc0f99d35a21456e559f217", null ],
+    [ "m_actionSids", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a2887770c57c1b708734119fbe29e36ec", null ],
+    [ "m_callbacks", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a5e5bd338ae9c64f94e55e4a9ab18b5ec", null ],
+    [ "m_menuSids", "classfwGui_1_1registrar_1_1MenuRegistrar.html#a5c4f4d4d8423776bc1a4f488a7b95ccd", null ],
+    [ "m_sid", "classfwGui_1_1registrar_1_1MenuRegistrar.html#ae48c27947d919cce927d66dabd28257f", null ]
+];

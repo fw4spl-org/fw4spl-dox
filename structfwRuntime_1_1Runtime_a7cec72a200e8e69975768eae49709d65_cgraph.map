@@ -1,0 +1,13 @@
+<map id="fwRuntime::Runtime::addDefaultBundles" name="fwRuntime::Runtime::addDefaultBundles">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Runtime.html#adfd7ac9087797b44b84746183d00c62a" title="Adds all bundle found in the given path. " alt="" coords="198,70,341,111"/>
+<area shape="rect" id="node10" href="$structfwRuntime_1_1Runtime.html#aa59d063d41bea7337eea47a05014bcac" title="Retrieves the iterator on the begining of the bundle collection. " alt="" coords="198,135,341,177"/>
+<area shape="rect" id="node11" href="$structfwRuntime_1_1Runtime.html#a62246a29a3c7b8c4ae9e3ac1fbf8ceab" title="Retrieves the iterator on the end of the bundle collection. " alt="" coords="198,201,341,242"/>
+<area shape="rect" id="node12" href="$structfwRuntime_1_1Runtime.html#a2e25b8f46a027545165c4af7d6e0f356" title="Get the path where Bundles and share folder are located. " alt="" coords="198,266,341,307"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1Runtime.html#a05bb6b1b92cc6441eb936907ce1de6db" title="Adds a new bundle instance to the runtime system. " alt="" coords="390,70,533,111"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#aa34aae40d9a17530df20e96b80a6dc04" title="Adds a new executable factory instance to the runtime system. " alt="" coords="581,5,741,46"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1Runtime.html#a8e131eebfe20b61b96b34200e20deb8a" title="Registers a new extension. " alt="" coords="590,70,733,111"/>
+<area shape="rect" id="node8" href="$structfwRuntime_1_1Runtime.html#aa5a5a08171483605b6957c25938522b4" title="Registers a new extension point. " alt="" coords="590,135,733,177"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#ac87984cd98e286a26f71a0212bea158d" title="Retrieves the executable factory for the given identifier. " alt="" coords="789,5,949,46"/>
+<area shape="rect" id="node7" href="$structfwRuntime_1_1Runtime.html#a19c3045669f4728f9dbc3aff9dc20b26" title="Retrieves the extension instance matching the specified identifier. " alt="" coords="798,70,941,111"/>
+<area shape="rect" id="node9" href="$structfwRuntime_1_1Runtime.html#a27bf9d08addb51435e096654c099da53" title="Retrieves the extension point instance matching the specified identifier. " alt="" coords="798,135,941,177"/>
+</map>

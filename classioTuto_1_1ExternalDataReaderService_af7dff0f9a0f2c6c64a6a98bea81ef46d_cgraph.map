@@ -1,0 +1,4 @@
+<map id="ioTuto::ExternalDataReaderService::configuring" name="ioTuto::ExternalDataReaderService::configuring">
+<area shape="rect" id="node2" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="238,12,389,39"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="437,12,637,39"/>
+</map>

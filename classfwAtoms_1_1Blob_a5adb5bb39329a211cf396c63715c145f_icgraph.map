@@ -1,0 +1,11 @@
+<map id="fwAtoms::Blob::New" name="fwAtoms::Blob::New">
+<area shape="rect" id="node2" href="$classfwAtoms_1_1Blob.html#af046be994729714e4c47611b6ca24856" title="Returns a clone object. " alt="" coords="225,5,372,32"/>
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1creator_1_1fwMedData_1_1ImageSeries1.html#a1d2d59b6d204d0f88127192c9beb6bf3" title="Creates the specified object (sets &#39;image&#39; attribute) and calls creator &#39;Series1&#39;. " alt="" coords="225,56,372,112"/>
+<area shape="rect" id="node4" href="$classfwAtoms_1_1Blob.html#a16039fd7fe38db0381c1bb3ad42bfaa4" title="create a new Blob shared ptr. " alt="" coords="227,136,370,163"/>
+<area shape="rect" id="node5" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a6c0626726a1a7ea6d86e93509886bb8d" title="Process atom base. " alt="" coords="198,187,399,229"/>
+<area shape="rect" id="node6" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a513ee60f7c2943947f77d71214a3577b" title="Process structural atom object. " alt="" coords="452,64,679,120"/>
+<area shape="rect" id="node8" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a33dbe235559ece16106c531558646257" title="Process contextual atom object. " alt="" coords="448,144,683,200"/>
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad8ced6b1e5871b12510de5d93de38e7c" title="Process atom mapping. " alt="" coords="455,223,675,265"/>
+<area shape="rect" id="node10" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a81996b6b891e6815401d5eebeb0121be" title="Process atom sequence. " alt="" coords="451,289,680,330"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad57aee3bc74dab163987646af744f521" title="Apply the patch to the specified object. " alt="" coords="731,104,911,160"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwJobs::IJob::addCancelHook" name="fwJobs::IJob::addCancelHook">
+<area shape="rect" id="node2" href="$classfwJobs_1_1IJob.html#a88be0f02451117809d391a03e4212ca7" title="Add cancel callback to sequence for cancel hook. " alt="" coords="254,5,493,32"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1helper_1_1DicomSeriesDBWriter.html#acd8cc26478b3748656fae51f6a857207" title="Write the image series in DICOM format. " alt="" coords="268,57,479,98"/>
+<area shape="rect" id="node3" href="$classfwJobs_1_1Observer.html#af59d7ea920f13694184d62bf49e53498" title="Constructor. " alt="" coords="541,5,728,32"/>
+</map>

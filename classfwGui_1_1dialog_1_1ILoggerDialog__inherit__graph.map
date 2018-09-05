@@ -1,0 +1,6 @@
+<map id="fwGui::dialog::ILoggerDialog" name="fwGui::dialog::ILoggerDialog">
+<area shape="rect" id="node5" href="$classfwGui_1_1dialog_1_1LoggerDialog.html" title="ILoggerDialog is used to display a dialog message and a set of logs Use the Delegate design pattern..." alt="" coords="5,320,187,347"/>
+<area shape="rect" id="node6" href="$classfwGuiQt_1_1dialog_1_1LoggerDialog.html" title="LoggerDialog allowing the choice of an element among severals (_selections) " alt="" coords="211,320,407,347"/>
+<area shape="rect" id="node2" href="$classfwGui_1_1GuiBaseObject.html" title="Base class for all fwGui&#39;s classes. " alt="" coords="127,171,279,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="133,96,272,123"/>
+</map>

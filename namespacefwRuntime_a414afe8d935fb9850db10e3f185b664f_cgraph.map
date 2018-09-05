@@ -1,0 +1,6 @@
+<map id="fwRuntime::getAllConfigurationElementsForPoint" name="fwRuntime::getAllConfigurationElementsForPoint">
+<area shape="rect" id="node2" href="$namespacefwRuntime.html#ac4fd0055e73698aab71fb859aac1d01d" title="Retrieves all configuration elements for the point having the specified identifier. " alt="" coords="256,38,459,79"/>
+<area shape="rect" id="node3" href="$namespacefwRuntime.html#a4e8c51fcedecc056867d28ffc974f088" title="Retrieves the extension point having the specified identifier. " alt="" coords="507,38,679,79"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1Runtime.html#a27bf9d08addb51435e096654c099da53" title="Retrieves the extension point instance matching the specified identifier. " alt="" coords="729,5,871,46"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1Runtime.html#acf43340892d940d12b36db78376fe08f" title="Retrieves the default runtime instance. " alt="" coords="729,70,871,111"/>
+</map>

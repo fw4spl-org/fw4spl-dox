@@ -1,0 +1,10 @@
+<map id="fwAtoms::Base" name="fwAtoms::Base">
+<area shape="rect" id="node4" href="$classfwAtoms_1_1Blob.html" title="Representation of a buffer. " alt="" coords="595,5,703,32"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1Boolean.html" title="Represented a Boolean value. " alt="" coords="585,56,714,83"/>
+<area shape="rect" id="node6" href="$classfwAtoms_1_1Map.html" title="Map is a container for mapping representation. " alt="" coords="596,107,703,133"/>
+<area shape="rect" id="node7" href="$classfwAtoms_1_1Numeric.html" title="Storing a numeric value. " alt="" coords="584,157,715,184"/>
+<area shape="rect" id="node8" href="$classfwAtoms_1_1Object.html" title="Class represented a fwData::Object. " alt="" coords="589,208,709,235"/>
+<area shape="rect" id="node9" href="$classfwAtoms_1_1Sequence.html" title="Sequence represented a list of meta object. " alt="" coords="579,259,719,285"/>
+<area shape="rect" id="node10" href="$classfwAtoms_1_1String.html" title="Class represented a String. " alt="" coords="591,309,707,336"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,157,370,184"/>
+</map>

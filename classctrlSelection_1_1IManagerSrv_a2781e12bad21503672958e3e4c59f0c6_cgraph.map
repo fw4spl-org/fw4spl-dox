@@ -1,0 +1,11 @@
+<map id="ctrlSelection::IManagerSrv::manageProxies" name="ctrlSelection::IManagerSrv::manageProxies">
+<area shape="rect" id="node2" href="$classfwServices_1_1helper_1_1Config.html#a69b941e2a568b8072896c3070ce3a5d9" title="Parses &quot;&lt;proxy&gt;&quot; tags from given configuration to connect signals and slots using proxies..." alt="" coords="229,169,376,210"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1registry_1_1Proxy.html#a375228f6d08c2c5454349d91a22443ef" title="Returns an instance of Proxy. " alt="" coords="468,5,607,46"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1ConfigurationElement.html#a88135ac84e61d7b460ede00a27b9cc6b" title="Tells if the specified attributes exists. " alt="" coords="452,70,623,111"/>
+<area shape="rect" id="node5" href="$structfwRuntime_1_1ConfigurationElement.html#a6fb9bbd034350ef9fddd427a06d2b3fc" title="Retrieves the value of an attribute for the specified name. " alt="" coords="425,135,650,177"/>
+<area shape="rect" id="node6" href="$structfwRuntime_1_1ConfigurationElementContainer.html#ada9c86a62b6a940936827606c264c371" title="Returns the configuration element container. " alt="" coords="434,201,641,242"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html#a49c219235064892bb906498913fe8175" title="Retrieve the object attached to the given id. Return a null sptr if no correspondence exist..." alt="" coords="453,267,621,293"/>
+<area shape="rect" id="node8" href="$classfwTools_1_1fwID.html#a387264565a48b0231a7eefb7b01512a1" title="Returns the id of the object. If it is not set and the policy value is. " alt="" coords="465,317,609,344"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html#a03d6d0e2227b51a0630e145911445213" title="return full object&#39;s classname with its namespace, i.e. fwCore::BaseObject " alt="" coords="699,292,895,319"/>
+<area shape="rect" id="node10" href="$classfwTools_1_1fwID.html#a4ac18bb9c046c3fd04a4c8a80add7ae6" title="fwTools::fwID::exist" alt="" coords="727,343,867,369"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="visuVTKAdaptor::SImagesProbeCursor::configuring" name="visuVTKAdaptor::SImagesProbeCursor::configuring">
+<area shape="rect" id="node2" href="$classvisuVTKAdaptor_1_1SProbeCursor.html#a75a463a1ef53c73229141181263ad5ff" title="Configure the service before starting. Apply the configuration to service. " alt="" coords="265,5,471,46"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="297,70,439,111"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="521,70,663,111"/>
+</map>

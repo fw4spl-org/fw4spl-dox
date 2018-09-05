@@ -1,0 +1,6 @@
+<map id="fwGdcmIO::helper::DicomSeries::createPatient" name="fwGdcmIO::helper::DicomSeries::createPatient">
+<area shape="rect" id="node2" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a89504e1495783d55c26866c5abf797aa" title="Fill series with information contained in first instance. " alt="" coords="264,38,475,79"/>
+<area shape="rect" id="node3" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a83626af6e5f6ad535b6a4220990bbac4" title="Read DicomSeries from paths. " alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node5" href="$classfwGdcmIO_1_1helper_1_1DicomSeries.html#a9befa1c20e389e64ad5245e358ea39f0" title="Fill DicomSeries information for series generated using DICOMDIR helper. " alt="" coords="523,70,733,111"/>
+<area shape="rect" id="node4" href="$classfwGdcmIO_1_1reader_1_1SeriesDB.html#aabe80c25aa9cbd0220173573c7d24634" title="Reads DICOM data from configured path and fills SeriesDB object with DicomSeries. ..." alt="" coords="782,38,957,79"/>
+</map>

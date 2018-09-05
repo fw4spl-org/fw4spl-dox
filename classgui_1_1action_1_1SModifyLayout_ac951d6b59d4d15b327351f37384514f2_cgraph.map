@@ -1,0 +1,4 @@
+<map id="gui::action::SModifyLayout::configuring" name="gui::action::SModifyLayout::configuring">
+<area shape="rect" id="node2" href="$classfwGui_1_1IActionSrv.html#aff17458150297ada203c39103fab6464" title="Initialize the action. " alt="" coords="232,5,365,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1IActionSrv.html#a1678ee0448db8d8631286232eca3cec1" title="Returns true if action is visible. " alt="" coords="232,70,365,111"/>
+</map>

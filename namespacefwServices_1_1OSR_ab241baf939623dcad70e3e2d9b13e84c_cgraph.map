@@ -1,0 +1,5 @@
+<map id="fwServices::OSR::unregisterService" name="fwServices::OSR::unregisterService">
+<area shape="rect" id="node2" href="$namespacefwServices_1_1OSR.html#ab7ee0e21eec493836a2c1349e708302b" title="Return the object pointer of a key of a given service. " alt="" coords="243,5,456,32"/>
+<area shape="rect" id="node3" href="$namespacefwServices_1_1OSR.html#a317c6679a1d04dd53de7a910e0319009" title="Return true if a key is registered for a given service. " alt="" coords="247,56,452,83"/>
+<area shape="rect" id="node4" href="$namespacefwServices_1_1OSR.html#aadc2d062d6b40b07bfc524b4a20463be" title="Emit the signal &#39;unregistered&#39;. " alt="" coords="255,107,444,149"/>
+</map>

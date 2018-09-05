@@ -1,0 +1,7 @@
+<map id="ioVTK::SModelSeriesObjWriter::configuring" name="ioVTK::SModelSeriesObjWriter::configuring">
+<area shape="rect" id="node2" href="$classfwIO_1_1IWriter.html#aa3e81b559454416b55adebd5d1f0cdc8" title="This method proposes to parse xml configuration to retrieve file/files/folder paths. " alt="" coords="256,52,424,79"/>
+<area shape="rect" id="node3" href="$classfwIO_1_1IWriter.html#a3fe9198778ecfd870ad2cf6c657f1b40" title="This method must be implemented by concrete service writers that use path file system to write data..." alt="" coords="681,52,874,79"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IWriter.html#a759ceb013ed71cd601eb7fcecf2d35c3" title="Sets file path. " alt="" coords="480,27,624,53"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IWriter.html#acd4ff805b5d059ac7080ffc8fe5e2090" title="Sets file paths. " alt="" coords="477,77,627,104"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IWriter.html#aeacdb89bb13c1a492270ccd60d96b6d5" title="Sets folder path. " alt="" coords="473,128,631,155"/>
+</map>

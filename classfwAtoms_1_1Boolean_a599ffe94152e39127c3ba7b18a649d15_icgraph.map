@@ -1,0 +1,13 @@
+<map id="fwAtoms::Boolean::New" name="fwAtoms::Boolean::New">
+<area shape="rect" id="node2" href="$classfwMDSemanticPatch_1_1V09ALA_1_1V10_1_1fwData_1_1Image.html#a5bfc697f0691316b00f4229b1da065ef" title="Applies patch. " alt="" coords="243,5,397,61"/>
+<area shape="rect" id="node3" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V4ToV3.html#aeae180465defbeab99a35c352ec36be1" title="Applies patch. " alt="" coords="233,85,407,141"/>
+<area shape="rect" id="node4" href="$classfwStructuralPatch_1_1fwData_1_1Material_1_1V2ToV3.html#a00e08ebb658145cbc8303e06fd254a1e" title="Applies patch. " alt="" coords="233,165,407,221"/>
+<area shape="rect" id="node5" href="$classfwAtoms_1_1Boolean.html#a21ccd89de0367bb7cadd619daf92f724" title="Returns a clone object. " alt="" coords="236,245,404,272"/>
+<area shape="rect" id="node6" href="$classfwAtoms_1_1Boolean.html#a543c61c58581d50f16b16301aa5f44f5" title="Construct an object storing a bool value. " alt="" coords="238,296,402,323"/>
+<area shape="rect" id="node7" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a6c0626726a1a7ea6d86e93509886bb8d" title="Process atom base. " alt="" coords="219,347,421,389"/>
+<area shape="rect" id="node8" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a513ee60f7c2943947f77d71214a3577b" title="Process structural atom object. " alt="" coords="473,224,700,280"/>
+<area shape="rect" id="node10" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a33dbe235559ece16106c531558646257" title="Process contextual atom object. " alt="" coords="469,304,704,360"/>
+<area shape="rect" id="node11" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad8ced6b1e5871b12510de5d93de38e7c" title="Process atom mapping. " alt="" coords="477,383,697,425"/>
+<area shape="rect" id="node12" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#a81996b6b891e6815401d5eebeb0121be" title="Process atom sequence. " alt="" coords="472,449,701,490"/>
+<area shape="rect" id="node9" href="$classfwAtomsPatch_1_1patcher_1_1DefaultPatcher.html#ad57aee3bc74dab163987646af744f521" title="Apply the patch to the specified object. " alt="" coords="753,264,933,320"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fwActivities::IBuilder" name="fwActivities::IBuilder">
+<area shape="rect" id="node4" href="$classfwActivities_1_1builder_1_1ActivitySeries.html" title="Defines the default builder for the data ActivitySeries. " alt="" coords="24,246,159,287"/>
+<area shape="rect" id="node2" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+<area shape="rect" id="node5" href="$classfwActivities_1_1builder_1_1ActivitySeriesInitData.html" title="Defines an activity builder which instanciates a new requirement if minOccurs and maxOccurs are set t..." alt="" coords="13,337,171,378"/>
+</map>

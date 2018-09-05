@@ -1,0 +1,7 @@
+<map id="fwDataTools::helper::Vector::remove" name="fwDataTools::helper::Vector::remove">
+<area shape="rect" id="node2" href="$classuiMedDataQt_1_1editor_1_1SSelector.html#a98fdedeb357cc019a27accb9b9ef75ec" title="Manages the selection vector according to selection/deselection. " alt="" coords="192,5,389,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#a1425e4ef3147419005084b9262f87d2d" title="Removes the object from the composite at the key given by config. " alt="" coords="212,70,369,111"/>
+<area shape="rect" id="node6" href="$classctrlSelection_1_1SManage.html#ac27363f7010953aa353b9340457664c8" title="Removes the object from the composite at the key given by config if it is present. " alt="" coords="212,135,369,177"/>
+<area shape="rect" id="node3" href="$classuiMedDataQt_1_1editor_1_1SSelector.html#addc01900abb159bc6a8a72194a7ed1f8" title="Installs GUI : create container and add selector. " alt="" coords="447,5,585,46"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="437,102,595,143"/>
+</map>

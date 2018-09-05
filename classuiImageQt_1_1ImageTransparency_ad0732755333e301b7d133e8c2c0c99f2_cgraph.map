@@ -1,0 +1,5 @@
+<map id="uiImageQt::ImageTransparency::updating" name="uiImageQt::ImageTransparency::updating">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="278,5,445,61"/>
+<area shape="rect" id="node3" href="$classuiImageQt_1_1ImageTransparency.html#a9cbd43b9f01f3d22c0ba973fef84f803" title="This method is called when the transparency value change moving slider. " alt="" coords="259,85,464,126"/>
+<area shape="rect" id="node4" href="$classuiImageQt_1_1ImageTransparency.html#aef44e0ed3bb6a67f20c24bbd059f73fe" title="This method is called when the visibility value change using action shortcut. " alt="" coords="259,150,464,191"/>
+</map>

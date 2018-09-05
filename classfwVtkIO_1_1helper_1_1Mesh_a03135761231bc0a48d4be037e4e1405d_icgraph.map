@@ -1,0 +1,14 @@
+<map id="fwVtkIO::helper::Mesh::updatePolyDataCellTexCoords" name="fwVtkIO::helper::Mesh::updatePolyDataCellTexCoords">
+<area shape="rect" id="node2" href="$classfwVtkIO_1_1helper_1_1Mesh.html#aa8f409baff52f2a52ec44ed91c21d54e" title="Convert a ::fwData::Mesh::csptr to a vtkPolyData. " alt="" coords="271,266,425,307"/>
+<area shape="rect" id="node13" href="$classvisuVTKAdaptor_1_1SMesh.html#abe8252b57fa33c8851e703c3812ff360" title="Slot: used to update cell tex coords. " alt="" coords="265,331,431,373"/>
+<area shape="rect" id="node3" href="$classfwVtkIO_1_1helper_1_1Mesh.html#a218b2e84b2b5d0b848eeb27664802430" title="Compute the volume of the mesh using MassProperties vtk class. " alt="" coords="534,5,687,46"/>
+<area shape="rect" id="node4" href="$classvtkSimpleMesh_1_1SRenderer.html#adcc2173edd3798b5a768f4054be9c605" title="This method is used to notify that the VTK camera position is updated. " alt="" coords="517,70,704,111"/>
+<area shape="rect" id="node5" href="$classvisuVTKAdaptor_1_1SMeshesBoxWidget.html#a9fa568865aeee70d139fc9299928519c" title="Updates map from composite meshes. " alt="" coords="481,135,741,177"/>
+<area shape="rect" id="node6" href="$classvisuVTKAdaptor_1_1SMesh.html#afa30a4116249cb3436ccef9a90917005" title="Creates normals adaptor if material has NORMALS, else remove normals adaptor. " alt="" coords="527,201,694,242"/>
+<area shape="rect" id="node7" href="$classvtkCompositeMesh_1_1RendererService.html#a5d2cfe551a042579b3a1c7a0c251d6e5" title="Updating method. " alt="" coords="513,266,709,307"/>
+<area shape="rect" id="node8" href="$classvisuVTKAdaptor_1_1SMeshNormals.html#aeff92f62995db8c6eec18f8654d64b83" title="Perform some computations according to object (this service is attached to) attribute values and its ..." alt="" coords="503,331,718,373"/>
+<area shape="rect" id="node10" href="$classvtkSimpleMesh_1_1SRenderer.html#a1cdf4eaf2b2991fc9ea72282cd77840b" title="Updating method. " alt="" coords="519,397,702,438"/>
+<area shape="rect" id="node11" href="$classfwVtkIO_1_1MeshWriter.html#a1e418f7423a0fff0e17ff13d3ed9b322" title="Reading operator. " alt="" coords="538,462,683,503"/>
+<area shape="rect" id="node12" href="$classfwVtkIO_1_1ModelSeriesObjWriter.html#a21ff94e553dd9c4476d4eb3bb08fba7f" title="Destructor. " alt="" coords="508,527,713,569"/>
+<area shape="rect" id="node9" href="$classvisuVTKAdaptor_1_1SMeshNormals.html#a0ff346ed8a40435425baac50a2262154" title="Initialize the service activity. " alt="" coords="790,331,1005,373"/>
+</map>

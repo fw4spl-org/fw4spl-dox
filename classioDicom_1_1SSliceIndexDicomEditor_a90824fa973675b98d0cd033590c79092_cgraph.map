@@ -1,0 +1,11 @@
+<map id="ioDicom::SSliceIndexDicomEditor::displayErrorMessage" name="ioDicom::SSliceIndexDicomEditor::displayErrorMessage">
+<area shape="rect" id="node2" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a0fd1de2703432a2181724b7bdaa26cfd" title="Add a button (OK, YES_NO, YES, NO, CANCEL) " alt="" coords="487,5,683,46"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a9dbf39afc43907c712116b7fc5311ec6" title="Set the icon (CRITICAL, WARNING, INFO or QUESTION) " alt="" coords="487,70,683,111"/>
+<area shape="rect" id="node4" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a6d27474cbd9bac68c7103295d0eaa28e" title="Set the message. " alt="" coords="241,129,437,170"/>
+<area shape="rect" id="node8" href="$classfwGui_1_1dialog_1_1MessageDialog.html#a3cf63b33285399c6249b0f7e087ba935" title="Set the title of the message box. " alt="" coords="241,194,437,235"/>
+<area shape="rect" id="node9" href="$classfwGui_1_1dialog_1_1MessageDialog.html#acb5a5e63ec47bb74c2c3136922a3a112" title="Show the message box and return the clicked button. " alt="" coords="241,259,437,301"/>
+<area shape="rect" id="node5" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#aae9d40e1fe222f0d14ac8284d3abf83c" title="Get the default registered worker. " alt="" coords="493,200,677,256"/>
+<area shape="rect" id="node7" href="$classfwGui_1_1dialog_1_1MessageDialog.html#ad415a257e60d23427dbfdd5e151af61b" title="Set the default button. " alt="" coords="487,135,683,177"/>
+<area shape="rect" id="node6" href="$classfwServices_1_1registry_1_1ActiveWorkers.html#a96003a042657996f7297f459e927ae16" title="Returns an instance of ActiveWorkers. " alt="" coords="733,207,917,249"/>
+<area shape="rect" id="node10" href="$classfwGui_1_1dialog_1_1IMessageDialog.html#a3aafce0bcfa0fa0da4b5114ff798ddd7" title="Show the message box and return the clicked button. " alt="" coords="485,279,685,321"/>
+</map>

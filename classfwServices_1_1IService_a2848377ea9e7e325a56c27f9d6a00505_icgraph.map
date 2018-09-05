@@ -1,0 +1,8 @@
+<map id="fwServices::IService::isStarted" name="fwServices::IService::isStarted">
+<area shape="rect" id="node2" href="$classctrlSelection_1_1SManage.html#a81203ccd7908594a55b61b9e58bb6d5c" title="Adds or swap the object into the composite with the key given by config. " alt="" coords="197,5,355,46"/>
+<area shape="rect" id="node4" href="$classctrlSelection_1_1SManage.html#ae27770ebd3b91efc7ffdc57e9f6e5ff9" title="Removes all objects. " alt="" coords="197,70,355,111"/>
+<area shape="rect" id="node5" href="$classctrlSelection_1_1SManage.html#a1425e4ef3147419005084b9262f87d2d" title="Removes the object from the composite at the key given by config. " alt="" coords="197,135,355,177"/>
+<area shape="rect" id="node6" href="$classctrlSelection_1_1SManage.html#ac27363f7010953aa353b9340457664c8" title="Removes the object from the composite at the key given by config if it is present. " alt="" coords="197,201,355,242"/>
+<area shape="rect" id="node7" href="$classctrlSelection_1_1SManage.html#a82717b3f2537949420592fb4abc5afc5" title="Swaps the object into the composite with the key given by config. " alt="" coords="197,266,355,307"/>
+<area shape="rect" id="node3" href="$classctrlSelection_1_1SManage.html#a3c93b4791fce088abc92f07f8c0908af" title="Constructor. Do nothing. " alt="" coords="403,135,560,177"/>
+</map>

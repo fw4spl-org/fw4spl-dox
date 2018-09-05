@@ -1,0 +1,22 @@
+<map id="fwRenderQt::IAdaptor" name="fwRenderQt::IAdaptor">
+<area shape="rect" id="node10" href="$classscene2D_1_1adaptor_1_1SAxis.html" title="Render an axis on the scene2d. " alt="" coords="1012,5,1180,32"/>
+<area shape="rect" id="node11" href="$classscene2D_1_1adaptor_1_1SCurvedHistogram.html" title="IAdaptor implementation for histogram data. " alt="" coords="1004,57,1188,98"/>
+<area shape="rect" id="node12" href="$classscene2D_1_1adaptor_1_1SGrid2D.html" title="Render grid on the scene2d. " alt="" coords="1005,123,1187,149"/>
+<area shape="rect" id="node13" href="$classscene2D_1_1adaptor_1_1SHistogram.html" title="IAdaptor implementation for histogram data. " alt="" coords="995,173,1197,200"/>
+<area shape="rect" id="node14" href="$classscene2D_1_1adaptor_1_1SHistogramCursor.html" title="IAdaptor implementation to show a cursor on histogram pointed by mouse. " alt="" coords="995,225,1197,266"/>
+<area shape="rect" id="node15" href="$classscene2D_1_1adaptor_1_1SHistogramValue.html" title="IAdaptor implementation to show the histogram values clicked by mouse. " alt="" coords="995,290,1197,331"/>
+<area shape="rect" id="node16" href="$classscene2D_1_1adaptor_1_1SLine.html" title="Line adaptor. Draw a line on the scene2D. " alt="" coords="1013,356,1179,383"/>
+<area shape="rect" id="node17" href="$classscene2D_1_1adaptor_1_1SNegato.html" title="IAdaptor implementation to display one slice of an image. " alt="" coords="1004,407,1188,433"/>
+<area shape="rect" id="node18" href="$classscene2D_1_1adaptor_1_1SScaleValues.html" title="SScaleValues adaptor. Display values and units on the axis. " alt="" coords="1009,458,1183,499"/>
+<area shape="rect" id="node19" href="$classscene2D_1_1adaptor_1_1SSquare.html" title="Create a square on the scene2D. " alt="" coords="1005,524,1187,551"/>
+<area shape="rect" id="node20" href="$classscene2D_1_1adaptor_1_1STransferFunction.html" title="IAdaptor implementation to display a transfer function. " alt="" coords="1001,575,1191,617"/>
+<area shape="rect" id="node21" href="$classscene2D_1_1adaptor_1_1SViewportInteractor.html" title="Adaptor implementation that manages the camera on the view. " alt="" coords="999,641,1193,682"/>
+<area shape="rect" id="node22" href="$classscene2D_1_1adaptor_1_1SViewportRangeSelector.html" title="The viewport range selector adaptor allows to select a delimited range of a viewport. It uses a graphical delimiter (called shutter) that can be moved from both left to right and right to left directions (in those cases, shutter&#39;s width is changing). " alt="" coords="999,706,1193,747"/>
+<area shape="rect" id="node23" href="$classscene2D_1_1adaptor_1_1SViewportUpdater.html" title="Adaptor implementation that manages the camera on the view (by updating the viewport object)..." alt="" coords="999,771,1193,813"/>
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="606,381,749,408"/>
+<area shape="rect" id="node3" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="431,331,545,357"/>
+<area shape="rect" id="node4" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="230,280,370,307"/>
+<area shape="rect" id="node7" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="248,381,352,408"/>
+<area shape="rect" id="node8" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="425,381,551,408"/>
+<area shape="rect" id="node9" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="419,432,557,459"/>
+</map>

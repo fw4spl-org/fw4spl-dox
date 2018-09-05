@@ -1,0 +1,17 @@
+<map id="visuVTKAdaptor::SSliceFollowerCamera::stopping" name="visuVTKAdaptor::SSliceFollowerCamera::stopping">
+<area shape="rect" id="node2" href="$classfwDataTools_1_1fieldHelper_1_1MedicalImageHelpers.html#a1aa6e7bebb9f96a8e60a14aecc352e99" title="Check if the image is valid. " alt="" coords="271,37,438,93"/>
+<area shape="rect" id="node3" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aead16d097e8fb6f55f4eee7102177e60" title="Get the slice center. " alt="" coords="275,168,434,224"/>
+<area shape="rect" id="node5" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a1afbc74845a81ad7a6ac212e6dddbc1f" title="Get the image origin. " alt="" coords="494,5,650,61"/>
+<area shape="rect" id="node6" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a5fcb61afb3b3cf72cf8073d8f0d41497" title="Get the image size ( = dataSize * spacing ). " alt="" coords="494,267,650,323"/>
+<area shape="rect" id="node9" href="$classfwRenderVTK_1_1IAdaptor.html#a2865c053e101328ca2cf3ca8306d4d10" title="Returns the renderer. " alt="" coords="274,299,435,341"/>
+<area shape="rect" id="node10" href="$classfwRenderVTK_1_1IAdaptor.html#a46ef60802ac6cd7002a6199512963775" title="notify a render request iff vtkPipeline is modified " alt="" coords="274,365,435,406"/>
+<area shape="rect" id="node14" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a2f7517555c684a7e64eb1aa16df5fffb" title="Set the image orientation. " alt="" coords="277,429,433,485"/>
+<area shape="rect" id="node15" href="$classfwRenderVTK_1_1IAdaptor.html#a0fd9eb8ee07f2e7d53b27c6bbe8994eb" title="End&#45;user have to call this method when a vtk structure has been modified, thus a render request will ..." alt="" coords="273,509,436,550"/>
+<area shape="rect" id="node16" href="$classfwServices_1_1IHasServices.html#af47c97bc9b450e0e8efab7c7db437b76" title="Unregister all services linked to this service, optionally matches only a given type of services..." alt="" coords="267,574,442,615"/>
+<area shape="rect" id="node4" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#aa37e3405cfdf002a1e6967b5d3daf05f" title="Return the image. " alt="" coords="907,104,1063,160"/>
+<area shape="rect" id="node7" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#a7e86c6ebadbb341c12b45dce752e4826" title="Get the image spacing. " alt="" coords="702,136,858,192"/>
+<area shape="rect" id="node8" href="$classfwDataTools_1_1helper_1_1MedicalImageAdaptor.html#ab067dccf873aac803ab5cb21a092466c" title="Get the slice index. " alt="" coords="494,187,650,243"/>
+<area shape="rect" id="node11" href="$classfwRenderVTK_1_1IAdaptor.html#a908f43b79c3c619e7e56cd4b5a08dd79" title="Returd the associated render service. " alt="" coords="491,477,653,518"/>
+<area shape="rect" id="node12" href="$classfwServices_1_1IService.html#a7284059e3031206537f48fa53a7e89d0" title="Return the global process status. " alt="" coords="501,346,643,387"/>
+<area shape="rect" id="node13" href="$classfwRenderVTK_1_1IAdaptor.html#a40e8583048160a35d175fdfe6c081881" title="Returns true if the service automatically triggers the rendering. " alt="" coords="491,411,653,453"/>
+</map>

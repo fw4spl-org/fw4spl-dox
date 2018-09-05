@@ -1,0 +1,16 @@
+<map id="guiQt::editor::SActivityView" name="guiQt::editor::SActivityView">
+<area shape="rect" id="node2" href="$classfwGui_1_1view_1_1IActivityView.html" title="Defines the base class for services displaying activity view. " alt="" coords="2104,111,2280,137"/>
+<area shape="rect" id="node3" href="$classfwGui_1_1IGuiContainerSrv.html" title="Defines the service interface managing the layout. " alt="" coords="1889,196,2053,223"/>
+<area shape="rect" id="node4" href="$classfwServices_1_1IService.html" title="Base class for all services. " alt="" coords="1493,345,1635,372"/>
+<area shape="rect" id="node5" href="$classfwTools_1_1Object.html" title="Define Base class for FW4SPL objects and services. " alt="" coords="1177,340,1292,367"/>
+<area shape="rect" id="node6" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="913,312,1053,339"/>
+<area shape="rect" id="node9" href="$classfwTools_1_1fwID.html" title="Defines ID for fwTools::Object. It is used to associate ID with object. " alt="" coords="931,261,1035,288"/>
+<area shape="rect" id="node10" href="$classfwCom_1_1HasSlots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="1171,239,1298,265"/>
+<area shape="rect" id="node11" href="$classfwCom_1_1Slots.html" title="This class proposes a mapping between a SlotKeyType and a SlotBase. " alt="" coords="931,211,1034,237"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="261,212,341,239"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="6,205,133,246"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="240,375,363,401"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="415,464,531,491"/>
+<area shape="rect" id="node18" href="$classfwCom_1_1HasSignals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="1165,412,1304,439"/>
+<area shape="rect" id="node19" href="$classfwCom_1_1Signals.html" title="This class proposes a mapping between a SignalKeyType and a SignalBase. " alt="" coords="925,413,1040,440"/>
+</map>

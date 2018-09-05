@@ -1,0 +1,4 @@
+<map id="fwThread::WorkerAsio" name="fwThread::WorkerAsio">
+<area shape="rect" id="node2" href="$classfwThread_1_1Worker.html" title="This class creates and manages a task loop. The default implementation create a loop in a new thread..." alt="" coords="29,171,155,197"/>
+<area shape="rect" id="node3" href="$classfwCore_1_1BaseObject.html" title="Base class for all FW4SPL&#39;s classes. " alt="" coords="22,96,161,123"/>
+</map>

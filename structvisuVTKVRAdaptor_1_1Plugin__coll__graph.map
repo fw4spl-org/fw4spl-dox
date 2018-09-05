@@ -1,0 +1,5 @@
+<map id="visuVTKVRAdaptor::Plugin" name="visuVTKVRAdaptor::Plugin">
+<area shape="rect" id="node2" href="$structfwRuntime_1_1Plugin.html" title="Provides a default plugin implementation. " alt="" coords="30,155,159,181"/>
+<area shape="rect" id="node3" href="$structfwRuntime_1_1IPlugin.html" title="Defines the plugin interface. " alt="" coords="28,80,161,107"/>
+<area shape="rect" id="node4" href="$structfwRuntime_1_1IExecutable.html" title="Defines the base executable interface.An executable object is an instance created by an extension poi..." alt="" coords="13,5,176,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fwIO::IReader::configuring" name="fwIO::IReader::configuring">
+<area shape="rect" id="node2" href="$classfwServices_1_1IService.html#a25c0048bcdd35e4453d3d418db22b78f" title="Return the configuration, in an boost property tree. " alt="" coords="242,5,385,46"/>
+<area shape="rect" id="node4" href="$classfwIO_1_1IReader.html#a43c81518d1a068b245d853f71cb406f0" title="This method must be implemented by concrete service readers that use path file system to read data..." alt="" coords="445,147,645,173"/>
+<area shape="rect" id="node5" href="$classfwIO_1_1IReader.html#aee6fcc4735a644ab4aff652317b8aea7" title="Sets file path. " alt="" coords="238,121,389,148"/>
+<area shape="rect" id="node6" href="$classfwIO_1_1IReader.html#ae0257a1f040382abb71da2481d1411b8" title="Sets file paths. " alt="" coords="234,172,393,199"/>
+<area shape="rect" id="node7" href="$classfwIO_1_1IReader.html#a96c435e1ac3db3eb513f9f2667ca497a" title="Sets folder path. " alt="" coords="230,223,397,249"/>
+<area shape="rect" id="node3" href="$classfwServices_1_1IService.html#a21ea949603d87785b9a62522d98e2d8c" title="Return the configuration, in an xml format read using runtime library. " alt="" coords="474,5,617,46"/>
+</map>
